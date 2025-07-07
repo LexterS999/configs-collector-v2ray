@@ -1,2 +1,2 @@
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@119.203.202.120:12226?type=ws&security=none#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 119.203.202.120
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@14.47.11.69:12349?type=ws&security=none#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 14.47.11.69
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@119.203.202.120:12226?type=ws&security=none#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 119.203.202.120

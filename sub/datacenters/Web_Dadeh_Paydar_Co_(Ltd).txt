@@ -1,9 +1,10 @@
-vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@fr1vip.vnetplus.click:19094?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.132
-vless://d2275c3e-5aea-4083-a886-c330f22d5e21@193.24.103.178:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.178
-vless://d2275c3e-5aea-4083-a886-c330f22d5e21@193.24.103.181:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.181
 vless://d2275c3e-5aea-4083-a886-c330f22d5e21@193.24.103.179:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.179
-vless://d2275c3e-5aea-4083-a886-c330f22d5e21@193.24.103.180:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.180
-vless://c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@de.crocodilserver.top:9005?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 88.135.72.84
-vless://d2275c3e-5aea-4083-a886-c330f22d5e21@193.24.103.183:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.183
+vless://d2275c3e-5aea-4083-a886-c330f22d5e21@base.apkfa.com:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.180
+vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@fr1vip.vnetplus.click:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.134
+vless://d2275c3e-5aea-4083-a886-c330f22d5e21@193.24.103.178:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.178
 vless://d2275c3e-5aea-4083-a886-c330f22d5e21@193.24.103.182:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.182
-vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@fr1vip.vnetplus.click:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.132
+vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@fr1vip.vnetplus.click:19094?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.134
+vless://c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@de.crocodilserver.top:9005?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 88.135.72.84
+vless://d2275c3e-5aea-4083-a886-c330f22d5e21@193.24.103.181:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.181
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFdlYiBEYWRlaCBQYXlkYXIgQ28gKEx0ZCkgXHUyNTA3IDkxLjIxMi4yMzIuMTI0IiwiYWRkIjoiOTEuMjEyLjIzMi4xMjQiLCJwb3J0Ijo0NTAzNywiaWQiOiIxNzVmYzVlMy0zZTY1LTQxZDEtYWEyNy1iNzg0MmVlM2Q4YjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://d2275c3e-5aea-4083-a886-c330f22d5e21@193.24.103.183:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.183

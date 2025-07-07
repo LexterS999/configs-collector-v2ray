@@ -1,3 +1,4 @@
 vless://83754396-4fb9-11f0-92cc-3fe03963269e@181.215.205.227:10004?type=ws&security=none&path=/vpnjantit#AE 🇦🇪 ┇ VLESS-WS-NTLS - ZEN-ECN ┇ 181.215.205.227
 vless://turboo-server@fn.turbooserver.ir:8080?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 104.166.166.138
+vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gWkVOLUVDTiBcdTI1MDcgOTguOTguMjUzLjM1IiwiYWRkIjoid2ViLjUxLmxhIiwicG9ydCI6NDQzLCJpZCI6ImUwYzZiM2I3LTlmNWItNGJkNi05YWJmLTI2MDY2M2FhNGYxYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsImhvc3QiOiJ3ZWIuNTEubGEiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3ZWIuNTEubGEifQ
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@128.14.140.2:55555?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - ZEN-ECN ┇ 128.14.140.2

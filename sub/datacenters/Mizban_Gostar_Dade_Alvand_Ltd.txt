@@ -1,0 +1,1 @@
+vless://787b92f8-05b1-4aef-8f65-b79891f7f8e8@alpha2.nilistore.fun:3343?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Gostar Dade Alvand Ltd ┇ 88.135.75.222

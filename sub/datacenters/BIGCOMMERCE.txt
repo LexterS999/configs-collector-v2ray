@@ -1,11 +1,12 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@63.141.128.213:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.213
-vless://cb8ba2f8-9541-419e-bf21-795111e5f551@192.200.160.17:8880?type=httpupgrade&security=none&path=/2048#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - BIGCOMMERCE ┇ 192.200.160.17
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.200.160.20:8880?type=ws&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.20
-vless://1afc6dc5-17d5-4f75-b0cd-4480a819a07c@63.141.128.17:2086?type=httpupgrade&security=none&path=/?ed=8880#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - BIGCOMMERCE ┇ 63.141.128.17
+vless://0fcc7218-088a-4914-8a35-44d2a3439de8@63.141.128.17:2095?type=httpupgrade&security=none&path=/telegram-mDaltoon,NGV2ray?ed=2048#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - BIGCOMMERCE ┇ 63.141.128.17
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.200.160.213:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.213
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@192.200.160.254:8880?type=ws&security=none&path=/Telegram🇨🇳#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.254
+vless://cb8ba2f8-9541-419e-bf21-795111e5f551@192.200.160.17:8880?type=httpupgrade&security=none&path=/2048#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - BIGCOMMERCE ┇ 192.200.160.17
+vless://1afc6dc5-17d5-4f75-b0cd-4480a819a07c@63.141.128.17:2086?type=httpupgrade&security=none&path=/?ed=8880#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - BIGCOMMERCE ┇ 63.141.128.17
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@192.200.160.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.251
+vless://77b9aa49-1259-4055-ad11-1378ffff611e@192.200.160.17:2095?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - BIGCOMMERCE ┇ 192.200.160.17
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@63.141.128.213:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.213
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@63.141.128.251:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.251
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@63.141.128.254:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 63.141.128.254
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.200.160.213:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - BIGCOMMERCE ┇ 192.200.160.213
-vless://0fcc7218-088a-4914-8a35-44d2a3439de8@63.141.128.17:2095?type=httpupgrade&security=none&path=/telegram-mDaltoon,NGV2ray?ed=2048#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - BIGCOMMERCE ┇ 63.141.128.17
-vless://77b9aa49-1259-4055-ad11-1378ffff611e@192.200.160.17:2095?type=httpupgrade&security=none&path=/#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - BIGCOMMERCE ┇ 192.200.160.17
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCSUdDT01NRVJDRSBcdTI1MDcgMTkyLjIwMC4xNjAuMjE0IiwiYWRkIjoiMTkyLjIwMC4xNjAuMjE0IiwicG9ydCI6NDQzLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9

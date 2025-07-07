@@ -1,1 +1,2 @@
-vless://0644e8af-5ca7-4f63-b0e3-6f9c8917290a@free-gb.vpnkey.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - Clouvider Limited ┇ 85.239.60.43
+vless://b02135e4-68d5-4f03-944e-06874e4d0598@lon5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - Clouvider Limited ┇ 85.239.60.43
+vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdXZpZGVyIExpbWl0ZWQgXHUyNTA3IDE4NS40Mi4yMjAuMTgzIiwiYWRkIjoiMTg1LjQyLjIyMC4xODMiLCJwb3J0Ijo4MCwiaWQiOiJmOGM1MWI1Mi0yYmJiLTExZWItYThiZi1mMjNjOTFjZmJiYzkiLCJhaWQiOjEsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiJmYWxzZSJ9
