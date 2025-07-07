@@ -1,8 +1,0 @@
-trojan://96t0tuur-copo-gf6j-l0ij-qu9e4twglajr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://zi9vds0w-efbt-rhag-y7f6-hy6gftzt3017@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g2n39ctc-be26-3qne-hqol-sju2hy00ac5z@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://j9wcsolb-0mai-yltc-1xm6-6u52et3j9zpm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@95.141.37.111:812#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Seflow s.r.l. ┇ 95.141.37.111
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@158.58.173.240:806#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Seflow s.r.l. ┇ 158.58.173.240
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMDYwNTUyNy0yOGU0LTQ0OWMtODBlZS01NjQyY2MxNmE4YWY@2a02:29e0:1:1ee::1:80#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Seflow s.r.l. ┇ 2a02:29e0:1:1ee::1
-trojan://o3dbxfjl-wz2j-ydba-u42h-mvva7mqzd4li@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

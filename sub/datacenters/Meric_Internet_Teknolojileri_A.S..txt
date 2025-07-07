@@ -1,6 +1,2 @@
-trojan://tlkop0b5-nh7s-w0ii-i032-342addtr58u2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://i09fyyso-61c9-bu8s-2071-c1heodrndeih@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yqhe1ccx-mkic-4auv-z36o-ahdbjangi0yj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1z6rsbzj-b4ze-mkpf-3h6f-kmipusg2eh1j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://c33b1535-1557-4e0b-aa2b-f326c6151436@31.40.205.42:32223?type=tcp&security=reality&sni=apps.apple.com&fp=edge&flow=xtls-rprx-vision&pbk=dXwonwg9IAAXTVdh8-vhzgP1u6yhJOjVlWrx1fWOzFU&sid=77#TR 🇹🇷 ┇ VLESS-TCP-RLT - Meric Internet Teknolojileri A.S. ┇ 31.40.205.42
-trojan://2m1u3733-g2ts-fnxe-o32l-km4vc63xu8k4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://b5bfc011-c8c1-4234-b403-df07aedcc076@104.21.62.144:443?type=ws&security=tls&path=/&sni=kci3.kci3cfjiasucdn.dpdns.org#TR 🇹🇷 ┇ VLESS-WS-TLS - Meric Internet Teknolojileri A.S. ┇ N/A
+vless://b5bfc011-c8c1-4234-b403-df07aedcc076@172.67.136.169:443?type=ws&security=tls&path=/&sni=kci3.kci3cfjiasucdn.dpdns.org#TR 🇹🇷 ┇ VLESS-WS-TLS - Meric Internet Teknolojileri A.S. ┇ N/A

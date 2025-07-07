@@ -1,6 +1,0 @@
-trojan://uirx91xr-67kz-8bc0-1bm4-t8i7gdhy5dwx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://1p9wx28s-gem5-l0oc-6av8-19v9uqc5qg8b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://lo5yk7iv-0kd2-5npi-5eex-e1014d8cre5l@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0aq7ajad-kbx7-txdb-04st-5pg5h3h8504r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiUlMgXHVkODNjXHVkZGY3XHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRHJ1c3R2byB6YSB0ZWxla29tdW5pa2FjaWplIE9yaW9uIHRlbGVrb20gZG9vIEJlb2dyYWQtWmVtdW4gXHUyNTA3IDg5LjIzLjg2LjE4OSIsImFkZCI6Ijg5LjIzLjg2LjE4OSIsInBvcnQiOjU5NDkyLCJpZCI6IjNjZDFhMmYwLTQ5OWYtNGViMC04NjJhLWNkZDBlY2Q4MjFjNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9pbXpjYyJ9
-trojan://jh2ae4qg-1qwe-kflk-8mlb-ew9qcgcnn5v3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

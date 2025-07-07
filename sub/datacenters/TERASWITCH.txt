@@ -1,7 +1,0 @@
-trojan://s9kigg5y-1oro-jau7-gia8-my79dyfsk0cc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://0iei9z36-oo0s-69re-6umu-1kq415wmnjc9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3q36cwmg-zt2q-4wty-cm0t-utrceqf8jwcr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xiuphhnr-5zws-okk1-1mu9-75sa0lzui59z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://6248895b-4255-4f07-9479-d198bc1eb8db@202.8.9.27:28443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - TERASWITCH ┇ 202.8.9.27
-trojan://5ceb716a-9a0c-493a-9a0b-a05e08a1b1fc@202.8.9.67:28443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - TERASWITCH ┇ 202.8.9.67
-trojan://d19mkd8y-lom8-91h6-5rwc-b5dcax6w6jaf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

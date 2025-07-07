@@ -1,7 +1,0 @@
-trojan://w918l00p-8msv-jbhg-7lun-72s2gzgo9rq7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://czioemy1-6zvi-2yt8-ymzv-cysxdnmlyod6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yc0ps8uf-cmih-cy9f-pe1x-dpfl3q60tb8y@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5sgunqyz-6x67-fsgt-8e9g-0pocx4t4v874@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://8214a3c7-23d5-4168-8754-c1ad8c9ad71d@204.12.192.220:443?type=ws&security=tls&path=/ALB/VIPSell/@saeedtelg&sni=ccsnal.vipsell-one.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - WII ┇ 204.12.192.220
-vless://b408f8bc-90f5-446d-a404-76cdcd2cefe0@69.30.232.19:25536?type=tcp&security=reality&sni=apps.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=GO9XfLa_vlZBDC_mdRo4bkrb1BBOpTkbTrlEvRKFrWE&sid=81f9#US 🇺🇸 ┇ VLESS-TCP-RLT - WII ┇ 69.30.232.19
-trojan://zixgm2q8-njmq-pjj1-q28f-2ic89hjon7wi@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

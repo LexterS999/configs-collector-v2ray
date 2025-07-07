@@ -1,24 +1,4 @@
-trojan://7j1t730m-63d6-erj0-lrxy-ymggh0zimft3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://s7pdv33i-35ye-8eca-20d3-eqlun2g66kxm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://c043r9jq-hlqt-dknc-0kep-nlnm7ypw3w35@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://m1mxcomy-qhnb-opa8-jtbb-hq0bvu27mnj3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@194.87.190.57:8443?type=tcp&security=none&path=Telegram🇮🇷#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 194.87.190.57
-vless://df3173df-eff6-4c33-8f81-6cb142e4a2cd@194.87.140.148:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#CZ 🇨🇿 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 194.87.140.148
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@92.51.36.219:2053?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed&sni=0926.qiang2000.link#PL 🇵🇱 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 92.51.36.219
-trojan://vpn@45.82.14.144:2025?security=none#RU 🇷🇺 ┇ TROJAN-TCP-NTLS - Jsc timeweb ┇ 45.82.14.144
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.35.119.193:443?type=ws&security=tls&path=/?ed=2560&sni=lp.kpcloud.eu.org#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 194.35.119.193
-vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?type=ws&security=tls&path=/websocket&sni=ru01.abvpn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ 89.23.118.93
-vless://2fea6778-ead4-4ad7-b657-3bd5ea1e1174@mrconfigs.hajalii.com:2086?type=xhttp&security=tls&path=/&sni=Mrconfigs-cdn.secretvps1.top&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - Jsc timeweb ┇ 80.68.156.26
-vless://da635086-86f7-4c88-a310-0a55fc34f612@mrconfigs.hajalii.com:443?type=tcp&security=tls&sni=mrconfigs-cdn.hajalii.com&fp=chrome#RU 🇷🇺 ┇ VLESS-TCP-TLS - Jsc timeweb ┇ 80.68.156.26
+vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?type=ws&security=tls&path=/websocket&sni=ru01.abvpn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Jsc timeweb ┇ N/A
 vless://f5e7a64b-22c3-4924-ba65-b7bdd2fd2ca7@mrconfigs.hajalii.com:57790?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 80.68.156.26
-vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.90:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 109.73.206.90
-vless://306139eb-7fe5-414f-8446-3f0d3aa59df7@109.73.192.184:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 109.73.192.184
-vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.91:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 109.73.206.91
-vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.92:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 109.73.206.92
-vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.93:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 109.73.206.93
-vless://b4f3c864-3241-4abe-884e-adffcbbc5ffa@188.225.87.169:443?type=tcp&security=reality&sni=mirror.yandex.ru&fp=firefox&pbk=AeGa3uPZPwKxK8-oefhzXVs6N376xXxw293dD0Gl-Vs&sid=0898b2d9#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 188.225.87.169
-vless://660e76d4-3f43-4691-8356-338c0dc964e6@194.87.131.164:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 194.87.131.164
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@89.169.1.40:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 89.169.1.40
-vless://34df4ce8-83a0-4c9d-be42-09897964e0e7@89.223.64.164:1516?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=ub5WuZbfa5iaqRjk9RqEPbxIef7NrioFsWAj-zJAqHo&sid=9b8e2b0b49c607ee#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 89.223.64.164
-vless://turboo-server@turbooserver.ultra-irancell.com:65001?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=paXwzQ6qDGHFfMlpY1vX6-lZrkI2gUzP3nXg91ZrBQw&sid=0efa0583a943#RU 🇷🇺 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 217.18.60.42
-trojan://d4m9v1o1-3tow-yphr-3prj-4h6sfonwwy5s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://588f094b-431b-422c-b80b-007945037072@ru01.abvpn.ru:443?type=tcp&security=none&path=/websocket#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 89.23.118.93

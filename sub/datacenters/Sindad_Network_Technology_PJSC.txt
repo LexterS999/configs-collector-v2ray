@@ -1,6 +1,2 @@
-trojan://rwtyo0v4-wmmd-uz9o-nx3y-3n15jkl72eg5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://szzju9yf-xflq-79ra-nhhk-rk3wyhturw52@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://px58qs1k-ra6m-ooed-dll6-tuzxygezfj1k@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qoye9wue-sciq-m8k8-5hy3-tsvfpx94op1u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNpbmRhZCBOZXR3b3JrIFRlY2hub2xvZ3kgUEpTQyBcdTI1MDcgMTg1LjYzLjExNC4xNjMiLCJhZGQiOiIxODUuNjMuMTE0LjE2MyIsInBvcnQiOjgwODgsImlkIjoiYWNjMjczMGItN2M2Yi00Y2Q0LTliMjEtZjcwOWQ4ODZlMmY2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiL2FwaSJ9
-trojan://gsh2gwyv-zwiv-4gws-k74e-2dmfo4nsuzu1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.97.248:443?type=ws&security=tls&path=/GGPPfZ3NKyOoKNiK?ed=2560&sni=backtory.com&fp=randomized#IR 🇮🇷 ┇ VLESS-WS-TLS - Sindad Network Technology PJSC ┇ N/A
+vless://d46c6b20-aebb-4ea7-8a41-0836f57906f1@cd.m55vip-all.lol:44454?type=tcp&security=reality&sni=fararu.com&fp=chrome&pbk=xJVvyacNomGedsVXH6NngDnrJN162h3AauqlM2o50RA&sid=704634f5a370#IR 🇮🇷 ┇ VLESS-TCP-RLT - Sindad Network Technology PJSC ┇ N/A

@@ -1,7 +1,3 @@
-trojan://m57w4ce3-y5z6-1ad1-v72f-drg3jewa3t2l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://zjs3l574-7ndb-31cj-912e-9g20h6k5cyp4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bmoeaesm-lr8f-s8qs-74nl-4xhpytt9mcz5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vvx9fu0d-u1gv-n3wl-z7sg-hi17xukwurn0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9155e3fe-d418-4f5c-a5a1-c26cfe862af1@194.60.231.31:29879?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 194.60.231.31
 vless://10b504eb-89de-4c2e-80c7-1091a659dedf@87.107.165.33:14287?type=ws&security=none&path=/hellw?ed=2560#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.107.165.33
 vless://0f8572d9-52b2-4bf5-82cf-7b418b375135@87.248.152.16:34750?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.248.152.16
@@ -9,6 +5,6 @@ vless://2492c521-153a-40dd-8646-038d79b24487@87.248.152.60:26604?type=ws&securit
 vless://019c833b-4be2-453c-a29d-091b13ee31c6@87.248.152.60:49100?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.248.152.60
 vless://98d6a1b5-4a71-4e87-a161-1a0df5e4e885@87.248.152.60:52897?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.248.152.60
 vless://5edcc3f4-92bc-4aa8-a1c4-4e7982cd8be5@my.bickio.xyz:2072?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 87.107.105.176
+vless://e2dc0b52-1792-423e-d78e-c568b1498c67@avalpardakht.com:80?type=ws&security=none&path=/@v2rayNG_VPNN#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 45.156.187.22
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@kitab.ir:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 45.156.185.106
 vless://467a7c8d-7758-430c-bd1d-d0aab6cc0869@kitab.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Shabakeh Azarakhsh LLC ┇ 45.156.185.106
-trojan://8o3sjg5l-jzdc-gf53-w294-lkn9lml2vkgw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

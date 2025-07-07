@@ -1,18 +1,5 @@
-trojan://e696b4de-ihds-xt7d-bxzx-pgmm6lexumqa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://jbp5eon2-ques-76g7-b90n-t4wf9h1q2s2l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://frdf9k5s-xfo8-u9b1-r2vo-iy7wega3hexg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wuxn1qnp-6pdl-8tc2-ex4j-4uvai5fxfzou@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://vmessprotocol@91.224.74.23:40132?type=grpc&security=none#KZ 🇰🇿 ┇ VLESS-GRPC-RLT - Newserverlife LLC ┇ 91.224.74.23
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 45.144.49.140
-vless://f184c89c-80a4-4a3a-bc67-97db43266c11@45.144.48.42:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#PL 🇵🇱 ┇ VLESS-WS-TLS - Newserverlife LLC ┇ 45.144.48.42
+vless://vmessprotocol@91.224.74.23:40132?type=grpc&security=none#KZ 🇰🇿 ┇ VLESS-GRPC-NTLS - Newserverlife LLC ┇ 91.224.74.23
 vless://ZEDMODEON--ZEDMODEON@45.144.51.195:35032?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Newserverlife LLC ┇ 45.144.51.195
 vless://ZEDMODEON--joinZEDMODEON@45.144.51.195:35033?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Newserverlife LLC ┇ 45.144.51.195
 vless://e331c35c-3338-4019-817f-204f91af1c47@45.144.51.195:35036?type=grpc&security=none&fp=chrome#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Newserverlife LLC ┇ 45.144.51.195
-vless://a6fe2ebd-a8df-4be7-a4df-d7f671513088@45.144.48.180:2083?type=grpc&security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=kiWKh0alnh0SU6PPIWUOaJyByPoepDlCbfxHw94QHCI&sid=775e2976#PL 🇵🇱 ┇ VLESS-GRPC-RLT - Newserverlife LLC ┇ 45.144.48.180
-vless://e381d107-3551-45b6-9597-8d9506be9b8c@45.144.48.237:55325?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=WrK40aQhFIbyutL_J415GVRHhOdaG_oyrGm_DCp8FW0&sid=13a5600f7e#PL 🇵🇱 ┇ VLESS-GRPC-RLT - Newserverlife LLC ┇ 45.144.48.237
-vless://48cec39a-9755-47a5-84ca-7c36066a0eeb@45.144.49.141:2083?type=grpc&security=reality&sni=Python.org&fp=chrome&pbk=rVLde0wPhF0d3755oggysyD89VlOXn6v2EbOpfh7zlY&sid=29a81d#PL 🇵🇱 ┇ VLESS-GRPC-RLT - Newserverlife LLC ┇ 45.144.49.141
-vless://114a829b-cdd9-4dc0-a129-0bf1ac048ad1@45.144.49.141:443?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=hAAKzDLQ842naXXMXTnH7wuufDfpc2Pw-QumpjpNing&sid=4520#PL 🇵🇱 ┇ VLESS-GRPC-RLT - Newserverlife LLC ┇ 45.144.49.141
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 104.167.197.25
-vless://421885ec-4bcb-4355-96fa-1402f6a3a78a@104.167.199.65:58297?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 104.167.199.65
-vless://CHIK_881548@us1.chik-chirik.xyz:443?type=tcp&security=reality&sni=whatsapp.com&fp=chrome&pbk=wsuNVssCC7Wh0VH_CpY3Th8z1brS70MpoqkgWmSdAk4&sid=ffffffffff#US 🇺🇸 ┇ VLESS-TCP-RLT - Newserverlife LLC ┇ 104.167.198.80
-trojan://w9g0waka-mx7e-hcti-sqkw-ma2a73gedxwu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://421885ec-4bcb-4355-96fa-1402f6a3a78a@104.167.199.65:58297?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.65

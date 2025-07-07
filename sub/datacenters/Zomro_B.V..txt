@@ -1,7 +1,1 @@
-trojan://ih063f3e-xkyg-rdzv-ei6g-v1vpvpm7uxst@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://hl73b3sd-7iff-khpo-ujai-ytx8hbm1t3q4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://n15a7wmj-0d5b-6kvt-l64r-dn1urxc0o4pr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://n9q30cin-g79e-maxf-35aw-vvvwn9jg5rhh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://504fa227-6493-4c4b-983c-4661c96a0e11@213.166.71.40:80?type=ws&security=none&path=Telegram🇨🇳#NL 🇳🇱 ┇ VLESS-WS-NTLS - Zomro B.V. ┇ 213.166.71.40
-vless://500fa635-f420-4148-ae10-5b857163d045@45.87.2.60:2053?type=ws&security=tls&path=/?ed=2560&sni=vl.kouok.us.kg&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - Zomro B.V. ┇ 45.87.2.60
-trojan://c6empbgl-62gb-i76q-myp4-ftnntm38tyhf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

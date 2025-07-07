@@ -1,6 +1,6 @@
-trojan://4duq8q5y-ldwl-qxjs-n41q-ugvn8kn0xtzi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://2cj66ljo-jk38-cmg6-64nq-fwsg7ud3y7b3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tmw967l2-j1f9-7fbd-s1r9-m84pmytddr0h@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://17akzm8z-521y-4zas-0a8p-7elu8cuxut8t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://f7d73ea4-27d4-41c2-d34c-aa1581bcf83f@bama.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ 185.166.104.3
-trojan://w4t5kglc-x3qt-q9e4-ugtl-pkyyah0i2kks@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?type=tcp&security=none&sni=divarcdn.com&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ N/A
+vless://3c674b63-9a37-4f9f-874a-339256e75f40@185.143.233.200:443?type=ws&security=tls&path=/?ed=443&sni=bama.ir&fp=randomized#IR 🇮🇷 ┇ VLESS-WS-TLS - Hezardastan Unit Cloud Computing PJSC ┇ 185.143.233.200
+vless://f7d73ea4-27d4-41c2-d34c-aa1581bcf83f@bama.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ 185.166.104.4
+vless://5c17d0bd-d659-4c5a-9871-0b19cedc1634@ms.kamran-007a.ir:8080?type=ws&security=none&path=/HHJ1feCQkdARo4ZzMOCSwT&sni=ua.yektanet.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ N/A
+vless://af94594c-b048-4050-adcb-cf061c3155bd@sw1-d.mobstore.store:443?type=tcp&security=none&path=/&sni=neshan.org#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ N/A
+vless://af94594c-b048-4050-adcb-cf061c3155bd@sw1.mobstore.store:443?type=tcp&security=none&path=/&sni=neshan.org#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ N/A

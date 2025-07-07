@@ -1,7 +1,0 @@
-trojan://09f0dpx0-97z8-7smc-yv86-1j296sl0y4ez@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://7n6zujvs-2u7p-zr6a-0j64-u79f7ydknn9p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://skdobf2v-5by9-jmbd-s9cf-bxtyhts9bxs8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wjjer49k-u348-it8r-7urc-siv3stgqm5c0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://3501515828cc7f64eca8af758a6b921f@88.119.175.241:443?sni=www.cloudflare.com&peer=www.cloudflare.com&security=tls#LT 🇱🇹 ┇ TROJAN-TCP-TLS - Informacines sistemos ir technologijos, UAB ┇ 88.119.175.241
-vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJbmZvcm1hY2luZXMgc2lzdGVtb3MgaXIgdGVjaG5vbG9naWpvcywgVUFCIFx1MjUwNyA4NS4yMDYuMTY1LjM2IiwiYWRkIjoiODUuMjA2LjE2NS4zNiIsInBvcnQiOjQ0MywiaWQiOiJiYTQ5YWIwNS03OGY4LTRiMGItOTQwMC0xODI2Y2MyZDNmNzUiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-trojan://ymrzcnkw-kee4-8lxc-c7r4-mkjvu82w23xn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

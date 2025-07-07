@@ -1,19 +1,9 @@
-trojan://sw6oiyvj-sm4f-c21i-r42p-i0avq9xcnrkm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://r4ed2h0n-ynvp-gt5k-bd65-6bvemlx80re5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vt11jvfr-5knk-vnxw-slfp-ox5b545bvdxz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g3hl8ly0-atjt-9qdi-iiea-colwdufsq2c8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://83754396-4fb9-11f0-92cc-3fe03963269e@181.215.205.227:10004?type=ws&security=none&path=/vpnjantit#AE 🇦🇪 ┇ VLESS-WS-NTLS - ZEN-ECN ┇ 181.215.205.227
-vless://7996d412-0b2a-4533-bba1-f7531861f1ec@85.237.211.219:8443?type=ws&security=tls&path=/vless/&sni=ul-uae2.09vpn.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - ZEN-ECN ┇ 85.237.211.219
+vless://7996d412-0b2a-4533-bba1-f7531861f1ec@85.237.211.219:8443?type=ws&security=tls&path=/vless/&sni=ul-uae2.09vpn.com&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - ZEN-ECN ┇ N/A
 vless://5d5921ee-6550-4074-90ee-1df6b278fe80@ul-uae1.09vpn.com:8443?type=ws&security=tls&path=/vless/#AE 🇦🇪 ┇ VLESS-WS-TLS - ZEN-ECN ┇ 85.237.211.218
 vless://7996d412-0b2a-4533-bba1-f7531861f1ec@ul-uae2.09vpn.com:80?type=ws&security=none&path=/vless/&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-NTLS - ZEN-ECN ┇ 85.237.211.219
-vless://09a88f8d-f9b6-4985-95ac-fe889f07cac7@181.215.205.129:443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=N5ndLLRlk4BhFYLJOdE_HDab9W0E0805KRdw0FEBjXg#AE 🇦🇪 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 181.215.205.129
-vless://414df689-dc19-418b-849c-f0f15967d71e@181.215.205.99:443?type=tcp&security=reality&sni=adobe.com&fp=chrome&flow=xtls-rprx-vision&pbk=ljzfoaXVBSNu3tw58-B0WNViso1aA9JSCX9GUcMDu0k&sid=4048A3da#AE 🇦🇪 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 181.215.205.99
-vless://885a03bb-4797-3fd8-5446-c770066cb87e@31.57.228.113:7070?type=tcp&security=reality&sni=S3.iranwebfa.com&fp=chrome&flow=xtls-rprx-vision&pbk=_9Na7dC1y9hpgRnPIJu10zJNf90O973xf95j35NzoAY&sid=314f63e326f7d89a#AE 🇦🇪 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 31.57.228.113
-vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@uae.panelmarzban.com:3040?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#AE 🇦🇪 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 181.215.205.254
+vless://885a03bb-4797-3fd8-5446-c770066cb87e@31.57.228.113:7070?type=tcp&security=reality&sni=S3.iranwebfa.com&fp=chrome&flow=xtls-rprx-vision&pbk=_9Na7dC1y9hpgRnPIJu10zJNf90O973xf95j35NzoAY&sid=314f63e326f7d89a#AE 🇦🇪 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ N/A
+vless://885a03bb-4797-3fd8-5446-c770066cb87e@s3.iranwebfa.com:7070?type=tcp&security=reality&sni=S3.iranwebfa.com&fp=chrome&flow=xtls-rprx-vision&pbk=_9Na7dC1y9hpgRnPIJu10zJNf90O973xf95j35NzoAY&sid=314f63e326f7d89a#AE 🇦🇪 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ N/A
 vless://5a186a86-1d2c-43b1-85d9-1ad3f60f6be7@tel.vpncustomize.reziazaran.ir:37823?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - ZEN-ECN ┇ 23.90.188.126
 vless://turboo-server@fn.turbooserver.ir:8080?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 104.166.166.138
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.227.139.137:443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#HK 🇭🇰 ┇ VLESS-WS-TLS - ZEN-ECN ┇ 129.227.139.137
-vless://b41f3d0c-3e2f-4f57-9995-c6bdf2b3204d@156.59.125.66:443?type=ws&security=none&sni=hk.mehun.me#HK 🇭🇰 ┇ VLESS-WS-NTLS - ZEN-ECN ┇ 156.59.125.66
-vless://fe422413-ef38-4455-8afa-0128e08e8e4e@45.40.59.248:443?type=ws&security=tls&path=/bing&sni=vn.qhahd.shop#HK 🇭🇰 ┇ VLESS-WS-TLS - ZEN-ECN ┇ 45.40.59.248
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@128.14.140.2:55555?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - ZEN-ECN ┇ 128.14.140.2
-trojan://8kxi8q3m-3sat-tuhl-1ewu-nnp3vvofg13h@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

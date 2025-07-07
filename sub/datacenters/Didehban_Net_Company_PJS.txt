@@ -1,6 +1,0 @@
-trojan://5rrcv5eg-4ozr-s5si-dlor-slasb0ffoc42@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-29 | 18:55 ]
-trojan://kp1ku5ia-83mz-z2aa-axkk-55z2bekwxw3s@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zd8qqdqb-nzjh-wrrl-qlz6-47w72zlwbef5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g5tj8n57-88qm-v2lk-cv9l-1g0flho37l0h@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://a9a9dca2-81eb-4199-932e-51febf0291bf@45.84.156.12:12197?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Didehban Net Company PJS ┇ 45.84.156.12
-trojan://xxdvw4ai-fn2w-d3vh-8myi-ydkk1yp0rang@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0

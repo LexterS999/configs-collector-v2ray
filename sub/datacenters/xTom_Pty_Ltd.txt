@@ -1,6 +1,0 @@
-trojan://leapecj0-krpp-15vi-ioz6-ohxtolu69iug@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://c5xbsjfc-lxok-q9mf-jc1b-bmvqkga9nr2q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bxzxuxk9-nydq-4lln-vozi-ugaqps96tix8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://omz77frg-d9op-vggs-mzig-k10j00yzymy2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://G9CHhXltVx@96.9.213.108:12646?sni=96.9.213.108&peer=96.9.213.108&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - xTom Pty Ltd ┇ 96.9.213.108
-trojan://c4gs7m1i-w13f-kj0p-3bif-ltrux1gzf4xg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

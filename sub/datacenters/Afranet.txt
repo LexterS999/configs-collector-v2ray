@@ -1,16 +1,11 @@
-trojan://0tx7htu3-mbry-7bzy-glv3-fh3p8hxbbar5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://9ky178gx-dugh-4my0-vu3q-exv4w9u067is@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rqpuku1p-k3yd-76yy-ijg6-iviv83v568iq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4o3tpz64-uuq9-1gjl-0f1z-53cobqya9ukt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFmcmFuZXQgXHUyNTA3IDc5LjE3NS4xMzEuNSIsImFkZCI6Ijc5LjE3NS4xMzEuNSIsInBvcnQiOjUwMDYsImlkIjoiNmRiYzNjYWRlZmVjNDk4YmJmYzhiNGRhOGQ4ZGMxNmMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://001bb217-4cf2-4b8a-b48d-b80ac72b116a@31.14.114.180:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.114.180
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.14.116.155:8000?type=ws&security=tls&path=/Telegram@V2ray_Alpha/?ed=2560&sni=vless.ifx.us.kg#IR 🇮🇷 ┇ VLESS-WS-TLS - Afranet ┇ 31.14.116.155
 vless://a8f1f548-2d45-4ba2-8ec0-082aefebff9f@31.14.118.126:1050?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.118.126
 vless://c39a97ac-7e05-4b0c-8ef8-2d456309317a@31.14.123.143:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.123.143
 vless://173c4b2c-46f0-4afa-b041-630ba41f1738@31.14.123.18:48265?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.123.18
 vless://e63e93a0-d092-4d12-9f79-b5137ae03af4@31.14.123.54:5969?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.123.54
 vless://842c638d-3aa4-4a2e-a2f9-b22a34bc1b6b@31.47.42.4:47736?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.47.42.4
-vless://387bc4fc-5ee4-4a84-9964-9e884f851fd1@31.47.45.96:29968?type=tcp&security=none&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.47.45.96
+vless://387bc4fc-5ee4-4a84-9964-9e884f851fd1@31.47.45.96:29968?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.47.45.96
 vless://1350c052-17ba-4232-b2f8-2a70e65f91f5@31.47.45.97:18811?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.47.45.97
 vless://ff98843d-1249-4269-8b67-318880ea8e03@46.102.132.116:47312?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 46.102.132.116
 vless://5b5c6557-d611-4c6f-a43b-a2c48c0b541d@46.102.136.69:57803?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 46.102.136.69
@@ -45,4 +40,3 @@ vless://27690ef1-24e1-49d4-8454-0dc126e28fed@root5.madakto.space:5544?type=tcp&s
 vless://69622571-5465-4ec8-b50e-6f444f9cc17d@turbo.esivip.online:13960?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 93.113.238.158
 vless://60ef9d45-8270-7f32-3e55-a5b1ef51ae11@v5xray.officialvpn.shop:5054?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.129.191
 vless://60ef9d45-8270-7f32-3e55-a5b1ef51ae11@v6xray.officialvpn.shop:5054?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.193.130
-trojan://j25xmtml-5i4s-ufcp-tg2p-9ywz4x8l2ko0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

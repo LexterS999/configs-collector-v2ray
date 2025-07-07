@@ -1,13 +1,7 @@
-trojan://jjve4g4z-vlp3-5ggd-e7vt-mqbj9mo0keor@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://pd9s2or3-ufxc-jofd-780o-d815jgqrwxhl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pdct67b8-2gy2-5s57-qqui-gv5vr4ir9948@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://uslx8oap-xdf7-wr05-vqts-58v1aeiiilw1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://60bdbed7-228b-466b-bd8c-32e779a5aea9@104.16.27.251:2083?type=ws&security=tls&path=/?ed=2048&sni=germany.alighan.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Gostaran Shaina Shiraz LLC ┇ 104.16.27.251
 vless://f1a495fd-8236-45b7-ae71-4c855ad15367@185.113.10.235:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 185.113.10.235
 vless://f4b02459-fde7-442a-a285-75ed3c318f76@85.133.200.207:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 85.133.200.207
 vless://23002f00-35b4-4080-bea1-31c03920a9bd@85.133.200.41:6890?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 85.133.200.41
 vless://719f7320-8057-408d-a081-0f377a8c22ff@ipe.alighan.ir:2082?type=httpupgrade&security=none&path=/@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN?ed=2048#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 87.236.212.210
 vless://60bdbed7-228b-466b-bd8c-32e779a5aea9@ipe.alighan.ir:2083?type=ws&security=tls&path=/?ed=2048&sni=germany.alighan.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Gostaran Shaina Shiraz LLC ┇ 87.236.212.210
-vless://af94594c-b048-4050-adcb-cf061c3155bd@sw1.mobstore.store:443?type=tcp&security=none&path=/&sni=neshan.org#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 195.234.80.221
 vless://f8729660-82eb-47e0-9f45-2984113316ca@vx.srvice.shop:1020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Shaina Shiraz LLC ┇ 87.236.212.230
-vless://84ce5157-4867-4bea-8ae9-f1d7afe3b0ed@f1.misaghreserve.ir:443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=xN9xmYjM5o_W7IpLQnKNPd2TZbtCZhGFjtvHg0XP9hU&sid=67dcdbd6ed95f729#IR 🇮🇷 ┇ VLESS-TCP-RLT - Web Gostaran Shaina Shiraz LLC ┇ 87.236.212.248
-trojan://vozsgoal-8pz6-wkig-soyq-0by2wliuf6et@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

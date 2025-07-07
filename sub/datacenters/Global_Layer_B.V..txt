@@ -1,9 +1,0 @@
-trojan://2gwd9sl8-kynh-l24c-8x8n-re8pmjg9s4c9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://z7kuvbtt-r4hv-h986-xbli-zsoqy2ni886v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1wnxe15m-4k1e-vtna-c9sd-ekgmg2rd9pu1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fesbtxdt-f4ap-o14d-f0jb-5iia6433rpbc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.108:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.108
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.125:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.125
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.123:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.123
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw@188.95.55.115:40093#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Layer B.V. ┇ 188.95.55.115
-trojan://cc7la8zg-5gyo-mrsx-bv0i-y67e1peth2pa@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,0 @@
-trojan://v1oprflh-4j8a-rpdg-wcjt-mcw5vldb3iqc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://krxmlaot-brss-vmfj-8bdr-bbccdmgkw0m0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3t32lebp-96r6-a0im-4umd-7b8zxhyx8our@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://l5ly71gw-ale0-4kl1-mhh8-vsfnjb9tmmuf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@116.204.210.10:443?type=ws&security=tls&path=TelegramTW_@WangCai2/?ed=2560&sni=photosair.ir#HK 🇭🇰 ┇ VLESS-WS-TLS - TOPWAY GLOBAL LIMITED ┇ 116.204.210.10
-trojan://2a64nyjc-fhta-nn8s-6avn-gmefzmaesoe8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

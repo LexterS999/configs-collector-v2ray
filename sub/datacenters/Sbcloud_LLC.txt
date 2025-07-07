@@ -1,9 +1,2 @@
-trojan://vxvidsj9-u80l-ndbi-3f2x-92k2x5owm1m7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://cr38m95b-2zxi-dg5w-y78a-0yubethf9rbo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://k94xrwho-22bl-k21v-6a6c-52o943wqjd5l@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://swupkzg3-7gcc-h3s2-0da3-fmg4uo8hptxs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@45.67.32.147:443?type=ws&security=tls&path=/getupdates&sni=torless.duckdns.org&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - Sbcloud LLC ┇ 45.67.32.147
-vless://58f90ed5-3dce-4023-ad0b-af42d20cf895@212.22.94.177:21844?type=tcp&security=reality&sni=www.alibabagroup.com&fp=chrome&flow=xtls-rprx-vision&pbk=LHUss13swfFwTaV0GhNPBkbKRyt91pnVxBCdWhxBrwk&sid=b41b108d926677#RU 🇷🇺 ┇ VLESS-TCP-RLT - Sbcloud LLC ┇ 212.22.94.177
-vless://deac86ca-5d50-4c27-9989-cc7cddac248d@45.67.32.147:14875?type=tcp&security=reality&sni=yahoo.com&fp=random&flow=xtls-rprx-vision&pbk=2mte9DEeo0OwNppy36bIfMqAXL4yLiFbhDqOGXu8XVI&sid=e34371db#RU 🇷🇺 ┇ VLESS-TCP-RLT - Sbcloud LLC ┇ 45.67.32.147
-vless://5d2e9d3b-adfd-4056-935b-e9c86acfaec1@45.67.32.147:37665?type=tcp&security=reality&sni=psv4.vkuseraudio.net&fp=chrome&flow=xtls-rprx-vision&pbk=fcjBIZcvVsr1Gy-iZbIko-0Ey5icPtmXIxY3sd4UEFw&sid=9168#RU 🇷🇺 ┇ VLESS-TCP-RLT - Sbcloud LLC ┇ 45.67.32.147
-trojan://d6u2eklf-ahom-ypba-ve07-9onxkc5ncw4h@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@45.67.32.147:443?type=ws&security=tls&path=/getupdates&sni=torless.duckdns.org&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - Sbcloud LLC ┇ N/A
+vless://08421d4c-4641-4801-90df-f2b7a400428f@ihavesome.run.place:443?type=ws&security=tls&path=/socks5tobefree&sni=ihavesome.run.place&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - Sbcloud LLC ┇ 45.67.32.147

@@ -1,6 +1,3 @@
-trojan://mnsyumx2-81xp-5vv5-mgqh-4nb2rv6lt82c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://yi174qtm-yhe0-l8l8-qg10-jkvdz83wz3l1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://imb3915n-ipu8-dm6n-rdxo-9iiq4ob1lsjb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://n4tu4e0g-rhna-66k6-g2q5-lnmxstibqb21@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://65d2c27d-0957-415d-b67a-b915cd857723@account.zula.ir:8880?type=tcp&security=none&path=/Telegram:@UnlimitedDev?ed=2048#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sourena Pardazesh Arya Software co. LLC ┇ 194.50.216.44
-trojan://wlw2tjj7-tulh-e9z5-a2uh-sym47y9q56ah@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://c1e2e26f-98e7-43b5-9bf0-ace939ed8ff2@83.228.192.244:26206?type=tcp&security=reality&sni=cdn-download1.zula.ir&fp=chrome&pbk=32un-BHwlOjLBwm_5k72oiLG2Q3LcU4SRf1bbfrJoXE&sid=8574#IR 🇮🇷 ┇ VLESS-TCP-RLT - Sourena Pardazesh Arya Software co. LLC ┇ N/A
+vless://c1e2e26f-98e7-43b5-9bf0-ace939ed8ff2@fifa.game2ni.ir:26206?type=tcp&security=reality&sni=cdn-download1.zula.ir&fp=chrome&pbk=32un-BHwlOjLBwm_5k72oiLG2Q3LcU4SRf1bbfrJoXE&sid=8574#IR 🇮🇷 ┇ VLESS-TCP-RLT - Sourena Pardazesh Arya Software co. LLC ┇ N/A

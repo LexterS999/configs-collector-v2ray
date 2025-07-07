@@ -1,10 +1,4 @@
-trojan://y12heu4h-0kwu-nr74-bfne-udk9xi0djbld@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://k18i2aoz-qb6f-w043-h3a7-kyaywhmx4lw0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rdnuxwuy-0smw-7lt5-k4q0-lfmv4fgi1vgt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zte4xoov-y2fy-g6k8-4yef-ni9d6k7j81n0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0ef91a88-b5c7-4195-9132-3a7b5eb2ee21@217.18.90.81:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.81
 vless://c393a438-4503-43b9-9a8b-977d75f010bd@217.18.90.84:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 217.18.90.84
-vless://4d63aaf9-6345-4893-8e00-71c541d6f4ed@5.56.133.135:443?type=ws&security=tls&path=/&sni=nv155.momdping.com#NL 🇳🇱 ┇ VLESS-WS-TLS - Karizanta LTD ┇ 5.56.133.135
 vless://af94594c-b048-4050-adcb-cf061c3155bd@5.56.133.42:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Karizanta LTD ┇ 5.56.133.42
-vless://cf8b42e6-d9dd-4599-9cb7-a6d27e1ea03b@5.56.133.62:2095?type=tcp&security=tls&sni=xen1.web.net-pardaze-iranian.ir&fp=firefox#NL 🇳🇱 ┇ VLESS-TCP-TLS - Karizanta LTD ┇ 5.56.133.62
-trojan://bldfmd0w-6o09-4vns-9q3p-yfjto0baecl9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://cf8b42e6-d9dd-4599-9cb7-a6d27e1ea03b@5.56.133.62:2095?type=tcp&security=tls&sni=xen1.web.net-pardaze-iranian.ir&fp=firefox#NL 🇳🇱 ┇ VLESS-TCP-TLS - Karizanta LTD ┇ N/A

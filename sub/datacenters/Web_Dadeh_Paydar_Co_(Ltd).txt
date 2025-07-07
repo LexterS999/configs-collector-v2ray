@@ -1,8 +1,3 @@
-trojan://rhdeiuie-tbjt-ucpx-08fe-bpm63ne0b7nh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://99ql441x-rrsf-iirk-0frb-4qjyn885bqog@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://scr0p9b3-94v4-v3sf-f1f7-0u10097s0zgi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://h5khlf5f-9r55-2ibb-5arb-ffh90zonp3sw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphSnJZMjI1WU00RkQ4U09YbFJqbklB@USA.tiny1.cloud:1080#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.207.18.89
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFdlYiBEYWRlaCBQYXlkYXIgQ28gKEx0ZCkgXHUyNTA3IDE4NS4xNTUuNzIuNTgiLCJhZGQiOiIxODUuMTU1LjcyLjU4IiwicG9ydCI6MzM5NTAsImlkIjoiMzUyMGYzN2EtNmVhNi00YmJjLTlkMWMtZjQzZWNjNDdkYzRiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@ver2.tcod008.info:59761?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.155.72.101
 vless://83cb16f6-aa32-4943-85f4-deae57ae3e27@185.155.72.106:2057?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.155.72.106
@@ -47,14 +42,14 @@ vless://3b25587c-bc05-457d-aa77-7b8cd08573aa@91.223.61.108:2003?type=tcp&securit
 vless://a306aa7f-86b5-4c52-a305-35b5795e684f@91.240.95.47:40611?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.240.95.47
 vless://1fb767e0-8a51-4c8d-bd22-32e269dd4de0@91.240.95.47:46692?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.240.95.47
 vless://5d8b8f8c-2b06-49cd-b4ea-08dee087a967@91.240.95.48:5060?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.240.95.48
-vless://6577a581-1672-4cdc-8e3d-ff2ed161e3c7@forza.minecraftr.us:2050?type=ws&security=none&path=/archive#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.2.42
+vless://6577a581-1672-4cdc-8e3d-ff2ed161e3c7@forza.minecraftr.us:2050?type=ws&security=none&path=/archive#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.2.35
 vless://358289ab-2735-4ca1-8c1a-80f040e4866e@cloud.web-pc.ir:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 81.30.108.119
 vless://c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@de.crocodilserver.top:9005?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 88.135.72.84
 vless://9d4c4ac9-e5ec-4129-bc28-417ce0a1ce28@de.hardgaming.xyz:45817?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 194.39.248.136
 vless://b3bc00c6-d65b-4286-adc9-02134b37ae8d@dns8.mehrancloud.ir:34982?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.93.88.254
 vless://778bef22-7ac1-47b4-940b-53e848952ca5@fi.firephone.shop:2086?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 5.159.49.254
-vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@fr1vip.vnetplus.click:19094?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.134
-vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@fr1vip.vnetplus.click:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.134
+vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@fr1vip.vnetplus.click:19094?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.130
+vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@fr1vip.vnetplus.click:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.130
 vless://585a4670-f905-4043-a9a7-757c14f55621@h4.tcod008.info:28732?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.155.72.114
 vless://e8dc92da-89f4-4b1e-b1ba-3911c1ac8362@ir4.golden-dragon66.pw:9211?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 81.30.108.103
 vless://29242208-69c2-4b67-9300-18e04dc565bf@killhosein.jcvps.sbs:35829?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.240.95.47
@@ -65,9 +60,3 @@ vless://948e4b15-3e0a-5c64-e977-5d44dbed2374@re2.opetacloud.ir:2070?type=tcp&sec
 vless://e52b5a89-774d-45db-9539-580c45163dfb@sa2.nightlegend805.xyz:19810?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.155.72.110
 vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@ver2.tcod008.info:28505?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.155.72.101
 vless://aecb1f00-d8c8-4fe8-8a54-23045ff9b955@webbbb.grizzlyshoppp.shop:6050?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.120.69
-vless://eddf8778-1682-43d5-afa6-dcf3dbf63f82@91.212.232.211:2003?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=RiVTXWeVefxyMP869zKY2-YXoE7X2BdqQm53xGN99FE&sid=4c5bbe73#IR 🇮🇷 ┇ VLESS-TCP-RLT - Web Dadeh Paydar Co (Ltd) ┇ 91.212.232.211
-vless://baf84b13-f799-4c6f-a949-0da188d752df@91.240.95.118:42960?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=hSBSMUSr8C0IPnjB8r-aP_hBD45iOEYaP5cL3Ot0Ggo&sid=be206114#IR 🇮🇷 ┇ VLESS-TCP-RLT - Web Dadeh Paydar Co (Ltd) ┇ 91.240.95.118
-vless://cc06ec33-a33a-4b33-acb5-9f9d35c5ebc9@cache.pingless.eu:44421?type=tcp&security=reality&sni=www.speedtest.net&fp=firefox&flow=xtls-rprx-vision&pbk=SfDxMNIsz2LOKLLz44-BcnCE9AR2F5fY9un-5lx88lI&sid=ffdb3abc#IR 🇮🇷 ┇ VLESS-TCP-RLT - Web Dadeh Paydar Co (Ltd) ┇ 80.244.7.119
-vless://8d97e162-51be-4502-b4cf-51a26b6c0766@manager.centralstoree.eu:2014?type=tcp&security=reality&sni=www.speedtest.net&fp=firefox&flow=xtls-rprx-vision&pbk=LTWOvgF70MIQf-unHKEMhJkmJzGjCZtM8a9XF1UySXY&sid=187f7d36#IR 🇮🇷 ┇ VLESS-TCP-RLT - Web Dadeh Paydar Co (Ltd) ┇ 91.212.232.199
-vless://114f6196-38e1-43d0-9b3f-8716076ca78b@server.key98sell.com:2023?type=tcp&security=reality&sni=www.speedtest.net&fp=firefox&flow=xtls-rprx-vision&pbk=LfJ7q5VWnrXTWtUhJAKLNn94O6YCrumRYPZT0L6rth0&sid=ffdb3abc#IR 🇮🇷 ┇ VLESS-TCP-RLT - Web Dadeh Paydar Co (Ltd) ┇ 91.212.232.205
-trojan://is0tk5h8-tkl0-0wyg-gfag-3n1n10omgpm3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

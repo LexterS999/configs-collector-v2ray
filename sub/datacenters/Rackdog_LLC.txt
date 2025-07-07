@@ -1,6 +1,0 @@
-trojan://ysvjjvqm-vapc-w3ip-0ln8-73zaenq9xd95@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://a7wnzkne-60b0-ab90-3jfs-om3elk61ue6l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://60b8ev35-divm-1vxl-e6nh-mk7926cdh2y3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pnfgxner-dj86-hg07-ww36-c81q84qfahiy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://fsoOufuTGmSKzRDaAwAbww@162.250.99.26:443?security=none#US 🇺🇸 ┇ TROJAN-TCP-NTLS - Rackdog LLC ┇ 162.250.99.26
-trojan://xjk5juzm-4bcy-00ex-ykkc-jdtptltdofpi@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

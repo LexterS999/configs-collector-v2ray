@@ -1,6 +1,4 @@
-trojan://f49o06sq-7obw-g0qd-8vlp-lqedy9ib8v8a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://jxdmmrmq-3kai-o6a6-t4l5-9i47gikd9qut@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0q4strar-p6e0-dq6w-g3km-rm9fjzte3m4u@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lclc4vfu-2421-5s8t-dfr8-t8r1pg1flrwn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://opentunnel.net-sdertyuijh@cat-1.opensvr.net:443?security=tls#VG 🇻🇬 ┇ TROJAN-TCP-TLS - CONFLUENCE-NETWORK-INC ┇ 208.91.197.132
-trojan://lt7oq0r8-79az-qdta-tkzn-qktbo0gbkp3s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?type=grpc&security=none&sni=TABRIZ.NET&fp=chrome#VG 🇻🇬 ┇ VLESS-GRPC-NTLS - CONFLUENCE-NETWORK-INC ┇ N/A
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.30:8880?type=grpc&security=none&sni=TABRIZ.NET#VG 🇻🇬 ┇ VLESS-GRPC-NTLS - CONFLUENCE-NETWORK-INC ┇ N/A
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.44:8880?type=grpc&security=none&sni=TABRIZ.NET&fp=chrome#VG 🇻🇬 ┇ VLESS-GRPC-NTLS - CONFLUENCE-NETWORK-INC ┇ N/A
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.25:8880?type=grpc&security=none&sni=TABRIZ.NET&fp=chrome#VG 🇻🇬 ┇ VLESS-GRPC-NTLS - CONFLUENCE-NETWORK-INC ┇ N/A

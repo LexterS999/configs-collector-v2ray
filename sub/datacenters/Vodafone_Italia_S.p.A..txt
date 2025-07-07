@@ -1,6 +1,0 @@
-trojan://elhv5ya8-5eqe-7rlz-3qoh-jobe2wdts34x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-02 | 16:14 ]
-trojan://yo90f5rf-6e8o-62zh-4rmu-11k8g9qx8x31@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://51fw9ll4-o2q7-0zx9-9ffs-8eex6trr3ryt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://y88rlfbc-gsus-joi7-yo09-oels2gj19wz4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbHRyQHIwMHRfMjAyMQ@188.217.103.198:8090#IT 🇮🇹 ┇ SHADOWSOCKS-TCP-NTLS - Vodafone Italia S.p.A. ┇ 188.217.103.198
-trojan://pasa512n-dofz-t5z4-8k24-balh6n5ridm6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0

@@ -1,7 +1,3 @@
-trojan://dgsosft0-pwf3-b6f7-zcvy-qx0qjx91lynl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://3ldppos8-a7yf-ocrj-jjvc-a8pvd39iixi2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6lhktpze-4ktk-znif-m55n-1vt212ii6d3l@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fpwnxypl-br7x-iaw6-xwo7-wwomgbfere3g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFydmFuY2xvdWQgR2xvYmFsIFRlY2hub2xvZ2llcyBMLkwuQyBcdTI1MDcgMTg1LjIwNC4xNzAuMTY4IiwiYWRkIjoiZ2guc2hhaG1hZ2ljLm9ubGluZSIsInBvcnQiOjgwODEsImlkIjoiNjZjNzZhNzMtZTg2YS00MzI4LTgzMTAtMmY4N2U3NGJiZGVjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vless://4498752f-277a-4426-aea1-7cfc1c9b9113@185.204.168.191:2020?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.168.191
 vless://c26f5935-bfc4-4b00-b7fd-6bce76a6f4b8@185.204.168.191:27?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 185.204.168.191
@@ -14,5 +10,3 @@ vless://7b84283a-096c-4475-b7ce-97cc39fdc39c@xs.srvice.shop:20?type=tcp&security
 vless://c26f5935-bfc4-4b00-b7fd-6bce76a6f4b8@xs.srvice.shop:27?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.193.185
 vless://7c0e47c4-d131-413a-8f67-1c1cc9f5e734@xs.srvice.shop:3000?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.193.185
 vless://40abd934-5fe3-415d-b0e3-f7479abb6c29@xs.srvice.shop:47138?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Arvancloud Global Technologies L.L.C ┇ 194.5.193.185
-vless://1a465311-8cbd-4ae3-be04-67d058f3ea2e@xs.srvice.shop:98?type=tcp&security=reality&sni=canva.com&fp=chrome&pbk=BJBgsjmYoAgPQQWu73ZOy4ftJuEFsx_TRdKaCmHaNWk&sid=4146f8aad458d8d0#DE 🇩🇪 ┇ VLESS-TCP-RLT - Arvancloud Global Technologies L.L.C ┇ 194.5.193.185
-trojan://gf0gr0hg-ob3g-qto0-wutg-c5881gj3ojp8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,13 +1,4 @@
-trojan://n9bn4bm3-kb39-mmkp-k20z-6nioz6u5mygb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://rffs8zix-0wua-zg7d-c5il-saz5lk34meo8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://j14wt0sn-smme-8ua4-emj6-m4i35emokm6d@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wq04626f-agkv-xfyv-x1i1-ecqkiz5mczoj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://90cadcb1-5955-4ddc-c846-a40f06cbed39@146.103.41.166:23055?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Regxa Company for Information Technology Ltd ┇ 146.103.41.166
-vless://b7da7bf6-7c29-470c-dbfd-120a6417dc55@146.103.41.166:25975?type=tcp&security=tls&sni=vpn.pnm1.com&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Regxa Company for Information Technology Ltd ┇ 146.103.41.166
-vless://18a70b59-777a-4ad2-9a57-14f742e7ab76@146.103.42.234:443?type=tcp&security=reality&sni=digikala.ir&fp=chrome&pbk=NVyURHRuwh2Y4RxejiTR0tczjPM2pBVWkc6D7FCUkxA&sid=0126b9#DE 🇩🇪 ┇ VLESS-TCP-RLT - Regxa Company for Information Technology Ltd ┇ 146.103.42.234
 vless://457e18b3-7422-4154-b946-1c144b6b87d8@83.147.18.200:2052?type=ws&security=none&path=/vless&fp=chrome#ES 🇪🇸 ┇ VLESS-WS-NTLS - Regxa Company for Information Technology Ltd ┇ 83.147.18.200
 vless://18a70b59-777a-4ad2-9a57-14f742e7ab76@83.147.18.150:443?type=tcp&security=reality#ES 🇪🇸 ┇ VLESS-TCP-RLT - Regxa Company for Information Technology Ltd ┇ 83.147.18.150
 vless://974d9d8d-101b-4559-8253-6bcc7666cb2d@145.223.68.164:8443?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Regxa Company for Information Technology Ltd ┇ 145.223.68.164
-vless://b69a1cc8-fb21-46ae-9e8c-06fbc0253323@91.108.248.154:233?type=xhttp&security=reality&path=/moveis&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=-IDqlvbFzY8wFWvkoZzWOe2iWPB-cBoToyQ5zcinbF0&sid=210cfdf17087#PL 🇵🇱 ┇ VLESS-XHTTP-RLT - Regxa Company for Information Technology Ltd ┇ 91.108.248.154
-vless://59b057a6-4307-4619-8c90-420aa070722a@91.108.249.233:443?type=tcp&security=reality&sni=snappfood.ir&fp=chrome&pbk=oNmm3eVPXYI5qpcgH419nwYyLeFkYxxEwiPRgod23T4&sid=8e#PL 🇵🇱 ┇ VLESS-TCP-RLT - Regxa Company for Information Technology Ltd ┇ 91.108.249.233
-trojan://vu2wru4n-qqgg-dtkm-39ci-dye04dr6bi70@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

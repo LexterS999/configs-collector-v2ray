@@ -1,6 +1,1 @@
-trojan://88nwpeze-n2tf-rapj-epp7-ox419rc24odg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://tcr8m33c-54nc-d6ve-r0g2-4jajsqibb8lq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g61xmy36-t2i4-d8lm-nlzk-dd83xky96hwz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://h6yy57p5-k8sf-fa9w-hmls-hpqgwqg0g29k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3ce3df55-74e5-4adf-b958-d25987e62ae8@ch3.onfident2.top:2087?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Rayaneh Pardazan Baran Co. Ltd. ┇ 37.32.126.114
-trojan://vdnnpntb-pj5h-ptqk-w994-4mhd9t0yl5zw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

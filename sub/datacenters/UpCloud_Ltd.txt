@@ -1,11 +1,3 @@
-trojan://m8mcas4a-mlog-6t80-a7zb-12ps3wfe3ibl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://xe6uqljb-6tw2-g8zu-40xv-9d98nl39s3e9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2vivhxng-jc7o-15no-mwzr-dajusyesxzdn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wuh58ed2-tsg9-s5gl-gzgo-7qthh9eoil4m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://48735946-f706-4873-b9b6-d9f0255475cc@85.9.206.79:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=QYWJdS4JDdSmQKeMkJfPshFuz0bC3jhm9yW3uJfQFmw&sid=b4#DE 🇩🇪 ┇ VLESS-TCP-RLT - UpCloud Ltd ┇ 85.9.206.79
 vless://9fc6891e-b06b-4eb1-a6ec-5e180f7b1524@94.237.87.217:3096?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 94.237.87.217
+vless://74ea5905-0f26-4261-986c-0717ed34815d@95.217.163.167:12344?type=grpc&security=tls&sni=dl.magnataur.uk#FI 🇫🇮 ┇ VLESS-GRPC-TLS - UpCloud Ltd ┇ N/A
 vless://74ea5905-0f26-4261-986c-0717ed34815d@dl.magnataur.uk:12344?type=grpc&security=tls#FI 🇫🇮 ┇ VLESS-GRPC-TLS - UpCloud Ltd ┇ 94.237.80.207
-vless://5d8b462c-aeae-416b-9c12-4d97ea025e29@5.22.212.180:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&sid=e869#FI 🇫🇮 ┇ VLESS-TCP-RLT - UpCloud Ltd ┇ 5.22.212.180
-vless://2e53ca3b-5cfd-478a-a541-e0d803a120bb@94.237.81.247:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=HRQDhdpRIWdrdZi5CoMlO2hfLeuSc8ftVWCvwwwsDW0&sid=e869#FI 🇫🇮 ┇ VLESS-TCP-RLT - UpCloud Ltd ┇ 94.237.81.247
-vless://36481763-ce92-40ca-8f57-e958f46440ce@94.237.87.217:8443?type=tcp&security=reality&sni=fast.com&fp=safari&pbk=rZJLzDW7cXULO8boqn5askdK6BmzgJ4m2h9FDSXwjhE&sid=8e34#FI 🇫🇮 ┇ VLESS-TCP-RLT - UpCloud Ltd ┇ 94.237.87.217
-trojan://2fqxr72f-3ugl-pllq-en7r-nsmzmiq7nq9z@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

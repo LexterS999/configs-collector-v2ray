@@ -1,10 +1,4 @@
-trojan://3uh2auge-cl58-jop5-qrfa-gzwlhond0dsf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://18jq3qkk-i1uq-rx6v-rtf8-7mqmfq4rhoob@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3zf7fsx8-md1x-txj4-0nvn-y6mgkkrnvrvf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3n5eyiut-n2ge-djjr-j06g-whgy1uqv4baa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://414df689-dc19-418b-849c-f0f15967d71e@185.253.116.130:443?type=tcp&security=reality&sni=adobe.com&fp=chrome&flow=xtls-rprx-vision&pbk=ljzfoaXVBSNu3tw58-B0WNViso1aA9JSCX9GUcMDu0k&sid=4048A3da#AE 🇦🇪 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 185.253.116.130
 vless://414df689-dc19-418b-849c-f0f15967d71e@uae.kitten-tube.com:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 185.253.116.178
-vless://41f84081-f7d0-5444-9b92-1edcedddc51c@85.158.108.33:443?type=grpc&security=reality&sni=fauxid.com&fp=chrome&pbk=1nNTQrZmWpNvvl8_DjAHomTBLs15hjLqgVSw13wKyjo#BG 🇧🇬 ┇ VLESS-GRPC-RLT - HZ Hosting Ltd ┇ 85.158.108.33
 vless://cfe5d1fc-521e-46db-bc43-db8d62869070@essi.kimjo.ir:2025?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 89.150.40.53
-vless://9722f7a5-6068-4aba-a757-e57d7b7d18a7@85.158.110.62:443?type=tcp&security=tls&sni=ams5.vpntype.dev&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - HZ Hosting Ltd ┇ 85.158.110.62
-trojan://avzm0e9w-m2r4-g36j-23jq-hfqiu7t57nlg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://9722f7a5-6068-4aba-a757-e57d7b7d18a7@85.158.110.62:443?type=tcp&security=tls&sni=ams5.vpntype.dev&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - HZ Hosting Ltd ┇ N/A
+vless://9dbea40a-211e-4d52-922b-96ab9aadd385@ams5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - HZ Hosting Ltd ┇ 85.158.110.62

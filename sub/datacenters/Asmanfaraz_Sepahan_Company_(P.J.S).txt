@@ -1,7 +1,2 @@
-trojan://yb8a90p9-1yfm-m4hw-1ou0-iie33sklvw0s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://pp2gfre2-88t9-2rpw-u5z3-kfg1zb0qksa6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9nd9pv7m-hi0i-syho-oy0k-w2bkfxjm2lvv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://i0xmf430-if6s-rpsp-n88c-3l80n2vgy7un@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://57516354-6eaf-43ec-d725-de5b530c17ff@93.126.18.29:43388?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.29
 vless://ea145545-2d51-4eca-814a-e125976c9938@93.126.18.79:8085?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.79
-trojan://7of5g9bp-g0my-4hnf-dli3-nf2h5vjlxyqw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

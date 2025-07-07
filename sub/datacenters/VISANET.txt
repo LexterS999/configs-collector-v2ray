@@ -1,7 +1,0 @@
-trojan://nnyf7gi6-ubr2-dl0x-nf9d-ajq3iwycx2s1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://pzd36z5i-wjns-2dkn-a1fs-rpbw0v79aujv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xg39exnp-uf2f-yce2-5oet-mqkos1yzfldv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tuipe4k5-1ept-j8zl-a8z4-y76e0v88k105@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://dns68@199.68.156.69:443?sni=trojan.putata.us.kg&peer=trojan.putata.us.kg&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VISANET ┇ 199.68.156.69
-trojan://dns68@199.68.156.68:443?sni=trojan.putata.us.kg&peer=trojan.putata.us.kg&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - VISANET ┇ 199.68.156.68
-trojan://rkk2ly08-vs9m-bvn0-q0f1-vrqmkkbaupku@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

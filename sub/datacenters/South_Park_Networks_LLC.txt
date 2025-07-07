@@ -1,9 +1,4 @@
-trojan://cpmc92ht-32yp-kd39-ibjr-bklnnkl0ekan@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://atzcxift-t8m4-lsb8-hb4u-8tjdx8w4ymvj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0kkgar7t-9vao-0x2e-9036-sanls0ro2zsj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bf8obkk0-97st-gvws-8cn0-93a8u7d1plwt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://542d6d26-e374-432a-a1d4-f20d62eae00f@141.105.130.118:21109?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 141.105.130.118
 vless://chanel-v2rayfree1-com@91.231.182.187:20977?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 91.231.182.187
 vless://v2rayfree1-injas-biya@91.231.182.187:21341?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 91.231.182.187
-vless://ItsLegendaryking@141.105.130.162:443?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-RLT - South Park Networks LLC ┇ 141.105.130.162
-trojan://nrdioj8z-68q6-9s4u-er7w-00suj1ra2xm8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://ItsLegendaryking@141.105.130.162:443?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 141.105.130.162

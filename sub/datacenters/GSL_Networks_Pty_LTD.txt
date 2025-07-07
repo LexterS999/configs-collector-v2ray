@@ -1,7 +1,0 @@
-trojan://dmbknr8q-fvof-vfcl-y9pm-c44fggytsrri@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://c90sb1fb-hw8c-vclf-93w6-lvonlssysgj9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nyzfehtr-2mrl-ya01-sre0-rro45v3ydrwi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g3qe87hf-21wh-v1e6-x63v-qt5tv51g13cv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - GSL Networks Pty LTD ┇ 173.244.56.9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - GSL Networks Pty LTD ┇ 173.244.56.6
-trojan://485hbc2e-wknl-gqpd-vskn-tv9s1a2zoqbc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

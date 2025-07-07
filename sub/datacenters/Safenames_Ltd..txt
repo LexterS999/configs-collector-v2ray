@@ -1,6 +1,0 @@
-trojan://8c601kjq-0x6x-8wnb-nced-62qe9gs4mpxe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://ts379xv6-4xbu-qx68-cdhz-a9fu1v2l3y45@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://lv164dfs-4cpc-cecr-47tj-apxm4aowc6sh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rfalul9s-5idp-q389-yq86-n0u1jjbpifkx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://41742_920c8caa@hk31.ssgnode.ga:443?security=tls#GB 🇬🇧 ┇ TROJAN-TCP-TLS - Safenames Ltd. ┇ 31.3.65.15
-trojan://ucy3346f-4ivk-dvyi-nyxi-legxxnag26ii@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

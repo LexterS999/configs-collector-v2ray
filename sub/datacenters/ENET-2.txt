@@ -1,6 +1,0 @@
-trojan://3tydqf0j-lbm0-w4vn-6rwb-nniwcrq2eykk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-30 | 18:23 ]
-trojan://ua1xs7ve-gkej-c40r-lkc8-3vjw9nfleiq3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0dgegh7y-loob-9i7o-rseu-0vjrfbzkczzo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ah1cjc20-sy2s-cnsz-9cct-pjybiw549eqa@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://a49e00ae-0e0d-44ae-a265-95d9af24f521@movie.imanfilmdownload.ir:8880?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=7u1G1jRECn5kX3aJuaTM7SQBXg-AzceBoLmW3NT6mlY&sid=21#US 🇺🇸 ┇ VLESS-TCP-RLT - ENET-2 ┇ 173.45.117.20
-trojan://66xd3ejf-343e-rj46-m9c5-wrq9io0tevpb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0

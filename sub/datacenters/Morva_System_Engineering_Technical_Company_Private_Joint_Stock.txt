@@ -1,6 +1,1 @@
-trojan://mn1k4ncj-iip6-oa06-ybod-snmp2nx5azpw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://cv5jj82h-35sg-7kfh-4xdy-no77qxhap8zy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://agwvhuxb-qson-5xhm-51e8-boerrjsjvps0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r8ojmh6l-1rhs-01r0-40ty-0d5y7e4fy1s0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://793cfe55-44d8-49be-a088-20474d6791d7@79.132.192.72:41343?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Morva System Engineering Technical Company Private Joint Stock ┇ 79.132.192.72
-trojan://aczjjcaz-tj6w-q9jj-d5bs-dj9cbcdf9jdm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

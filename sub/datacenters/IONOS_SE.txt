@@ -1,9 +1,3 @@
-trojan://q80h8qft-amql-81ym-brn4-kzdt7zp63ybv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://uddc1dt9-l73j-jzqi-y4ut-ceaw6i4dlt8e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://i5wwb5px-h8qi-z30d-qn5k-39jq13js0hfn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zj0je3nr-n3m5-4o9p-7vp9-kl05uxgvqpip@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://fc801d0c-a1a5-4ba4-b256-6b76b1ce4efd@1237273737goodfiru.mongral.ir:443?type=tcp&security=none&sni=speedtest.net#DE 🇩🇪 ┇ VLESS-TCP-NTLS - IONOS SE ┇ 217.154.220.28
+vless://b74803b1-5940-44fa-a4d2-32a910b4f18b@217.154.220.28:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - IONOS SE ┇ 217.154.220.28
 vless://f46ad8d7-f22c-40fc-d0b2-5db602a6d815@82.165.77.122:2083?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - IONOS SE ┇ 82.165.77.122
-vless://33453e54-dd1d-486c-8415-02892db0a0f5@85.215.250.229:443?type=xhttp&security=reality&path=/&sni=google.com&fp=chrome&pbk=DGei53BP-DjJoMksZSREjZcei7mCPTxUeru1_SPL5DQ&sid=4e03f70e8f06cc#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - IONOS SE ┇ 85.215.250.229
-vless://5125eabf-8d91-4ed6-9d96-1ecbd0644e7f@66.179.243.212:443?type=ws&security=tls&path=/&sni=vkvd127.mycdn.me&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IONOS SE ┇ 66.179.243.212
-trojan://b7l1o8ed-822k-p5ck-wgmt-oi2d1usgwo5t@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://ec07d765-b806-47d2-a2cb-9cb65e6191c0@134.122.92.59:41699?type=tcp&security=reality&sni=digital-void.com&fp=chrome&flow=xtls-rprx-vision&pbk=EREgIrF1E8Fflj-v39VpjCNGHbR0C2gVlzWXVHKZLmc&sid=ba#DE 🇩🇪 ┇ VLESS-TCP-RLT - IONOS SE ┇ 134.122.92.59

@@ -1,7 +1,0 @@
-trojan://mbwwfjqz-u2fs-eekn-aph1-1xk66vuhzal9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://82oer7w6-6tv8-t5xf-rw1t-2k3lc9k4x7my@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wc45g1sv-rgyu-fwm4-klet-b2my47d3n75s@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://isuy3wy0-z1jz-nnw4-lfb8-8a0p5b1oj8vc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://dc089b27-3f77-5c89-a282-bbbb728302d1@45.88.183.53:443?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.53
-vless://2201fa52-f394-5da9-80ab-7de702c379e4@45.88.183.54:443?type=ws&security=tls&path=/vlessfp=chrome&sni=zula.ir#IN 🇮🇳 ┇ VLESS-WS-TLS - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.54
-trojan://birz5axy-lfsq-wjbq-1ypj-hvjvlix2c6xx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,0 @@
-trojan://1o6tz1lo-4u96-kgax-f64p-ylphh6r6ulk5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://zl32u80l-mgrc-rz39-0e1t-f7jjx31x9n94@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qsgqe4fz-utgj-pr22-e8hn-x0nnojw9id5a@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://f5b1mou0-drq3-qhnv-wp4i-009olrj21q4g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443?type=ws&security=tls&path=/NiREvilxXx&sni=TURKISH.NSCL.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - Alastyr Telekomunikasyon A.S. ┇ 185.8.129.187
-trojan://dejxa937-w24n-goll-x53c-tx6xlaz9zpt4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

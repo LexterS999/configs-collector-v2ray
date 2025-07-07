@@ -1,7 +1,3 @@
-trojan://jglpwxlv-7wlg-k3q9-4gxq-3na3hj1gqynx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://0wy8f60i-dni6-rwj8-7zdu-uv7kn1651tx3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://iqlt78wl-dmno-mcxw-v9nj-hxz0iyh3c61q@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rg78c7c2-08jq-s0x6-38g9-mca6rhpliuga@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://43e0a050-51a3-46cc-aa0e-ab417cc50cb9@0gb4m5.de3.bbbbbbbbbbbb9.biz:10240?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.93
 vless://b8cc874e-1aa6-46c3-b163-0302e478a642@178.239.155.107:10080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asiatech Data Transmission company ┇ 178.239.155.107
 vless://b8cc874e-1aa6-46c3-b163-0302e478a642@178.239.155.115:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 178.239.155.115
@@ -20,7 +16,6 @@ vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.231:2051?type=tcp&securi
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.231:2054?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.201.231
 vless://ab102656-e612-4b73-89bf-ab4c66a06507@212.33.206.110:38597?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.206.110
 vless://0f4af021-a22a-41f4-8d9d-08e486a923c2@212.33.206.204:8443?type=tcp&security=none&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.206.204
-vless://45a1ffa2-ddc7-428c-9e25-9ab62e9496b3@212.33.206.253:6001?type=ws&security=none&path=/&sni=fast.com#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asiatech Data Transmission company ┇ 212.33.206.253
 vless://112435f2-9343-490c-a420-2e990f7f349f@212.33.206.94:32882?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.206.94
 vless://e199e387-2fc2-4864-8709-ae53ed55f48f@27ca3x.de1.bbbbbbbbbbbb9.biz:1689?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.91
 vless://81cee1c3-09c3-4980-8d37-fa3e71740448@2n6fwk.de2.bbbbbbbbbbbb9.biz:9669?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.92
@@ -78,5 +73,13 @@ vless://58251b29-1e57-4e84-b48f-c7f8e755dcab@turk2.foxinonet.ir:443?type=ws&secu
 vless://f6301ac3-4d7c-4343-b867-c4db21cb30cb@wlbrpe.de2.bbbbbbbbbbbb9.biz:9424?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.92
 vless://fdb39481-9ed0-4958-bb26-260f00368e6e@xga7nh.de12.spacerwork.pro:4166?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.77
 vless://0a32cad0-8752-4309-af82-22aae4c83aa7@zf197a.de3.bbbbbbbbbbbb9.biz:10196?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.93
-vless://c3d4e5f6-a7b8-9012-cdef-3456789abcde@185.112.33.245:2053?type=tcp&security=reality&sni=fast.com&fp=firefox&pbk=ABC9876543210fedcba9876543210fed#IR 🇮🇷 ┇ VLESS-TCP-RLT - Asiatech Data Transmission company ┇ 185.112.33.245
-trojan://tlm1mgyl-aeex-44ju-p2e5-ue5mb4wogdtx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://636f267e-e110-4e6f-96b7-ada5bf158724@138.199.145.64:443?type=tcp&security=reality&sni=www.tgju.gold&fp=chrome&pbk=5sXWqE84mkFDv0yzfspH33P8HdSEasb3W_jAjF0JPFg&sid=7d2080b9735ae25f#IR 🇮🇷 ┇ VLESS-TCP-RLT - Asiatech Data Transmission company ┇ N/A
+vless://ca75e000-ff1a-4117-a4f1-1d5ebe66e2cf@154.81.182.233:443?type=xhttp&security=reality&path=/&sni=myket.ir&fp=chrome&pbk=328tJfiuSwrDEPPIpsiT7C4BUUZNGVxdo2DKam7RmBI&sid=2cecca7813d0c575#IR 🇮🇷 ┇ VLESS-XHTTP-RLT - Asiatech Data Transmission company ┇ N/A
+vless://ca75e000-ff1a-4117-a4f1-1d5ebe66e2cf@156.253.222.28:443?type=xhttp&security=reality&path=/&sni=myket.ir&fp=chrome&pbk=328tJfiuSwrDEPPIpsiT7C4BUUZNGVxdo2DKam7RmBI&sid=2cecca7813d0c575#IR 🇮🇷 ┇ VLESS-XHTTP-RLT - Asiatech Data Transmission company ┇ N/A
+vless://f7f284e5-0cc8-4441-b1a0-32b4ace6b280@156.253.234.12:443?type=xhttp&security=reality&path=/&sni=myket.ir&fp=chrome&pbk=7Nn2ipA73HTAIvueCOLXTHr1EEREz2lv3g8MkAeiMAc&sid=2c#IR 🇮🇷 ┇ VLESS-XHTTP-RLT - Asiatech Data Transmission company ┇ N/A
+vless://f43caf0c-2695-4f67-8d10-2ac33569aebf@159.69.125.230:443?type=xhttp&security=reality&path=/&sni=myket.ir&fp=chrome&pbk=3-qJLbt6Op1eyW-6dXFVFQvH60qV1uZZlUZ-zSHCtXw&sid=0ae7f9799549beb7#IR 🇮🇷 ┇ VLESS-XHTTP-RLT - Asiatech Data Transmission company ┇ N/A
+vless://41237280-6f22-4dd3-c841-223032991f7c@195.201.125.249:2053?type=tcp&security=reality&sni=uplod.ir&fp=chrome&flow=xtls-rprx-vision&pbk=GYktdGZKmm22eeaIBgF98v_WT7daI8C5zVGGi2xVJ0Y#IR 🇮🇷 ┇ VLESS-TCP-RLT - Asiatech Data Transmission company ┇ N/A
+vless://64ae71df-4af7-4477-bb7d-8ea9a551bc21@37.27.246.211:443?type=xhttp&security=reality&path=/&sni=myket.ir&fp=chrome&pbk=wwJmfWX0TYAkFhwG2ej66BRss-LHHJD5BFhtBcRZF0Y&sid=ce5a88c525#IR 🇮🇷 ┇ VLESS-XHTTP-RLT - Asiatech Data Transmission company ┇ N/A
+vless://1eece044-ce02-484d-b3f2-609e78403690@45.88.24.94:55269?type=tcp&security=reality&sni=Soft98.ir&fp=chrome&flow=xtls-rprx-vision&pbk=j6u7Lnap55eCAwN4m2is0Sn7udaxr_l7Dp3rfV6mkXE&sid=1de4d26b#IR 🇮🇷 ┇ VLESS-TCP-RLT - Asiatech Data Transmission company ┇ N/A
+vless://aac2e6a5-a2be-438e-c129-d55efadf8213@49.13.154.236:40766?type=grpc&security=reality&sni=kukala.ir&fp=firefox&pbk=caz_i1Hc7rUY4ImArNla_sCoqJVpUTHyjkQN9b6Odi0&sid=bc#IR 🇮🇷 ┇ VLESS-GRPC-RLT - Asiatech Data Transmission company ┇ N/A
+vless://80224ec3-8289-43a4-8de1-dce19bd6c439@94.156.203.224:26626?type=tcp&security=reality&sni=Soft98.ir&fp=chrome&flow=xtls-rprx-vision&pbk=rwpQdRKmL3gnGph-hm3zEsMhv48CPpgiGn-FNrHiNmY&sid=ed84644a#IR 🇮🇷 ┇ VLESS-TCP-RLT - Asiatech Data Transmission company ┇ 94.156.203.224

@@ -1,7 +1,0 @@
-trojan://33w2w03l-p52m-8axc-5dyh-9vtfi4qmsw7b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://66m8yipu-1koy-g9n6-1wkg-7wege9mgs7za@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://85jq4tow-ifqe-2urg-1218-ux6ovltklmmf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://p6268rrr-fyou-bzqc-ngk0-fv039jqypgnx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://0d26383d-21f7-4159-986a-a7ecac87e072@103.57.64.48:443?type=tcp&security=reality&sni=google.com&fp=firefox&flow=xtls-rprx-vision&pbk=sLOqi_GLDpQTPbqpUIAHoBqDCzIamePjAy701bD7mWI&sid=7DdB966b#IN 🇮🇳 ┇ VLESS-TCP-RLT - Net for Choice ┇ 103.57.64.48
-vless://0d26383d-21f7-4159-986a-a7ecac87e072@ind.kitten-tube.com:443?type=tcp&security=reality&sni=google.com&fp=firefox&flow=xtls-rprx-vision&pbk=sLOqi_GLDpQTPbqpUIAHoBqDCzIamePjAy701bD7mWI&sid=7DdB966b#IN 🇮🇳 ┇ VLESS-TCP-RLT - Net for Choice ┇ 103.57.64.43
-trojan://1mx558ib-yb1p-cynx-byza-fejexg0kk92x@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

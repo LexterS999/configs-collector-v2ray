@@ -1,8 +1,0 @@
-trojan://ojnoxge6-78wo-5rbf-cb3s-33oc07jrx0a9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://b0dl7jt7-ttjr-nban-0r7x-7n0bjjlekq4l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://j8otrhja-sg2h-71a8-sfjx-3l33fygl3lbl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://anz31cn9-zw1i-yp5w-zsyl-o1ze9ovup7ai@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#CY 🇨🇾 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 134.255.210.49
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.36.61.59:990#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 192.36.61.59
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.46.238.35:989#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 89.46.238.35
-trojan://mkmljqaa-asrd-ntor-zbhj-nznptlj9l96d@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

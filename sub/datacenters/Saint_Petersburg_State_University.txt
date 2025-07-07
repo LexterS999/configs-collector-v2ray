@@ -1,0 +1,2 @@
+vless://030ba667-fde3-498d-99bb-9a0187519dcf@193.104.57.136:40000?type=tcp&security=reality&sni=spbu.ru&fp=safari&flow=xtls-rprx-vision&pbk=vqnE1wKOqp4JXotgCl4SI2CBJ7ys3080cZjL83r9pmE&sid=49443d1a#RU 🇷🇺 ┇ VLESS-TCP-RLT - Saint Petersburg State University ┇ N/A
+vless://030ba667-fde3-498d-99bb-9a0187519dcf@rua02.333210.xyz:40000?type=tcp&security=reality&sni=spbu.ru&fp=safari&flow=xtls-rprx-vision&pbk=vqnE1wKOqp4JXotgCl4SI2CBJ7ys3080cZjL83r9pmE&sid=49443d1a#RU 🇷🇺 ┇ VLESS-TCP-RLT - Saint Petersburg State University ┇ N/A

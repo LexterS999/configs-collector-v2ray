@@ -1,15 +1,9 @@
-trojan://6ru72eec-g2fi-p9ms-npq1-hlpzxr2f3umk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://8bc7ml4z-zxd2-bwg7-zo7y-0akttold9ikg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://sfasq079-xnyk-v30o-yln6-f8l3dbdaoatm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://386li4fm-8phb-k7m5-c685-5vz5e4wf58s2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d89b753c-aeef-4fab-9c31-744397572941@217.60.36.198:14961?type=ws&security=none&path=/VPNPacket#AE 🇦🇪 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 217.60.36.198
 vless://6127d9cc-c1e2-4798-b165-7540a6d0fac2@217.60.36.198:26398?type=tcp&security=none&path=/@VPNPacket#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 217.60.36.198
 vless://41543083-fdfc-4951-b2a1-238ea58cdda6@217.60.37.197:12497?type=ws&security=none#AE 🇦🇪 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 217.60.37.197
 vless://5c661932-e018-4122-b49b-a0f5fd7e3dbd@217.60.37.197:21576?type=httpupgrade&security=none&path=/@VPNPacket#AE 🇦🇪 ┇ VLESS-HTTPUPGRADE-NTLS - Cgi Global Limited ┇ 217.60.37.197
 vless://3027597e-6217-44a7-b16d-5de2acea546c@217.60.37.225:33027?type=tcp&security=none&path=/#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 217.60.37.225
-vless://a8a73eb6-4564-43b9-8fde-9b10efb8174a@217.60.36.232:52017?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=alV6r4qTulboQFegXOIvLa8ZvJmI8GA4_9uRupWknFM&sid=0fdffc#AE 🇦🇪 ┇ VLESS-GRPC-RLT - Cgi Global Limited ┇ 217.60.36.232
-vless://1a4d3af1-e5cb-4e6e-b308-2d053d2c84ca@217.60.37.165:443?type=grpc&security=none#AE 🇦🇪 ┇ VLESS-GRPC-RLT - Cgi Global Limited ┇ 217.60.37.165
-vless://3175c0e6-2d00-4560-d90e-1a5a4810c4c0@45.38.139.104:45134?type=tcp&security=reality&sni=microsoft.com&fp=chrome&pbk=0exSjluSEfNvR4S1TYT7PIBHhLQS6ypHZXM25xtJa04#AL 🇦🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 45.38.139.104
+vless://1a4d3af1-e5cb-4e6e-b308-2d053d2c84ca@217.60.37.165:443?type=grpc&security=none#AE 🇦🇪 ┇ VLESS-GRPC-NTLS - Cgi Global Limited ┇ 217.60.37.165
 vless://02fe77fa-19e3-4689-8357-6283f9c135c0@185.159.128.205:21315?type=xhttp&security=none&path=/785fa5ad#FI 🇫🇮 ┇ VLESS-XHTTP-NTLS - Cgi Global Limited ┇ 185.159.128.205
 vless://3525f963-4bde-4fe0-af67-90eb371c5413@185.159.128.205:23467?type=xhttp&security=none&path=/785fa5ad#FI 🇫🇮 ┇ VLESS-XHTTP-NTLS - Cgi Global Limited ┇ 185.159.128.205
 vless://077d6141-48ea-436d-a3fe-4d9fa245c272@185.159.128.205:28413?type=xhttp&security=none&path=/785fa5ad#FI 🇫🇮 ┇ VLESS-XHTTP-NTLS - Cgi Global Limited ┇ 185.159.128.205
@@ -17,22 +11,17 @@ vless://0ae92936-ab35-44ef-a28e-a2b1ff1f80ca@185.159.128.205:33985?type=xhttp&se
 vless://14cc126d-6d89-4fdd-b3c0-3b361547765a@185.159.128.205:48369?type=xhttp&security=none&path=/785fa5ad#FI 🇫🇮 ┇ VLESS-XHTTP-NTLS - Cgi Global Limited ┇ 185.159.128.205
 vless://025856d8-1e5d-488a-98cf-720154b1e211@185.159.128.205:53570?type=xhttp&security=none&path=/785fa5ad#FI 🇫🇮 ┇ VLESS-XHTTP-NTLS - Cgi Global Limited ┇ 185.159.128.205
 vless://ed8920ff-bc77-4ee5-9db0-c1038c57aa30@46.8.71.222:23856?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.71.222
-vless://ffba60dc-bcce-400f-de49-6f01a6e005d5@109.206.236.150:37803?type=grpc&security=reality&sni=refersion.com&fp=firefox&pbk=1LFSbqvEcpMWTkSpeSFONkwP9qIEAPnoSui79QGyqQE#FI 🇫🇮 ┇ VLESS-GRPC-RLT - Cgi Global Limited ┇ 109.206.236.150
-vless://5e9d435b-6033-447f-9c17-3ded15eee199@109.206.236.150:56095?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=i7AF5h-00LNlJR3aPBgQ1GIEPtIixt1_YjP38oMFuBM#FI 🇫🇮 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 109.206.236.150
 vless://43d03caa-e0c8-4484-984a-d4cccd89bfba@193.176.153.67:81?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 193.176.153.67
 vless://0adfd6b8-baac-4a91-88dc-7f2bdb4274c8@45.84.88.243:53758?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.84.88.243
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@46.8.224.211:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#FR 🇫🇷 ┇ VLESS-WS-NTLS - Cgi Global Limited ┇ 46.8.224.211
-vless://3ce7d19b-6d03-414c-80b2-5f628cf98a55@cf-node-de-1.kcjb.org:443?type=ws&security=tls&path=/&sni=node-rm-fr-1.origan.us.kg#FR 🇫🇷 ┇ VLESS-WS-TLS - Cgi Global Limited ┇ 193.176.179.159
 vless://c1bd8f54-57f2-4b43-a0b3-cefa80a36fa7@josef.aliranjbar.top:23291?type=tcp&security=none&path=/#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.36.170.74
-vless://e144cde9-60aa-4e4c-bde9-29f9869b6187@193.176.179.213:1616?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=dCGmYTxcSEJCQvlF_n6JlgX6S-3ZL5WvM0nsxKmesiM&sid=c16e7e3d11d957ed#FR 🇫🇷 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 193.176.179.213
-vless://31d974e9-6b16-4b29-a7d2-2fb7f4f2e8d5@194.116.214.187:777?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 194.116.214.187
-vless://31d974e9-6b16-4b29-a7d2-2fb7f4f2e8d5@194.116.214.187:888?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 194.116.214.187
+vless://31d974e9-6b16-4b29-a7d2-2fb7f4f2e8d5@194.116.214.187:777?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.116.214.187
+vless://31d974e9-6b16-4b29-a7d2-2fb7f4f2e8d5@194.116.214.187:888?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.116.214.187
 vless://bb03cf22-5e68-4e21-cb14-deaac7143593@fl.blueberrynetwork.website:777?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 5.178.96.177
 vless://d80b9af5-5351-4d37-8ba5-c9a7fca650f6@45.38.42.220:2085?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.42.220
 vless://d80b9af5-5351-4d37-8ba5-c9a7fca650f6@45.38.42.220:2087?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.42.220
 vless://d80b9af5-5351-4d37-8ba5-c9a7fca650f6@45.38.42.220:8443?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.42.220
 vless://d80b9af5-5351-4d37-8ba5-c9a7fca650f6@45.38.42.220:8880?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.42.220
-vless://93851c4d-a03b-41c0-b3a8-546ecc58dbe8@azaronnear.sunburst.ddns-ip.net:8443?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=4KLVlBG535QbNf9hBeaus6fS2y539ceR8ezCQIdoyTM&sid=b9a329#IE 🇮🇪 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 91.108.189.42
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgMTk0LjExNi4yMTYuMTA0IiwiYWRkIjoidHVyay5zbWFydC1wYXJ0aW4uY29tLnRyIiwicG9ydCI6ODA4MCwiaWQiOiJkZGUxZjFjMi0yNDI2LTRlMDUtOTU3OC02YTZmNDQ5YTRhZWYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vless://bfe995f7-72dd-4e50-8211-e66d466a9c75@194.120.116.106:8880?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.120.116.106
 vless://2140887e-eebe-46a5-873d-0a027873ff7a@194.116.215.36:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.116.215.36
@@ -43,16 +32,9 @@ vless://bfe995f7-72dd-4e50-8211-e66d466a9c75@194.120.116.106:8888?type=tcp&secur
 vless://84bdff7a-01cd-4e33-b663-0012d9edf161@vizzpn.freenet.vizzfrag.ir:24499?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.116.215.36
 vless://226a5194-ad7a-4aca-9852-e84aeca24381@vizzpn.freenet.vizzfrag.ir:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.116.215.36
 vless://cbea754d-4ae1-4260-f86d-124a107255e7@vizzpn.freenet.vizzfrag.ir:80?type=xhttp&security=none&path=/#NL 🇳🇱 ┇ VLESS-XHTTP-NTLS - Cgi Global Limited ┇ 194.116.215.36
-vless://ea11001c-f391-42f9-9db8-7fa3fadf33b7@193.176.190.40:777?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 193.176.190.40
-vless://ea11001c-f391-42f9-9db8-7fa3fadf33b7@193.176.190.40:888?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 193.176.190.40
-vless://e4bcf8af-2ecd-4f07-8ced-eb6d22adbe33@31.15.16.52:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=1EyVdDvZh94NSEQlquNLZgqnGNF0k21zl32OOslghCc&sid=29c9bbce#NL 🇳🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 31.15.16.52
-vless://6c877f5e-de88-487f-9c35-3158178a8fdd@45.156.25.214:777?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 45.156.25.214
-vless://769fcf2f-f0a9-4575-8b07-61b74f797d75@45.89.244.55:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&flow=xtls-rprx-vision&pbk=ePfRAoCF-i9c-mMkM8XyB0jO5xIYBtNp7dy-ZzDDWF4&sid=863be0c21eabf8f9#NL 🇳🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 45.89.244.55
-vless://1356026e-51b6-4bc8-9d77-f1d2268f9cf7@45.89.244.55:8443?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=C03-K0YaJJY_5sZ3NGQF9w0lhaZGAWLtxmmIXyrBfxY&sid=ba0747#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Cgi Global Limited ┇ 45.89.244.55
-vless://b98832aa-d462-c5d3-bbcf-856c32552778@46.8.229.108:2054?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=VdkI90unDxikneyC8_pqqpxP0X12WT1O55B5D9u-jCc&sid=1424c8e02c01ec9d#NL 🇳🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 46.8.229.108
-vless://08b4a82b-fec1-43a5-996b-2e8d8f4521af@46.8.231.195:4219?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=BP251BSILx4zMK4iwrBL3GdtaTh9iOvPcwdU8g7TM3E&sid=9eebef#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Cgi Global Limited ┇ 46.8.231.195
-vless://3ffebbfe-b713-47cf-9901-a6d29c11b005@nl.suppageservice.xyz:17686?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=keulJe3HiAQ8xiEI7ekIx2zxIGwg0tAKFE4PifoWuyU&sid=106c#NL 🇳🇱 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 46.8.68.205
-vless://cd05b0da-ccbd-4296-ccac-50a56d3230c9@95.182.115.107:11118?type=tcp&security=reality&sni=digikala.com&fp=chrome&pbk=aPsmO8ZEpeiONndjuUCTvZYd_356WdZ4b0CgwufIHB4#RU 🇷🇺 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 95.182.115.107
+vless://ea11001c-f391-42f9-9db8-7fa3fadf33b7@193.176.190.40:777?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 193.176.190.40
+vless://ea11001c-f391-42f9-9db8-7fa3fadf33b7@193.176.190.40:888?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 193.176.190.40
+vless://6c877f5e-de88-487f-9c35-3158178a8fdd@45.156.25.214:777?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.156.25.214
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgNDUuMTEuOTMuMTMzIiwiYWRkIjoiNDUuMTEuOTMuMTMzIiwicG9ydCI6NDAwMSwiaWQiOiI1NjYwNzUyYi05Y2QyLTQyOTUtYTRmYS1lNDlmMWJiODhlYmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgNDUuMTEuOTMuMTMzIiwiYWRkIjoiNDUuMTEuOTMuMTMzIiwicG9ydCI6NDAwMiwiaWQiOiI1NjYwNzUyYi05Y2QyLTQyOTUtYTRmYS1lNDlmMWJiODhlYmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vless://4d334669-c5a6-4d00-a67f-6af927864a28@194.36.171.165:47726?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.36.171.165
@@ -69,7 +51,4 @@ vless://b1b8eefe-c8eb-4387-9838-7832b5c5f8ce@45.11.92.249:8443?type=grpc&securit
 vless://b82a8d33-9bb0-463a-a94d-53bb5e9b151d@45.11.93.133:70?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.11.93.133
 vless://498be6d7-9e92-409c-9cf0-2665c6f0507d@home.fama-xmvppices.site:51909?type=xhttp&security=tls&path=/speedtest&sni=home.fama-xmvppices.site#US 🇺🇸 ┇ VLESS-XHTTP-TLS - Cgi Global Limited ┇ 45.152.86.52
 vless://bb03cf22-5e68-4e21-cb14-deaac7143593@us.blueberrynetwork.website:777?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.113.37.240
-vless://2a788fe0-5da8-4273-dc31-f9fda406d252@45.152.86.95:777?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 45.152.86.95
-vless://ed4ebd0e-bce1-47d0-9473-366f0706369a@45.156.24.151:2087?type=tcp&security=reality&sni=discord.com&fp=chrome&pbk=jTxQOEt_8YXQRC67o0sLlMQK_KOuVCg7tro0M2cUZVQ&sid=64636272#US 🇺🇸 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 45.156.24.151
-vless://eff2bd9b-d1a3-4564-997a-d08d8e3ac32a@45.156.24.151:443?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=jTxQOEt_8YXQRC67o0sLlMQK_KOuVCg7tro0M2cUZVQ&sid=64636272#US 🇺🇸 ┇ VLESS-GRPC-RLT - Cgi Global Limited ┇ 45.156.24.151
-trojan://if73dyj1-bncu-xdfo-0f50-bvxz0lneoac5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://2a788fe0-5da8-4273-dc31-f9fda406d252@45.152.86.95:777?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.152.86.95

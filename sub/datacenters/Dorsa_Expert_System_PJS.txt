@@ -1,6 +1,1 @@
-trojan://0oxcssc4-iatw-k742-09jx-p95to38eu38n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://cbpb7daz-7ybd-1oby-jl8h-9u15s7oax8hk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jr0g1gqj-qlvp-yf0g-qidv-k6suas7zmzzu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fttbtwv7-i225-agv5-xgoc-hc0z2w6c6ejp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3b6cdf68-8dbb-4d76-903d-de4a389cc3a9@ir.wefamily.site:24090?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dorsa Expert System PJS ┇ 91.216.171.81
-trojan://jej1rk9t-0zt6-51eb-1qu9-aghl6ipenje3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,0 @@
-trojan://4yb5z8q7-rbm4-fchl-41h8-bhff8wjquu0f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://lq1zufa5-2gja-ks32-9vct-kelu8tsqwwb8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5tudbkt3-3ax7-vl0u-x84r-uh128xfxiq0j@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xb5sos74-sfr0-1lkr-dx50-427medfnj40m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@fv.samiion73.ir:13469?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&sid=f49785945765b595#PT 🇵🇹 ┇ VLESS-TCP-RLT - Northern Data AG ┇ 93.119.168.32
-trojan://03gzynab-ykvn-8fdd-hrmr-t8m1y0ansrhr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

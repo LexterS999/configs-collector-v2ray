@@ -1,7 +1,2 @@
-trojan://cwe3tlyp-4iin-dz1u-4a7c-qguewyjn8hhk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://pzu7nkws-uj8t-cn89-gp3w-rmim51410cr3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://e8x5hh8o-zwry-viqb-0dq2-dkmlli1jjbx4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://td8qin9b-b2fw-eazx-ymyf-ff33akmndh54@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://Amirinventor2010@217.196.107.14:8086?type=tcp&security=none&path=/@Amirinventor2010-Youtube-Telegram#RU 🇷🇺 ┇ VLESS-TCP-NTLS - CJSC Kolomna-Sviaz TV ┇ 217.196.107.14
 vless://2f8179a0-c0ea-4f8a-97fc-39af16d2bfc5@5.42.77.71:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - CJSC Kolomna-Sviaz TV ┇ 5.42.77.71
-trojan://ringthqk-arl4-66dh-7oif-93rosr82wo0x@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,1 @@
-trojan://dxzixifx-sm7q-4xf8-uob5-isl0ywp3oeyh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://flhkhg9a-xkvg-u226-zhcd-zybpc1p64fqg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zk175c84-omej-7fv0-l3sc-f4hq4u349wmo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gx5uwq6p-w7jt-vhf8-q468-zwau3ohw3974@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://09874b38-975f-11ee-8b6c-06263e24424e@185.242.161.214:10004?type=tcp&security=none&path=/vpnjantit#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Cnc Bilisim Hizmetleri Insaat Sanayi Ve Ticaret Limited Sirketi ┇ 185.242.161.214
-trojan://cb3zytkk-6gxp-xl0v-vq0q-7zuvfbcubdq1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

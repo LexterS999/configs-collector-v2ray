@@ -1,6 +1,1 @@
-trojan://al0017hj-qhyu-2vu2-8ixw-byduhv6ktj08@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://d90k63vo-htr7-q1vv-ckjr-po4uec5lgqsk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3qxmt629-nij7-8grt-15vv-r7njumre3pm0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tjgzb3a4-8m3w-c1nd-5ovq-rysgv8f1honr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://4436b3aa-3e69-473b-b8c4-ad962d9ea66e@5.145.119.39:2086?type=tcp&security=none&path=/OceanNetworks#IR 🇮🇷 ┇ VLESS-TCP-NTLS - E-Money Net Developers 24 Company Private Joint Stock ┇ 5.145.119.39
-trojan://v4da893e-3c7e-71g1-ldan-54kop1wr9r17@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

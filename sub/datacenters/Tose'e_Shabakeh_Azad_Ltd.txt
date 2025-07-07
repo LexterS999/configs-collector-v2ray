@@ -1,6 +1,1 @@
-trojan://o7zuqntc-e0gz-ap34-e9ea-vbwopg8pz2ku@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://dyu4rqgw-gbcj-zj94-ds5w-x2gzvv64gh5x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b5zo5say-gzvt-qlpj-roun-35p3hph5rfbd@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1ps5hhhl-0wky-xxou-ipru-4pafsha64l1w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://c67172f3-9257-4b98-a754-cb4de1731da1@46.34.163.15:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-RLT - Tose'e Shabakeh Azad Ltd ┇ 46.34.163.15
-trojan://om2jhavn-57n1-cyj3-j3i0-t6jujrs9mglb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://c67172f3-9257-4b98-a754-cb4de1731da1@46.34.163.15:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tose'e Shabakeh Azad Ltd ┇ 46.34.163.15

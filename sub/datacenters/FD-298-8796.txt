@@ -1,11 +1,2 @@
-trojan://acsltg7i-ygk6-xbfz-nq66-kc26u4x8ctm7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://m2ur8qj9-p8pn-a7ar-8mwm-npykvmwyno9z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8jwwdlsh-m6b1-gvnj-q8d3-wn6j9q55riek@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wj3mtuzf-gvfw-xhc6-a89b-8m67gr13zm8n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@23.165.40.54:443?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FD-298-8796 ┇ 23.165.40.54
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@38.60.91.115:9458?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - FD-298-8796 ┇ 38.60.91.115
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@38.60.91.60:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - FD-298-8796 ┇ 38.60.91.60
-vless://f25ebe08-6e49-40cf-954a-eb29ec82759a@154.23.163.160:30214?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=LJ5_nw7g-U1MMIEwyYZVi2JrqTmk7Bqrq5b7NCSPhg4#US 🇺🇸 ┇ VLESS-TCP-RLT - FD-298-8796 ┇ 154.23.163.160
-vless://63769deb-4153-4b98-aba3-31bc07e53a2d@154.23.207.104:2080?type=tcp&security=reality&sni=tesla.com&fp=safari&flow=xtls-rprx-vision&pbk=SQJkrxtSjiexXXRE6nl8GTRVFwCIMQ_XdttFPxF2Wjw&sid=bd4c6564#US 🇺🇸 ┇ VLESS-TCP-RLT - FD-298-8796 ┇ 154.23.207.104
-vless://c52e1fc2-5201-4cd1-900e-b97bda12639d@45.205.25.42:54327?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=QnstTnhlVpg2jE7yQva2zDyvZpo6QNbc_W459OTB914#US 🇺🇸 ┇ VLESS-TCP-RLT - FD-298-8796 ┇ 45.205.25.42
-trojan://ntpw2pap-ylyp-kt1u-or6o-qhp8ufg2g68e@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

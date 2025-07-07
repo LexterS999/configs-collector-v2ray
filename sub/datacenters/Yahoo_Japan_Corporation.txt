@@ -1,0 +1,2 @@
+vless://30f85233-d41e-4297-97c1-cfac047a948b@193.123.248.228:23333?type=tcp&security=reality&sni=www.yahoo.co.jp&fp=qq&flow=xtls-rprx-vision&pbk=LGcYLmLcvwtfKuk_Qa_dy0N6YNz4szWReWug5fxAwh0&sid=15f7#JP 🇯🇵 ┇ VLESS-TCP-RLT - Yahoo Japan Corporation ┇ N/A
+vless://ddb25cbe-e6da-4562-886f-853e4fe657f0@46.3.100.3:443?type=grpc&security=reality&sni=www.yahoo.co.jp&fp=safari&pbk=rjw62ORAKn8uTo2rgH1iZFbvxhT5ZzH9zAph5ChSgl4&sid=9987b56cdf4c0681#JP 🇯🇵 ┇ VLESS-GRPC-RLT - Yahoo Japan Corporation ┇ N/A

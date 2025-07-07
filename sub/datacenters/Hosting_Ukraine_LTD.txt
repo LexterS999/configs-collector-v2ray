@@ -1,6 +1,1 @@
-trojan://77y9tayl-jzea-syln-nzcd-k09bezpxwkcn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://f6evt36h-2hq9-bfsu-umfr-88xtosh2ox1w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ny2e1vyt-xyqa-x6mu-skms-aro3q5rb1ds1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4m9xk9c7-1wzn-gkcn-3zn7-8yi6jlg0dw3r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3a26be3c-ac0c-4180-a123-1d3772f21b9f@grpc1.caseshop.website:443?type=grpc&security=none#UA 🇺🇦 ┇ VLESS-GRPC-NTLS - Hosting Ukraine LTD ┇ 91.206.200.172
-trojan://fesrfld3-jem1-fjyk-d4rm-3j7tv9y6i5mp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

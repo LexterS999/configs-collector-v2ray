@@ -1,8 +1,0 @@
-trojan://st5amj77-4bi4-3l6n-eqmf-ex9n7ngl05iq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://rd0cfsw7-bp4m-dt4e-djeg-utn7j0ak2uok@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://i88i4vm1-84z3-2o16-t7uv-tzkcovniawcf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://l6vvi5ft-o9vv-x47t-6fb2-g3flq6haqgkp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://f1g2s6wu-85v3-2539-wv58-x6w6u9005x37@185.141.216.98:443?type=tcp&security=tls&sni=www.cloudflare.com#CA 🇨🇦 ┇ VLESS-TCP-TLS - RICAWEBSERVICES ┇ 185.141.216.98
-vless://g2h3t7xv-96w4-3640-xw69-y7x7v0116y48@185.141.216.99:443?type=tcp&security=tls&sni=www.cloudflare.com#CA 🇨🇦 ┇ VLESS-TCP-TLS - RICAWEBSERVICES ┇ 185.141.216.99
-vless://b408f8bc-90f5-446d-a404-76cdcd2cefe0@104.152.210.36:25536?type=tcp&security=reality&sni=apps.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=t4dzgL6Q-l6Y8d-Z0FSEvtAygZFDQqg0FPHn7Qxg90M&sid=c40fa703ffa3d3b8#CA 🇨🇦 ┇ VLESS-TCP-RLT - RICAWEBSERVICES ┇ 104.152.210.36
-trojan://r0ajj247-hx6s-2c4h-2edi-zo49yoltsk47@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

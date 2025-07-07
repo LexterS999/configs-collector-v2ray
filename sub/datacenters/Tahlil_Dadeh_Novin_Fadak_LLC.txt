@@ -1,7 +1,2 @@
-trojan://h8vxlcxm-49f2-suph-kogs-5mz991hzt5x7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://9bnd13n4-9aoc-w7x1-j78j-0j4vlm65xf81@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://19tu0r4i-lm8n-yghw-lpm1-czwfdq6ip8gh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5889jvxo-j0z0-et9u-eesw-qul3cdxw185i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.233.38
 vless://9e53942c-aa73-4b57-ba37-0ddc6fa53038@tn.komak-ar-online.online:3801?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.233.116
-trojan://xiid4b97-0t8o-n7pp-auao-y7eszhebe4py@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

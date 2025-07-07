@@ -1,6 +1,0 @@
-trojan://678yvbit-7xco-5l3p-kmws-x1b5jcs6vcf7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-26 | 20:00 ]
-trojan://l6j8uddm-qi84-c835-h70i-0saqs6e9txhs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nsudfakg-6xl3-ei8t-poxy-x3fp7zceojza@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://n77r4hfx-697n-9wv5-xlw3-6iqaek1udc5u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://44d901b6-954f-3d03-80c2-375dd2f202be@trqa.fjzjvgq.cn:30606?sni=trqa.jiashumao.net&peer=trqa.jiashumao.net&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - OWGELS INTERNATIONAL CO., LIMITED ┇ 154.214.118.165
-trojan://0fss0v3c-jcxu-pscw-eltt-c80t9dj5nw1z@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0

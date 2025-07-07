@@ -1,28 +1,16 @@
-trojan://obc0ewnq-0n3m-qlzn-cw3q-zeqx3ufq5xw8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://4y033d4h-tl4r-m6qt-jetp-j0tqgnp9pegy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0afrhxhl-c8ch-w33m-tmr8-qybnwhss0guv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3vohdhjj-xj6l-6f4g-cz8o-0nmzqtvotsd3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://32ea9b9f-1991-4ffb-b7ff-3c7d5a1fabcd@195.154.183.123:443?type=ws&security=tls&path=/v2ray#FR 🇫🇷 ┇ VLESS-WS-TLS - Scaleway S.a.s. ┇ 195.154.183.123
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@51.15.52.67:8080?type=ws&security=none&path=/test=true#FR 🇫🇷 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 51.15.52.67
-vless://ef1fdecb-e56f-4996-9b6a-da7ddb7f7c8d@51.158.205.126:24957?type=tcp&security=tls&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision-udp443#FR 🇫🇷 ┇ VLESS-TCP-TLS - Scaleway S.a.s. ┇ 51.158.205.126
-vless://ef1fdecb-e56f-4996-9b6a-da7ddb7f7c8d@51.158.213.119:24957?type=tcp&security=tls&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision-udp443#FR 🇫🇷 ┇ VLESS-TCP-TLS - Scaleway S.a.s. ┇ 51.158.213.119
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@51.158.235.22:8080?type=ws&security=none&path=/test=true#FR 🇫🇷 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 51.158.235.22
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@51.158.236.148:8080?type=ws&security=none&path=/test=true#FR 🇫🇷 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 51.158.236.148
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@51.158.242.38:8080?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 51.158.242.38
 vless://3e656cfa-8dac-4a89-ac88-ef7eb6b79a4f@fr.fake.moaidownloader.info:2002?type=tcp&security=none&path=/netv2reyng,netv2reyng,netv2reyng,netv2reyng,netv2reyng,netv2reyng,netv2reyng,netv2reyng,netv2reyng,netv2reyng,netv2reyng,netv2reyng,netv2reyng,netv2reyng,netv2reyng&fp=chrome#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Scaleway S.a.s. ┇ 51.158.110.196
-vless://22a54b72-9c39-4bb0-97d0-41bbaaca2a67@163.172.122.94:19188?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=tVDaWxsy54q7yRNRdJ718Gyt2HDoh_3R2y_PX22hhjM&sid=95c93be9#FR 🇫🇷 ┇ VLESS-TCP-RLT - Scaleway S.a.s. ┇ 163.172.122.94
-vless://67d1e140-d8c8-4e4c-be1f-9800a1bcad38@51.15.228.68:25481?type=tcp&security=reality&sni=www.7-zip.org&fp=chrome&flow=xtls-rprx-vision&pbk=uF7Fv79MbpkF2x_bDeXezdkMrI-vGS3UDNAwLzIKZTo&sid=d72dc8a0#FR 🇫🇷 ┇ VLESS-TCP-RLT - Scaleway S.a.s. ┇ 51.15.228.68
-vless://07c846af-4106-4790-9f83-10994c9e03d4@51.159.106.141:1991?type=xhttp&security=reality&path=/CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_configCANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&sni=ubuntu.com&fp=chrome&pbk=4qOKlkttwn8Yw2FN4ZYCint9k-TK9QU56tOXiXgXsGM&sid=fce601089937b01a#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - Scaleway S.a.s. ┇ 51.159.106.141
-vless://de8211a2-84a2-4fde-bdb9-06ce1550a453@51.159.236.178:1990?type=tcp&security=reality&path=/&sni=dl2.arashiphone.com#FR 🇫🇷 ┇ VLESS-TCP-RLT - Scaleway S.a.s. ┇ 51.159.236.178
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.33.93:8080?type=ws&security=none#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.33.93
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.36.208:8080?type=ws&security=none#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.36.208
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.37.107:8080?type=ws&security=none&path=/test=true#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.37.107
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.37.244:8080?type=ws&security=none&path=/test=true#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.37.244
-vless://6b189a88-5975-4d2e-9938-3030b15d26bc@151.115.72.43:443?type=ws&security=tls&path=/wss&sni=sccc1.alligator27.com#PL 🇵🇱 ┇ VLESS-WS-TLS - Scaleway S.a.s. ┇ 151.115.72.43
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.72.43:8080?type=ws&security=none&path=/test=true#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.72.43
 vless://6b189a88-5975-4d2e-9938-3030b15d26bc@151.115.72.43:80?type=ws&security=none&path=/wss&fp=chrome#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.72.43
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.72.50:8080?type=ws&security=none&path=/test=true#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.72.50
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.76.177:8080?type=ws&security=none&path=/test=true#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.76.177
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.77.74:8080?type=ws&security=none&path=/test=true&fp=chrome#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.77.74
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.79.79:8080?type=ws&security=none&path=/test=true#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.79.79
-trojan://xbbew3wd-52o3-sqgx-upm8-8zocfgynvrof@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

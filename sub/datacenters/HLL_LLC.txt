@@ -1,6 +1,1 @@
-trojan://mbl7atfv-y11b-re6r-hkiu-ufrkurzcyers@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://znqt2jpb-uzyc-9z4g-4kdu-y5e332gv9ijg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pnu8ypw4-sfmz-dphy-7qp9-1zqa0b3ont93@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wj8lk9vc-vls4-1uoo-kuer-s3vc175ciq9s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.65.149.44:443?type=ws&security=tls&path=/freecodes&sni=da.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - HLL LLC ┇ 185.65.149.44
-trojan://vt3zjsbo-ttv5-b46t-vw5a-auvplh4w2e6d@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://a8c69dd7-9d17-436e-b9ed-383846dbfbdf@cookies.oops.wtf:43774?type=tcp&security=reality&sni=tutu.ru&fp=random&flow=xtls-rprx-vision&pbk=ZLAYpx5wkCanyDNjQO_-7kwg0K5e728t2FPD9fSZ4VE&sid=b9a9aba39ba5ab#RU 🇷🇺 ┇ VLESS-TCP-RLT - HLL LLC ┇ 195.133.11.229

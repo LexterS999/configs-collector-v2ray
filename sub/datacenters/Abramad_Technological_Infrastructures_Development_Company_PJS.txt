@@ -1,6 +1,1 @@
-trojan://2hb7o0xq-q968-t0nr-rpuw-j2llrjdexltb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://g35akd84-i9yr-3u8c-cm9p-y2o93crwh169@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nk9r7hpm-6c0t-0iyp-qwym-vq5f71fp2iqf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pgxvomnv-3r26-fhez-7ocu-bqh6l09ivuvo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://32fa4579-ca6c-4e2c-b0de-d91a0cb37f45@78.31.235.130:53116?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Abramad Technological Infrastructures Development Company PJS ┇ 78.31.235.130
-trojan://x8g86oi3-22ug-om1h-oaw3-po95kae2fgoh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

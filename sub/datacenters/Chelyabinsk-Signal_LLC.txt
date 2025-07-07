@@ -1,7 +1,0 @@
-trojan://pwj6626h-hjg4-ai6n-h256-8x40b6d5ale9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://3ko7qv9f-ns18-5vxw-dunp-bxp9embx1u0k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://p5ih2i1v-aur7-1h81-9aja-yp7jqrit4w1k@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://d7vhlbrq-7lsd-zi83-zyzf-7wzoskynt28j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDaGVseWFiaW5zay1TaWduYWwgTExDIFx1MjUwNyA4MC44NS4xNTIuMTc5IiwiYWRkIjoiODAuODUuMTUyLjE3OSIsInBvcnQiOjEyOTEwLCJpZCI6IjgyNTljYjFjLWRkNmMtNDczOS05Yzg4LWFmNTUwZDk3NzUyNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6IjIyLmx3ZGgudXMiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6IjIyLmx3ZGgudXMifQ
-ss://YWVzLTI1Ni1nY206MDkzMDU5Njg@31.192.232.218:23456#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Chelyabinsk-Signal LLC ┇ 31.192.232.218
-trojan://4snkxva3-0eg7-xo9w-1ald-uu3ysxcchgyf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,8 +1,3 @@
-trojan://4fszo7e3-c8sh-16w8-yslb-hxixc7hrvf1m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://my7ana37-cnjb-03ww-w622-wwv6e8295uk6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://t7l7j8ut-0qu3-ijlx-u4gy-bwzlfqtg53je@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://j65vo3e4-4if3-zu4g-5j30-m9vroy4jy2wc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://62149ca3-9870-49b2-9104-ef084f1de137@217.60.239.124:17479?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 217.60.239.124
 vless://0f67f1c7-0931-4ff1-a2bb-b4c67a0b01d2@217.60.239.58:26165?type=ws&security=none&path=telegram: @summertimeus#AE 🇦🇪 ┇ VLESS-WS-NTLS - Moon Dc ┇ 217.60.239.58
 vless://23f15841-0587-42a6-b3cf-dcf456fc7b56@94.154.33.216:8080?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 94.154.33.216
-trojan://q6girubm-yd1i-7dcl-gec4-s7yq0wog561r@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

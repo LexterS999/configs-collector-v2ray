@@ -1,6 +1,0 @@
-trojan://8kiesibb-2v61-v80b-t1sy-psze9j9uj9f2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://pchrke7x-9ozi-4tgv-q0m3-rnmxgvav4pj2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dugjti2v-idem-kxri-0p14-00zgcxa3fj45@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nvhryz5p-1fe7-g5dm-kxki-ws9c1ct8tnnc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@84.32.41.200:50123?type=tcp&security=tls&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - Hostgnome Ltd ┇ 84.32.41.200
-trojan://4ex8qb8c-1q0o-8uqv-koa5-achfpneqy4da@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

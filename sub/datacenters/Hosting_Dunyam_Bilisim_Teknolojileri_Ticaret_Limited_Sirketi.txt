@@ -1,8 +1,1 @@
-trojan://cpd0oi0k-fw8k-j3iv-jb64-6aatpzruqz2n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://qmiy2y4v-j9i8-q1ne-qrep-6c32u4d7trdu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://s32zy7ef-gz37-06b1-vtq7-77yccduax0ck@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lj1wmkap-zj78-wisq-wbgl-913fo5bukhi0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://1d01ba0e-9429-43b1-85ad-c113e3d2891a@92.249.61.35:50136?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 92.249.61.35
-vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@37.140.242.245:8443?type=grpc&security=reality&sni=rEfErSion.Com.&fp=random&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=6ba85179e30d4fc2#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 37.140.242.245
-vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@37.140.242.245:8880?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=cJydPsZ25g4KQeuu8tGZE-9l6uB6uvdHZxyAfa3NrAQ&sid=e3bbc3601946f0e4#TR 🇹🇷 ┇ VLESS-TCP-RLT - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 37.140.242.245
-trojan://64pbhv3r-2fec-gdfq-oqko-xvh7a9m9qv9q@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

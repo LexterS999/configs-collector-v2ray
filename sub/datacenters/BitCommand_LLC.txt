@@ -1,9 +1,6 @@
-trojan://t6pnbxth-3ka9-30bs-fpu6-qbug71codqnj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://6vdw0ibk-x01g-zxsf-uqrd-f6f3vk5opvnl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pfpe3q4p-aecm-8vbd-t8qw-iue26z1qj7qg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vzgkksnj-cd65-lic6-cnz9-xs78iu9ukurh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://6efbf9c2-a6c9-447a-ac04-4531d56edf7c@gxr.querenciavib.xyz:80?type=tcp&security=none&sni=www.fastly.com#AM 🇦🇲 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 185.202.113.224
 vless://04a8fc0b-a72b-4d31-8f26-4a8ed6f78d41@202.133.89.132:6062?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 202.133.89.132
-vless://052ac018-69f4-4e0c-880f-22715132d5b9@82.115.16.123:54022?type=tcp&security=tls&sni=www.speedtest.net#AU 🇦🇺 ┇ VLESS-TCP-TLS - BitCommand LLC ┇ 82.115.16.123
+vless://6484f053-9cca-4f0c-9995-1aaf257f6294@188.245.95.151:1521?type=tcp&security=none&sni=testspeed-foreign.tci.ir#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 188.245.95.151
+vless://6484f053-9cca-4f0c-9995-1aaf257f6294@37.27.250.128:1521?type=tcp&security=none&sni=testspeed-foreign.tci.ir#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 37.27.250.128
+vless://6484f053-9cca-4f0c-9995-1aaf257f6294@722309294.web-manage.com.tr:1523?type=tcp&security=none&sni=testspeed-foreign.tci.ir#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 91.99.174.245
 vless://815724d3-0d61-4761-be07-471441d42be5@185.208.173.3:80?type=ws&security=none&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#GB 🇬🇧 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 185.208.173.3
-trojan://nz418bqu-rfie-ym6f-53gk-7e30vjlnal22@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://4d7bcf88-6af9-470a-bb21-3c00c9cdb5b1@ir01.oghabvps.com:8080?type=httpupgrade&security=none&path=/#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-NTLS - BitCommand LLC ┇ 89.251.8.53

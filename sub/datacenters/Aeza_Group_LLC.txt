@@ -1,16 +1,7 @@
-trojan://eqv9gh5a-9lal-6ynk-z33k-vkgvsvq2gzsf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://kpe77swf-3lns-69lr-9r9v-7evau05xqpp6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0yzjp76g-gfnb-qtpm-70zw-9qritk7xknwc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9ge2p21y-wo5h-yhdl-gsfk-zix4biuqnzg3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://78d0ab33-a8e4-435f-9b24-1850a8659ba8@103.71.22.160:42988?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 103.71.22.160
-vless://ef95dcd1-bee4-432f-a44f-0268c7773db0@109.107.189.31:2087?type=grpc&security=tls&sni=test.eldenmonodefense5.ir&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Aeza Group LLC ┇ 109.107.189.31
 vless://97687b31-beef-4f2e-b016-bba928a53421@77.221.151.51:10346?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.221.151.51
 vless://6a13aa20-f011-4474-8da0-e7228b11aff2@85.192.56.170:43856?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Aeza Group LLC ┇ 85.192.56.170
 vless://d273fcfe-6ffe-49c9-84c0-bf920f64b8fc@split2.parsbsd.ir:443?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 217.144.184.126
 vless://f4a0d694-91ca-4372-a05e-76e6b4faf080@srv10.amazon-osishop.ir:8880?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 45.134.12.125
 vless://009cccba-c0ec-4297-9898-5115898a7246@103.71.22.3:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 103.71.22.3
-vless://56cc6e17-16db-4b6e-b0de-0c40bd771536@103.71.22.42:443?type=xhttp&security=reality&path=/mms/video&sni=mmg.whatsapp.net&fp=chrome&pbk=qA_eE0wQjt1xVCoATIsSReYxPhtqjcCx93TCdbV7MVM&sid=7d348dcbfbeee7#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Aeza Group LLC ┇ 103.71.22.42
-vless://84cec1f6-8312-40da-b17a-4511e11a6026@178.20.208.134:2083?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=64ZzXuN3BNiYLcliMenVVbjdSX_jCpB-yvW7MTsz2n4&sid=4d932424dbe98b#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 178.20.208.134
 vless://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 194.113.106.139
-vless://d80814e0-1195-486f-94fb-af2c4831a003@83.147.255.88:2083?type=grpc&security=reality&sni=oivahymy.fi&fp=chrome&pbk=KLfu08enqbDsM6_h09LNRoafJlkXnm9kV54qaKekKmM&sid=4068316141d177#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Aeza Group LLC ┇ 83.147.255.88
-trojan://8fg7fpbx-5166-72qm-eatp-1zms91h8qazh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,9 +1,2 @@
-trojan://dd1jd1hm-93gd-lvz1-wr1y-j5a8rtcaiv3l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://v1w103bu-mtxe-5rn5-iu29-3jnz655ttsau@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bz5b973s-iqrq-fziu-4uox-6emkfvzvkmga@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wzivanoa-dlz1-hwhv-hjei-fi3b5hzvzwi6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.98.196.223:443?type=ws&security=none&sni=edccf.aimercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-NTLS - xTom Japan Corporation ┇ 141.98.196.223
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@147.78.247.212:587?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - xTom Japan Corporation ┇ 147.78.247.212
-vless://699f6733-5766-42f0-a05b-da23c5ee3817@185.184.223.47:443?type=ws&security=none&sni=ed.sosocn.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-NTLS - xTom Japan Corporation ┇ 185.184.223.47
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.66.128.216:2000?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#JP 🇯🇵 ┇ VLESS-WS-TLS - xTom Japan Corporation ┇ 45.66.128.216
-trojan://8vl4xzwf-2jr8-ri6e-xaxl-8m77401fovs4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://99cd771c-0bc5-4f41-879e-925b973a3186@bg399real.tsmoe.com:9017?type=tcp&security=reality&sni=cert.ysl.monster&fp=chrome&flow=xtls-rprx-vision&pbk=8g21xGWtb50oX16y_ujrhXE-ZajwFFCEpGQGiJ_oXjg&sid=887bde24#JP 🇯🇵 ┇ VLESS-TCP-RLT - xTom Japan Corporation ┇ N/A
+vless://99cd771c-0bc5-4f41-879e-925b973a3186@bgjpreal.tsmoe.com:9056?type=tcp&security=reality&sni=appstore.1yo.cc&fp=safari&flow=xtls-rprx-vision&pbk=1uoUaPb3PDy0nnQ3SB-t3DhZYXo8Nb4_hMBMmly56l0#JP 🇯🇵 ┇ VLESS-TCP-RLT - xTom Japan Corporation ┇ N/A

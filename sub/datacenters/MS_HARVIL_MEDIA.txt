@@ -1,6 +1,0 @@
-trojan://fm6vpbhs-s5h8-sar6-hs4f-gfmuph7ffezn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://so5a7iaq-hrp8-eylx-2e4g-05uxyymfp36d@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jq0od8ae-7ymh-jujs-yddb-j4o5lx4m81gc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://d11lp3ec-beo2-dt0j-3foh-zun5vbug8l6x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://ttfang@166.0.244.206:2053?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - MS HARVIL MEDIA ┇ 166.0.244.206
-trojan://68c8byjd-21fv-3z4p-n66c-4ct62iumnwxg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,3 @@
-trojan://shc1upuu-qhic-jwsc-cvjs-aro3edtkq1fp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://miu98e3c-mw18-wko1-45gt-8zt1bl34omyx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vfsk6krz-dgy8-j88b-8ov2-0l1gydokuvsr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fmjkcjcw-mnzw-n20e-lf4l-nify6w8ddcl6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@2irmo.musicbama4.monster:51996?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.60.228
 vless://162dbfab-ed71-4371-bd95-4a51fdab6faa@78.157.38.244:2929?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.38.244
 vless://b41d5ac0-ed33-47cd-84c5-406471554f5d@78.157.38.253:15015?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.38.253
@@ -21,4 +17,3 @@ vless://55684e35-e8a4-4e98-b856-309ceba25392@78.157.61.139:13510?type=tcp&securi
 vless://ef15cbe4-c2c1-4f0c-9fae-eb6857ba906a@ge7.freeeiran.me:24582?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.48.75
 vless://1db6e734-7383-4fb9-a24e-e95a52c46ae3@h.speedtest2028.com:887?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.49.219
 vless://26c2e015-4e7e-40ea-bb4c-bf0c85d316f4@u.armiaidin.top:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.59.144
-trojan://key6wu7f-cwnb-enjm-59ug-4td0r624mafe@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,4 @@
-trojan://4c6b8so9-z4d2-c9im-vq6z-6x85xu471vaz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://yj80jqtg-vpoo-beua-8zpa-4w1dd2e2x2je@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0qyx5nxp-3pwu-mcnx-ijny-x2juctbp1872@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8vxb31vb-ck8z-yhtu-lygy-u146jw7i3li8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGRUVMQiBTQVJMIFx1MjUwNyBOL0EiLCJhZGQiOiIxNzIuNjcuMTk4LjE4NyIsInBvcnQiOjQ0MywiaWQiOiI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ4bWl2aWRlby5jZmQiLCJwYXRoIjoiL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6InhtaXZpZGVvLmNmZCJ9
+vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGRUVMQiBTQVJMIFx1MjUwNyBOL0EiLCJhZGQiOiIxMDQuMTkuMzIuMCIsInBvcnQiOjQ0MywiaWQiOiI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJ4bWl2aWRlby5jZmQiLCJwYXRoIjoiL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6InhtaXZpZGVvLmNmZCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGRUVMQiBTQVJMIFx1MjUwNyAxOTQuOS4xNzIuNjUiLCJhZGQiOiIxOTQuOS4xNzIuNjUiLCJwb3J0Ijo0NDMsImlkIjoiOGQ5MGMxMjktNDE1Ni00ZDZjLTkxMTUtMjRkZjI1ZjI2YTAyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii9saW5rd3MiLCJ0bHMiOiJ0bHMifQ
 vless://823eba04-3426-4023-99cf-3721f8be4d17@146.19.168.161:8855?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - FEELB SARL ┇ 146.19.168.161
-trojan://fhg47bw7-kbme-gm80-aqs0-eu3dvfftehnq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

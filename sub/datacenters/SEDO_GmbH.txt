@@ -1,12 +1,6 @@
-trojan://958m9n1g-dgpb-7ggr-kkkt-iqs3q0g31kco@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://ip1ivzh4-s4zt-o0tl-067u-8re6mjim5noa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://518josew-dq7c-m1xd-6gjz-a5ybql3tcuzh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://403mkr3o-c9ax-qtww-qk94-yf39rq8tortf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTRURPIEdtYkggXHUyNTA3IDE3Mi42Ny4yMDQuODQiLCJhZGQiOiJ6dWxhLmlyIiwicG9ydCI6NDQzLCJpZCI6Ijk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6ImphaGZramhhLmNmZCIsInBhdGgiOiIvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoiamFoZmtqaGEuY2ZkIn0
+vless://65c71f37-baac-43be-b9dd-6057cd5eb901@104.25.159.246:443?type=ws&security=tls&path=25750/template-manager&sni=mAir-mEnu-mAsr00r.clIents-github.com&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - SEDO GmbH ┇ N/A
 vless://739e822a-a8d3-4bc2-ba0e-2a948a269ec0@91.195.240.12:80?type=ws&security=none&path=/shard9promax?ed=2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - SEDO GmbH ┇ 91.195.240.12
-vless://ad1357bd-a1ce-4977-ae09-47411d2d1eee@91.195.240.13:443?type=grpc&security=tls&sni=deg.iranasanejesh.org#DE 🇩🇪 ┇ VLESS-GRPC-TLS - SEDO GmbH ┇ 91.195.240.13
-vless://aaaaaa@www.aaaa.net:8443?type=ws&security=tls&path=/video&sni=www.aaaa.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - SEDO GmbH ┇ 64.190.63.222
-vless://5eb40b31-6d9b-461d-81c2-53909a01df5b@64.190.63.111:443?type=grpc&security=reality&sni=iranbax.spacex.com&fp=chrome&pbk=skowtu_zROaa0Y7h0Gss2-4mPXvEAngSPxQVukyWO1U&sid=9ff0c049e20b#DE 🇩🇪 ┇ VLESS-GRPC-RLT - SEDO GmbH ┇ 64.190.63.111
-vless://984a49b5-b665-489c-d5cc-ea83344b2a60@free7.v2rayn.com:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-RLT - SEDO GmbH ┇ 64.190.63.222
-vless://b8af9571-a244-4e12-cc6d-57efc432b924@iranbaxvpn.v2rayn.com:2053?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-RLT - SEDO GmbH ┇ 64.190.63.222
-vless://404a31fe-45c6-41af-8b74-6487fa8a4501@tr.v2rayn.com:2087?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-RLT - SEDO GmbH ┇ 64.190.63.222
-trojan://0nm69jo7-g2uf-nm8u-jrf6-o7b3qfqste03@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://984a49b5-b665-489c-d5cc-ea83344b2a60@free7.v2rayn.com:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - SEDO GmbH ┇ 64.190.63.222
+vless://b8af9571-a244-4e12-cc6d-57efc432b924@iranbaxvpn.v2rayn.com:2053?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - SEDO GmbH ┇ 64.190.63.222
+vless://404a31fe-45c6-41af-8b74-6487fa8a4501@tr.v2rayn.com:2087?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - SEDO GmbH ┇ 64.190.63.222

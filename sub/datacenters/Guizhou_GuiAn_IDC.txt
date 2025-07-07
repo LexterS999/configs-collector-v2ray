@@ -1,6 +1,0 @@
-trojan://0qhhubel-fod2-y8bn-i79d-js0m7js9mjfn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 02:22 ]
-trojan://fyhq604y-x19h-niub-su83-1ftc7eejjuo5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gb48njpt-cp3h-5vjm-58va-kcg9tu9bn5as@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://epnmc2z8-frdc-euza-ao6i-cawpj1vxhmbk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://55af195e-105f-4efc-871b-6eccb3163214@visa.cn:443?sni=ft-champions-coupons-relate.trycloudflare.com&peer=ft-champions-coupons-relate.trycloudflare.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Guizhou GuiAn IDC ┇ 119.0.68.8
-trojan://mbmfgifv-5zpu-cscc-n9td-1pt8qm2ic9g3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

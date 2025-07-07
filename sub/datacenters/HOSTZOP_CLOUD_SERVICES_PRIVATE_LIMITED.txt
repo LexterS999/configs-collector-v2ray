@@ -1,6 +1,0 @@
-trojan://klx61cha-h2lm-9abt-nk72-xk3s9r5qlv25@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://yagzk4tg-rvtx-ur37-h0nb-xo98mblay2i9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5bkkm745-20se-mn54-jbet-s6alyji615w8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g50q8bo8-cpd7-awhz-l3mb-qvjwxbjds2nv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://009d69cc-4d08-4966-bd3c-75688b3c8145@157.20.172.163:443?type=ws&security=tls&sni=h2e.salehpersian.com&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - HOSTZOP CLOUD SERVICES PRIVATE LIMITED ┇ 157.20.172.163
-trojan://25n4xld3-zs2f-1d63-vz7l-le80wdcn33rv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

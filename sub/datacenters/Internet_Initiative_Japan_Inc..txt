@@ -1,0 +1,2 @@
+vless://4de74123-0081-4a83-98ef-a965aadddf0d@13.125.140.64:17846?type=tcp&security=reality&sni=www.iij.ad.jp&flow=xtls-rprx-vision&pbk=0WkLmthMQa0QtM9kuHsJQsobK1dwqIsn2sAJp7Zyiy0#JP 🇯🇵 ┇ VLESS-TCP-RLT - Internet Initiative Japan Inc. ┇ N/A
+vless://78956f2a-5650-4ac1-b5e5-c86491768443@92.112.22.115:10649?type=tcp&security=reality&sni=www.iij.ad.jp&fp=chrome&flow=xtls-rprx-vision&pbk=N3OhMYHjw0MGH7X93-6lec9iOMQHRUr-Uz-cGzQ32jQ#JP 🇯🇵 ┇ VLESS-TCP-RLT - Internet Initiative Japan Inc. ┇ N/A

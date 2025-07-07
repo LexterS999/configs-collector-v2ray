@@ -1,7 +1,4 @@
-trojan://rm7nh4mx-mn19-naw4-bby1-pjs5q6igjzvm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://3htkvus2-7zs6-z2jy-eac9-i7tgptvhio0j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://a1uozg4t-rf3x-l35h-r0bb-t53yz4mlfzn2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://og2ed6gx-3nfx-okww-bpvm-8pgm19c3zmsu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?type=xhttp&security=tls&path=/statue&sni=statue.lnmarketplace.net#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - MACARNE ┇ 206.71.158.10
+vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@152.67.68.116:443?type=tcp&security=tls&sni=yapc-1.afshin.ir&fp=chrome&flow=xtls-rprx-vision-udp443#NL 🇳🇱 ┇ VLESS-TCP-TLS - MACARNE ┇ N/A
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?type=xhttp&security=tls&path=/statue&sni=statue.lnmarketplace.net#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - MACARNE ┇ N/A
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?type=xhttp&security=tls&path=/statue&sni=statue.lnmarketplace.net#NL 🇳🇱 ┇ VLESS-XHTTP-TLS - MACARNE ┇ 206.71.158.10
 vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@yapc-1.afshin.ir:443?type=tcp&security=tls&sni=yapc-1.afshin.ir&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - MACARNE ┇ 206.71.158.37
-trojan://7d8npvz9-zvd8-qd16-a6sr-8v08lvm5plnm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

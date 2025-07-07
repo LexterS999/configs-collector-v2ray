@@ -1,7 +1,2 @@
-trojan://gsfwxwo3-c8ds-eayr-7yj2-6vs27iw1b3z1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://my5irl0b-kv7t-0k15-hhyq-nvfk7fal4uk6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9nmv66bc-ukgp-jqe6-kni2-t71e4wwcka3b@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://otc8sz6n-l0y6-ekrx-wq3u-q72lc9t1kv34@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?type=ws&security=tls&path=/websocket&sni=ru05.abvpn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - UFO Hosting LLC ┇ 2.56.178.47
-vless://ca07fad3-a529-4a49-8ac7-da78c4ea1d01@45.153.231.248:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - UFO Hosting LLC ┇ 45.153.231.248
-trojan://9mm3t8nd-var6-avet-l50x-rg5lv2dbu9yh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?type=ws&security=tls&path=/websocket&sni=ru05.abvpn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - UFO Hosting LLC ┇ N/A
+vless://588f094b-431b-422c-b80b-007945037072@ru05.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=ru05.abvpn.ru#RU 🇷🇺 ┇ VLESS-WS-TLS - UFO Hosting LLC ┇ 2.56.178.47

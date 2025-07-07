@@ -1,9 +1,3 @@
-trojan://oddw4746-weqw-r32u-n6xh-83fmyqqmxhgs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://dgqvcxso-zx8r-epds-1l15-pi2gyp4llq0g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://aivnybhv-k2jd-zrlg-4jxh-i9699rgf1acl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://811hqk5h-kw6y-2x9e-2aa6-l5cs2hidboj4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://44afbf4a-29cc-4dbb-8817-61d4cad861b5@185.226.92.168:10460?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.92.168
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.226.92.168:999?type=ws&security=tls&path=/?ed&sni=vless.ifx.us.kg#TR 🇹🇷 ┇ VLESS-WS-TLS - Big Core LLC ┇ 185.226.92.168
 vless://c9e2b43f-a3bf-4cb4-9e21-aa40f5c7ba3c@185.226.92.172:3528?type=ws&security=none&path=/path#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.92.172
 vless://61c32475-c39c-4baa-9881-c3df814d9151@185.226.93.93:19543?type=ws&security=none#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.93.93
-trojan://783vhby3-6vem-jloy-1kd9-e0g2xvfh35w2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

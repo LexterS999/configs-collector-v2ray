@@ -1,7 +1,0 @@
-trojan://ituatkes-gml5-t5lk-a91b-ufh8uqsx2j1s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://nhf0w6pb-9xd1-6647-r6ha-sldiu9gqct4p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pqi5bn1f-03h8-kooc-rm8j-iae6oit47re0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ytqcza5e-12od-rkwd-t829-9uco9ph7dedx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://2af31107-e577-4995-8247-e8a57855e90b@103.152.34.82:10011?sni=xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe&peer=xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Aperture Science Limited ┇ 103.152.34.82
-trojan://2af31107-e577-4995-8247-e8a57855e90b@23.247.138.108:10011?sni=xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe&peer=xn--vck0bp0g2a4h.xn--ick8a8i.xn--tckwe&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Aperture Science Limited ┇ 23.247.138.108
-trojan://iwd5r20e-gwua-jq7c-vk87-glakh6h0e76c@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

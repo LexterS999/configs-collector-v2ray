@@ -1,9 +1,0 @@
-trojan://tkjz6lwt-s6d7-y2rc-y0al-e4vehqcrjad8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://iy03c2c4-67sz-fzr5-1vi9-phx222f835pt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jbs6y3u0-h8wz-6x4m-1rgo-7dabs35kjeq6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://a7zhbhnw-prrb-1t9u-u75f-7x2c6tlp2kye@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MzYwYWRjZWEwYjE@43.226.17.11:443#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - BGP Network Limited ┇ 43.226.17.11
-ss://YWVzLTI1Ni1nY206ODM2MGFkY2VhMGIx@kr6v1.dashengjs.net:443#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - BGP Network Limited ┇ 43.226.17.8
-ss://YWVzLTI1Ni1nY206MDhmMGM3N2VkNjE5@43.226.17.54:636#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - BGP Network Limited ┇ 43.226.17.54
-vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCR1AgTmV0d29yayBMaW1pdGVkIFx1MjUwNyAyNy4xMjQuOC4xNDEiLCJhZGQiOiIyNy4xMjQuOC4xNDEiLCJwb3J0Ijo0NDMsImlkIjoiYzdlNjQ1YmUtMTcwNC00ZjBhLWFmZTktOGIyMWY5YzcxMWQ2IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzIyMDEyODA3MTEwMCIsInRscyI6InRscyJ9
-trojan://4t59e8aq-qe5h-llju-kyv5-4g6mopxmbjas@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

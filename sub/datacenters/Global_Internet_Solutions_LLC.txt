@@ -1,9 +1,1 @@
-trojan://rucszd8g-w6x5-kmq8-4y0o-8g5lylgw9zz4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://r5xfipcb-h9xd-zryn-id5x-3r2wjxtcbgpv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4egzg32p-zgqt-dg6o-47lq-r0fm6tj9n5sj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://k5s010ub-e0s2-y6ky-srkg-4tnwehejwn3m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://285c92f6-8496-4c7f-8336-d9004bfb623b@212.192.14.48:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Global Internet Solutions LLC ┇ 212.192.14.48
-vless://22f12f46-7952-4336-b054-6702e3875465@212.192.14.50:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Global Internet Solutions LLC ┇ 212.192.14.50
-vless://aea847f1-500c-449a-b338-d19940d1a45a@45.151.62.156:4444?type=xhttp&security=reality&sni=ftp.debian.org&fp=chrome&pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Global Internet Solutions LLC ┇ 45.151.62.156
-vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@russiaaa.mehrdadsadaf.com:7594?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-RLT - Global Internet Solutions LLC ┇ 2.59.161.90
-trojan://pu9e149k-k7bm-b40p-d956-3cq4hlzrfv10@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@russiaaa.mehrdadsadaf.com:7594?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Global Internet Solutions LLC ┇ 2.59.161.90

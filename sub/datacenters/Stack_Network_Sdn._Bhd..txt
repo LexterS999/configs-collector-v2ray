@@ -1,6 +1,0 @@
-trojan://gf6t4587-logs-xpmc-df7h-c8qrg7827dup@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://syvfk52s-1d4m-7sxt-6und-2mz2jou9rxmp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fkarnzg9-h8ax-hkim-4fek-3nr0p1cifi3r@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3jzechbw-x5hk-jm1p-p9vx-qqceixkwzy19@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://47b39b1f-fdff-4afb-9f8b-aaa6c01a4abe@43.229.153.128:50132?security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Stack Network Sdn. Bhd. ┇ 43.229.153.128
-trojan://c5w2ye17-d23h-2zvy-ro8f-l7rwdlbmm2a9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

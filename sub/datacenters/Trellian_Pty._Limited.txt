@@ -1,7 +1,7 @@
-trojan://s2ylqupk-gh27-mb6o-jmeq-8ypzzfalay6u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://hmc4crnu-yp6l-q60q-8oxi-2lilaody798f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1f343a2a-8wem-u44g-0sj4-e1yxyebmmoud@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://coj6q0r9-ldr7-4ysc-ha6a-bemr984nxams@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://48808748-082e-4ca5-9d4f-1aed8d40f4cb@172.67.187.156:443?type=httpupgrade&security=tls&path=/vh2&sni=fcgerman.nimaempire.cfd&fp=firefox#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-TLS - Trellian Pty. Limited ┇ N/A
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@cdn.mcinet.xyz:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Trellian Pty. Limited ┇ 103.224.212.202
-vless://7d3b945d-0f23-4719-9fae-50033251e2fd@103.224.182.210:443?type=ws&security=tls&path=/kos_madar_publisher&sni=cndb9wjin2i7vab5vvcg.khodavakili.top#US 🇺🇸 ┇ VLESS-WS-TLS - Trellian Pty. Limited ┇ 103.224.182.210
-trojan://rge74qe1-ump2-jhh7-ukno-xle8berv29br@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://701e3595-6225-42c8-b1ec-d8074f1bd801@sd.sahand.knowledgeispower.com.tr:32387?type=ws&security=tls&path=/&sni=speedtest.com&fp=chrome#AU 🇦🇺 ┇ VLESS-WS-TLS - Trellian Pty. Limited ┇ N/A
+vless://cbe0faab-a205-46ec-ac0b-f1011e855a51@ty9080.sahand.knowledgeispower.com.tr:21871?type=ws&security=tls&path=/&sni=www.speedtest.com&fp=chrome#AU 🇦🇺 ┇ VLESS-WS-TLS - Trellian Pty. Limited ┇ N/A
+vless://c7f2ac91-c9ce-46c6-98f3-7204178e4b7c@172.233.57.232:443?type=grpc&security=reality&sni=tunnel.svnreallity.online&fp=chrome&pbk=d35k8hJ0aMt0SQ7DPprVNf6nm_QKabQsbfVmpg819lE&sid=3fdec952#AU 🇦🇺 ┇ VLESS-GRPC-RLT - Trellian Pty. Limited ┇ N/A
+vless://034ec960-b8c5-4c32-95a7-11cf1dd48a38@45.85.118.234:443?type=ws&security=tls&path=/isegaro&sni=romania.isegaro.click#US 🇺🇸 ┇ VLESS-WS-TLS - Trellian Pty. Limited ┇ N/A
+vless://034ec960-b8c5-4c32-95a7-11cf1dd48a38@45.85.118.88:443?type=ws&security=tls&path=/isegaro&sni=london.isegaro.click#US 🇺🇸 ┇ VLESS-WS-TLS - Trellian Pty. Limited ┇ N/A

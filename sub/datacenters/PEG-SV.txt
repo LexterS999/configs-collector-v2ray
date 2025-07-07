@@ -1,10 +1,4 @@
-trojan://o4kd15xf-61rv-q4y0-3z2p-p25yw8fgd96x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://u07nmeek-zx3d-pv7o-hym0-7s67cpx9nztc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://lpjjhxuf-goqu-lzy2-tnzx-z5pxchs8oiaa@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2uii3px5-jpxu-39yu-xczi-w2kire6z22fp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBFRy1TViBcdTI1MDcgMTk4LjIuMjE4LjIxNiIsImFkZCI6IjE5OC4yLjIxOC4yMTYiLCJwb3J0Ijo0NDg4MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBFRy1TViBcdTI1MDcgMTQyLjQuMTA0LjMzIiwiYWRkIjoiMTQyLjQuMTA0LjMzIiwicG9ydCI6NTIxNDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQRUctU1YgXHUyNTA3IDM4LjE0LjEwNy4yMjUiLCJhZGQiOiIzOC4xNC4xMDcuMjI1IiwicG9ydCI6MzgwMDMsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL3BhdGgvMTgxNzIxMjcyMTE0IiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQRUctU1YgXHUyNTA3IDM4LjMzLjU1Ljc5IiwiYWRkIjoiMzguMzMuNTUuNzkiLCJwb3J0IjozNzAwMiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xNzM0MTcwMjkxNDg5IiwidGxzIjoidGxzIn0
-vless://64985b00-7f6f-44b4-9cd6-f95829abee0a@104.233.210.12:48007?type=tcp&security=tls&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - PEG-SV ┇ 104.233.210.12
-trojan://9xv996g0-n240-yowh-irkz-jks1fo1yzsy0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

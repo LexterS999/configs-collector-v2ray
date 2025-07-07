@@ -1,6 +1,0 @@
-trojan://w57ktje4-xxlq-vysq-2dp5-qq723i1ou6w5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-02 | 22:53 ]
-trojan://ie2lp6zz-c4po-22bi-959y-jxm94bi1qfko@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://k8xxkb4r-gvqa-3c5e-nfgy-wjxyad4q9ate@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://27sveqxm-fjjx-bi2r-9i7r-qq96vongf0xn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://55af195e-105f-4efc-871b-6eccb3163214@visa.cn:443?sni=ft-champions-coupons-relate.trycloudflare.com&peer=ft-champions-coupons-relate.trycloudflare.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - CHINANET SiChuan Telecom Internet Data Center ┇ 110.40.28.17
-trojan://n4kbelkv-bhw7-jrmz-c43a-zys49ph03lav@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0

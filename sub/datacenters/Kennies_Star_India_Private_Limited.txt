@@ -1,6 +1,1 @@
-trojan://06epo60z-jwed-5x0e-5joo-wle3ihyepgyo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://p4dtpd0b-nwiz-27bh-0acn-0v1zjffkwws2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zqz4qqvx-5fbb-lchn-3n44-2q3b6fbh0ih3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6pt3khhq-ggq2-meav-axyg-apzuu1267kvv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://49765580-8ae7-47a9-aaaa-757ae3a6a28e@38.226.125.7:37645?type=tcp&security=none&path=/#IN 🇮🇳 ┇ VLESS-TCP-NTLS - Kennies Star India Private Limited ┇ 38.226.125.7
-trojan://b1my8qdn-61r3-237s-cyn0-17wpdvgw6e5q@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

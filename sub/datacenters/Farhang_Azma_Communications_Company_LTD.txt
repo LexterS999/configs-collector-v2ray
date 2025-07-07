@@ -1,7 +1,2 @@
-trojan://upcgdjrk-qxww-gm6c-g0g6-ee1anq1ft0s5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://8mip8oth-mq2n-n521-zx0q-me8vas2bdft3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ubke4h11-ylzm-nm41-bg1m-wj5vcpl6629q@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xrb05t8y-m4bc-0b59-08fm-5sedqsic7nxu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://85bc1120-3cb3-45ff-a12f-9e7d94f40634@212.16.68.63:1003?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Farhang Azma Communications Company LTD ┇ 212.16.68.63
 vless://1b986907-0ca2-4618-e62e-abd45abb19fd@212.80.2.8:21412?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Farhang Azma Communications Company LTD ┇ 212.80.2.8
-trojan://i3ickxps-ceo5-n39x-ejut-n4akpt1bmdeo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,1 @@
-trojan://ryjnoa3a-u7cc-fjgz-bib0-y5833inv3rix@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://z1v8clwg-etmq-3h6j-qbhd-zdgt5p1se4cl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tnm6y0d9-t72t-grzb-ddda-6zwdzacf4sni@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6pfj8ouu-6ck9-elcu-c6sm-ebiwb4vgc6jb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://69ab993a-4604-4dc8-be55-7918e434fc2b@64.81.37.249:49239?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-RLT - GTT Communications Inc. ┇ 64.81.37.249
-trojan://74c5jd62-gefk-ilqg-wmzh-ucz8o60994yd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://69ab993a-4604-4dc8-be55-7918e434fc2b@64.81.37.249:49239?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - GTT Communications Inc. ┇ 64.81.37.249

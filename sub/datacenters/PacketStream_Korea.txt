@@ -1,9 +1,0 @@
-trojan://k6kl9sgd-zrjv-nnfi-xye6-nenzagote3bn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://wap30ti7-nav6-akfi-9bsm-8uratqkm5s2c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3k9ikq87-d8io-yy7t-x7rm-r9fvbsan6yxf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rsi5yer2-i2zo-n7sg-5rlg-n8tlqmyd8jpl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@194.156.231.254:803#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - PacketStream Korea ┇ 194.156.231.254
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@194.156.231.251:807#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - PacketStream Korea ┇ 194.156.231.251
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@194.156.231.126:809#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - PacketStream Korea ┇ 194.156.231.126
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUGFja2V0U3RyZWFtIEtvcmVhIFx1MjUwNyAxOTQuMTU2LjIzMS4zNSIsImFkZCI6IjE5NC4xNTYuMjMxLjM1IiwicG9ydCI6ODAsImlkIjoiYjExMzVhMWQtMDU4Ni00YzMwLWI2MWUtZmE3YzE3ZDFmNDM5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvaW1hZ2VzIn0
-trojan://4kvu9lxc-1c0h-j2qf-r2om-zb7jytjerymc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

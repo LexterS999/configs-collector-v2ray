@@ -1,8 +1,1 @@
-trojan://qah7ci18-ykzz-6sz0-vepo-8j1f9j4fvl6d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://1vimmynh-ce86-lyq4-ubfe-xkszvvtpd3xv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3ogymnq8-wx8u-41ac-1w4c-4l8za8498o84@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4khopu0z-9dwb-f32x-aabv-fhlg3dn42li3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU@23.27.24.181:40030#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Evoxt Enterprise ┇ 23.27.24.181
 vless://94064b6e-df7a-4803-a7fc-a8bb9cfcaf3b@0000:0000:0000:0000:0000:ffff:171b:18f1:80?type=tcp&security=reality&path=/path#PL 🇵🇱 ┇ VLESS-TCP-RLT - Evoxt Enterprise ┇ 0000:0000:0000:0000:0000:ffff:171b:18f1
-vless://94064b6e-df7a-4803-a7fc-a8bb9cfcaf3b@::ffff:23.27.24.241:80?type=xhttp&security=reality&path=/path&sni=speedtest.net&fp=chrome&pbk=I9Tt9RwE2l_KnzXKQFvGKIaHHHXrLkNUFCdXPz8iJzU&sid=5c#PL 🇵🇱 ┇ VLESS-XHTTP-RLT - Evoxt Enterprise ┇ ::ffff:23.27.24.241
-trojan://5luexuu5-l5xy-rj7z-1cuf-bn3pa3xdkw21@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

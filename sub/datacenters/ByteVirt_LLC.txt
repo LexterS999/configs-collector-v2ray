@@ -1,6 +1,0 @@
-trojan://igf4gslh-3cns-2evp-8wvt-jhhjmkq3o4k8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://ndoqjf73-syro-fbfz-ycx4-g6xigogibs1f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xs2i4mdk-rcm5-53yp-6k9b-wz3kw6krtavy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2qrohqdi-5b6b-e0xz-ho3e-cpvpqoqcw0ue@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Aimer@147.79.20.239:443?sni=epccd.ambercc.filegear-sg.me&peer=epccd.ambercc.filegear-sg.me&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ByteVirt LLC ┇ 147.79.20.239
-trojan://im63nvs6-ssgp-iuwh-31c6-d5sr59vd5gx1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
