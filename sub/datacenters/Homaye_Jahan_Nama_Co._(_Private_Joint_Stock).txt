@@ -1,5 +1,5 @@
-vless://de433c2c-35e7-46f3-be2f-2c7a3d4c1613@212.86.94.176:10459?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Homaye Jahan Nama Co. ( Private Joint Stock) ┇ 212.86.94.176
 vless://e3ad2103-0f2d-4926-bc46-562dd3fbd3ba@212.86.94.176:31388?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Homaye Jahan Nama Co. ( Private Joint Stock) ┇ 212.86.94.176
+vless://de433c2c-35e7-46f3-be2f-2c7a3d4c1613@212.86.94.176:10459?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Homaye Jahan Nama Co. ( Private Joint Stock) ┇ 212.86.94.176
 vless://5513712d-25af-4702-931d-c8dbdb1eaf6e@212.86.94.176:32275?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Homaye Jahan Nama Co. ( Private Joint Stock) ┇ 212.86.94.176
 vless://16f97401-0210-4064-8b50-1a1b8d6b2fde@212.86.94.176:38999?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Homaye Jahan Nama Co. ( Private Joint Stock) ┇ 212.86.94.176
 vless://e5dfb58d-d0d5-4709-8073-5fb84adb3058@212.86.94.176:41801?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Homaye Jahan Nama Co. ( Private Joint Stock) ┇ 212.86.94.176

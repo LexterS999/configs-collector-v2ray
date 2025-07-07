@@ -5,5 +5,4 @@ vless://7996d412-0b2a-4533-bba1-f7531861f1ec@ul-uae2.09vpn.com:80?type=ws&securi
 vless://885a03bb-4797-3fd8-5446-c770066cb87e@31.57.228.113:7070?type=tcp&security=reality&sni=S3.iranwebfa.com&fp=chrome&flow=xtls-rprx-vision&pbk=_9Na7dC1y9hpgRnPIJu10zJNf90O973xf95j35NzoAY&sid=314f63e326f7d89a#AE 🇦🇪 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ N/A
 vless://885a03bb-4797-3fd8-5446-c770066cb87e@s3.iranwebfa.com:7070?type=tcp&security=reality&sni=S3.iranwebfa.com&fp=chrome&flow=xtls-rprx-vision&pbk=_9Na7dC1y9hpgRnPIJu10zJNf90O973xf95j35NzoAY&sid=314f63e326f7d89a#AE 🇦🇪 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ N/A
 vless://5a186a86-1d2c-43b1-85d9-1ad3f60f6be7@tel.vpncustomize.reziazaran.ir:37823?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - ZEN-ECN ┇ 23.90.188.126
-vless://turboo-server@fn.turbooserver.ir:8080?type=tcp&security=reality#FI 🇫🇮 ┇ VLESS-TCP-RLT - ZEN-ECN ┇ 104.166.166.138
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@128.14.140.2:55555?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - ZEN-ECN ┇ 128.14.140.2

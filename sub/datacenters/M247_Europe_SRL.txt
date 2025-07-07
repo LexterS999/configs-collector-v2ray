@@ -6,4 +6,4 @@ vless://600eb54d-d31a-4c57-b438-d1e486e8fcd7@146.70.88.7:48736?type=tcp&security
 vless://00c6043f-a2c6-4b15-bd30-344378f0e5da@146.70.158.111:443?type=tcp&security=reality#FR 🇫🇷 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 146.70.158.111
 vless://e4f694e3-8299-4942-bbeb-227d41435edf@86.106.20.145:18730?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - M247 Europe SRL ┇ 86.106.20.145
 vless://899cff3d-15b9-4a88-a73f-5f252dc50e09@86.106.20.145:57027?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - M247 Europe SRL ┇ 86.106.20.145
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.166.87:8443?type=tcp&security=tls&sni=se1.fromblancwithlove.com#SE 🇸🇪 ┇ VLESS-TCP-TLS - M247 Europe SRL ┇ N/A
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@89.187.174.104:8443?type=tcp&security=tls&sni=ams1.fromblancwithlove.com#NL 🇳🇱 ┇ VLESS-TCP-TLS - M247 Europe SRL ┇ N/A

@@ -14,9 +14,9 @@ vless://a93bf8ef-0b48-4c49-95ff-03d20d211025@217.195.194.78:4687?type=tcp&securi
 vless://ad979cf9-8274-4640-b885-17800c527b15@92.223.124.27:443?type=ws&security=tls&path=/fuckfuckfuck&sni=speedtest-fr5.gcore.com&fp=firefox#DE 🇩🇪 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ N/A
 vless://bb9eccbf-0e14-470b-86e6-20ddd69a87a4@92.223.124.45:80?type=ws&security=none&path=/?ed=2048#DE 🇩🇪 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 92.223.124.45
 vless://95d9b3cf-0aed-4085-8ee0-44bbed93ba3f@92.223.124.62:80?type=httpupgrade&security=none&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-NTLS - G-Core Labs S.A. ┇ 92.223.124.62
+vless://638182ae-9b98-449e-bdc0-4e3fadb3e244@en-vip.digitalldns.net:8080?type=ws&security=none&path=/#GB 🇬🇧 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 109.107.159.36
 vless://361427b1-5cf9-4ae6-bd1b-5dbf99a21b61@109.107.159.69:22069?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 109.107.159.69
 vless://3570fdba-d23a-4c97-8327-b819e01a3582@109.107.159.76:14569?type=ws&security=none&path=/www.fastvpn.com.live.skornorth.com.zula.ir?ed=2048/?Join_Bade_Channel@JOKERRVPN#GB 🇬🇧 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 109.107.159.76
-vless://f480fb21-d461-4d74-a70f-78226a5e83ec@en-vip.digitalldns.net:8080?type=ws&security=none&path=/#GB 🇬🇧 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 109.107.159.36
 vless://52b45d8f-3ab7-44fd-af91-321a27982584@2.56.220.2:443?type=tcp&security=none#LU 🇱🇺 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 2.56.220.2
 vless://0f494b87-2fdd-4978-b467-04f58d7375ce@80.93.223.61:80?type=ws&security=none&path=/@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF/wild/?ed=2048#LU 🇱🇺 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 80.93.223.61
 vless://4cb39a2e-0aa0-43c4-bd94-5026c13e9ba3@95.85.95.85:443?type=tcp&security=none#LU 🇱🇺 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 95.85.95.85
@@ -25,9 +25,10 @@ vless://73039c19-caee-48e5-af88-e6c74197c1a1@75.2.18.233:80?type=ws&security=non
 vless://aac1eaa3-00d0-5385-bafa-626f5739e6e1@81.28.12.12:80?type=ws&security=none&path=/vless#NL 🇳🇱 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 81.28.12.12
 vless://3570fdba-d23a-4c97-8327-b819e01a3582@89.39.70.84:14569?type=ws&security=none&path=/www.fastvpn.com.live.skornorth.com.zula.ir?ed=2048/?Join_Bade_Channel@JOKERRVPN#NL 🇳🇱 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 89.39.70.84
 vless://47611b8a-9a85-4d31-bd72-6f0f30ced975@speedtest-am3.gcore.com:443?type=tcp&security=none&path=/admin#NL 🇳🇱 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 93.123.17.254
+vless://04f59fbe-08e5-4683-b5d4-bde3327be774@api.digi-asa.ir:12854?type=kcp&security=none#TR 🇹🇷 ┇ VLESS-KCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.203
 vless://b96416ac-60f9-4136-9eac-9f55ae9960b0@213.156.152.238:8880?type=kcp&security=none#TR 🇹🇷 ┇ VLESS-KCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.238
 vless://04f59fbe-08e5-4683-b5d4-bde3327be774@213.156.152.55:3030?type=ws&security=tls&sni=api.digi-asa.ir#TR 🇹🇷 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ N/A
-vless://04f59fbe-08e5-4683-b5d4-bde3327be774@api.digi-asa.ir:12854?type=kcp&security=none#TR 🇹🇷 ┇ VLESS-KCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.203
+vless://f480fb21-d461-4d74-a70f-78226a5e83ec@usa-vip.digitalldns.net:8060?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 217.28.137.16
 vless://e7828367-c273-446c-9d31-7363a5c066b6@185.101.136.30:443?type=ws&security=tls&path=/@vistav2ray---@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray?ed=2048&sni=speedtest.gcore.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ 185.101.136.30
 vless://833410a8-4dcf-4f2b-8e5b-a2cb6179b8ef@185.101.136.30:80?type=ws&security=none&path=/@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF/wild/?ed=2048#US 🇺🇸 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 185.101.136.30
 vless://a93bf8ef-0b48-4c49-95ff-03d20d211025@37.9.33.42:4020?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - G-Core Labs S.A. ┇ 37.9.33.42
@@ -45,4 +46,3 @@ vless://833410a8-4dcf-4f2b-8e5b-a2cb6179b8ef@92.38.168.14:443?type=ws&security=t
 vless://0f494b87-2fdd-4978-b467-04f58d7375ce@92.38.168.14:80?type=ws&security=none&path=/@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF----@iP_CF/wild/?ed=2048#US 🇺🇸 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 92.38.168.14
 vless://e7828367-c273-446c-9d31-7363a5c066b6@93.115.241.62:443?type=ws&security=tls&path=/@vistav2ray---@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray?ed=2048&sni=speedtest.gcore.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - G-Core Labs S.A. ┇ N/A
 vless://3570fdba-d23a-4c97-8327-b819e01a3582@95.85.93.133:14569?type=ws&security=none&path=/www.fastvpn.com.live.skornorth.com.zula.ir?ed=2048/?Join_Bade_Channel@JOKERRVPN#US 🇺🇸 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 95.85.93.133
-vless://f480fb21-d461-4d74-a70f-78226a5e83ec@usa-vip.digitalldns.net:8060?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - G-Core Labs S.A. ┇ 217.28.137.16

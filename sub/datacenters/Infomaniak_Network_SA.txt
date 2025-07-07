@@ -1,3 +1,4 @@
+vless://6db0e9a8-45e6-49e1-ad02-f49495d425be@37.156.46.193:8080?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 37.156.46.193
 vless://e2a5b491-38c9-4379-9033-ee275270da5c@188.213.128.116:1011?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 188.213.128.116
 vless://88f964a1-d0e9-45b5-a119-a44138649ccd@188.213.128.116:666?type=grpc&security=none#CH 🇨🇭 ┇ VLESS-GRPC-NTLS - Infomaniak Network SA ┇ 188.213.128.116
 vless://c0e4fd3f-281c-43b8-a10a-2ebc48880a01@188.213.128.78:2000?type=grpc&security=none#CH 🇨🇭 ┇ VLESS-GRPC-NTLS - Infomaniak Network SA ┇ 188.213.128.78
@@ -7,7 +8,6 @@ vless://ed7a62ac-99ec-4e09-86c6-84a2147c2fcb@195.15.240.12:6666?type=grpc&securi
 vless://ffd9509f-afa3-45c8-d737-38dd00555312@37.156.44.42:2053?type=ws&security=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 37.156.44.42
 vless://2491ed46-13f6-4650-bb76-e8fb251d6ea2@37.156.44.42:6666?type=grpc&security=none#CH 🇨🇭 ┇ VLESS-GRPC-NTLS - Infomaniak Network SA ┇ 37.156.44.42
 vless://b2f5bd9c-a98d-4e63-bec5-a40b1c8025d3@37.156.45.84:1000?type=grpc&security=none#CH 🇨🇭 ┇ VLESS-GRPC-NTLS - Infomaniak Network SA ┇ 37.156.45.84
-vless://6db0e9a8-45e6-49e1-ad02-f49495d425be@37.156.46.193:8080?type=ws&security=none&path=/#CH 🇨🇭 ┇ VLESS-WS-NTLS - Infomaniak Network SA ┇ 37.156.46.193
 vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 37.156.47.23
 vless://COD_VPN@37.156.47.23:6666?type=grpc&security=none#CH 🇨🇭 ┇ VLESS-GRPC-NTLS - Infomaniak Network SA ┇ 37.156.47.23
 vless://V2RAX@84.234.28.183:6666?type=grpc&security=none#CH 🇨🇭 ┇ VLESS-GRPC-NTLS - Infomaniak Network SA ┇ 84.234.28.183

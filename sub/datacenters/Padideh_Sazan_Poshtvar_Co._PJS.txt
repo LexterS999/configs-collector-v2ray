@@ -1,5 +1,5 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhZGlkZWggU2F6YW4gUG9zaHR2YXIgQ28uIFBKUyBcdTI1MDcgMzEuNDEuMzUuMTk1IiwiYWRkIjoiMzEuNDEuMzUuMTk1IiwicG9ydCI6NDcwNTcsImlkIjoiZDVjMDg2MjEtODhhZS00ODk4LTg4MzgtYWRmNDY1M2Q1OWU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://0e61f612-c6e5-4855-9324-30594cc62b66@195.182.38.176:91?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Padideh Sazan Poshtvar Co. PJS ┇ 195.182.38.176
+vless://0e61f612-c6e5-4855-9324-30594cc62b66@germany.shahinstore1.com:91?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Padideh Sazan Poshtvar Co. PJS ┇ 195.182.38.176
 vless://8d201d45-0638-4bf5-a1f6-ab7d4d715380@195.182.38.28:2086?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Padideh Sazan Poshtvar Co. PJS ┇ 195.182.38.28
 vless://e32acea6-571b-4434-8f40-6b4482423897@31.41.35.143:2490?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Padideh Sazan Poshtvar Co. PJS ┇ 31.41.35.143
 vless://01b8c498-d50c-453b-9cd8-bc5fd9496362@31.41.35.210:2281?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Padideh Sazan Poshtvar Co. PJS ┇ 31.41.35.210

@@ -1,10 +1,10 @@
-vless://f7508eb9-b5e8-4df2-849c-fe6d37abb68b@185.126.200.116:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.126.200.116
+vless://20e2bbf8-848c-42f8-8034-b0f57699b109@185.228.59.175:25183?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.228.59.175
+vless://502006fa-a1b0-4a27-986b-1c74834f96da@fr1.netprivate-server.ir:9033?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 77.74.202.234
 vless://f7508eb9-b5e8-4df2-849c-fe6d37abb68b@185.126.200.13:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.126.200.13
+vless://f7508eb9-b5e8-4df2-849c-fe6d37abb68b@185.126.200.116:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.126.200.116
 vless://a268d2a5-9f99-4591-a65d-a0db3037c225@185.126.201.156:36247?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.126.201.156
 vless://e608a458-6fc3-ab40-2cfb-15922a308292@185.228.59.103:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.228.59.103
-vless://20e2bbf8-848c-42f8-8034-b0f57699b109@185.228.59.175:25183?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.228.59.175
 vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@185.228.59.3:1001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.228.59.3
 vless://c0fabb39-9866-4659-8641-a1bf1f69179d@185.235.198.115:2092?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.235.198.115
 vless://dee5c3da-c392-458e-9278-5574cd341609@185.235.198.20:42191?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.235.198.20
-vless://502006fa-a1b0-4a27-986b-1c74834f96da@77.74.202.234:9033?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 77.74.202.234
 vless://0a078a81-3ca3-4d23-8b2a-c1ae933477db@ir01.catfire.site:2087?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.235.198.9

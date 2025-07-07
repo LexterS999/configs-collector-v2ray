@@ -1,7 +1,8 @@
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@135.84.74.177:8880?type=ws&security=none&path=/Telegram🇨🇳#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-PROD-WEST01 ┇ 135.84.74.177
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.74.213:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-PROD-WEST01 ┇ 135.84.74.213
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.72.14:80?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-PROD-WEST01 ┇ 135.84.72.14
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.72.44:80?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-PROD-WEST01 ┇ 135.84.72.44
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.72.88:80?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-PROD-WEST01 ┇ 135.84.72.88
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.74.213:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-PROD-WEST01 ┇ 135.84.74.213
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@135.84.74.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-PROD-WEST01 ┇ 135.84.74.251
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.74.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-PROD-WEST01 ┇ 135.84.74.29
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.74.75:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - USG-PROD-WEST01 ┇ 135.84.74.75

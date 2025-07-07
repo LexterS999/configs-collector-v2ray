@@ -1,6 +1,8 @@
 vless://04a8fc0b-a72b-4d31-8f26-4a8ed6f78d41@202.133.89.132:6062?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 202.133.89.132
 vless://6484f053-9cca-4f0c-9995-1aaf257f6294@188.245.95.151:1521?type=tcp&security=none&sni=testspeed-foreign.tci.ir#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 188.245.95.151
 vless://6484f053-9cca-4f0c-9995-1aaf257f6294@37.27.250.128:1521?type=tcp&security=none&sni=testspeed-foreign.tci.ir#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 37.27.250.128
-vless://6484f053-9cca-4f0c-9995-1aaf257f6294@722309294.web-manage.com.tr:1523?type=tcp&security=none&sni=testspeed-foreign.tci.ir#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 91.99.174.245
+vless://6484f053-9cca-4f0c-9995-1aaf257f6294@722309294.web-manage.com.tr:1523?type=tcp&security=none&sni=testspeed-foreign.tci.ir#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 91.99.8.231
 vless://815724d3-0d61-4761-be07-471441d42be5@185.208.173.3:80?type=ws&security=none&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#GB 🇬🇧 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 185.208.173.3
+vless://a899fa5a-ee58-4347-80a7-e8b21695df4b@parspack.com:2052?type=ws&security=none&path=/MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2?ed=2560#GB 🇬🇧 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 185.208.173.3
+vless://mosiv2----mosiv2@parspack.com:8880?type=ws&security=none&path=/MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2--MOSiV2?ed=2560#GB 🇬🇧 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 185.208.173.3
 vless://4d7bcf88-6af9-470a-bb21-3c00c9cdb5b1@ir01.oghabvps.com:8080?type=httpupgrade&security=none&path=/#TR 🇹🇷 ┇ VLESS-HTTPUPGRADE-NTLS - BitCommand LLC ┇ 89.251.8.53

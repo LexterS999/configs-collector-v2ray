@@ -1,2 +1,1 @@
 vless://2920057a-1a5f-420a-bb12-ae92d6a1f5c7@146.0.72.77:58951?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 146.0.72.77
-vless://346264b7-975c-4891-8f7b-dcd6e5707a42@kernel.panel.cactusv2.xyz:4434?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hostkey B.v. ┇ 195.38.19.15

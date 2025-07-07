@@ -1,6 +1,6 @@
+vless://6718b144-8aeb-4b91-a846-c44b04803610@103.215.223.192:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 103.215.223.192
 vless://7d57ddc5-2d3e-44ad-ad55-d2b5e96b9b2e@103.215.221.116:49138?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 103.215.221.116
 vless://5eb32d76-7b18-4e01-fa09-99fc5424712a@103.215.221.219:20425?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Gostaran Bandar Company (PJS) ┇ 103.215.221.219
-vless://6718b144-8aeb-4b91-a846-c44b04803610@103.215.223.192:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 103.215.223.192
 vless://33750dde-2801-4708-80be-680218439b01@195.238.240.126:2082?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.126
 vless://02c0a435-b281-a9b3-8108-8713da0eb66f@195.238.240.47:8880?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.47
 vless://33750dde-2801-4708-80be-680218439b01@195.238.240.53:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Gostaran Bandar Company (PJS) ┇ 195.238.240.53

@@ -1,8 +1,8 @@
+vless://f1abce0d-998b-4ee0-b0d3-d820e6bcd011@maskunlimit51.royalmt.life:12215?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.71
 vless://ba6b0be7-0a4e-4e12-a1f2-aaa506977f7c@85.9.104.85:55579?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.85
 vless://feea4b50-0588-4160-9327-85a61b7f8903@85.9.104.89:36916?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.89
 vless://66373462-3132-4232-b765-646435366564@91.213.151.58:3128?type=tcp&security=none&path=/gb/l/w/aGpi82wBtPrbIRSs?ed=2047#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 91.213.151.58
 vless://7e3b4e5a-483f-4c2d-957d-765137dbe186@h2.tikmarket1.site:2095?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Taknet Afzar Aftab PJSC ┇ 195.230.107.47
 vless://7f4fa26b-5165-402a-8252-14763e755bb0@maskunlimit51.royalmt.life:11906?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.71
-vless://f1abce0d-998b-4ee0-b0d3-d820e6bcd011@maskunlimit51.royalmt.life:12215?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.71
 vless://ca033360-3f2c-4cde-aab4-3037df9b3e9d@maskunlimit51.royalmt.life:30574?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.71
 vless://b1500629-5d35-459d-afe9-7835d2e1e556@maskunlimit51.royalmt.life:65041?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.71

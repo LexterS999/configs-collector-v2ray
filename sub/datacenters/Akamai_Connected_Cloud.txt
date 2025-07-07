@@ -19,8 +19,8 @@ vless://ddd32705-ab32-4a8b-84db-092b75647453@172.104.173.136:2321?type=tcp&secur
 vless://fdfc88b6-d0af-47ca-acbc-a875c81c35ac@45.118.133.29:2321?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 45.118.133.29
 vless://55c065e4-3429-49bf-aea2-d05ff7dd6586@172.233.141.49:2321?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.141.49
 vless://a4fb0780-e6d5-4e5e-b22d-d431db4aa53b@172.234.31.209:2321?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.234.31.209
-vless://2af5dfe8-352a-4ec3-aa1a-8116de8d339f@104.17.14.48:443?type=ws&security=tls&path=/vless&sni=fr-v.sshmax.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ N/A
 vless://c8aea861-7ce9-47b1-bdbd-7b1ac98f86dd@139.144.219.15:2321?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 139.144.219.15
+vless://2af5dfe8-352a-4ec3-aa1a-8116de8d339f@104.17.14.48:443?type=ws&security=tls&path=/vless&sni=fr-v.sshmax.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ N/A
 vless://d6512a1c-1180-4aac-f3df-b72b11e5368c@141.101.122.211:443?type=grpc&security=tls&sni=dovomi.nufilter.store&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - Akamai Connected Cloud ┇ 141.101.122.211
 vless://bc822b01-7c8b-46d9-b678-4caeaeb56f46@172.233.199.36:2321?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.199.36
 vless://bb0f3a76-ed08-4058-a1c7-4787934051db@172.233.229.148:11451?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.229.148
@@ -33,7 +33,7 @@ vless://d6512a1c-1180-4aac-f3df-b72b11e5368c@172.67.178.200:443?type=grpc&securi
 vless://2f8c5e4a-ccb2-4da8-bbfc-ab5d1e31f2df@172.67.191.234:443?type=ws&security=tls&path=/vless&sni=fR1-vlESs.SSHmax.XYz&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ N/A
 vless://bd739eed-20b6-47a2-82cd-8c9c11f752c6@45.79.190.102:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 45.79.190.102
 vless://bd739eed-20b6-47a2-82cd-8c9c11f752c6@69.164.217.142:443?type=xhttp&security=none#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - Akamai Connected Cloud ┇ 69.164.217.142
-vless://a0597c21-66ae-4eb6-809f-fbf785dcada9@lu1.v2vless.xyz:80?type=tcp&security=none&path=/vless#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.219.49
+vless://a0597c21-66ae-4eb6-809f-fbf785dcada9@lu1.v2vless.xyz:80?type=tcp&security=none&path=/vless#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.219.123
 vless://d5acea00-3933-462b-b365-9dfda9a19a85@melo-mci.outline-vpn.cloud:443?type=grpc&security=tls&sni=ip6.melobigg.site&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-TLS - Akamai Connected Cloud ┇ N/A
-vless://d05596ed-288b-4708-9a01-b01635f4c91d@tf1.basevip1.best:4911?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 45.33.18.44
+vless://d05596ed-288b-4708-9a01-b01635f4c91d@tf1.basevip1.best:4911?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 45.33.2.79
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.174.160:80?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.233.174.160

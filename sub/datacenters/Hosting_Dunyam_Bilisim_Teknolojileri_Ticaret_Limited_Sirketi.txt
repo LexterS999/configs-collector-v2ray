@@ -1,1 +1,1 @@
-vless://1d01ba0e-9429-43b1-85ad-c113e3d2891a@92.249.61.35:50136?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 92.249.61.35
+vless://1d01ba0e-9429-43b1-85ad-c113e3d2891a@92.249.61.35:50136?type=raw&security=none&path=/#TR 🇹🇷 ┇ VLESS-RAW-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 92.249.61.35

@@ -1,4 +1,4 @@
-vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@45.129.185.200:8880?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 45.129.185.200
+vless://71a3cd5b-90cf-4fea-b286-e011b31438cf@dlarm.kuckenpq.ir:8880?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 45.129.185.200
 vless://71a3cd5b-90cf-4fea-b286-e011b31438cf@dlarm2.kuckenpq.ir:8880?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 194.156.103.74
 vless://df54e90b-a045-489e-8666-d77a73e4effe@194.156.103.21:8443?type=tcp&security=reality&sni=armenia.extvay.ir&fp=chrome&pbk=BPyF7oyAzcqOB9KWvy0Xe6nkBQLtZkHVFXX4O2Y7Q18&sid=94040bd2a7f2505c#AM 🇦🇲 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ N/A
 vless://26a45f68-0dd0-4952-ab1e-2c3d023d2431@45.129.185.185:2087?type=tcp&security=none#AM 🇦🇲 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 45.129.185.185
@@ -6,9 +6,7 @@ vless://840fce73-112f-44e1-8bdf-cee760ed7a03@141.98.233.95:1518?type=tcp&securit
 vless://bc09f682-8c7e-4530-9380-d103fa739079@147.45.116.4:777?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 147.45.116.4
 vless://bc09f682-8c7e-4530-9380-d103fa739079@147.45.116.4:888?type=tcp&security=none#BR 🇧🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 147.45.116.4
 vless://d7128c30-5acd-4c9d-d917-d1fe9c96ff6e@62.133.60.234:777?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.60.234
-vless://Telegram-SRCVPN-@77.110.107.170:2060?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Global Connectivity Solutions Llp ┇ 77.110.107.170
 vless://fb119df4-9d8b-4565-a00e-87d69466d665@85.208.139.222:1633?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 85.208.139.222
-vless://7813173f-3529-6446-940f-ef74acaa0aff@germany1.adm-cll.ir:25861?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 85.208.139.62
 vless://d0d42596-ff07-4f6f-9edd-7fbf3e93b8fd@78.153.139.212:777?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 78.153.139.212
 vless://d49f777a-6b2b-4286-bc20-c5e862135716@109.172.55.28:2063?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Global Connectivity Solutions Llp ┇ 109.172.55.28
 vless://86ef26b2-ff51-4f89-c852-18342022f2c1@45.95.233.229:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 45.95.233.229

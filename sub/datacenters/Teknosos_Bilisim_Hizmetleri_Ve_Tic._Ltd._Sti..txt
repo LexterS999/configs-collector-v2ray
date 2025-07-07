@@ -4,4 +4,3 @@ vless://5fa643a7-1ff2-417c-fcfa-fe9006b308c4@213.142.150.181:48917?type=tcp&secu
 vless://64f4fbf0-b0b1-4bb4-b925-75c2513a13c4@213.142.156.169:443?type=grpc&security=none#TR 🇹🇷 ┇ VLESS-GRPC-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.156.169
 vless://7db834ec-1847-4f0c-9e24-d7f12fd43187@5.181.2.3:443?type=ws&security=tls&path=/11790/staticvpn&sni=k1.allservers.org&fp=random#TR 🇹🇷 ┇ VLESS-WS-TLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ N/A
 vless://c5fcc6d2-aa4a-4c1c-a9d8-cea6e5a30dd5@80.253.255.104:9536?type=tcp&security=none&fp=chrome#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 80.253.255.104
-vless://3588f520-67db-48b3-e80f-24f03a82e84e@opl.vip-senior.info:56504?type=ws&security=none#TR 🇹🇷 ┇ VLESS-WS-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.134.198

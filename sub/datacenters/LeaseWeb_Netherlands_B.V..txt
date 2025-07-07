@@ -19,4 +19,3 @@ vless://4e88cac9-6cc4-445b-818c-8aabb2c1f2e9@85.17.40.111:46927?type=tcp&securit
 vless://07fd7d30-81a9-4ac5-d2e9-adbc16b0182a@85.17.5.150:45340?type=ws&security=none&path=/Nadfd56t#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.5.150
 vless://aa188240-cf10-4df6-9543-5223800891be@85.17.67.13:8880?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.67.13
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@95.211.27.188:39948?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 95.211.27.188
-vless://71b1411d-f242-4e84-83f6-a4d3ca912844@62.212.70.94:2025?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 62.212.70.94

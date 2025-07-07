@@ -1,3 +1,4 @@
+vless://8039a8e7-9460-4ba8-9532-1f1946fcf169@meili.heartina.ir:1002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 213.176.6.56
 vless://bb8f41c4-ebfe-4210-f0d9-14a65c3e433e@193.111.236.194:8443?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 193.111.236.194
 vless://c0f2ce75-becd-4078-b969-24f13c3bde51@193.111.236.81:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 193.111.236.81
 vless://5700e098-ce03-4f77-8632-dd1bf22bb80a@213.176.6.166:34727?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 213.176.6.166
@@ -5,4 +6,3 @@ vless://c4405794-1958-44c8-9dbe-660dad113053@87.248.154.160:52675?type=tcp&secur
 vless://41b85a5a-82aa-4e21-88a2-4b3377e9cf57@87.248.154.214:1336?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 87.248.154.214
 vless://3b6cdf68-8dbb-4d76-903d-de4a389cc3a9@87.248.154.214:24090?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 87.248.154.214
 vless://272a9b53-172b-4f7f-87aa-d70237de1648@rocket.mrpro77.top:25054?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 87.248.154.225
-vless://8039a8e7-9460-4ba8-9532-1f1946fcf169@meili.heartina.ir:1002?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 213.176.6.56
