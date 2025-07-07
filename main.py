@@ -907,23 +907,6 @@ async def main():
 
     Geolocation.initialize()
 
-    if not CONFIG.SUBSCRIPTION_LINKS_FILE.exists():
-        new_links = [
-            "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed",
-            "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt", "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
-            "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/v2ray_configs.txt", "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt",
-            "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge.txt", "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
-            "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt", "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/full/5ubscrpt10n.txt",
-            "https://raw.githubusercontent.com/skywrt/v2ray-configs/main/All_Configs_Sub.txt", "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt",
-            "https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt", "https://raw.githubusercontent.com/GuoBing1989100/v2ray_configs/main/all.txt",
-            "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/mix/sub.html", "https://raw.githubusercontent.com/hamed1124/port-based-v2ray-configs/main/All-Configs.txt",
-            "https://raw.githubusercontent.com/miladesign/TelegramV2rayCollector/main/api/normal", "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt",
-            "https://raw.githubusercontent.com/jagger235711/V2rayCollector/main/results/mixed_tested.txt", "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt",
-            "https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/All_Configs_Sub.txt", "https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-trojan-ss-configs/main/sub/Iran/config.txt",
-            "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/configtg.txt"
-        ]
-        with open(CONFIG.SUBSCRIPTION_LINKS_FILE, "w") as f: json.dump(list(set(new_links)), f, indent=4)
-
     if not CONFIG.TELEGRAM_CHANNELS_FILE.exists():
          try:
             status, content = await AsyncHttpClient.get(CONFIG.REMOTE_CHANNELS_URL)
