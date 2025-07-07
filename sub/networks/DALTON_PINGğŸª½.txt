@@ -1,6 +1,0 @@
-trojan://o2mr9q4n-yrbi-ene6-cueo-imkfzw7eigv2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-26 | 03:18 ]
-trojan://wt3eov6l-rrhu-y655-4rdl-de7555q4lbqy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nuncnrh1-zg1y-fj8h-p0wd-zjawre9tr3to@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://y96o0og5-v8ke-6jlf-cydq-x4alcbqacor7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://0a1d174c-06a8-4f22-9558-bbbf86d5df92@5.202.11.98:4244?type=@DALTON_PINGğŸª½&security=none#IR 🇮🇷 ┇ VLESS-@DALTON_PINGĞŸª½-NTLS - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 5.202.11.98
-trojan://6z2f5qme-aoyk-phfr-ql7z-oy78smn63jtx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v27.1.0
