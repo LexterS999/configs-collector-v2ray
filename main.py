@@ -40,9 +40,11 @@ class AppConfig:
     DATA_DIR = BASE_DIR / "data"
     OUTPUT_DIR = BASE_DIR / "sub"
 
+    # ИЗМЕНЕНО: Добавлена новая директория для "избранных" провайдеров
     DIRS = {
         "protocols": OUTPUT_DIR / "protocols",
         "datacenters": OUTPUT_DIR / "datacenters",
+        "custom_datacenters": OUTPUT_DIR / "custom_datacenters",
     }
 
     LAST_UPDATE_FILE = DATA_DIR / "last_update.log"
@@ -54,6 +56,7 @@ class AppConfig:
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
 
+    # Этот список теперь используется для КЛАССИФИКАЦИИ, а не для фильтрации
     DESIRED_ASN_KEYWORDS: Set[str] = {
         "aeza", "hetzner", "digitalocean", "g-core", "pq hosting", "global connectivity"
     }
@@ -564,18 +567,15 @@ class ConfigProcessor:
         # Pipeline Step 4: Geolocation
         await self._resolve_geo_info()
         
-        # Pipeline Step 5: ASN Whitelist Filtering
-        self._filter_by_desired_asn()
-
-        # Pipeline Step 6: Connectivity Test
+        # Pipeline Step 5: Connectivity Test
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
             await self._test_connectivity()
         
-        # Pipeline Step 7: Endpoint Deduplication
+        # Pipeline Step 6: Endpoint Deduplication
         if CONFIG.ENABLE_IP_DEDUPLICATION:
             self._deduplicate_by_endpoint()
             
-        # Pipeline Step 8: Formatting and Sorting
+        # Pipeline Step 7: Formatting and Sorting
         self._format_config_remarks()
         self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: (item[1].country, item[1].asn_org or "")))
 
@@ -595,21 +595,6 @@ class ConfigProcessor:
                 config.country = Geolocation.get_country_from_ip(ip_address)
                 config.asn_org = Geolocation.get_asn_from_ip(ip_address)
 
-    def _filter_by_desired_asn(self):
-        initial_count = len(self.parsed_configs)
-        
-        kept_configs = {}
-        for key, config in self.parsed_configs.items():
-            if config.asn_org:
-                is_desired = any(keyword in config.asn_org.lower() for keyword in CONFIG.DESIRED_ASN_KEYWORDS)
-                if is_desired:
-                    kept_configs[key] = config
-        
-        self.parsed_configs = kept_configs
-        removed_count = initial_count - len(self.parsed_configs)
-        if removed_count > 0:
-            console.log(f"ASN whitelist filter kept {len(self.parsed_configs)} configs, removing {removed_count}.")
-
     async def _test_tcp_connection(self, config: BaseConfig, semaphore: asyncio.Semaphore) -> Optional[str]:
         async with semaphore:
             ip = Geolocation._ip_cache.get(config.host)
@@ -625,7 +610,6 @@ class ConfigProcessor:
             except (asyncio.TimeoutError, ConnectionRefusedError, OSError, Exception):
                 return None
 
-    # ИСПРАВЛЕНО И УЛУЧШЕНО: Логика обновления прогресс-бара
     async def _test_connectivity(self):
         configs_to_test = list(self.parsed_configs.values())
         if not configs_to_test:
@@ -667,7 +651,6 @@ class ConfigProcessor:
                 else:
                     failed_count += 1
                 
-                # Обновляем прогресс с явными счетчиками
                 progress.update(task, advance=1, fields={"passed": passed_count, "failed": failed_count})
 
         self.passed_connectivity_test_count = len(passed_keys)
@@ -722,17 +705,41 @@ class ConfigProcessor:
     def get_all_unique_configs(self) -> List[BaseConfig]:
         return list(self.parsed_configs.values())
 
+    # ИЗМЕНЕНО: Полностью переписанный метод для классификации, а не фильтрации
     def categorize(self) -> Dict[str, Dict[str, List[BaseConfig]]]:
+        """
+        Categorizes configs into different buckets for saving.
+        - 'custom_datacenters' for desired ASNs.
+        - 'datacenters' for other ASNs.
+        - 'protocols' with '_custom' suffix for desired ASNs.
+        """
+        console.log("Categorizing final configs...")
         configs = self.get_all_unique_configs()
+        
         categories: Dict[str, Dict[str, List[BaseConfig]]] = { 
-            "protocols": {}, "datacenters": {} 
+            "protocols": {}, 
+            "datacenters": {},
+            "custom_datacenters": {}
         }
         
         for config in configs:
-            categories["protocols"].setdefault(config.protocol, []).append(config)
+            is_desired = False
+            if config.asn_org:
+                is_desired = any(keyword in config.asn_org.lower() for keyword in CONFIG.DESIRED_ASN_KEYWORDS)
+
+            # Route to the correct datacenter folder
+            if is_desired:
+                target_datacenter_cat = "custom_datacenters"
+            else:
+                target_datacenter_cat = "datacenters"
+            
             if config.asn_org:
                 sanitized_asn = re.sub(r'[\\/*?:"<>|,]', "", config.asn_org).replace(" ", "_")
-                categories["datacenters"].setdefault(sanitized_asn, []).append(config)
+                categories[target_datacenter_cat].setdefault(sanitized_asn, []).append(config)
+
+            # Route to the correct protocol file
+            protocol_key = f"{config.protocol}_custom" if is_desired else config.protocol
+            categories["protocols"].setdefault(protocol_key, []).append(config)
                 
         return categories
 
@@ -743,7 +750,7 @@ class V2RayCollectorApp:
         self.last_update_time = datetime.now(get_iran_timezone()) - timedelta(days=1)
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v32.0.0 (Whitelist & Tested)[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v33.0.0 (Classified & Tested)[/bold green]")
         await self._load_state()
 
         tg_channels = await self._fetch_source(CONFIG.REMOTE_TELEGRAM_CHANNELS_URL, "Telegram channels")
