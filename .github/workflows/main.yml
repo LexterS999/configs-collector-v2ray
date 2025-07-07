@@ -39,7 +39,6 @@ jobs:
           git config --global user.email "action@github.com"
           git add -A
           if ! git diff --staged --quiet; then
-            # ИЗМЕНЕНО: Комментарий к коммиту стал более описательным
             git commit -m "CHORE: Update V2Ray configs (vless/vmess only)"
             git push
           else
