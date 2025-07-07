@@ -54,7 +54,6 @@ class AppConfig:
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
 
-    # ИЗМЕНЕНО: Переход на Whitelist. Только провайдеры, содержащие эти слова, будут сохранены.
     DESIRED_ASN_KEYWORDS: Set[str] = {
         "aeza", "hetzner", "digitalocean", "g-core", "pq hosting", "global connectivity"
     }
@@ -72,10 +71,9 @@ class AppConfig:
     ENABLE_SUBSCRIPTION_FETCHING = True
     ENABLE_IP_DEDUPLICATION = True
     
-    # НОВЫЕ ПАРАМЕТРЫ: Конфигурация для обязательной проверки доступности
     ENABLE_CONNECTIVITY_TEST = True 
-    CONNECTIVITY_TEST_TIMEOUT = 2.0  # 2000 мс
-    CONNECTIVITY_TEST_CONCURRENCY = 40 # 40 одновременных проверок
+    CONNECTIVITY_TEST_TIMEOUT = 2.0
+    CONNECTIVITY_TEST_CONCURRENCY = 40
     
 CONFIG = AppConfig()
 console = Console()
@@ -102,7 +100,7 @@ COUNTRY_CODE_TO_FLAG = {
     'GY': '🇬🇾', 'HK': '🇭🇰', 'HN': '🇭🇳', 'HR': '🇭🇷', 'HT': '🇭🇹', 'HU': '🇭🇺', 'ID': '🇮🇩', 'IE': '🇮🇪', 'IL': '🇮🇱', 'IM': '🇮🇲', 'IN': '🇮🇳', 'IO': '🇮🇴', 'IQ': '🇮🇶', 'IR': '🇮🇷', 'IS': '🇮🇸', 'IT': '🇮🇹', 'JE': '🇯🇪', 'JM': '🇯🇲',
     'JO': '🇯🇴', 'JP': '🇯🇵', 'KE': '🇰🇪', 'KG': '🇰🇬', 'KH': '🇰🇭', 'KI': '🇰🇮', 'KM': '🇰🇲', 'KN': '🇰🇳', 'KP': '🇰🇵', 'KR': '🇰🇷', 'KW': '🇰🇼', 'KY': '🇰🇾', 'KZ': '🇰🇿', 'LA': '🇱🇦', 'LB': '🇱🇧', 'LC': '🇱🇨', 'LI': '🇱🇮', 'LK': '🇱🇰',
     'LR': '🇱🇷', 'LS': '🇱🇸', 'LT': '🇱🇹', 'LU': '🇱🇺', 'LV': '🇱🇻', 'LY': '🇱🇾', 'MA': '🇲🇦', 'MC': '🇲🇨', 'MD': '🇲🇩', 'ME': '🇲🇪', 'MF': '🇲🇫', 'MG': '🇲🇬', 'MH': '🇲🇭', 'MK': '🇲🇰', 'ML': '🇲🇱', 'MM': '🇲🇲', 'MN': '🇲🇳', 'MO': '🇲🇴',
-    'MP': '🇲🇵', 'MQ': '🇲🇶', 'MR': '🇲🇷', 'MS': '🇲🇸', 'MT': '🇲🇹', 'MU': '🇲🇺', 'MV': '🇻', 'MW': '🇲🇼', 'MX': '🇲🇽', 'MY': '🇲🇾', 'MZ': '🇲🇿', 'NA': '🇳🇦', 'NC': '🇳🇨', 'NE': '🇳🇪', 'NF': '🇳🇫', 'NG': '🇳🇬', 'NI': '🇳🇮', 'NL': '🇳🇱',
+    'MP': '🇲🇵', 'MQ': '🇲🇶', 'MR': '🇲🇷', 'MS': '🇲🇸', 'MT': '🇲🇹', 'MU': '🇲🇺', 'MV': '🇲🇻', 'MW': '🇲🇼', 'MX': '🇲🇽', 'MY': '🇲🇾', 'MZ': '🇲🇿', 'NA': '🇳🇦', 'NC': '🇳🇨', 'NE': '🇳🇪', 'NF': '🇳🇫', 'NG': '🇳🇬', 'NI': '🇳🇮', 'NL': '🇳🇱',
     'NO': '🇳🇴', 'NP': '🇳🇵', 'NR': '🇳🇷', 'NU': '🇳🇺', 'NZ': '🇳🇿', 'OM': '🇴🇲', 'PA': '🇵🇦', 'PE': '🇵🇪', 'PF': '🇵🇫', 'PG': '🇵🇬', 'PH': '🇵🇭', 'PK': '🇵🇰', 'PL': '🇵🇱', 'PM': '🇵🇲', 'PN': '🇵🇳', 'PR': '🇵🇷', 'PS': '🇵🇸', 'PT': '🇵🇹',
     'PW': '🇵🇼', 'PY': '🇵🇾', 'QA': '🇶🇦', 'RE': '🇷🇪', 'RO': '🇷🇴', 'RS': '🇷🇸', 'RU': '🇷🇺', 'RW': '🇷🇼', 'SA': '🇸🇦', 'SB': '🇸🇧', 'SC': '🇸🇨', 'SD': '🇸🇩', 'SE': '🇸🇪', 'SG': '🇸🇬', 'SH': '🇸🇭', 'SI': '🇸🇮', 'SJ': '🇸🇯', 'SK': '🇸🇰',
     'SL': '🇸🇱', 'SM': '🇸🇲', 'SN': '🇸🇳', 'SO': '🇸🇴', 'SR': '🇸🇷', 'SS': '🇸🇸', 'ST': '🇸🇹', 'SV': '🇸🇻', 'SX': '🇸🇽', 'SY': '🇸🇾', 'SZ': '🇸🇿', 'TC': '🇹🇨', 'TD': '🇹🇩', 'TF': '🇹🇫', 'TG': '🇹🇬', 'TH': '🇹🇭', 'TJ': '🇹🇯', 'TK': '🇹🇰',
@@ -543,7 +541,7 @@ class ConfigProcessor:
     async def process(self):
         console.log(f"Processing {self.total_raw_count} raw config strings...")
 
-        # 1. Парсинг
+        # Pipeline Step 1: Parsing
         all_parsed_configs: List[BaseConfig] = []
         for config_type, configs in self.raw_configs_by_type.items():
             for uri in configs:
@@ -552,32 +550,32 @@ class ConfigProcessor:
                     all_parsed_configs.append(parsed)
         console.log(f"Successfully parsed {len(all_parsed_configs)} configs.")
 
-        # 2. Фильтрация по протоколу
+        # Pipeline Step 2: Protocol Filtering
         filtered_by_protocol = [c for c in all_parsed_configs if c.protocol in self.allowed_protocols]
         console.log(f"Protocol filter kept {len(filtered_by_protocol)} configs (vless/vmess).")
         
-        # 3. Дедупликация по URI
+        # Pipeline Step 3: URI Deduplication
         for config in filtered_by_protocol:
             key = config.get_deduplication_key()
             if key not in self.parsed_configs:
                 self.parsed_configs[key] = config
         console.log(f"Deduplication by URI resulted in {len(self.parsed_configs)} unique configs.")
 
-        # 4. Определение геолокации
+        # Pipeline Step 4: Geolocation
         await self._resolve_geo_info()
         
-        # 5. Фильтрация по Whitelist'у провайдеров
+        # Pipeline Step 5: ASN Whitelist Filtering
         self._filter_by_desired_asn()
 
-        # 6. Обязательная проверка доступности
+        # Pipeline Step 6: Connectivity Test
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
             await self._test_connectivity()
         
-        # 7. Финальная дедупликация
+        # Pipeline Step 7: Endpoint Deduplication
         if CONFIG.ENABLE_IP_DEDUPLICATION:
             self._deduplicate_by_endpoint()
             
-        # 8. Форматирование и сортировка
+        # Pipeline Step 8: Formatting and Sorting
         self._format_config_remarks()
         self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: (item[1].country, item[1].asn_org or "")))
 
@@ -613,7 +611,6 @@ class ConfigProcessor:
             console.log(f"ASN whitelist filter kept {len(self.parsed_configs)} configs, removing {removed_count}.")
 
     async def _test_tcp_connection(self, config: BaseConfig, semaphore: asyncio.Semaphore) -> Optional[str]:
-        """Tries to connect and returns the config key on success."""
         async with semaphore:
             ip = Geolocation._ip_cache.get(config.host)
             if not ip:
@@ -628,8 +625,8 @@ class ConfigProcessor:
             except (asyncio.TimeoutError, ConnectionRefusedError, OSError, Exception):
                 return None
 
+    # ИСПРАВЛЕНО И УЛУЧШЕНО: Логика обновления прогресс-бара
     async def _test_connectivity(self):
-        """Tests all configs for TCP connectivity and discards failures."""
         configs_to_test = list(self.parsed_configs.values())
         if not configs_to_test:
             return
@@ -638,6 +635,8 @@ class ConfigProcessor:
         semaphore = asyncio.Semaphore(CONFIG.CONNECTIVITY_TEST_CONCURRENCY)
         
         passed_keys: Set[str] = set()
+        passed_count = 0
+        failed_count = 0
         
         with Progress(
             SpinnerColumn(),
@@ -664,9 +663,12 @@ class ConfigProcessor:
                 result_key = await future
                 if result_key:
                     passed_keys.add(result_key)
-                    progress.update(task, advance=1, fields={"passed": len(passed_keys), "failed": progress.completed - len(passed_keys)})
+                    passed_count += 1
                 else:
-                    progress.update(task, advance=1, fields={"failed": progress.completed - len(passed_keys)})
+                    failed_count += 1
+                
+                # Обновляем прогресс с явными счетчиками
+                progress.update(task, advance=1, fields={"passed": passed_count, "failed": failed_count})
 
         self.passed_connectivity_test_count = len(passed_keys)
         self.parsed_configs = {key: self.parsed_configs[key] for key in passed_keys}
@@ -741,7 +743,7 @@ class V2RayCollectorApp:
         self.last_update_time = datetime.now(get_iran_timezone()) - timedelta(days=1)
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v31.0.0 (Whitelist & Tested)[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v32.0.0 (Whitelist & Tested)[/bold green]")
         await self._load_state()
 
         tg_channels = await self._fetch_source(CONFIG.REMOTE_TELEGRAM_CHANNELS_URL, "Telegram channels")
