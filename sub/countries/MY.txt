@@ -1,9 +1,0 @@
-trojan://oton0dx3-44n1-hhvn-7fc2-xrtp2je8gjbc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
-trojan://spp0ruyc-h39s-zueu-epoy-g7sdn47ohmyw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0ziigo28-vq2i-gbz7-hue0-ypejljhq7z1z@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6cky9o60-r7ky-yeov-b8od-e9yorfdulgin@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://63ea63b4-abd1-4659-dbcc-8cdc30710578@43.216.10.241:58491?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 43.216.10.241
-vless://881a611f-a8ed-4fea-bda2-1f2bd77a5bfd@43.216.181.43:18264?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 43.216.181.43
-vless://63ea63b4-abd1-4659-dbcc-8cdc30710578@43.216.210.242:58491?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 43.216.210.242
-vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@47.254.232.109:443?type=ws&security=tls&path=/?ed=2560&sni=cr777.medicaldream.ir#MY 🇲🇾 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 47.254.232.109
-trojan://8jxc20k2-b33k-x33c-jnnj-i2tgg2piax8n@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

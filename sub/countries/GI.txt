@@ -1,6 +1,0 @@
-trojan://ibqp0597-9ht9-7deu-dg6k-5cdynsq0pr5e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://s6phj4xq-9ani-6ctt-oo0p-jg0zfc017kmn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wojeyfuc-vpuc-erzx-eyuz-ul4v2nwmhp9r@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ntjsoxam-fnap-53l3-wckr-qqvfha9u7h4g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyU0R6d25HeldhZXlZVEFqZWp5Q3FwMkw0eUZuYUVVQ3hzeDc3QmpVUVlxMlVjNWRpVWNhRllFNVU0UG80aGtSczdQSmZlMUhrVVFpaVh2NFNpNlJoZHBQZjRCRkVoS3Q@host.phonygilson.icu:49072#GI 🇬🇮 ┇ SHADOWSOCKS-TCP-NTLS - NetAssist LLC ┇ 94.131.127.239
-trojan://lplzzn4v-ejz2-hi2o-3kkb-wudbpfnqpmhu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
