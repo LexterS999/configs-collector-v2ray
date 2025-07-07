@@ -2,7 +2,7 @@ name: V2Ray Config Collector
 
 on:
   schedule:
-    - cron: '* */22 * * *'
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 permissions:
@@ -25,6 +25,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install httpx[http2] beautifulsoup4 pydantic jdatetime aiofiles geoip2 rich
 
+      - name: Clean up previous run artifacts
+        run: |
+          rm -rf sub/
+
       - name: Run script
         run: |
           python main.py
@@ -35,8 +39,9 @@ jobs:
           git config --global user.email "action@github.com"
           git add -A
           if ! git diff --staged --quiet; then
-            git commit -m "CHORE: Update V2Ray configs"
-            git push --force
+            # ИЗМЕНЕНО: Комментарий к коммиту стал более описательным
+            git commit -m "CHORE: Update V2Ray configs (vless/vmess only)"
+            git push
           else
             echo "No changes to commit."
           fi
