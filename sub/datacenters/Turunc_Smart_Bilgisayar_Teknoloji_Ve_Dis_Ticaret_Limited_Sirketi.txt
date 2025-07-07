@@ -1,2 +1,0 @@
-vless://26a94d94-3495-4e5e-92ba-2adbfbdebadc@mail.ryzen9.ir:5630?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 45.252.183.214
-vless://b3a0f19f-b0f9-4a96-95de-49c5c5a725e0@abdzgg.teemazad.com:37062?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 45.93.171.171

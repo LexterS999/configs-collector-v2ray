@@ -1,2 +1,0 @@
-vless://b7793807-b6bb-4827-aaec-d41a8817110a@51.38.99.96:443?type=tcp&security=xtls&sni=BMI.ir&flow=xtls-rprx-direct#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Sadad Informatics Corporation PJSC ┇ N/A
-vless://298e20f6-2890-4ed5-841d-39716252baff@51.83.134.180:443?type=ws&security=tls&path=/vless&sni=bmi.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Sadad Informatics Corporation PJSC ┇ N/A

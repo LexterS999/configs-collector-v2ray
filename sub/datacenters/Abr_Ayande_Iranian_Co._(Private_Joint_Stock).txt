@@ -1,9 +1,0 @@
-vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.188
-vless://b96981a2-a6aa-44c0-b21f-88328379ec33@85.133.215.21:7964?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.21
-vless://c2df3028-a48c-4f0f-a104-013594dfa659@85.133.215.108:235?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.108
-vless://b96981a2-a6aa-44c0-b21f-88328379ec33@85.133.215.23:2398?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.23
-vless://b96981a2-a6aa-44c0-b21f-88328379ec33@85.133.215.23:7964?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.23
-vless://0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:1717?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.24
-vless://0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:2226?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.24
-vless://bd041b03-224b-44d1-a9ec-e25425c822b3@s5.nimhub.ir:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.101
-vless://b4e1ef40-2f81-4f5c-a4f6-99929119f03a@test.abdulkhanioffline.pw:36306?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Abr Ayande Iranian Co. (Private Joint Stock) ┇ 85.133.215.99

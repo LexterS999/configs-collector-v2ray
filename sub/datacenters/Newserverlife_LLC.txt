@@ -1,5 +1,0 @@
-vless://vmessprotocol@91.224.74.23:40132?type=grpc&security=none#KZ 🇰🇿 ┇ VLESS-GRPC-NTLS - Newserverlife LLC ┇ 91.224.74.23
-vless://ZEDMODEON--ZEDMODEON@45.144.51.195:35032?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Newserverlife LLC ┇ 45.144.51.195
-vless://ZEDMODEON--joinZEDMODEON@45.144.51.195:35033?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Newserverlife LLC ┇ 45.144.51.195
-vless://e331c35c-3338-4019-817f-204f91af1c47@45.144.51.195:35036?type=grpc&security=none&fp=chrome#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Newserverlife LLC ┇ 45.144.51.195
-vless://421885ec-4bcb-4355-96fa-1402f6a3a78a@104.167.199.65:58297?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Newserverlife LLC ┇ 104.167.199.65

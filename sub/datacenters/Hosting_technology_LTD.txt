@@ -1,2 +1,0 @@
-vless://ce9791a6-ed9d-4a73-9cf5-953441458ba8@melli.easy-swap.net:80?type=ws&security=none&path=/price#RU 🇷🇺 ┇ VLESS-WS-NTLS - Hosting technology LTD ┇ 94.103.86.129
-vless://2e1e96f0-821f-40a0-93ed-7ce695e803df@speed.easy-swap.net:80?type=ws&security=none&path=/price#RU 🇷🇺 ┇ VLESS-WS-NTLS - Hosting technology LTD ┇ 93.183.92.238

@@ -1,1 +1,0 @@
-vless://d6f4dbe6-3f05-47f5-aa17-4400fd611318@193.24.208.146:13683?type=tcp&security=reality&sni=server-11769.prod.hosts.ooklaserver.net&fp=chrome&flow=xtls-rprx-vision&pbk=v5Nvx93Oe6L16tm7W1cJZC696VcywoIuhMBNa1CYHh8&sid=982264#FR 🇫🇷 ┇ VLESS-TCP-RLT - Vialis SEM ┇ N/A

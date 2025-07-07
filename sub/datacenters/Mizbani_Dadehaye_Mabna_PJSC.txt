@@ -1,1 +1,0 @@
-vless://bf0111c3-3cdf-4ce7-8c64-092a498624bb@37.130.205.73:2046?type=tcp&security=none&path=/info#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizbani Dadehaye Mabna PJSC ┇ 37.130.205.73

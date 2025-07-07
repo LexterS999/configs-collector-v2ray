@@ -1,3 +1,0 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@37.1.203.41:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#NL 🇳🇱 ┇ VLESS-WS-NTLS - Scalaxy B.V. ┇ 37.1.203.41
-vless://01df4e25-76fd-4376-a8ee-971a3db61147@38.180.168.253:443?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Scalaxy B.V. ┇ 38.180.168.253
-vless://62237966-b2c6-4bf9-a269-3717e1773c99@38.180.105.218:9091?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Scalaxy B.V. ┇ 38.180.105.218

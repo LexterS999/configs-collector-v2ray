@@ -1,1 +1,0 @@
-vless://mahsa-amini2@185.230.163.62:80?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Cyberse GmbH & Co. KG ┇ 185.230.163.62

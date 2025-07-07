@@ -1,5 +1,0 @@
-vless://811d6eeb-9284-4028-a09c-24a461d29ff8@156.224.79.91:40004?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - AKILE LTD ┇ 156.224.79.91
-vless://bc72a689-5f13-4fc8-90de-6e95ad8e21e0@45.207.157.183:14075?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - AKILE LTD ┇ 45.207.157.183
-vless://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - AKILE LTD ┇ 154.85.19.63
-vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - AKILE LTD ┇ 154.85.18.233
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.11.86.94:45888?type=ws&security=none#TW 🇹🇼 ┇ VLESS-WS-NTLS - AKILE LTD ┇ 141.11.86.94

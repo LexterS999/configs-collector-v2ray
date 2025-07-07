@@ -1,3 +1,0 @@
-vless://6a661094-42fc-423c-8bb8-cd05acfc2e66@152.42.186.51:443?type=tcp&security=tls&sni=t.me&fp=chrome#GB 🇬🇧 ┇ VLESS-TCP-TLS - Telegram Messenger Inc ┇ N/A
-vless://10b27b9c-70e2-411a-a0f5-5684f590ac5b@162.159.192.10:8880?type=ws&security=tls&path=/?ed=2048&sni=telegram.org&fp=chrome#GB 🇬🇧 ┇ VLESS-WS-TLS - Telegram Messenger Inc ┇ N/A
-vless://15eabfb4-3465-4b5b-a0ad-3fa88a4ae005@5.181.187.123:45101?type=tcp&security=reality&sni=t.me&fp=chrome&flow=xtls-rprx-vision&pbk=ubK8xQYhwjyr8vc-vm4ITg7zaX07l745gRBqeT7QIA8&sid=2ffb83f30b7ae51d#GB 🇬🇧 ┇ VLESS-TCP-RLT - Telegram Messenger Inc ┇ N/A

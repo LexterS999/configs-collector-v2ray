@@ -1,1 +1,0 @@
-vless://2d7385cc-a954-4b4e-f441-f75bb3dcb879@hmahdi11.varzesh3.ru:18648?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC RTComm.RU ┇ 81.177.22.153

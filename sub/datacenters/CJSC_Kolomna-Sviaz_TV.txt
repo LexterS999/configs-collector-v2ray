@@ -1,2 +1,0 @@
-vless://Amirinventor2010@217.196.107.14:8086?type=tcp&security=none&path=/@Amirinventor2010-Youtube-Telegram#RU 🇷🇺 ┇ VLESS-TCP-NTLS - CJSC Kolomna-Sviaz TV ┇ 217.196.107.14
-vless://2f8179a0-c0ea-4f8a-97fc-39af16d2bfc5@5.42.77.71:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - CJSC Kolomna-Sviaz TV ┇ 5.42.77.71

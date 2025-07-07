@@ -1,2 +1,0 @@
-vless://60920c6d-3a18-420c-b780-162e937d1a0b@goblin.beastlexicon.xyz:11490?type=xhttp&security=none&path=/#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - ROUTERHOSTING ┇ 172.86.69.200
-vless://017fdd18-62c2-4d06-af8a-13499959d735@144.172.103.131:35552?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ROUTERHOSTING ┇ 144.172.103.131

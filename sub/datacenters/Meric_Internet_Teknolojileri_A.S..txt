@@ -1,2 +1,0 @@
-vless://b5bfc011-c8c1-4234-b403-df07aedcc076@104.21.62.144:443?type=ws&security=tls&path=/&sni=kci3.kci3cfjiasucdn.dpdns.org#TR 🇹🇷 ┇ VLESS-WS-TLS - Meric Internet Teknolojileri A.S. ┇ N/A
-vless://b5bfc011-c8c1-4234-b403-df07aedcc076@172.67.136.169:443?type=ws&security=tls&path=/&sni=kci3.kci3cfjiasucdn.dpdns.org#TR 🇹🇷 ┇ VLESS-WS-TLS - Meric Internet Teknolojileri A.S. ┇ N/A

@@ -1,1 +1,0 @@
-vless://2eaef053-5fd6-4def-b234-d760690355ff@92.99.159.125:443?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Emirates Telecommunications Group Company (etisalat Group) Pjsc ┇ 92.99.159.125

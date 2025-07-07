@@ -1,1 +1,0 @@
-vless://89e54321-4444-4c4d-aaaa-7f5ac321abcd@172.99.66.88:443?type=ws&security=tls&path=/v2ray#US 🇺🇸 ┇ VLESS-WS-TLS - RACKSPACE ┇ 172.99.66.88
