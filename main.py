@@ -45,16 +45,20 @@ class AppConfig:
         "datacenters": OUTPUT_DIR / "datacenters",
     }
 
-    # УДАЛЕНО: Локальные пути к файлам источников, теперь используются только URL
     LAST_UPDATE_FILE = DATA_DIR / "last_update.log"
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-ASN.mmdb"
 
-    # ИСТОЧНИКИ ДАННЫХ: Эти URL теперь являются единственным источником
     REMOTE_TELEGRAM_CHANNELS_URL = "https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/refs/heads/main/data/telegram-channel.json"
     REMOTE_SUBSCRIPTION_LINKS_URL = "https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/refs/heads/main/data/subscription_links.json"
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
+
+    # Список ключевых слов для фильтрации нежелательных провайдеров (CDN и т.д.)
+    UNDESIRED_ASN_KEYWORDS: Set[str] = {
+        "cloudflare", "amazon", "fastly", "google", "alibaba", 
+        "akamai", "microsoft", "oracle"
+    }
 
     HTTP_TIMEOUT = 25.0
     HTTP_MAX_REDIRECTS = 5
@@ -88,6 +92,7 @@ class V2RayCollectorException(Exception): pass
 class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
+# ... (остальные классы и функции до ConfigProcessor без изменений) ...
 COUNTRY_CODE_TO_FLAG = {
     'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
@@ -559,8 +564,7 @@ class ConfigProcessor:
 
         await self._resolve_geo_info()
         
-        # ДОБАВЛЕН КЛЮЧЕВОЙ ШАГ: Фильтрация нежелательных провайдеров
-        self._filter_out_undesired_asns()
+        self._filter_by_asn()
 
         if CONFIG.ENABLE_IP_DEDUPLICATION:
             self._deduplicate_by_endpoint()
@@ -591,24 +595,28 @@ class ConfigProcessor:
                 config.country = Geolocation.get_country_from_ip(ip_address)
                 config.asn_org = Geolocation.get_asn_from_ip(ip_address)
 
-    # НОВЫЙ МЕТОД: Фильтрация Cloudflare и других нежелательных ASN
-    def _filter_out_undesired_asns(self):
+    # ИЗМЕНЕНО: Метод стал более общим и использует список ключевых слов из конфига
+    def _filter_by_asn(self):
         """
-        Removes configurations that are identified as belonging to specific,
-        undesired Autonomous System Numbers (ASNs), primarily CDNs like Cloudflare.
+        Removes configurations from undesired ASNs based on a keyword list.
         """
         initial_count = len(self.parsed_configs)
         
-        # Используем словарь-компрехеншн для эффективности и читаемости
-        filtered_configs = {
-            key: config for key, config in self.parsed_configs.items()
-            if not (config.asn_org and "cloudflare" in config.asn_org.lower())
-        }
+        kept_configs = {}
+        for key, config in self.parsed_configs.items():
+            if config.asn_org:
+                # Проверяем, содержит ли название провайдера любое из нежелательных ключевых слов
+                is_undesired = any(keyword in config.asn_org.lower() for keyword in CONFIG.UNDESIRED_ASN_KEYWORDS)
+                if not is_undesired:
+                    kept_configs[key] = config
+            else:
+                # Сохраняем конфиги, для которых не удалось определить провайдера
+                kept_configs[key] = config
         
-        self.parsed_configs = filtered_configs
+        self.parsed_configs = kept_configs
         removed_count = initial_count - len(self.parsed_configs)
         if removed_count > 0:
-            console.log(f"[bold yellow]Filtered out {removed_count} configs from Cloudflare ASN.[/bold yellow]")
+            console.log(f"[bold yellow]Filtered out {removed_count} configs from major CDNs/hosting providers.[/bold yellow]")
 
     def _deduplicate_by_endpoint(self):
         console.log("Performing enhanced deduplication by service endpoint (IP:Port:Protocol)...")
@@ -684,10 +692,9 @@ class V2RayCollectorApp:
         self.last_update_time = datetime.now(get_iran_timezone()) - timedelta(days=1)
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v29.0.0 (Focused)[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v30.0.0 (Hyper-Focused)[/bold green]")
         await self._load_state()
 
-        # ИЗМЕНЕНО: Загрузка данных теперь происходит напрямую из URL
         tg_channels = await self._fetch_source(CONFIG.REMOTE_TELEGRAM_CHANNELS_URL, "Telegram channels")
         sub_links = await self._fetch_source(CONFIG.REMOTE_SUBSCRIPTION_LINKS_URL, "subscription links")
 
@@ -721,7 +728,6 @@ class V2RayCollectorApp:
         console.log("[bold green]Collection and processing complete.[/bold green]")
 
     async def _fetch_source(self, url: str, description: str) -> List[str]:
-        """Fetches a JSON source from a URL and returns its content."""
         try:
             console.log(f"Fetching {description} from {url}...")
             status, content = await AsyncHttpClient.get(url)
