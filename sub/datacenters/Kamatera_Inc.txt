@@ -1,4 +1,0 @@
-vless://bc11baa2-da7c-11ef-957d-7538374f230f@194.37.81.211:2083?type=grpc&security=tls&sni=fastdownload.mahanhezar.ir&fp=edge#NL 🇳🇱 ┇ VLESS-GRPC-TLS - Kamatera Inc ┇ N/A
-vless://d478ba8c-8f7c-41b4-ad9b-60881477e208@vpn.rayvortex.ir:65025?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Kamatera Inc ┇ 185.167.99.251
-vless://b27b653c-ba1e-4d85-804e-4dc04a7e55e7@vpn.rayvortex.ir:6921?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Kamatera Inc ┇ 185.167.99.251
-vless://c279682e-02e7-4e3a-b157-c4427f6f62b0@vpn.rayvortex.ir:20115?type=tcp&security=reality&sni=vpn.rayvortex.ir&fp=chrome&flow=xtls-rprx-vision&pbk=sGfN6FtLnM68Ygs7e9joERn_bfBbMppt_Q1g8_RFjnY&sid=88848f9b9a87ff#NL 🇳🇱 ┇ VLESS-TCP-RLT - Kamatera Inc ┇ 185.167.99.251

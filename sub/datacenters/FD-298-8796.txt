@@ -1,2 +1,0 @@
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@38.60.91.115:9458?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - FD-298-8796 ┇ 38.60.91.115
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@38.60.91.60:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - FD-298-8796 ┇ 38.60.91.60

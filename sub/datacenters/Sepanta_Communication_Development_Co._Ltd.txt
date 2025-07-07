@@ -1,1 +1,0 @@
-vless://c9b85c37-b3ec-4e8d-ef61-e8edde961338@85.133.146.85:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sepanta Communication Development Co. Ltd ┇ 85.133.146.85

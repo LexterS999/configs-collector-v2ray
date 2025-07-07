@@ -1,2 +1,0 @@
-vless://ab03c163-c098-44ce-8e68-ed1578c82035@216.9.224.31:1181?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - DC Host INC ┇ 216.9.224.31
-vless://ef487a93-d7d4-422a-81c1-764237b52bed@216.9.224.211:4003?type=tcp&security=reality&sni=soft98.4en1.net&fp=chrome&flow=xtls-rprx-vision&pbk=ugJy-HhAx5XAQC8BZ9dI9IBZr7FDMkEe-I-kklVnQyA&sid=e6da440fec1529ea#TR 🇹🇷 ┇ VLESS-TCP-RLT - DC Host INC ┇ N/A

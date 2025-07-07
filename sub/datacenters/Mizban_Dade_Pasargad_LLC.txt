@@ -1,1 +1,0 @@
-vless://8deb3e22-af23-2c8f-da3c-f61795de6b46@45.90.73.162:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Pasargad LLC ┇ 45.90.73.162

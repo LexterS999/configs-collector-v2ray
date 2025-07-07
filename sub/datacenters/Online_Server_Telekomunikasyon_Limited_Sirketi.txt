@@ -1,2 +1,0 @@
-vless://65cb5591-6be5-461d-afe7-369866a2cbb6@93.127.180.79:46875?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 93.127.180.79
-vless://c9e2b43f-a3bf-4cb4-9e21-aa40f5c7ba3c@barcelona.zmnhost.ir:3528?type=ws&security=none&path=/path#AE 🇦🇪 ┇ VLESS-WS-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 93.127.181.196

@@ -1,2 +1,0 @@
-vless://d41bf778-df73-4cc6-9b88-7ef4bfe16014@27.50.48.231:8443?type=ws&security=tls&path=/&sni=ham12-dsadsaddsa-dsadsadsad.gameha9.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - 23M GmbH ┇ N/A
-vless://d41bf778-df73-4cc6-9b88-7ef4bfe16014@hamrah12.gamefuc.ir:8443?type=ws&security=tls&path=/&sni=ham12-dsadsaddsa-dsadsadsad.gameha9.ir#DE 🇩🇪 ┇ VLESS-WS-TLS - 23M GmbH ┇ N/A

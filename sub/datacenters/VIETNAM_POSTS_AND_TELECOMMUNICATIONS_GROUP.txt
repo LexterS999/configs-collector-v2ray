@@ -1,1 +1,0 @@
-vless://3ba7797d-e4ed-4512-b186-330b1b9ae3bd@103.153.254.231:80?type=ws&security=none&path=/vless#VN 🇻🇳 ┇ VLESS-WS-NTLS - VIETNAM POSTS AND TELECOMMUNICATIONS GROUP ┇ 103.153.254.231

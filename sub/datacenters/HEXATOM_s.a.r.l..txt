@@ -1,2 +1,0 @@
-vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@157.180.28.52:2087?type=grpc&security=tls&sni=pics.floorshoping22.com&fp=chrome#FR 🇫🇷 ┇ VLESS-GRPC-TLS - HEXATOM s.a.r.l. ┇ N/A
-vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@pics.floorshoping22.com:2087?type=grpc&security=tls&sni=pics.floorshoping22.com&fp=chrome#FR 🇫🇷 ┇ VLESS-GRPC-TLS - HEXATOM s.a.r.l. ┇ 185.163.125.81

@@ -1,2 +1,0 @@
-vless://088472ec-700f-4735-9201-8cf6a73f0851@46.29.162.87:25885?type=tcp&security=tls&sni=makefree.internet.000.pe&fp=random&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - Wildcard UK Limited ┇ N/A
-vless://088472ec-700f-4735-9201-8cf6a73f0851@makefree.internet.000.pe:25885?type=tcp&security=tls&sni=makefree.internet.000.pe&fp=random&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - Wildcard UK Limited ┇ 185.27.134.19

@@ -1,7 +1,0 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.97.5:443?type=ws&security=tls&path=/GGPPfZ3NKyOoKNiK?ed=2560&sni=landin.ir&fp=randomized#IR 🇮🇷 ┇ VLESS-WS-TLS - Pars Parva System LLC ┇ N/A
-vless://815724d3-0d61-4761-be07-471441d42be5@45.139.11.243:80?type=ws&security=none&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Parva System LLC ┇ 45.139.11.243
-vless://b6256883-ea5f-4a88-b8b2-a9b3903f17d1@sg2vless.ipservers.xyz:443?type=ws&security=tls&path=/jagoanssh&sni=adjprog.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Pars Parva System LLC ┇ N/A
-vless://0e777e3e-a3ee-5b31-abd6-e9c61f657b7e@www.parspack.com:2052?type=ws&security=none&path=/Tel--@ELiV2--@ELiV2--@ELiV2-/?ed=1024#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Parva System LLC ┇ 45.139.11.243
-vless://DIGIV2RAY@www.parspack.com:2095?type=ws&security=none&path=/Digi-Tel-Digiv-Digicnc-saaaalaaaam-?ed=1024#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Parva System LLC ┇ 45.139.11.243
-vless://08cca313-4f8b-4389-8fab-63684675d52b@www.parspack.com:8080?type=httpupgrade&security=none#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Pars Parva System LLC ┇ 45.139.11.243
-vless://501f51e6-468b-48d7-a458-929f45bb2d10@www.parspack.com:8880?type=tcp&security=none&path=/SHHPROXY?ed=2048#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Pars Parva System LLC ┇ 45.139.11.243

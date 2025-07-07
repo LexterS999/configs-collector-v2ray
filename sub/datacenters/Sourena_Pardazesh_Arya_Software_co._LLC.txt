@@ -1,3 +1,0 @@
-vless://65d2c27d-0957-415d-b67a-b915cd857723@account.zula.ir:8880?type=tcp&security=none&path=/Telegram:@UnlimitedDev?ed=2048#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sourena Pardazesh Arya Software co. LLC ┇ 194.50.216.44
-vless://c1e2e26f-98e7-43b5-9bf0-ace939ed8ff2@83.228.192.244:26206?type=tcp&security=reality&sni=cdn-download1.zula.ir&fp=chrome&pbk=32un-BHwlOjLBwm_5k72oiLG2Q3LcU4SRf1bbfrJoXE&sid=8574#IR 🇮🇷 ┇ VLESS-TCP-RLT - Sourena Pardazesh Arya Software co. LLC ┇ N/A
-vless://c1e2e26f-98e7-43b5-9bf0-ace939ed8ff2@fifa.game2ni.ir:26206?type=tcp&security=reality&sni=cdn-download1.zula.ir&fp=chrome&pbk=32un-BHwlOjLBwm_5k72oiLG2Q3LcU4SRf1bbfrJoXE&sid=8574#IR 🇮🇷 ┇ VLESS-TCP-RLT - Sourena Pardazesh Arya Software co. LLC ┇ N/A

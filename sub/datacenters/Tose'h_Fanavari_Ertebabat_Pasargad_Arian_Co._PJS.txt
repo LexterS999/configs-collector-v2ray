@@ -1,7 +1,0 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gVG9zZSdoIEZhbmF2YXJpIEVydGViYWJhdCBQYXNhcmdhZCBBcmlhbiBDby4gUEpTIFx1MjUwNyA4MS45MS4xNTguOTgiLCJhZGQiOiI4MS45MS4xNTguOTgiLCJwb3J0IjoyOTc0NSwiaWQiOiI3Nzg2NGFkYy1iNzk1LTRhODItODIxMi1mMmYzMTY5YjExOWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
-vless://512c8ed7-13dc-9d8d-039a-d0d47c84a0be@81.29.255.187:699?type=ws&security=none&path=/ws?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 81.29.255.187
-vless://9ee13c55-868b-4d67-b767-5d82878afba9@5.200.74.206:2011?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 5.200.74.206
-vless://09aaaf34-4be3-a68d-6ac4-b7e0bcc6789c@81.29.255.187:608?type=ws&security=none&path=/ws?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 81.29.255.187
-vless://48e052e8-c6cc-3a47-8b87-af86cad8d545@81.29.255.187:610?type=ws&security=none&path=/ws#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 81.29.255.187
-vless://09aaaf34-4be3-a68d-6ac4-b7e0bcc6789c@81.29.255.187:621?type=ws&security=none&path=/ws?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 81.29.255.187
-vless://09aaaf34-4be3-a68d-6ac4-b7e0bcc6789c@81.29.255.187:623?type=ws&security=none&path=/ws?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS ┇ 81.29.255.187

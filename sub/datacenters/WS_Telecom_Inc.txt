@@ -1,1 +1,0 @@
-vless://56ee7135-0ca8-4166-89c0-d90f72ebc8a0@45.80.228.35:53623?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - WS Telecom Inc ┇ 45.80.228.35

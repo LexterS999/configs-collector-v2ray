@@ -1,2 +1,0 @@
-vless://99cd771c-0bc5-4f41-879e-925b973a3186@bg399real.tsmoe.com:9017?type=tcp&security=reality&sni=cert.ysl.monster&fp=chrome&flow=xtls-rprx-vision&pbk=8g21xGWtb50oX16y_ujrhXE-ZajwFFCEpGQGiJ_oXjg&sid=887bde24#JP 🇯🇵 ┇ VLESS-TCP-RLT - xTom Japan Corporation ┇ N/A
-vless://99cd771c-0bc5-4f41-879e-925b973a3186@bgjpreal.tsmoe.com:9056?type=tcp&security=reality&sni=appstore.1yo.cc&fp=safari&flow=xtls-rprx-vision&pbk=1uoUaPb3PDy0nnQ3SB-t3DhZYXo8Nb4_hMBMmly56l0#JP 🇯🇵 ┇ VLESS-TCP-RLT - xTom Japan Corporation ┇ N/A

@@ -1,6 +1,0 @@
-vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?type=tcp&security=none&sni=divarcdn.com&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ N/A
-vless://f7d73ea4-27d4-41c2-d34c-aa1581bcf83f@bama.ir:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ 185.166.104.3
-vless://605a3c75-68dd-4a40-a7c8-6c494a9a0776@limoo.host:443?type=tcp&security=none&path=@MIND_ROOM2/?ed=2560#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ 185.166.104.4
-vless://5c17d0bd-d659-4c5a-9871-0b19cedc1634@ms.kamran-007a.ir:8080?type=ws&security=none&path=/HHJ1feCQkdARo4ZzMOCSwT&sni=ua.yektanet.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ N/A
-vless://af94594c-b048-4050-adcb-cf061c3155bd@sw1-d.mobstore.store:443?type=tcp&security=none&path=/&sni=neshan.org#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ N/A
-vless://af94594c-b048-4050-adcb-cf061c3155bd@sw1.mobstore.store:443?type=tcp&security=none&path=/&sni=neshan.org#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ N/A
