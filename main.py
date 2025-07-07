@@ -57,7 +57,7 @@ class AppConfig:
     # Список ключевых слов для фильтрации нежелательных провайдеров (CDN и т.д.)
     UNDESIRED_ASN_KEYWORDS: Set[str] = {
         "cloudflare", "amazon", "fastly", "google", "alibaba", 
-        "akamai", "microsoft", "oracle"
+        "akamai", "microsoft", "oracle", "yahoo"
     }
 
     HTTP_TIMEOUT = 25.0
