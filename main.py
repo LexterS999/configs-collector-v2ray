@@ -50,14 +50,15 @@ class AppConfig:
         "datacenters": OUTPUT_DIR / "datacenters",
     }
 
-    TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channels.json"
+    TELEGRAM_CHANNELS_FILE = DATA_DIR / "telegram_channel.json"
     SUBSCRIPTION_LINKS_FILE = DATA_DIR / "subscription_links.json"
     LAST_UPDATE_FILE = DATA_DIR / "last_update.log"
     TELEGRAM_REPORT_FILE = DATA_DIR / "telegram_report.log"
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-ASN.mmdb"
 
-    REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/data/telegram-channel.json"
+    REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/refs/heads/main/data/subscription_links.json"
+    REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/refs/heads/main/data/telegram-channel.json"
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
 
