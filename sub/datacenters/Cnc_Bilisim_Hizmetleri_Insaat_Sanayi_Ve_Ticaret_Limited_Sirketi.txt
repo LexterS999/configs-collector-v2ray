@@ -1,0 +1,1 @@
+vless://09874b38-975f-11ee-8b6c-06263e24424e@185.242.161.214:10004?type=tcp&security=none&path=/vpnjantit#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Cnc Bilisim Hizmetleri Insaat Sanayi Ve Ticaret Limited Sirketi ┇ 185.242.161.214

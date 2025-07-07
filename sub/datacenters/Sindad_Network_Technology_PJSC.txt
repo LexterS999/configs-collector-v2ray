@@ -1,0 +1,2 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.97.248:443?type=ws&security=tls&path=/GGPPfZ3NKyOoKNiK?ed=2560&sni=backtory.com&fp=randomized#IR 🇮🇷 ┇ VLESS-WS-TLS - Sindad Network Technology PJSC ┇ N/A
+vless://d46c6b20-aebb-4ea7-8a41-0836f57906f1@cd.m55vip-all.lol:44454?type=tcp&security=reality&sni=fararu.com&fp=chrome&pbk=xJVvyacNomGedsVXH6NngDnrJN162h3AauqlM2o50RA&sid=704634f5a370#IR 🇮🇷 ┇ VLESS-TCP-RLT - Sindad Network Technology PJSC ┇ N/A

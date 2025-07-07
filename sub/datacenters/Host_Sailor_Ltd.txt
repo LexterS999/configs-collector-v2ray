@@ -1,0 +1,3 @@
+vless://88210b4d-b356-4eaf-f7d7-edeacbd63a11@185.45.194.29:32108?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Host Sailor Ltd ┇ 185.45.194.29
+vless://507d5567-1c19-485c-e481-2361a89615dc@185.45.194.29:39571?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Host Sailor Ltd ┇ 185.45.194.29
+vless://cb87c632-4825-4b2e-8991-f3f619645fee@kci2.kci2cfjiasucdn.dpdns.org:443?type=ws&security=tls&path=/&sni=kci2.kci2cfjiasucdn.dpdns.org#NL 🇳🇱 ┇ VLESS-WS-TLS - Host Sailor Ltd ┇ 185.117.73.58

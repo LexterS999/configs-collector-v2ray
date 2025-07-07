@@ -1,0 +1,1 @@
+vless://65ea203c-27a7-4316-a95d-159df119d007@45.129.242.165:2020?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Serva One Ltd ┇ 45.129.242.165

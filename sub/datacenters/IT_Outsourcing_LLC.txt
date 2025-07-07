@@ -1,0 +1,2 @@
+vless://d2947a55-5fa6-4d21-93c6-b558c662ec8d@46.29.239.149:443?type=ws&security=tls&sni=unixkey.nobatow.site#RU 🇷🇺 ┇ VLESS-WS-TLS - IT Outsourcing LLC ┇ N/A
+vless://e3eec9d9-ab70-4617-9e19-60860112c634@client.bluwave.ir:80?type=ws&security=none#RU 🇷🇺 ┇ VLESS-WS-NTLS - IT Outsourcing LLC ┇ 45.156.21.247

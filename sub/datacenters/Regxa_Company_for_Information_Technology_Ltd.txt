@@ -1,0 +1,4 @@
+vless://90cadcb1-5955-4ddc-c846-a40f06cbed39@146.103.41.166:23055?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Regxa Company for Information Technology Ltd ┇ 146.103.41.166
+vless://457e18b3-7422-4154-b946-1c144b6b87d8@83.147.18.200:2052?type=ws&security=none&path=/vless&fp=chrome#ES 🇪🇸 ┇ VLESS-WS-NTLS - Regxa Company for Information Technology Ltd ┇ 83.147.18.200
+vless://18a70b59-777a-4ad2-9a57-14f742e7ab76@83.147.18.150:443?type=tcp&security=reality#ES 🇪🇸 ┇ VLESS-TCP-RLT - Regxa Company for Information Technology Ltd ┇ 83.147.18.150
+vless://974d9d8d-101b-4559-8253-6bcc7666cb2d@145.223.68.164:8443?type=grpc&security=none#FR 🇫🇷 ┇ VLESS-GRPC-NTLS - Regxa Company for Information Technology Ltd ┇ 145.223.68.164

@@ -1,0 +1,2 @@
+vless://17f01e1b-1078-40a9-b1d6-f74a15be9c82@45.94.213.145:80?type=ws&security=none&path=/Z8dI1GOhRwIUwfYIQvhnpS8QIOZ&sni=web.rubika.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Mobile Communication Company of Iran PLC ┇ N/A
+vless://23087c60-3d68-4ba0-a75c-144af3f64950@cdn29_80.vip1200.com:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mobile Communication Company of Iran PLC ┇ 89.45.51.148

@@ -1,0 +1,2 @@
+vless://9a7c1d8e-1234-4567-890a-bcdef0123456@mydomain.com:443?type=ws&security=tls&path=/v2raypath&sni=mydomain.com#US 🇺🇸 ┇ VLESS-WS-TLS - BIZLAND-SD ┇ 65.254.242.180
+vless://9a7c1d8e-1234-4567-890a-bcdef0123456@65.254.242.180:443?type=ws&security=tls&path=/v2raypath&sni=mydomain.com#US 🇺🇸 ┇ VLESS-WS-TLS - BIZLAND-SD ┇ N/A

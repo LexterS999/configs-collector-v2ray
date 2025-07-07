@@ -1,0 +1,2 @@
+vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@45.67.32.147:443?type=ws&security=tls&path=/getupdates&sni=torless.duckdns.org&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - Sbcloud LLC ┇ N/A
+vless://08421d4c-4641-4801-90df-f2b7a400428f@ihavesome.run.place:443?type=ws&security=tls&path=/socks5tobefree&sni=ihavesome.run.place&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - Sbcloud LLC ┇ 45.67.32.147

@@ -1,0 +1,1 @@
+vless://15325faa-ecb3-44c6-817d-fb8853b2b175@160.19.167.184:443?type=ws&security=tls&path=/vless&sni=id.lanexa.my.id#ID 🇮🇩 ┇ VLESS-WS-TLS - PT Deneva ┇ N/A

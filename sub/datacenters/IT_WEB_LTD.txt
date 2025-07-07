@@ -1,0 +1,2 @@
+vless://7238b4d0-73ec-4d22-8ff4-3f82bfc5e827@45.83.122.71:10677?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - IT WEB LTD ┇ 45.83.122.71
+vless://0773fe44-baaf-49fd-e834-5b05f6da3942@45.83.122.71:25841?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - IT WEB LTD ┇ 45.83.122.71

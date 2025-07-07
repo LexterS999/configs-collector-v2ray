@@ -1,0 +1,4 @@
+vless://ca1bea33-94e1-4f59-a2a6-8546f54a3e1d@185.133.35.118:80?type=ws&security=none#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.118
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.133.35.213:8880?type=ws&security=none#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.213
+vless://8072e624-46d6-4fa9-ea8c-4b2ce6581340@185.133.35.242:80?type=httpupgrade&security=none&path=/@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG?ed#BR 🇧🇷 ┇ VLESS-HTTPUPGRADE-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.242
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.26:443?type=ws&security=none#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.26

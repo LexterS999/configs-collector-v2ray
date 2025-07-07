@@ -1,0 +1,2 @@
+vless://85bc1120-3cb3-45ff-a12f-9e7d94f40634@212.16.68.63:1003?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Farhang Azma Communications Company LTD ┇ 212.16.68.63
+vless://1b986907-0ca2-4618-e62e-abd45abb19fd@212.80.2.8:21412?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Farhang Azma Communications Company LTD ┇ 212.80.2.8

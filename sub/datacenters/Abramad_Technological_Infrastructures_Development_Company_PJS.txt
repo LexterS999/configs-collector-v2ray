@@ -1,0 +1,1 @@
+vless://32fa4579-ca6c-4e2c-b0de-d91a0cb37f45@78.31.235.130:53116?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Abramad Technological Infrastructures Development Company PJS ┇ 78.31.235.130

@@ -1,0 +1,1 @@
+vless://171d7ef9-d441-4180-b06f-037fcf0d2f9b@46.38.142.39:11020?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Mohammad Taha Mashhorrodi ┇ 46.38.142.39

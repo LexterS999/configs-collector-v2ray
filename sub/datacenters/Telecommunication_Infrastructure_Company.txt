@@ -1,0 +1,8 @@
+vless://d57b2927-22af-450b-a34e-620321d7d27f@2.188.227.134:2070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.188.227.134
+vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.104.10
+vless://2e5573c9-d9d3-4693-9def-9ee7215da222@2.189.110.88:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.110.88
+vless://bb4c6b72-4f69-4dd1-a819-574330bdbbdd@2.189.118.210:500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.210
+vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.118.28:2083?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.28
+vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.118.28:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.28
+vless://3d18bdb6-9e63-46e7-a2c9-025f7fa10309@lightning6.tm.12speedtest.store:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.209
+vless://5960b57a-4105-4753-8a20-1e91f6b55094@sony1.digipassive.ir:8055?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.188.227.173

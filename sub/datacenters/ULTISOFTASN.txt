@@ -1,0 +1,6 @@
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.10:80?type=ws&security=none&path=/Telegram🇨🇳@@pgkj666/?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.64.10
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.51:80?type=ws&security=none&path=/Telegram🇨🇳@@pgkj666/?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.64.51
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.80:80?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.64.80
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@135.84.65.11:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.65.11
+vless://15868173-1378-4984-a4e2-07d51591b237@135.84.67.74:8880?type=httpupgrade&security=none&path=/?ed=2048#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - ULTISOFTASN ┇ 135.84.67.74
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@209.208.227.218:8443?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 209.208.227.218

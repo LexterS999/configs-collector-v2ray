@@ -1,0 +1,1 @@
+vless://2aa247c7-5574-4fde-b48e-cfe987bb1c7e@seyyedmt-21da4.kxcdn.com:80?type=tcp&security=none&path=/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css?ed=2048#US 🇺🇸 ┇ VLESS-TCP-NTLS - proinity GmbH ┇ 68.70.205.2

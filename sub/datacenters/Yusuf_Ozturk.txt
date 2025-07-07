@@ -1,0 +1,1 @@
+vless://80817fde-96ec-4e8f-8d87-3e844f993455@217.60.187.84:47465?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Yusuf Ozturk ┇ 217.60.187.84

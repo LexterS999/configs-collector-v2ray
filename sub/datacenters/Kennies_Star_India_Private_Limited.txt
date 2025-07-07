@@ -1,0 +1,1 @@
+vless://49765580-8ae7-47a9-aaaa-757ae3a6a28e@38.226.125.7:37645?type=tcp&security=none&path=/#IN 🇮🇳 ┇ VLESS-TCP-NTLS - Kennies Star India Private Limited ┇ 38.226.125.7

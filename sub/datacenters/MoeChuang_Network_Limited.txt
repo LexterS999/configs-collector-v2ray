@@ -1,0 +1,1 @@
+vless://8382ac4a-95a5-11ee-b55e-473254c6dcf2@50.114.37.34:10004?type=tcp&security=none&path=/vpnjantit#US 🇺🇸 ┇ VLESS-TCP-NTLS - MoeChuang Network Limited ┇ 50.114.37.34

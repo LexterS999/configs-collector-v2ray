@@ -1,0 +1,3 @@
+vless://a0bc2ee2-a772-415c-a620-fbabaa4ff3d3@103.71.21.243:13886?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - First Server Limited ┇ 103.71.21.243
+vless://f817ad2c-bb2c-4214-b040-99171dedd292@103.71.21.243:49110?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - First Server Limited ┇ 103.71.21.243
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@87.239.250.142:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#NL 🇳🇱 ┇ VLESS-WS-NTLS - First Server Limited ┇ 87.239.250.142

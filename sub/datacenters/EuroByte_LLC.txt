@@ -1,0 +1,2 @@
+vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?type=raw&security=none#RU 🇷🇺 ┇ VLESS-RAW-NTLS - EuroByte LLC ┇ 95.142.37.48
+vless://c26181b5-b49e-480e-a3d5-eb1583a1f38d@95.142.37.74:20011?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - EuroByte LLC ┇ 95.142.37.74

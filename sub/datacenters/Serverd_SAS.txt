@@ -1,0 +1,1 @@
+vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Serverd SAS ┇ 193.168.144.46

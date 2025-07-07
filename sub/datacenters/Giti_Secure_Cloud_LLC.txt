@@ -1,0 +1,1 @@
+vless://185dadce-77b8-48f8-b5d9-3d6b9580b5c3@212.80.9.180:41633?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 212.80.9.180

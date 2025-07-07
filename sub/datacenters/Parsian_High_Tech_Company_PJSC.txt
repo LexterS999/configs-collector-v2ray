@@ -1,0 +1,3 @@
+vless://6ba6c3ee-3324-4649-a58c-2a5241944bdf@193.186.32.190:2020?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Parsian High Tech Company PJSC ┇ 193.186.32.190
+vless://62a22d95-60a9-4245-ac01-836f43c927c4@ir.lunarmc.ir:16799?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsian High Tech Company PJSC ┇ 193.186.32.190
+vless://ebc7f9df-d645-4be9-b979-c8012a5b5950@xuy.xuy.ir:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Parsian High Tech Company PJSC ┇ 185.88.152.152
