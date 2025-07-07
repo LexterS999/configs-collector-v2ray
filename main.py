@@ -57,8 +57,9 @@ class AppConfig:
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-ASN.mmdb"
 
-    REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/refs/heads/main/data/subscription_links.json"
-    REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/refs/heads/main/data/telegram-channel.json"
+    # ИСПРАВЛЕНО: Разделены URL для разных источников
+    REMOTE_TELEGRAM_CHANNELS_URL = "https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/refs/heads/main/data/telegram-channel.json"
+    REMOTE_SUBSCRIPTION_LINKS_URL = "https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/refs/heads/main/data/subscription_links.json"
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
 
@@ -101,7 +102,7 @@ class ParsingError(V2RayCollectorException): pass
 class NetworkError(V2RayCollectorException): pass
 
 COUNTRY_CODE_TO_FLAG = {
-    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '�🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
+    'AD': '🇦🇩', 'AE': '🇦🇪', 'AF': '🇦🇫', 'AG': '🇦🇬', 'AI': '🇦🇮', 'AL': '🇦🇱', 'AM': '🇦🇲', 'AO': '🇦🇴', 'AQ': '🇦🇶', 'AR': '🇦🇷', 'AS': '🇦🇸', 'AT': '🇦🇹', 'AU': '🇦🇺', 'AW': '🇦🇼', 'AX': '🇦🇽', 'AZ': '🇦🇿', 'BA': '🇧🇦', 'BB': '🇧🇧',
     'BD': '🇧🇩', 'BE': '🇧🇪', 'BF': '🇧🇫', 'BG': '🇧🇬', 'BH': '🇧🇭', 'BI': '🇧🇮', 'BJ': '🇧🇯', 'BL': '🇧🇱', 'BM': '🇧🇲', 'BN': '🇧🇳', 'BO': '🇧🇴', 'BR': '🇧🇷', 'BS': '🇧🇸', 'BT': '🇧🇹', 'BW': '🇧🇼', 'BY': '🇧🇾', 'BZ': '🇧🇿', 'CA': '🇨🇦',
     'CC': '🇨🇨', 'CD': '🇨🇩', 'CF': '🇨🇫', 'CG': '🇨🇬', 'CH': '🇨🇭', 'CI': '🇨🇮', 'CK': '🇨🇰', 'CL': '🇨🇱', 'CM': '🇨🇲', 'CN': '🇨🇳', 'CO': '🇨🇴', 'CR': '🇨🇷', 'CU': '🇨🇺', 'CV': '🇨🇻', 'CW': '🇨🇼', 'CX': '🇨🇽', 'CY': '🇨🇾', 'CZ': '🇨🇿',
     'DE': '🇩🇪', 'DJ': '🇩🇯', 'DK': '🇩🇰', 'DM': '🇩🇲', 'DO': '🇩🇴', 'DZ': '🇩🇿', 'EC': '🇪🇨', 'EE': '🇪🇪', 'EG': '🇪🇬', 'ER': '🇪🇷', 'ES': '🇪🇸', 'ET': '🇪🇹', 'FI': '🇫🇮', 'FJ': '🇫🇯', 'FK': '🇫🇰', 'FM': '🇫🇲', 'FO': '🇫🇴', 'FR': '🇫🇷',
@@ -626,7 +627,7 @@ class ConfigProcessor:
 
         await self._resolve_geo_info()
         if CONFIG.ENABLE_IP_DEDUPLICATION:
-            self._deduplicate_by_ip()
+            self._deduplicate_by_endpoint() # ИЗМЕНЕНО: вызов нового метода
 
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
             await self._test_connectivity()
@@ -650,21 +651,46 @@ class ConfigProcessor:
                 config.country = Geolocation.get_country_from_ip(ip_address)
                 config.asn_org = Geolocation.get_asn_from_ip(ip_address)
 
-    def _deduplicate_by_ip(self):
-        unique_ips: Dict[str, BaseConfig] = {}
+    # УЛУЧШЕНО: Полностью переработанный метод дедупликации
+    def _deduplicate_by_endpoint(self):
+        """
+        Performs enhanced deduplication based on the unique service endpoint,
+        defined as a combination of IP address, port, and protocol.
+        This is more accurate than IP-only deduplication, as a single IP can
+        host multiple distinct proxy services on different ports or with different protocols.
+        """
+        console.log("Performing enhanced deduplication by service endpoint (IP:Port:Protocol)...")
+        
+        # A set to store unique endpoints we've already kept.
+        seen_endpoints: Set[str] = set()
+        
+        # A new dictionary to store the configs we decide to keep.
         kept_configs: Dict[str, BaseConfig] = {}
         
-        for key, config in self.parsed_configs.items():
+        for uri_key, config in self.parsed_configs.items():
             ip = Geolocation._ip_cache.get(config.host)
-            if ip and ip not in unique_ips:
-                unique_ips[ip] = config
-                kept_configs[key] = config
-            elif not ip:
-                kept_configs[key] = config
+            
+            # If we couldn't resolve an IP, we can't perform endpoint-based
+            # deduplication, so we keep the config as a fallback.
+            if not ip:
+                kept_configs[uri_key] = config
+                continue
+
+            # The new, more precise key for identifying a unique service.
+            endpoint_key = f"{ip}:{config.port}:{config.protocol}"
+            
+            if endpoint_key not in seen_endpoints:
+                # This is the first time we've seen this specific endpoint.
+                # We add it to our set of seen endpoints and keep the config.
+                seen_endpoints.add(endpoint_key)
+                kept_configs[uri_key] = config
+            # If the endpoint_key is already in seen_endpoints, we discard
+            # the current config as it's a duplicate of one we've already kept.
 
         removed_count = len(self.parsed_configs) - len(kept_configs)
         self.parsed_configs = kept_configs
-        console.log(f"IP-based deduplication removed {removed_count} configs. {len(self.parsed_configs)} remaining.")
+        console.log(f"Endpoint-based deduplication removed {removed_count} configs. {len(self.parsed_configs)} remaining.")
+
 
     async def _test_tcp_connection(self, config: BaseConfig) -> Optional[int]:
         ip = Geolocation._ip_cache.get(config.host)
@@ -772,6 +798,7 @@ class V2RayCollectorApp:
         console.rule("[bold green]V2Ray Config Collector - v27.1.0[/bold green]")
         await self._load_state()
 
+        # ИЗМЕНЕНО: Чтение локальных файлов происходит после попытки их загрузки в main()
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
         sub_links = await self.file_manager.read_json_file(self.config.SUBSCRIPTION_LINKS_FILE)
 
@@ -898,24 +925,47 @@ async def _download_db_if_needed(url: str, file_path: Path):
         except Exception as e:
             console.log(f"[bold red]Failed to download {file_path.name}: {e}.[/bold red]")
 
+# НОВОЕ: Вспомогательная функция для загрузки JSON-источников
+async def _download_remote_source_if_needed(url: str, file_path: Path, file_description: str):
+    if not file_path.exists():
+        console.log(f"[yellow]Local {file_description} file not found, attempting to download from remote...[/yellow]")
+        try:
+            status, content = await AsyncHttpClient.get(url)
+            if status == 200 and content:
+                # Проверяем, что это валидный JSON, прежде чем сохранять
+                json.loads(content) 
+                async with aiofiles.open(file_path, "w", encoding='utf-8') as f:
+                    await f.write(content)
+                console.log(f"[green]Successfully downloaded and saved {file_description} to {file_path}[/green]")
+            else:
+                console.log(f"[bold red]Failed to download {file_description}. Status: {status}[/bold red]")
+        except json.JSONDecodeError:
+            console.log(f"[bold red]Remote content for {file_description} is not valid JSON.[/bold red]")
+        except Exception as e:
+            console.log(f"[bold red]An error occurred while downloading {file_description}: {e}[/bold red]")
+
 
 async def main():
     CONFIG.DATA_DIR.mkdir(exist_ok=True)
 
+    # Загрузка GeoIP баз
     await _download_db_if_needed(CONFIG.GEOIP_DB_URL, CONFIG.GEOIP_DB_FILE)
     await _download_db_if_needed(CONFIG.GEOIP_ASN_DB_URL, CONFIG.GEOIP_ASN_DB_FILE)
 
+    # Инициализация Geolocation после возможной загрузки баз
     Geolocation.initialize()
 
-    if not CONFIG.TELEGRAM_CHANNELS_FILE.exists():
-         try:
-            status, content = await AsyncHttpClient.get(CONFIG.REMOTE_CHANNELS_URL)
-            if status == 200 and content:
-                channels = json.loads(content)
-                if isinstance(channels, list):
-                    async with aiofiles.open(CONFIG.TELEGRAM_CHANNELS_FILE, "w", encoding='utf-8') as f:
-                        await f.write(json.dumps(channels, indent=4))
-         except Exception: pass
+    # ДОБАВЛЕНО: Загрузка конфигурационных файлов из удаленных источников
+    await _download_remote_source_if_needed(
+        CONFIG.REMOTE_TELEGRAM_CHANNELS_URL, 
+        CONFIG.TELEGRAM_CHANNELS_FILE, 
+        "Telegram channels list"
+    )
+    await _download_remote_source_if_needed(
+        CONFIG.REMOTE_SUBSCRIPTION_LINKS_URL, 
+        CONFIG.SUBSCRIPTION_LINKS_FILE, 
+        "Subscription links list"
+    )
 
     app = V2RayCollectorApp()
     try:
