@@ -1,7 +1,7 @@
-trojan://om9irt4j-2ojj-8hd8-k9sz-frpwj0ycdpdd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://5qiws2pm-3mrm-kyoq-gne1-byk53jep0ccz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6rrjd870-kup1-ey9g-dazc-jr64nvqepspg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://265mbj5o-n0lq-41xk-ptba-om20hiulyhta@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRhaGxpbCBEYWRlaCBOb3ZpbiBGYWRhayBMTEMgXHUyNTA3IDk0LjE4My4yMzMuMTE2IiwiYWRkIjoiOTQuMTgzLjIzMy4xMTYiLCJwb3J0IjozOTExLCJpZCI6IjRlNTFmYjU4LWVmNjktNDJiZC04NTM2LWFjZmQ1MmQyOGFmZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+trojan://3efzqeyv-f8za-5eg8-nzgy-dgifmun20qjt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://213aj3q2-vpzj-9jpm-zedq-j6leqi1qgq1f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2rbqnfmj-gpla-azfh-njk9-ztxa558dker4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bzkb9ilb-yw3y-iu0c-2wj0-ihnm74tittdf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://78371cad-d1f1-4b4c-d3c8-a6fb2cea67a4@mainserver2.tarighi.info:16520?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.233.38
-trojan://euh0t2he-d2z8-gd1a-te4s-ktzsycj3z614@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://9e53942c-aa73-4b57-ba37-0ddc6fa53038@tn.komak-ar-online.online:3801?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.233.116
+trojan://o7oh1xiu-vfd0-hoe4-h1ob-e0a5v5rdmcph@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

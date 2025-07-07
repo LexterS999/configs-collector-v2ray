@@ -1,24 +1,25 @@
-trojan://3tgv4j4p-rlm3-rhg0-ta2r-9n1bi8s1e9is@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://opxxm54k-39cy-g74x-1wis-ua0eoopykecm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://iolus4by-ugge-n6uk-i7kc-l07zqr0ywthk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://k8idpdmg-e7fr-za4h-5sl7-2rbt9lzuy64d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Aimer@199.34.228.178:8443?sni=epmk.ambercc.filegear-sg.me&peer=epmk.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WEEBLY ┇ 199.34.228.178
-trojan://Aimer@199.34.228.50:2053?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WEEBLY ┇ 199.34.228.50
-trojan://Aimer@199.34.228.66:2053?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WEEBLY ┇ 199.34.228.66
-trojan://Aimer@199.34.228.190:2083?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WEEBLY ┇ 199.34.228.190
-trojan://Aimer@199.34.228.191:2096?sni=agepj.ambercc.filegear-sg.me&peer=agepj.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WEEBLY ┇ 199.34.228.191
-trojan://Aimer@199.34.228.48:2087?sni=epmf.ambercc.filegear-sg.me&peer=epmf.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WEEBLY ┇ 199.34.228.48
-trojan://Aimer@199.34.228.187:443?sni=epccf.ambercc.filegear-sg.me&peer=epccf.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WEEBLY ┇ 199.34.228.187
-trojan://Aimer@199.34.228.164:2087?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WEEBLY ┇ 199.34.228.164
-trojan://Aimer@199.34.228.143:2096?sni=epmo.ambercc.filegear-sg.me&peer=epmo.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WEEBLY ┇ 199.34.228.143
-trojan://Aimer@199.34.228.71:8443?sni=epmo.ambercc.filegear-sg.me&peer=epmo.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WEEBLY ┇ 199.34.228.71
-trojan://Aimer@199.34.230.9:8443?sni=epccx.ambercc.filegear-sg.me&peer=epccx.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - WEEBLY ┇ 199.34.230.9
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBXRUVCTFkgXHUyNTA3IDE5OS4zNC4yMjguNjUiLCJhZGQiOiIxOTkuMzQuMjI4LjY1IiwicG9ydCI6ODQ0MywiaWQiOiIzYTFjNjI4Yi04MDZkLTQ2MWItYzI4ZC00NGIzYmRmZjUyMjAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJtYXNzMi44OTA2MDIueHl6IiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJtYXNzMi44OTA2MDIueHl6In0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBXRUVCTFkgXHUyNTA3IDE5OS4zNC4yMjguMTgxIiwiYWRkIjoiMTk5LjM0LjIyOC4xODEiLCJwb3J0Ijo0NDMsImlkIjoiMDIxMmZhYjUtZTkzYy00OTA0LWI3YTgtMTg3ZmQ1MzVmMzU0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiM3NkZmd2Y3h4eC45MzgucHAudWEiLCJwYXRoIjoiL1A4NzltdENvSFFxYVdPNjdxRWFNSU5aMSIsInRscyI6InRscyIsInNuaSI6IjNzZGZndmN4eHguOTM4LnBwLnVhIn0
+trojan://frnd1duw-s8ld-15kd-h6za-l1cxzyy38jrf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://d7qi911y-jzk1-iuum-dubs-vyysjhhnqz08@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0md7asc1-lwwg-p5us-l5a5-8k7bwb9onc8s@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yzrqa85m-0bui-dubf-lncd-aw9xli1g7vqe@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@199.34.230.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.230.254
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@199.34.229.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.229.247
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@199.34.228.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.228.77
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@199.34.230.251:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.230.251
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@199.34.228.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.228.254
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@199.34.229.254:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.229.254
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@199.34.229.177:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.229.177
+vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.229.57:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=uk1.blackismyfavorite.ir#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-TLS - WEEBLY ┇ 199.34.229.57
+vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.229.63:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=uk1.blackismyfavorite.ir#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-TLS - WEEBLY ┇ 199.34.229.63
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@199.34.228.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.228.3
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.228.213:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.228.213
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.230.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=sg.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.230.63
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@199.34.228.135:2083?type=ws&security=tls&path=/&sni=23-lsjfjwiposkfls.hc2021.cfd#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.135
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@199.34.228.143:80?type=ws&security=none&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.228.143
 vless://701909bd-3e3c-4fcf-ad09-06359625affe@199.34.228.147:2053?type=ws&security=tls&path=/&sni=de.gt-ov.com#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.147
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.161:2053?type=ws&security=tls&path=/fltcxoo6grqvat6v/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgEs.dev#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.161
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.162:2053?type=ws&security=tls&path=/fltcxoo6grqvat6v/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgEs.dev#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.162
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.164:2083?type=ws&security=tls&path=/urenftuu3z1kqryb/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgeS.dEv#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.164
 vless://701909bd-3e3c-4fcf-ad09-06359625affe@199.34.228.165:2053?type=ws&security=tls&path=/&sni=de.gt-ov.com#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.165
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.167:2096?type=ws&security=tls&path=/2096/@VRayyNGvpn&sni=bEAt.MIRaclETaxbiTS.Top.#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.167
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.168:2096?type=ws&security=tls&path=/2096/@VRayyNGvpn&sni=bEAt.MIRaclETaxbiTS.Top.#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.168
@@ -28,49 +29,46 @@ vless://eb50d091-51ed-4f89-bc4e-8b04320585d7@199.34.228.171:2096?type=ws&securit
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@199.34.228.173:2053?type=ws&security=tls&path=/&sni=telnet.akcovufun.ir#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.173
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.174:2053?type=ws&security=tls&path=/fltcxoo6grqvat6v/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgEs.dev#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.174
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.34.228.177:2052?type=ws&security=none&path=/TM-ShadowProxy66?ed#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.228.177
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@199.34.228.178:2096?type=ws&security=tls&path=/&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.178
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.179:2096?type=ws&security=tls&path=/2096/@VRayyNGvpn&sni=bEAt.MIRaclETaxbiTS.Top.#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.179
+vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.181:2096?type=ws&security=tls&path=/2096/@VRayyNGvpn&sni=bEAt.MIRaclETaxbiTS.Top.#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.181
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.182:2053?type=ws&security=tls&path=/fltcxoo6grqvat6v/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgEs.dev#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.182
 vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@199.34.228.183:2096?type=ws&security=tls&path=/2096/@VRayyNGvpn&sni=bEAt.MIRaclETaxbiTS.Top.#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.183
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.184:2087?type=ws&security=tls&path=/pc0cypuups4meoks/mtu4ljewms4ymdmumti3?ed=2560&sni=Sb-1u6.paGEs.dEv#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.184
 vless://701909bd-3e3c-4fcf-ad09-06359625affe@199.34.228.185:2053?type=ws&security=tls&path=/&sni=de.gt-ov.com#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.185
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.186:2053?type=ws&security=tls&path=/fltcxoo6grqvat6v/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgEs.dev#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.186
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.228.213:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.228.213
+vless://701909bd-3e3c-4fcf-ad09-06359625affe@199.34.228.187:2053?type=ws&security=tls&path=/&sni=de.gt-ov.com#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.187
+vless://701909bd-3e3c-4fcf-ad09-06359625affe@199.34.228.191:2053?type=ws&security=tls&path=/&sni=de.gt-ov.com#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.191
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@199.34.228.247:8880?type=ws&security=none&path=/Telegram&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.228.247
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@199.34.228.251:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.228.251
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@199.34.228.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.228.254
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@199.34.228.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.228.3
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@199.34.228.41:2096?type=ws&security=tls&path=/&sni=D6rVkPfEgS.aAaZzZaAa-8129.CoM#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.41
 vless://0aef3f78-ddd1-46ce-9526-2a033d20dcf4@199.34.228.46:2087?type=ws&security=tls&path=/V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban-----V2raymizban&sni=crm.iranigamebaz.ir#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.46
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.47:2053?type=ws&security=tls&path=/fltcxoo6grqvat6v/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgEs.dev#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.47
+vless://701909bd-3e3c-4fcf-ad09-06359625affe@199.34.228.48:2053?type=ws&security=tls&path=/&sni=de.gt-ov.com#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.48
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@199.34.228.50:2053?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edccy.ambercc.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.50
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.228.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.228.63
+vless://78905d87-0266-4825-868d-3069e88d1201@199.34.228.65:2053?type=ws&security=tls&path=/containers/de&sni=all22.kikforwindows.com#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.65
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@199.34.228.66:2096?type=ws&security=tls&path=/&sni=DrOt0Ai1Oq.DeRaKhT.iNfO#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.66
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.67:2053?type=ws&security=tls&path=/fltcxoo6grqvat6v/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgEs.dev#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.67
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.70:2053?type=ws&security=tls&path=/fltcxoo6grqvat6v/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgEs.dev#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.70
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@199.34.228.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.228.77
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.71:2087?type=ws&security=tls&path=/pc0cypuups4meoks/mtu4ljewms4ymdmumti3?ed=2560&sni=Sb-1u6.paGEs.dEv#US 🇺🇸 ┇ VLESS-WS-TLS - WEEBLY ┇ 199.34.228.71
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@199.34.229.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.229.13
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@199.34.229.177:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.229.177
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.229.213:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.229.213
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@199.34.229.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.229.247
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@199.34.229.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.229.251
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@199.34.229.254:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.229.254
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.229.29:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.229.29
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@199.34.229.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.229.3
-vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.229.57:443?type=tcp&security=none&path=/XRAYVPNHTTPUPGRADE#US 🇺🇸 ┇ VLESS-TCP-NTLS - WEEBLY ┇ 199.34.229.57
-vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.229.63:443?type=tcp&security=none&path=/XRAYVPNHTTPUPGRADE#US 🇺🇸 ┇ VLESS-TCP-NTLS - WEEBLY ┇ 199.34.229.63
-vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.229.68:443?type=tcp&security=none&path=/XRAYVPNHTTPUPGRADE#US 🇺🇸 ┇ VLESS-TCP-NTLS - WEEBLY ┇ 199.34.229.68
+vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.229.68:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=uk1.blackismyfavorite.ir&fp=chrome#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-TLS - WEEBLY ┇ 199.34.229.68
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@199.34.229.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.229.77
-vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.229.86:443?type=tcp&security=none&path=/XRAYVPNHTTPUPGRADE#US 🇺🇸 ┇ VLESS-TCP-NTLS - WEEBLY ┇ 199.34.229.86
-vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.229.94:443?type=tcp&security=none&path=/XRAYVPNHTTPUPGRADE#US 🇺🇸 ┇ VLESS-TCP-NTLS - WEEBLY ┇ 199.34.229.94
-vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.230.114:443?type=tcp&security=none&path=/XRAYVPNHTTPUPGRADE#US 🇺🇸 ┇ VLESS-TCP-NTLS - WEEBLY ┇ 199.34.230.114
-vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.230.125:443?type=tcp&security=none&path=/XRAYVPNHTTPUPGRADE#US 🇺🇸 ┇ VLESS-TCP-NTLS - WEEBLY ┇ 199.34.230.125
-vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.230.126:443?type=tcp&security=none&path=/XRAYVPNHTTPUPGRADE#US 🇺🇸 ┇ VLESS-TCP-NTLS - WEEBLY ┇ 199.34.230.126
+vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.229.86:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=uk1.blackismyfavorite.ir&fp=chrome#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-TLS - WEEBLY ┇ 199.34.229.86
+vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.229.94:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=uk1.blackismyfavorite.ir&fp=chrome#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-TLS - WEEBLY ┇ 199.34.229.94
+vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.230.114:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=uk1.blackismyfavorite.ir&fp=chrome#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-TLS - WEEBLY ┇ 199.34.230.114
+vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.230.125:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=uk1.blackismyfavorite.ir&fp=chrome#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-TLS - WEEBLY ┇ 199.34.230.125
+vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.230.126:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=uk1.blackismyfavorite.ir&fp=chrome#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-TLS - WEEBLY ┇ 199.34.230.126
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@199.34.230.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.230.13
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@199.34.230.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.230.177
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.230.213:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.230.213
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@199.34.230.247:8880?type=ws&security=none&path=/Telegram&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.230.247
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@199.34.230.251:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.230.251
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@199.34.230.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.230.254
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.230.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.230.29
-vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.230.30:443?type=tcp&security=none&path=/XRAYVPNHTTPUPGRADE#US 🇺🇸 ┇ VLESS-TCP-NTLS - WEEBLY ┇ 199.34.230.30
-vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.230.63:443?type=tcp&security=none&path=/XRAYVPNHTTPUPGRADE#US 🇺🇸 ┇ VLESS-TCP-NTLS - WEEBLY ┇ 199.34.230.63
+vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.230.30:443?type=httpupgrade&security=tls&path=/XRAYVPNHTTPUPGRADE&sni=uk1.blackismyfavorite.ir&fp=chrome#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-TLS - WEEBLY ┇ 199.34.230.30
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@199.34.230.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - WEEBLY ┇ 199.34.230.77
-trojan://neri5jw7-dbiz-b9kp-ybuw-qlx1jyy35pcp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://q2boh5rl-encc-178f-1t5d-1yp45ii2cf6a@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

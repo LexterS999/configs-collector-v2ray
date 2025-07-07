@@ -1,24 +1,8 @@
-trojan://2wai1u3b-1bq9-741a-juox-fyoe9g5va8xr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://n9zu4q4v-6iq2-mi6y-0hwg-hxr58pk88h41@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3atzszil-b07u-0sjx-e8jm-mm9es708tb3e@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e9hbig33-lxji-blyx-w35v-vvobtq331nw1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ZUpwODFDZWo0MFp1MU91UFJQblR4@3.255.250.127:23456#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 3.255.250.127
-trojan://telegram-id-privatevpns@54.155.203.115:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.155.203.115
-trojan://telegram-id-directvpn@34.247.43.253:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 34.247.43.253
-trojan://telegram-id-directvpn@34.253.231.7:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 34.253.231.7
-trojan://telegram-id-directvpn@46.137.144.18:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 46.137.144.18
-trojan://telegram-id-directvpn@52.51.114.1:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.51.114.1
-trojan://telegram-id-directvpn@54.76.45.13:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.76.45.13
-trojan://telegram-id-privatevpns@3.249.15.72:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.249.15.72
-trojan://telegram-id-privatevpns@3.252.69.131:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.252.69.131
-trojan://telegram-id-privatevpns@3.253.67.209:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.253.67.209
-trojan://telegram-id-privatevpns@34.252.21.244:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 34.252.21.244
-trojan://telegram-id-privatevpns@52.48.207.242:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 52.48.207.242
-trojan://telegram-id-privatevpns@54.154.239.54:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.154.239.54
-trojan://telegram-id-privatevpns@54.171.7.212:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.171.7.212
-trojan://telegram-id-privatevpns@54.171.81.189:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.171.81.189
-trojan://telegram-id-privatevpns@54.72.120.247:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.72.120.247
-trojan://telegram-id-privatevpns@54.78.157.126:22222?sni=trj.rollingnext.co.uk&peer=trj.rollingnext.co.uk&security=tls#IE 🇮🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 54.78.157.126
+trojan://l3c2mzqa-trqq-zkyy-lbto-4ql0pq61dwlr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://5pskzn4v-e0d3-6fzr-lo0q-y1zq6okwgq4a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yv0cti98-8h0w-l26u-sgnn-9kkssaoysyhm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fh2cpn8e-l89q-s42i-s5ye-30khgqzxcyjt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.214.123.197:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 52.214.123.197
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@108.128.206.146:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 108.128.206.146
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@108.128.55.246:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 108.128.55.246
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@108.128.90.4:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 108.128.90.4
@@ -103,7 +87,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.212.103.65:22222?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.212.113.183:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 52.212.113.183
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.212.92.19:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 52.212.92.19
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.213.241.29:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 52.213.241.29
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.214.123.197:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 52.214.123.197
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.214.181.86:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 52.214.181.86
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.214.239.78:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 52.214.239.78
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.215.120.213:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 52.215.120.213
@@ -248,20 +231,12 @@ vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@54.229.93.213:8443?type=tcp&securit
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@54.72.162.157:443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b#IE 🇮🇪 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 54.72.162.157
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@54.76.174.14:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#IE 🇮🇪 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 54.76.174.14
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@63.35.162.35:443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b#IE 🇮🇪 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 63.35.162.35
-vless://bf9b316d-31ac-42ee-b8a5-8dc795118917@192.210.183.136:36678?type=tcp&security=tls&sni=swdist.apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#IE 🇮🇪 ┇ VLESS-TCP-TLS - AS-COLOCROSSING ┇ 192.210.183.136
 vless://3d2061d3-73b1-4a09-a878-2e4a196ef320@107.175.59.147:52012?type=tcp&security=reality&sni=addons.mozilla.org&fp=random&flow=xtls-rprx-vision&pbk=a9uk_ZJLsVC_MY4CIa-d1aP5bagweyHUPR6O932-dC8&sid=24b05fcf3723e6af#IE 🇮🇪 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 107.175.59.147
+vless://bf9b316d-31ac-42ee-b8a5-8dc795118917@192.210.183.136:36678?type=tcp&security=reality&sni=swdist.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=rrGm0NemTtGQ8Vrd2AzB7pSoW_kYtqYvhRxsx_MtwG0&sid=5d20#IE 🇮🇪 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 192.210.183.136
 vless://93851c4d-a03b-41c0-b3a8-546ecc58dbe8@azaronnear.sunburst.ddns-ip.net:8443?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=4KLVlBG535QbNf9hBeaus6fS2y539ceR8ezCQIdoyTM&sid=b9a329#IE 🇮🇪 ┇ VLESS-TCP-RLT - Cgi Global Limited ┇ 91.108.189.42
-vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRGlnaXdlYiBsdGQgXHUyNTA3IDQ1LjEzMS4yNDguMTQwIiwiYWRkIjoiNDUuMTMxLjI0OC4xNDAiLCJwb3J0Ijo1MDA2OCwiaWQiOiI1NTdlNTMyZS1kZTRhLTRiM2UtOWZiMi01ZDM1NWNjYjVkYTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRGlnaXdlYiBsdGQgXHUyNTA3IDQ1LjEzMS4yNDguMjI4IiwiYWRkIjoiNDUuMTMxLjI0OC4yMjgiLCJwb3J0Ijo1OTEwMiwiaWQiOiJhYzAyNzM2Mi1jOTg4LTQ2NzAtZjc4Zi0wMjFiNWJlNmY0ZTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@199.232.26.228:443?type=ws&security=tls&path=de?ed=1048&sni=bwdraper.faculty.ucdavis.edu&fp=chrome#IE 🇮🇪 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.26.228
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.26.64:443?type=ws&security=tls&path=/H?ed=2560&sni=Sanjeshp.Ir&fp=randomized#IE 🇮🇪 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.26.64
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@85.159.229.243:2040?type=tcp&security=reality&sni=github.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#IE 🇮🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 85.159.229.243
 vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.88:2087?type=grpc&security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&sid=fc805835#IE 🇮🇪 ┇ VLESS-GRPC-RLT - Global Connectivity Solutions Llp ┇ 85.159.229.88
 vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.8:2087?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 85.159.229.8
-ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@146.70.48.53:50168#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 146.70.48.53
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.133:989#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 23.92.127.133
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.134:989#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 23.92.127.134
-ss://YWVzLTEyOC1nY206WUhSUnRzbTNYK3gybWdsNzZ5WTl1aWRzT3duRWUzMC90eWJsUVUvaEd0VT0@193.57.138.81:27082#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Pq Hosting Plus S.r.l. ┇ 193.57.138.81
-vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBXZWJXb3JsZCBcdTI1MDcgMTg1LjEwOC4xMjguMTM3IiwiYWRkIjoiMTg1LjEwOC4xMjguMTM3IiwicG9ydCI6MzAwMDAsImlkIjoiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzMwMDAyMjExMzMyOSIsInRscyI6InRscyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSUUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBXZWJXb3JsZCBcdTI1MDcgMTg1LjEwOC4xMjguNjAiLCJhZGQiOiIxODUuMTA4LjEyOC42MCIsInBvcnQiOjQ0MywiaWQiOiI1YWFiMzkzNi0xNmQ3LTQzNzctOGMzMy0wZDc3ZjJkMjk1ZWUiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8wNTExMTEyMzA5MTAiLCJ0bHMiOiJ0bHMifQ
-trojan://r9qhwp8y-qsul-l811-b2zd-6r12562xavz8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://2bgz957q-uben-wfpp-x75q-x8ifpxtx900f@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

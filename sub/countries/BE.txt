@@ -1,19 +1,16 @@
-trojan://cjsmtmqd-wg2g-uzmn-crkh-uw3vnlf4d561@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://q7f532ld-kboy-x97g-0b30-xbgegjjrlroq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2x5i2kj6-08hi-z1pr-k591-blx58gblyht3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pe980kxa-kxxu-1f4w-ggks-izcmjrjur9io@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://hgkxd0tp-htgl-prmb-7trj-oisbcyx8bvom@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://35f0sqx2-sw3s-o60p-6g3j-k8x6lnaabi8r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1h5b4uml-z8lv-ttqq-fxzf-0f4rnnv0mrwi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kvlpuyex-ay4f-v23h-f7bk-c7j9knxyf8bl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://36977f8b-97b3-4b69-bc67-4c63a5a88e42@194.87.240.190:59842?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - ASNET ┇ 194.87.240.190
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.224.12:8443?type=tcp&security=tls&sni=bru-be-01.fromblancwithlove.com#BE 🇧🇪 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 79.127.224.12
 vless://3601647a-7934-4238-b989-194243e3ead8@151.101.10.133:80?type=ws&security=none&path=/TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray?ed=2048#BE 🇧🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.10.133
 vless://6d4ddb94-ebb6-4884-9711-00d0ca9d7dbe@151.101.8.163:80?type=ws&security=none&path=/?ed=2048#BE 🇧🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.8.163
 vless://b1533182-6015-4f0d-b393-d3b94f55877f@151.101.8.51:80?type=ws&security=none#BE 🇧🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.8.51
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.22.142.117:443?type=ws&security=tls&path=/blue&sni=ly.ylks01.eu.org#BE 🇧🇪 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 34.22.142.117
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwZW4zMjFUQXY0YmZEWUQ1RTZCbjRy@141.98.233.98:1443#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 141.98.233.98
 vless://840fce73-112f-44e1-8bdf-cee760ed7a03@141.98.233.95:1518?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 141.98.233.95
 vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@141.98.233.103:3045?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#BE 🇧🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 141.98.233.103
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989#BE 🇧🇪 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 192.71.249.78
-vmess://eyJ2IjoiMiIsInBzIjoiQkUgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBNMjQ3IEV1cm9wZSBTUkwgXHUyNTA3IDM3LjEyMC4yMzYuMjUxIiwiYWRkIjoiMzcuMTIwLjIzNi4yNTEiLCJwb3J0Ijo0NDMsImlkIjoiZWQxNjJkYWEtZWUyMC00NGVkLTgzMGYtYjUyMmM1MDEzODdhIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE0MzAxMzA5MjQyNSIsInRscyI6InRscyJ9
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@95.164.62.152:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=v033.ylkszy.eu.org#BE 🇧🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.62.152
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@95.164.62.196:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=kz.ylks.xyz#BE 🇧🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.62.196
 vless://2a2b5866-9f43-4506-98c0-32fc33dea21a@45.83.20.76:10088?type=tcp&security=reality&sni=learn.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=2RiVd3l0ofPW-qMOnDXDltcJ6eNP8hWR4xuKBMoY4Bo&sid=e555559bf185992c#BE 🇧🇪 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.83.20.76
-trojan://vs64a6j5-6dp8-lxjz-dbpa-0yu5dhht9st4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://j6ey0igc-r65a-wg4p-ecy2-efs5rrymkk12@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,6 @@
-trojan://ov30wiak-wgrc-zsp0-2vyz-gt7ankzk5ifq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://dcujlib6-yo47-49w5-nnm0-srnqbtmt23e6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0lrxylro-jpl8-ddw7-nq28-uubwml3w8h15@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0j5du5w2-xatk-piin-g3g7-e4nvatc942gn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://dk8wkc6q-zrt0-5z13-szoa-vy0lpe7fyiwe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://2315bzan-74nx-rqwo-tok6-ynmd2i7mqyz6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dwp3fxk1-b9u8-1icm-uts9-mhs5aa0o3lgg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m9nxt2vx-ht93-4j7u-aqob-3xh18jxuw24y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2aa247c7-5574-4fde-b48e-cfe987bb1c7e@seyyedmt-21da4.kxcdn.com:80?type=tcp&security=none&path=/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css?ed=2048#US 🇺🇸 ┇ VLESS-TCP-NTLS - proinity GmbH ┇ 68.70.205.1
-trojan://hoh168lf-8h3c-b7ht-8m62-fggt88jhmrfp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://si0m0rjm-f4eh-x5sy-aqt1-t2dksqcrz06x@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

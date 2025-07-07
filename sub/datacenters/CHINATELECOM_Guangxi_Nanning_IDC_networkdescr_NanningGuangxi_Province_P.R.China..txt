@@ -1,6 +1,6 @@
-trojan://8zrhy3z1-ex8m-i3r7-lw5r-37oy9uxfkoyl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://24olqd7s-n84y-i1b7-155f-k1v21a24ujjo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://153hhdrk-c4cx-rcck-p7tl-dqoe44ey1j1l@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1qnik7jw-4cl0-vpdk-p0i5-vwual84nou5b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://2xztttwx-6bqt-2q28-6q9w-85hdvhr4capb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://rrwhnm1g-uvgs-9hco-dvqn-wmwvcnj8bx1u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lxsxc496-zzrj-9xn1-zly7-ibtkoxsyxso2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://eq0ywpyz-rzd6-bovi-tf1y-pcqapdlfx457@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@113.16.212.107:443?type=ws&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#CN 🇨🇳 ┇ VLESS-WS-TLS - CHINATELECOM Guangxi Nanning IDC networkdescr: NanningGuangxi Province, P.R.China. ┇ 113.16.212.107
-trojan://gi5nvgur-29oa-wuf1-lhkw-dtcqy3v5pr9v@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://6y7eozeu-zp0f-q2r0-r8gd-3bwnpt16rwpb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

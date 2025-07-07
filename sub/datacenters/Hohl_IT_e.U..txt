@@ -1,10 +1,10 @@
-trojan://v03tyxx1-uuph-7lsj-epp6-2eiigjpuc1wt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://fdmlcnm5-d4br-mwco-rerj-9gvwnvu93evv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://aohoukpf-r280-mr0k-8hr4-ff30iqyjlgys@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lqeo9hfm-per3-swhg-dhpp-kn60zsyjuqu7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://fbddfd48-22f2-a619-4151-4be8b8b9f6fa@46.102.157.79:58071?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Hohl IT e.U. ┇ 46.102.157.79
+trojan://2xiuyzuq-ypej-7td1-uyck-4ulajyl79tvp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://4qhbxf9h-v6ad-wdev-lieb-3ybvvh7wsg28@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://elwfurit-az82-hp2c-ziuu-c9bi4u8h0vv6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://waodrrbf-aort-ok2o-i7l7-oybqp2fexq95@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?type=tcp&security=none#AT 🇦🇹 ┇ VLESS-TCP-NTLS - Hohl IT e.U. ┇ 46.102.157.79
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.177.8.26:130?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=juzi8186.5112233.xyz#AT 🇦🇹 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 94.177.8.26
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@94.177.8.51:443?type=ws&security=tls&path=/?ed=2560&sni=lg.ylks01.eu.org#AT 🇦🇹 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 94.177.8.51
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@94.177.8.54:443?type=ws&security=tls&path=/proxyip=proxyip.oracle.fxxk.dedyn.io&sni=xin033.ylks.link#AT 🇦🇹 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 94.177.8.54
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@94.177.8.6:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#AT 🇦🇹 ┇ VLESS-WS-TLS - Hohl IT e.U. ┇ 94.177.8.6
-trojan://hco3vi81-nyh6-noz9-8cz9-4poy1a3r2d36@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://lhcf07o5-n8an-odo4-wgca-ttkwtix3cspw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

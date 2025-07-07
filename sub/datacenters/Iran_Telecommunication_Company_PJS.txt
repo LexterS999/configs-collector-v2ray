@@ -1,10 +1,23 @@
-trojan://sujyln3q-t00e-owwa-fe5i-brqb74096qpw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://vppkqfgp-run1-mnet-lsri-d2px9bnh68jd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dxfffn00-snyt-sx1t-fltx-l4e9f7vn79cb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jhoooojv-zdf6-tht2-fgor-q87dnis1vlaj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://pakqwmnv-4bzk-zhg6-tlsb-apsbl4lk9jkl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://wrtk3ve7-5bos-yxw2-oz62-3bmtvz853eyc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hably6kq-00o9-1esx-67ql-n8qpydep8vao@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://z5tcfqi9-4hy2-4957-epi6-qyfurx6w61oo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElyYW4gVGVsZWNvbW11bmljYXRpb24gQ29tcGFueSBQSlMgXHUyNTA3IDc4LjM5LjkuMTM0IiwiYWRkIjoiNzguMzkuOS4xMzQiLCJwb3J0Ijo4MDkwLCJpZCI6Ijg5MWUxZDFjLTVmYmMtNDBjYi05MjU2LTU4YjAxNmI2YjYwMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBJcmFuIFRlbGVjb21tdW5pY2F0aW9uIENvbXBhbnkgUEpTIFx1MjUwNyA4NC40Ny4yMzQuMjIiLCJhZGQiOiI4MTAzLnNob21hcGFydmF6cm95YWRldG9ubmlzdC1ieXBhc3Npc2hlcmUubGF0IiwicG9ydCI6ODEwMywiaWQiOiI4Zjc0ZWM4YS05NzFjLTExZWQtYThmYy0wMjQyYWMxMjAwMDIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiYWQ4MGY4ZWMtNDg2MS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyLlNob21hUGFydmF6Um9ZYWRldG9uTmlzdC1CeXBhc3NJc0hlcmUubGF0IiwicGF0aCI6Ii9hZDgwZjhlYy00ODYxLTExZjAtYTk0OC02YTc1ZjY2N2I0NzI/ZWQ9MjA0OCIsInRscyI6InRscyIsInNuaSI6ImFkODBmOGVjLTQ4NjEtMTFmMC1hOTQ4LTZhNzVmNjY3YjQ3Mi5TaG9tYVBhcnZhelJvWWFkZXRvbk5pc3QtQnlwYXNzSXNIZXJlLmxhdCJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElyYW4gVGVsZWNvbW11bmljYXRpb24gQ29tcGFueSBQSlMgXHUyNTA3IDE4NS4xMzMuMTI1LjYiLCJhZGQiOiIxODUuMTMzLjEyNS42IiwicG9ydCI6NDk1MSwiaWQiOiJlNWQ1MDQzOS00N2E4LTQ2N2YtYmVhZC0wMGQzYzRhYjg2ZjMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://1a2b6387-6e32-4507-a5b0-b96017dab463@kopen1.kopen.cam:2058?type=tcp&security=none&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 84.47.232.243
+vless://4391ee83-1a5b-488d-9b04-44b825b2137f@78.39.9.168:5151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 78.39.9.168
+vless://61d23b08-d1f6-4429-90cf-e9c28e74a08c@ru.loadbalance.lat:1320?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.133.125.178
+vless://72dc074b-91ed-4564-9424-cd14652c1743@84.47.233.98:33326?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 84.47.233.98
+vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.10:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.133.125.10
+vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.12:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.133.125.12
+vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.4:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.133.125.4
+vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.5:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.133.125.5
+vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.6:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.133.125.6
+vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.8:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.133.125.8
+vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 84.47.233.110
+vless://af00dfbf-5d98-4cd8-80a7-df2b296c5ccf@tci.shadow-net.ir:1370?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Iran Telecommunication Company PJS ┇ 85.185.187.2
+vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@151.234.162.254:1022?type=ws&security=tls&path=/?ed=2048&sni=reverse-tunnel.maketunnelim.lat&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Iran Telecommunication Company PJS ┇ 151.234.162.254
+vless://c0ac6d0a-dba7-4a19-97d3-ebae0ddefcfa@home.phpdeb.ir:8446?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 89.235.119.104
 vless://13baf8e7-b432-4e51-b174-aa08ab42119c@0000:0000:0000:0000:0000:ffff:b94f:9e97:8051?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 0000:0000:0000:0000:0000:ffff:b94f:9e97
 vless://13baf8e7-b432-4e51-b174-aa08ab42119c@0:0:0:0:0:ffff:b94f:9e97:8051?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 0:0:0:0:0:ffff:b94f:9e97
 vless://70d53c1a-08de-4a6e-ac1b-04e2d8058d03@151.232.52.203:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 151.232.52.203
@@ -12,17 +25,10 @@ vless://8c8873fb-6e68-4359-8d67-092d399612c9@151.234.162.100:24000?type=tcp&secu
 vless://7feb2b8f-70c7-4720-87dc-d2d8d18cb514@151.234.162.123:20000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 151.234.162.123
 vless://adadcfa4-4262-4857-ac3b-5413638d68a3@151.234.162.164:7072?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 151.234.162.164
 vless://97c136a7-da4b-40b7-af73-1321f9e75fe8@151.234.162.197:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 151.234.162.197
-vless://b5991ab6-76c0-45c5-ab96-886e5430b90a@151.234.162.254:1022?type=ws&security=tls&path=/?ed=2048&sni=reverse-tunnel.maketunnelim.lat&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Iran Telecommunication Company PJS ┇ 151.234.162.254
 vless://b3df4ad2-c2be-4e76-a5fe-37bf49ffe60c@151.234.162.57:700?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 151.234.162.57
 vless://a850d045-3c17-4430-b9fe-e6411b27b038@151.234.162.87:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 151.234.162.87
 vless://23651a65-bef3-431a-b040-5e8c158a9867@151.234.162.99:27000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 151.234.162.99
-vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.10:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.133.125.10
-vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.12:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.133.125.12
 vless://815b6fb7-05dc-4694-934c-c11137ae705d@185.133.125.13:19244?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.133.125.13
-vless://61bf12ed-a82d-4b83-9807-cf08b9f0de54@185.133.125.178:9565?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.133.125.178
-vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@185.133.125.4:19094?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.133.125.4
-vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.5:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.133.125.5
-vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.8:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.133.125.8
 vless://3c65d99c-9e26-4b80-b883-2c9db643757f@185.79.158.141:8088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.79.158.141
 vless://5b70a2b2-3d0f-4049-a147-bcbcbca4edba@185.79.158.142:8051?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.79.158.142
 vless://99b5c293-c875-4531-aa29-38e75e706afc@185.79.158.143:8452?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.79.158.143
@@ -37,9 +43,6 @@ vless://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:1616?type=tcp&security
 vless://2469a1d0-1a25-4ddc-80fd-4c44eb124066@5.198.168.125:18454?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 5.198.168.125
 vless://2567fd40-d432-4ca0-a785-6b10af8e5269@5.198.168.24:701?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 5.198.168.24
 vless://12ceade9-20f7-415c-9765-7b44ec39e7bc@5.198.177.200:2053?type=ws&security=tls&path=/qlJPWkdG5duY1xMy4RvQjdFiL&sni=ldpnuurz3.imamhassan.info&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Iran Telecommunication Company PJS ┇ 5.198.177.200
-vless://4391ee83-1a5b-488d-9b04-44b825b2137f@78.39.9.168:5151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 78.39.9.168
-vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 84.47.233.110
-vless://72dc074b-91ed-4564-9424-cd14652c1743@84.47.233.98:33326?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 84.47.233.98
 vless://201a3e01-70e9-4bbe-ba87-abc44cce010e@84.47.234.16:1001?type=ws&security=tls&path=/wp-admin.php?ed&sni=MySite.Benyinglis1.CoM.&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Iran Telecommunication Company PJS ┇ 84.47.234.16
 vless://1a374bf6-b622-43cb-9ab2-af82bf69f85b@84.47.234.98:32451?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 84.47.234.98
 vless://e3e38519-b056-4dc5-a6c2-462dab71c8ea@84.47.235.218:33585?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 84.47.235.218
@@ -50,16 +53,13 @@ vless://b756ab67-8181-4bbc-83fd-1edca44c211a@blog-p1.takdataco.top:22443?type=tc
 vless://b3df4ad2-c2be-4e76-a5fe-37bf49ffe60c@check-host.wizardxray.shop:702?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 5.198.168.25
 vless://11bde743-43e7-4d8c-a800-2bdace65aff0@curt190.curtvbest.ir:2334?type=grpc&security=tls&sni=speedtest.net#IR 🇮🇷 ┇ VLESS-GRPC-TLS - Iran Telecommunication Company PJS ┇ 84.47.232.223
 vless://a381924f-3c15-4488-a4a7-d3596c123faa@hl.zincfast5.ir:28890?type=ws&security=none&path=/3oi4uthb3u4iot#IR 🇮🇷 ┇ VLESS-WS-NTLS - Iran Telecommunication Company PJS ┇ 80.191.105.211
-vless://b3df4ad2-c2be-4e76-a5fe-37bf49ffe60c@ip-static-address.wizardxray.shop:700?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 5.198.168.20
 vless://8b82797c-8ff9-420e-ae6a-457c2ec361a5@ir.edrispalani.site:11564?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 151.234.162.168
 vless://020bc5bc-a7f1-4638-85d0-616a7646f10d@jmu.ac.ir:443?type=xhttp&security=tls&path=/&sni=snapp.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-XHTTP-TLS - Iran Telecommunication Company PJS ┇ 78.39.103.238
-vless://1a2b6387-6e32-4507-a5b0-b96017dab463@kopen1.kopen.cam:2058?type=tcp&security=none&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 84.47.232.243
 vless://15d77b9d-b28b-4a30-9b0d-4683b87d415e@my.hamrahfox.icu:41147?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 5.239.245.216
 vless://c09db420-df33-429f-a703-cec675b94769@nim2.therevenant.shop:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 151.234.162.202
 vless://db95508f-1c19-4ff3-b6e1-ea70d0dd3e04@pen.clevernote.top:11260?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 188.0.247.141
 vless://c08cf810-201d-4493-8037-dca85f06499f@sar.nightlegend805.xyz:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 84.47.233.106
 vless://e16cafe3-aa65-4d62-8528-efa4c2bc1c65@server4.emralnetwork.top:12087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 151.234.162.101
-vless://af00dfbf-5d98-4cd8-80a7-df2b296c5ccf@tci.shadow-net.ir:1370?type=tcp&security=tls#IR 🇮🇷 ┇ VLESS-TCP-TLS - Iran Telecommunication Company PJS ┇ 85.185.187.2
 vless://4b44a02c-e40f-4694-a04f-b90143f138d2@tn14.radmehrmax.ir:8088?type=tcp&security=none&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 89.235.116.44
 vless://db7d4b58-0aff-4408-a637-c72cd0f8a774@tn40.adamlinux.ir:8091?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 185.79.158.138
 vless://2418ca7a-b0df-4fc8-a706-874690605a43@tn6.adamlinux.ir:8051?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 89.235.116.43
@@ -72,11 +72,7 @@ vless://b9f13d1f-570a-0e2e-5e78-8efa5c738b6f@u-dtc1.mlgolden.shop:3070?type=tcp&
 vless://03a92ec9-6bc6-4b14-92ed-036cacb9a164@v6.nextconnection.cfd:51089?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 188.0.247.173
 vless://51e51780-8820-4940-8c97-42969d524f2a@vip.filterchi.shop:2089?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 78.39.9.158
 vless://3805d64e-2340-4088-a687-5c4f959d0253@vip8.radmanmax.ir:8052?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 89.235.116.63
-vless://3805d64e-2340-4088-a687-5c4f959d0253@89.235.116.51:8052?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 89.235.116.51
-vless://a953e567-ce00-4c95-a96f-6e9fd55d4378@78.39.9.155:2089?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 78.39.9.155
-vless://33dcd6b4-3891-45c4-9749-9eff8f948eaf@89.235.116.41:8087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 89.235.116.41
-vless://ee62d09e-caff-4a4a-9d87-9cc72d8e7a9c@151.234.162.98:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Iran Telecommunication Company PJS ┇ 151.234.162.98
+vless://2fc52230-4426-4c5b-a662-7cc85d8eee9e@eventx.faraservice.space:5005?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859#IR 🇮🇷 ┇ VLESS-TCP-RLT - Iran Telecommunication Company PJS ┇ 217.219.78.67
 vless://b247cf74-a696-4a2c-bb5c-8c1ff92290e3@151.234.162.50:1198?type=tcp&security=reality&sni=stackoverflow.com&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&sid=0b886008af8942c3#IR 🇮🇷 ┇ VLESS-TCP-RLT - Iran Telecommunication Company PJS ┇ 151.234.162.50
 vless://86c853bd-9a6a-4e7b-aef4-d9ecc148a365@217.219.78.197:44406?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=d03tGmI85ifgn3qaXmf2xNysFi3twhU7fUuqma3Z41w&sid=64694ced#IR 🇮🇷 ┇ VLESS-TCP-RLT - Iran Telecommunication Company PJS ┇ 217.219.78.197
-vless://2fc52230-4426-4c5b-a662-7cc85d8eee9e@eventx.faraservice.space:5005?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859#IR 🇮🇷 ┇ VLESS-TCP-RLT - Iran Telecommunication Company PJS ┇ 217.219.78.67
-trojan://n35dqv3f-epbo-yd4x-ue0q-u6yd3c3yn8pe@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://nmltpj7s-n9f5-pamr-cjtr-pdwcketvobhf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

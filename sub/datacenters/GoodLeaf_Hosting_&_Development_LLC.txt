@@ -1,6 +1,6 @@
-trojan://smpbq9qp-tnxb-lkxg-4ul9-gzhrfp0eiqjo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://zma0klnk-lwfh-8auo-9zst-p1tkqk8135zp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vzilbyxd-mj86-8ef3-90ni-cucjc38ksdwo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8612zs6a-lcx4-7o96-3qbf-631iu52zjuoy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://m4kcyb6r-ob2v-8lgc-b28u-bx0cg6vds6ln@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://jwurbj5q-l1sh-pocb-ijlc-jn6w75imap0q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://scy35ebr-9khn-37ph-pl73-eehjrz28avph@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://f7gt9gao-9eit-n0ff-c0qt-wxuqn2mlmsut@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0151aa04-1ffd-44b9-9e7a-31f72c53e490@191.101.251.210:443?type=ws&security=tls&path=/vless&sni=calws.mainssh.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - GoodLeaf Hosting & Development LLC ┇ 191.101.251.210
-trojan://wkggfl42-ikhv-tc47-wuh8-pevb8nf8rzsg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://h4jr4r7w-nnpu-3xd4-m5hy-evbakl7j1h07@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

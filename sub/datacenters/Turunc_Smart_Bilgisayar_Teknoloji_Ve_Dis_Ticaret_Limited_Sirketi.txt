@@ -1,9 +1,8 @@
-trojan://vm9u82i0-h9rr-f45o-6l66-2nxidl27eh3d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://35xr7rn6-q4jc-m1if-ibyw-ciygsmmseisl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://x13gekun-yeut-8u9w-03xa-yrwp688wlscs@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dt62rtvk-mmzi-i95f-rqdm-25c9ya1bee8w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://d1e51771a3f5a3b@45.93.171.151:44758?sni=sorena8.bernoclub.top&peer=sorena8.bernoclub.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 45.93.171.151
-vless://b3a0f19f-b0f9-4a96-95de-49c5c5a725e0@abdzgg.teemazad.com:37062?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 45.93.171.171
+trojan://0o37ph08-3dtq-dh24-vnqk-mcyh3kio0y36@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://p7a88n3k-8mk3-710k-pr3g-nim9shz14oe1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gcys99tg-8tlz-2sy2-p7jw-rcc1298fue6d@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vt5s7eqi-69z0-zh56-ls3a-ucr1rpc4v4ca@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://26a94d94-3495-4e5e-92ba-2adbfbdebadc@mail.ryzen9.ir:5630?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 45.252.183.214
-vless://275be41c-e16c-4214-ac4f-3e8eaff8e928@crm.xpersian.com:8443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 45.93.169.254
-trojan://0p6su3bd-ihrn-w1v3-y460-4e6e9r27zyrd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://b3a0f19f-b0f9-4a96-95de-49c5c5a725e0@abdzgg.teemazad.com:37062?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 45.93.171.171
+vless://275be41c-e16c-4214-ac4f-3e8eaff8e928@crm.xpersian.com:8443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=eUzR83jhnC_Mq_tOuIHKW4sPa_D2jjYSeyrunYS-Zm4&sid=33c48970a3f211ed#NL 🇳🇱 ┇ VLESS-TCP-RLT - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 45.93.169.254
+trojan://39frsi2e-pbwf-t2w9-nls6-l8jaj4jsmkz1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

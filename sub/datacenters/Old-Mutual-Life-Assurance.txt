@@ -1,12 +1,7 @@
-trojan://ape8otsv-e0ti-a3r1-uvcc-po3qem1palv2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://i8cqs5l8-cshj-p03f-1dgp-j6byztbby83n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9bl8e15r-7gc1-yt93-ckp5-h058mvpwbapo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://45ozr9eu-hga0-v1w5-hajk-q9oitjxc3o6u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.199:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.199
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.134
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.243
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.173:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.173
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.18:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#ZA 🇿🇦 ┇ TROJAN-TCP-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.18
+trojan://tju859u6-v4pc-pkjp-8u84-ijg5sp6pxp6i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://9wgkrmlb-mdi6-cv1f-ohv4-baeel71c6i0l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ujx8cvdl-belb-xlyn-5vav-q9u9zkw9dun5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1gyxi5zg-6ytf-c4kv-iz4p-kaliioojgrr5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.130:443?type=ws&security=none&sni=hl.ylka.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Old-Mutual-Life-Assurance ┇ 160.123.255.130
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.131:443?type=ws&security=none&sni=vv.ylka.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Old-Mutual-Life-Assurance ┇ 160.123.255.131
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.141:443?type=ws&security=none&sni=lx.ylks0033.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Old-Mutual-Life-Assurance ┇ 160.123.255.141
@@ -14,8 +9,10 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.155:443?type=ws&securit
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.156:443?type=ws&security=none&sni=cl.bgm2024.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Old-Mutual-Life-Assurance ┇ 160.123.255.156
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.159:443?type=ws&security=tls&sni=dse.bgm2024.us.kg#ZA 🇿🇦 ┇ VLESS-WS-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.159
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.162:443?type=ws&security=none&sni=sl.ylka.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Old-Mutual-Life-Assurance ┇ 160.123.255.162
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.173:443?type=ws&security=none&sni=lx.ylks0033.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Old-Mutual-Life-Assurance ┇ 160.123.255.173
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.17:443?type=ws&security=tls&path=/?ed=2560&sni=bn.ylks0033.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.17
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.180:443?type=ws&security=none&sni=sl.ylka.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Old-Mutual-Life-Assurance ┇ 160.123.255.180
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.18:443?type=ws&security=none&sni=vc.ylka.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Old-Mutual-Life-Assurance ┇ 160.123.255.18
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.196:443?type=ws&security=tls&path=/?ed=2560&sni=dsc.ylks.us.kg#ZA 🇿🇦 ┇ VLESS-WS-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.196
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.203:443?type=ws&security=none&sni=hj.ylka.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Old-Mutual-Life-Assurance ┇ 160.123.255.203
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.208:443?type=ws&security=tls&path=/blue&sni=hz.ylks.xyz#ZA 🇿🇦 ┇ VLESS-WS-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.208
@@ -37,4 +34,4 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.70:443?type=ws&security
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.76:443?type=ws&security=none&sni=vx.ylks0033.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Old-Mutual-Life-Assurance ┇ 160.123.255.76
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@160.123.255.79:443?type=ws&security=tls&path=/3b2dg5zv2kftsfko?ed=2560&sni=vz.ylks.xyz#ZA 🇿🇦 ┇ VLESS-WS-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.79
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.85:443?type=ws&security=tls&path=/?ed=2560&sni=uxb.vs2024.us.kg#ZA 🇿🇦 ┇ VLESS-WS-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.85
-trojan://fvvrxx6r-mm05-slav-g0cs-2wxgy5temnr6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://q0s9v1c6-3ooy-91ej-5fs5-oea55dq48bea@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

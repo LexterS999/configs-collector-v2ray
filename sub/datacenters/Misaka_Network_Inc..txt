@@ -1,7 +1,6 @@
-trojan://n2e0qcba-whdv-zj10-glg9-hbonxx33ne83@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://nc1y6fj6-7q1z-6g2t-0c30-kkyao1ulw5y6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wjwfyso1-e8di-629d-06ln-8hq3s2kngd65@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bf2eckxa-u8fc-r7q9-yozp-gmwgrusw6z2a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://j1n62ona-iqai-l2lt-5k8q-ihgo80oqn73l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://9p8uujb2-8vgn-myw5-wjpb-a10x2xgfcqoc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dwpqjhvn-w27l-1do9-m5sx-68zyzx3yiv3x@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://e3283oyk-ff6u-e5ua-bg7u-3tmc6thhc2e3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.142.247.72:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#DE 🇩🇪 ┇ VLESS-TCP-RLT - Misaka Network, Inc. ┇ 45.142.247.72
-trojan://d4e41ff772c7fd45@45.11.104.94:3389?sni=sbank.ir&peer=sbank.ir&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Misaka Network, Inc. ┇ 45.11.104.94
-trojan://wl5su7ab-0f65-gw7t-fudm-fnl1ef6eqyhl@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://myfvqa58-kwy2-uz99-kfuy-2laxy8cy80nk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

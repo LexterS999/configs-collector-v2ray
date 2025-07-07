@@ -1,7 +1,7 @@
-trojan://cj7fqv0o-vjs3-y9pz-82ag-6sbqqw94dn0r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://3apme2lg-asm5-4ehj-3ziw-gubbu5wrmbgq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ue3v8dz7-yht9-934e-33kl-vtfkkcp2v1py@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ln8hl3vy-h2nz-jodz-hz3z-7w2ztffj9hgp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9mc0bz5s-xq60-h8ar-7lhv-19y21mw1irda@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://48qkrray-nne2-exd9-3q7d-q28dottzekhd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://t3kedvtt-w61t-8lv2-mit2-op9d2qwasotb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3w9lmiz1-99bm-7q4i-je51-z5zny3s0gfdz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@103.140.136.11:443?type=tcp&security=reality&sni=app.usercentrics.eu&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6#JP 🇯🇵 ┇ VLESS-TCP-RLT - Zero Cirrus Cloud Computing Shanghai Co., Ltd. ┇ 103.140.136.11
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@103.140.136.99:443?type=tcp&security=reality&sni=cdn.userway.org&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6#JP 🇯🇵 ┇ VLESS-TCP-RLT - Zero Cirrus Cloud Computing Shanghai Co., Ltd. ┇ 103.140.136.99
-trojan://of7xownm-k3j5-s4q6-frno-94corlwlsel0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://168g2s8k-24bn-zwc7-4s6v-hrgdbobwo91n@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

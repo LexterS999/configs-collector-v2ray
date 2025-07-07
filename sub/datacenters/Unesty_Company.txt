@@ -1,8 +1,7 @@
-trojan://h1bhmyon-01k7-lgsr-e07d-mepa7z86doo0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://0e99vz5n-ociv-eqid-vnza-nwv563pfvd5q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nj5xkhq3-69jw-fm85-qw2x-sa68wl0uh1ri@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mbfie4h6-zhl1-kzpy-j269-tqzvl1xtpsc9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://q9870219@181.214.99.54:2035?sni=ht.lljllj.buzz&peer=ht.lljllj.buzz&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Unesty Company ┇ 181.214.99.54
+trojan://7wdil4bg-5wr2-es60-b6wq-yhsc3356xrae@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://tuajynfd-u54x-sj0x-5uh1-r1ea6yn7afbs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9mghx23u-rkb2-h4di-gx3b-08mkh9kh59h4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5plu6bgb-eynd-ie47-lzlg-9s86copancgu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://k6l7x1bz-30a8-7084-ba03-c1b1z4550c82@179.61.138.128:443?type=tcp&security=tls&sni=www.cloudflare.com#DE 🇩🇪 ┇ VLESS-TCP-TLS - Unesty Company ┇ 179.61.138.128
-vless://2ebdc8ed-7b96-4839-b32f-b5d21a11f320@181.214.99.36:443?type=tcp&security=reality&sni=docker.com&pbk=zguKemuiateh9w_YrRsbWEwm94KaNd-fAUxuZMR1p2c&sid=781c#DE 🇩🇪 ┇ VLESS-TCP-RLT - Unesty Company ┇ 181.214.99.36
-trojan://o5us1d3m-rfqz-ynar-b701-eoedes7pljaa@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://2ebdc8ed-7b96-4839-b32f-b5d21a11f320@181.214.99.36:443?type=tcp&security=reality&sni=docker.com&fp=chrome&pbk=zguKemuiateh9w_YrRsbWEwm94KaNd-fAUxuZMR1p2c&sid=781c#DE 🇩🇪 ┇ VLESS-TCP-RLT - Unesty Company ┇ 181.214.99.36
+trojan://f8l0ykka-r6zr-0f0t-ywu8-6b2jmee7wuvk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

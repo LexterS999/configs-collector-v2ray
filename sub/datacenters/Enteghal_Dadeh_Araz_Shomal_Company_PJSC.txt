@@ -1,11 +1,10 @@
-trojan://lv8igv94-bvrs-x38g-1612-jlsuwrf3hn7a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://wxt6x5g4-bbxv-b4dt-08xk-rd3dmt8ea9gh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vt2yrb1h-popr-wah1-vugb-xgjd6hs6iw0s@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8il58r0z-n2m2-rize-sx8f-gwex9jhdsoe6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://l8l3ktoe-4iie-9hxn-bozu-04mpvav1sesy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://q8iy7llx-vpb6-aw2z-g9zv-77b188usig89@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gfyt4pb6-iub3-61sf-jg3v-j3ev2xjkb2hq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zgjrc6ci-193j-63yn-g5ez-z8xjxvrtm3bu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://607719a0-a074-488a-85bb-eacbcd410e3c@193.111.235.113:8443?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.113
 vless://fb78f8f9-ffb4-4a28-a30c-03ed58a3989e@193.111.235.125:1123?type=tcp&security=none&path=/momasvpn#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.125
 vless://fb78f8f9-ffb4-4a28-a30c-03ed58a3989e@193.111.235.151:8018?type=tcp&security=none&path=/momasvpn#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.151
 vless://cf2a626f-2fbc-4d55-8c49-750ed496df86@193.111.235.169:2070?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.169
 vless://8e27edfb-48c5-4f1d-a4ad-eada6b3377e0@193.134.101.202:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.134.101.202
-vless://fb78f8f9-ffb4-4a28-a30c-03ed58a3989e@193.111.235.134:8018?type=tcp&security=none&path=/momasvpn#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.134
-trojan://aslp0apt-439u-csq5-eqk3-fmbnlrxvfeca@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://379ct6l4-0qw9-b3nu-mne8-v8zig95ofhzw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

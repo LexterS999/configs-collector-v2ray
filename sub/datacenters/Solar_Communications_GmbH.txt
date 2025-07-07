@@ -1,6 +1,6 @@
-trojan://4wcwu4z9-w5vl-v7hq-0w0f-w65mx84ntal3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://h613o0jy-1rok-baun-us7y-iv7mw6igzp0v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://h1xcia1z-ip6o-v40k-a5ba-guhrmdchh9bs@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xc46siwo-kopo-8duk-vd8i-4czq8l6jaa2l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://lk1pm7am-cwvm-d0kc-56er-koe4t7cbxuaj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://ikffhwn8-3t3d-g5a6-hoyb-by50r8qby5j1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pj57xv8n-9fom-9i6r-pd38-w8nbcbbfx8fa@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://z7ecsrqy-fmaz-1pjd-hp8n-obyzvcloax0e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@95.183.51.10:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#CH 🇨🇭 ┇ VLESS-WS-TLS - Solar Communications GmbH ┇ 95.183.51.10
-trojan://s66plrmf-bdt9-qwm4-05pg-4pbfuf1z8o05@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://22i5dcqw-p7f1-e54k-ni7t-vu0er5z8atwi@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

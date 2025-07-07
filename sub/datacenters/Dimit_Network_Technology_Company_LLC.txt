@@ -1,6 +1,6 @@
-trojan://npzki258-69hg-73z6-d4z6-anz14jqihd2j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://z39knifi-vgw5-63e4-8gy4-nlk6bt8zb47v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ai7k39qb-zjpi-0cjh-sydc-951thablcrin@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9wk7dl21-wq27-7y1e-ip65-aa91d70vk2q3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jrm12lop-llj9-xsa0-cx9u-px9zhe66vhhc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://l5fqyjfu-sxj1-ojil-s5r4-bzyqm4no64nz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cex2kjdy-j82e-pqsy-hrcy-0t7226m612rp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://b9yon9fu-51eg-hrpl-9hnc-bccrcbc3d5jl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://518ef4fb-1415-4a83-bb0f-2107d322eb0a@185.187.51.76:2053?type=ws&security=tls&path=/&sni=num.2d2d.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Dimit Network Technology Company LLC ┇ 185.187.51.76
-trojan://p0ztqzfo-zo4n-6u8x-qdll-um82enbmq2fn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://7ljf2mof-87oe-auzg-ve7x-bcd29r972qbi@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

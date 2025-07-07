@@ -1,11 +1,11 @@
-trojan://f7dosd93-rgcn-091m-z6jy-n5wdwd6e3zgd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://n90uubr0-sgok-4a4t-18wj-8w545hbbi6mv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5h2cfxdb-mxvp-25go-nlzc-ojojyqiuroun@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://roevsd9l-0v45-9him-gtjj-t84dfxdeh7u9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://rzcm3cgk-ggiz-qu4w-54d8-88tb0ap7ti4h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://kts4fawo-la2g-tobj-yvj0-tkwpn1dci0wz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xstvx3sx-45xh-r9ou-vsry-v83jawtb5jqy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://edntbc25-wh9t-s5z2-cv5h-8dp2y6y3mkcu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://9517575b-5d30-44d2-b6e8-29718dceeea0@info-4.nobifay.ir:60?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.154
 vless://9f22cf6d-175d-40ee-87ef-bc638fcd2532@178.239.146.105:37153?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.105
-vless://9a30c7e0-7dc3-47e3-b958-02d8b5e49f6e@178.239.146.154:60?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.154
 vless://6322fa6a-2612-43a3-baea-f549261c6b2d@178.239.146.222:64560?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.222
 vless://2bc5a05b-ab73-489b-bfd4-cd8e946c2d5d@178.239.146.76:2010?type=tcp&security=none&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.76
 vless://c718ea6b-c88b-4d88-81cc-076d5fe7cb5b@api3.callback.cdn.file.plsvi.online:8051?type=tcp&security=none&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.198
 vless://cbea02f4-e0dd-4e76-b7e8-b0a20752c171@node3.helishot.info:9050?type=ws&security=none&path=/translator?ed#IR 🇮🇷 ┇ VLESS-WS-NTLS - Mizban Dadeh Pardazi Pasargad Ltd ┇ 178.239.146.93
-trojan://629g0398-m87v-oxmw-1hse-o4ximd6hhkmt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://pbtf1azf-4x6o-ufsb-71xk-3c7exyhq9rzp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,9 +1,8 @@
-trojan://zqr7fi8l-6qf4-jzuu-ksh0-eztw1hwc2aja@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://23yrsoe8-jfnl-8fbq-slik-rokjjdojfq3z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qs8rtreu-vuec-n1be-sah3-44u5mt99s5gf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://iolhn586-s7y5-30zs-sav0-772rgxjpl6gz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://fsoOufuTGmSKzRDaAwAbww@185.226.93.9:443?security=none#TR 🇹🇷 ┇ TROJAN-TCP-NTLS - Big Core LLC ┇ 185.226.93.9
+trojan://0w4ti56q-dbpi-9b3i-15r8-xoa0y6jfg6as@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://0cnaddo1-45yb-r1sv-895n-d68v6j017swh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://oz6m7azh-i1y5-f35j-86ba-xnh2aosqcien@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://eglyy813-862b-qqoi-8x9e-rdqg74uxnwpm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://44afbf4a-29cc-4dbb-8817-61d4cad861b5@185.226.92.168:10460?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Big Core LLC ┇ 185.226.92.168
 vless://c9e2b43f-a3bf-4cb4-9e21-aa40f5c7ba3c@185.226.92.172:3528?type=ws&security=none&path=/path#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.92.172
 vless://61c32475-c39c-4baa-9881-c3df814d9151@185.226.93.93:19543?type=ws&security=none#TR 🇹🇷 ┇ VLESS-WS-NTLS - Big Core LLC ┇ 185.226.93.93
-trojan://hh4hzll4-iux3-jg69-827d-85iiaxg9x6i0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://yxamoy8u-0td4-e813-5mz6-qf9325eoaz8l@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,6 @@
-trojan://rl9w9uwi-0r7t-n6h6-fe0m-aaboc14z1qje@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://0mvuz90p-1pda-8b3t-j0pf-9ukczk0uhfw3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://95rcz7vf-vbyq-4omf-ns2b-45qlijh51l7o@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nj1ctbkz-s01c-cf7g-9c5z-f5kngbrvwsei@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bspynik0-qfgl-izqv-23w2-plk0qh4b0hui@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://m85hh4bq-jef8-sfvw-q7ko-2xwp44xyfzpo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://t3sh8kcu-vd1l-77jn-qmao-x2oeg5k6z1zh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://f63bbpka-rk7h-3wu1-ecdq-v629x71ry3ke@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@94.103.124.195:443?type=ws&security=tls&path=/?ed=2560&sni=v033.ylkszy.eu.org#TR 🇹🇷 ┇ VLESS-WS-TLS - Atlantis Telekomunikasyon Bilisim Hizmetleri San. Tic. Ltd ┇ 94.103.124.195
-trojan://qbffdwlr-7tv1-jm5d-cb9c-9lkqo86grkqc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://82t62lhn-5nrn-88oi-epar-liowgqbug1dx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

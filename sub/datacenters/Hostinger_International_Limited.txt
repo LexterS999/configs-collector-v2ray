@@ -1,11 +1,11 @@
-trojan://nvqcz8ha-jjdb-gyt8-vs75-e8wu9mv7bxo3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://ht1gzaxd-ugu2-z6ei-bpo9-idfum0y78xau@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cqdgfwu2-c7t9-oe8k-pxk0-y61580sjlh5c@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://u6zy7fjz-k1x4-4ykd-ryl0-ldu0fcftx007@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9mfevzq2-gji2-bayd-u7ay-82je5mhokqiw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://tv0owoph-22qf-cm7k-mgul-4c0limxr92f2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6ghug9ir-7ada-lzp6-d9zl-0wmi9zgl0mys@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://48keug83-halx-eibv-oqwq-h0zq1p8gchgx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://65cd9b4b-90a1-43f4-9682-3e33c8a29b0e@82.25.101.123:34712?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Hostinger International Limited ┇ 82.25.101.123
 vless://f8bc4ba8-4af6-4f0a-8e68-2d736200203f@31.220.111.160:443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=3txs8T2vU1k1XIfa5T4sxkoNk9BmYN2Ce76gY2RwgFk#GB 🇬🇧 ┇ VLESS-TCP-RLT - Hostinger International Limited ┇ 31.220.111.160
 vless://845e74e8-cded-4ef3-95f5-7a5a227b09a8@all.playtheclub.info:2087?type=tcp&security=none#LT 🇱🇹 ┇ VLESS-TCP-NTLS - Hostinger International Limited ┇ 84.32.84.33
 vless://1f3747e8-8beb-4a30-a52c-97efd9829b08@194.5.157.239:16977?type=xhttp&security=none#LT 🇱🇹 ┇ VLESS-XHTTP-RLT - Hostinger International Limited ┇ 194.5.157.239
 vless://56c78575-7596-4df0-9c24-cf8962d87ca7@31.97.47.248:2052?type=xhttp&security=reality&path=/prx11&sni=vultr.com&fp=chrome&pbk=-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io&sid=f8fcb589#LT 🇱🇹 ┇ VLESS-XHTTP-RLT - Hostinger International Limited ┇ 31.97.47.248
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?type=tcp&security=none&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hostinger International Limited ┇ 179.61.219.170
-trojan://5pwa5hty-xh13-unjw-w2gs-d5xwp2b952p2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://1az9ohhm-sgvn-a6bz-dgds-y8wwn8mpvhyp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

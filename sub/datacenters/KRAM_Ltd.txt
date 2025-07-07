@@ -1,6 +1,6 @@
-trojan://qazl3vmw-4c2i-j0fm-d94i-p6emr0c2ousg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://7k911svy-3855-gj1w-p5xw-amhzo3hmz186@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wjmvmfsj-8yrk-apcu-2m8l-6g1twr4tzqgr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://z50nng1b-8x19-dc39-n64o-qx2jku96efgh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jtpynvos-kxwk-kb6s-xbrk-qpwl0ip4lav4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://4xzaslfb-a42g-ydtr-lssq-wytciapa5be8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5oafqluu-rqtm-am99-3ftg-e47cxgnevk1r@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kba3okpe-m6xm-t2q4-bh2a-ocpp6bwu8stm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://e3f4a5b6-c7d8-3456-9012-23456789abcd@185.115.36.248:443?type=ws&security=tls&path=/@Filter_breaker&sni=proxy.aslivpn.ir&fp=chrome#UA 🇺🇦 ┇ VLESS-WS-TLS - KRAM Ltd ┇ 185.115.36.248
-trojan://scx55smk-fi29-zp2q-eat9-u8jaljvj4ykn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://jyovno7m-vhq6-luv9-jv5d-678qr1qxjveu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,8 +1,7 @@
-trojan://4o6nj3lt-liqp-rbj5-eosu-20rs3mrufm3n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://veonrbz9-wxaq-19j4-rjur-9z025my4fydg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://d3u5ndca-l7nd-9jsp-ea32-qv9yqmkyoire@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://s3dpdzja-owkm-37q2-7641-qholjavjnezu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.129.4:989#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DataWeb Global Group B.V. ┇ 213.174.129.4
+trojan://m2ytct03-669x-x58a-4ywe-rxlwtapr23q1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://3sj0b1hg-ckzx-g4hq-qf4v-40oahaissnf8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mynm6i3d-0e5s-7a5x-3o4s-2cu28rlmsmgr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xqteu5oa-st0w-k9dk-sooz-8556tvpgth07@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@2.59.38.185:8443?type=ws&security=tls&path=Telegram@V2ray_Alpha/?ed&sni=gozargah.validbv7996.ir#NL 🇳🇱 ┇ VLESS-WS-TLS - DataWeb Global Group B.V. ┇ 2.59.38.185
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@2.59.38.46:443?type=ws&security=tls&sni=vkk.wxgqlfx.cn#NL 🇳🇱 ┇ VLESS-WS-TLS - DataWeb Global Group B.V. ┇ 2.59.38.46
-trojan://8munjkcs-71m8-5vmd-euse-sx2jyjtbkmcx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://tieo4sbc-jhjs-jmdl-xypw-p2h3pxe201g9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

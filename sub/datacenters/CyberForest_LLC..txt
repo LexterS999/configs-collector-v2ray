@@ -1,6 +1,6 @@
-trojan://yodp7uod-xspp-1npx-dmaq-7t3exumtrmvj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://9a6kg166-869h-1bq1-ach7-qdibmi3olozj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bupt1lzp-gfur-wck6-yl7r-eplsmt9n4cxb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zxnu85xd-mci7-p9ve-vmwb-on6nw1phvn04@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://kj0ft4gj-ie8z-dp9g-5w8u-fp100r31qanz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://r22k15g3-5989-6pa5-thdl-kwnyptvcnai5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6sw08ssr-hspc-i1r0-6zpq-7iq70763ypdu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3u8k406d-mckp-l3t8-h6ea-56f91hp967gv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d28ba1cd-eabf-4ea6-9655-e5c8fb11fcdf@202.124.251.40:13114?type=tcp&security=reality&sni=swdist.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=BQH9S8Hg5Z8AqqXb9pNX1Yl-fcQPlKRy1ZWClfvasBw&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-TCP-RLT - CyberForest LLC. ┇ 202.124.251.40
-trojan://aiiy8ua0-07pq-swxw-9prr-yyb4ibkeb2os@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://xxnv5005-qxf9-2kss-gs67-ruc95iiqu6fd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

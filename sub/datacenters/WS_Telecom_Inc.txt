@@ -1,6 +1,6 @@
-trojan://3tdq1p4k-j6tz-vyah-wnch-a3i3p4b2daeq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://zeduikt4-1s2f-lin7-p5a8-9oj6kmazth6m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fdo129f9-o3p9-p0j7-l9ko-34qe5eu6bold@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://j5duqzy6-ema0-icd5-xbee-04ak4jyiqryx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sjcznp3o-xs5e-czae-qeay-np7kpmxbfgwg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://mw84o9g5-976i-eklf-q63u-i8ma7mm9p6q4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lgtm20ws-gmhy-wllw-awie-79rfvi5wrrpz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ibjpfwv2-ja4r-a5ca-jnlw-guwv1q3hiyq5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://56ee7135-0ca8-4166-89c0-d90f72ebc8a0@45.80.228.35:53623?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - WS Telecom Inc ┇ 45.80.228.35
-trojan://st709m17-ozao-9ro8-t4cp-twhxft96o5ct@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://fprrehuk-h1nu-50zi-i4xd-oy36fxvf1w2k@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

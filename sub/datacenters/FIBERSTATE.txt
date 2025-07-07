@@ -1,6 +1,6 @@
-trojan://5cs95k4b-lfti-he0w-wcru-1zxb6cnzdiix@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://86afbtt1-rq6b-psx4-px8i-0yc93bf713pb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://n07aqphd-pw16-blcv-lj6f-5q14671uvvjc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4km63uc6-eycy-lao4-kaxp-hk1k53jtm5hh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://pxv9zk6m-t7d4-8you-f6ps-0aq3ebq8otkp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://oxgritcy-mhgx-hej6-bw2z-qv1dod9ppi44@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://meimgnf1-35mr-s1fy-fdnf-95gadzoevk2j@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://w0fi9cqm-zpxc-obdl-0iup-ndbb6uyeufnz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://27d613a0-5136-11f0-8496-1239d0255272@23.158.72.133:443?type=grpc&security=tls&sni=kul01s11-in-f4.1e100.net#US 🇺🇸 ┇ VLESS-GRPC-TLS - FIBERSTATE ┇ 23.158.72.133
-trojan://itqyjx7s-h0dd-oa27-v1co-60cukjfxhul2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://y56trl5i-avwv-j78a-tz1m-hdit4t2wbccj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

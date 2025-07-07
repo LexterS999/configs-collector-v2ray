@@ -1,9 +1,7 @@
-trojan://exyev1v4-qfv1-wsd4-n33i-b1ayh1spnqq7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://mwm01uop-di2y-1ul0-v7ld-oz9qawwooowc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://feay7qx2-r1k7-oxpp-3zqk-s081d2k8kuj5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://x935gfho-gph4-qwcy-0446-l3d4dknxtvw1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFDQ0stTFREIFx1MjUwNyA0NS4xOTYuMjE5LjE3NCIsImFkZCI6IjQ1LjE5Ni4yMTkuMTc0IiwicG9ydCI6NDc2ODAsImlkIjoiZDFmMjBlMGMtOTY3Zi00ZjlhLWZiOGMtMzAyN2VlMzZjY2E2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
-vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQUNDSy1MVEQgXHUyNTA3IDQ1LjE5Ni4yMzkuMTQxIiwiYWRkIjoiNDUuMTk2LjIzOS4xNDEiLCJwb3J0Ijo1Mzg2MSwiaWQiOiI0MWE4ZDlkNC0wM2VmLTRhYzctZGM0Zi0zY2VhNGUxY2I0N2IiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+trojan://m2iw6amb-x5qn-oyan-wz2h-jlu1d2tsj212@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://or8t4331-mmja-reod-pbpw-m6215wl6j4cx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kvhrf5ky-q36v-ugpu-79ul-0hjur4pobtmk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ifk10ve4-h8ue-6qua-o63d-p128lhtfiioj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9a1e5469-35e9-4d98-b831-28bc6073f685@45.194.11.176:443?type=grpc&security=tls&sni=de.outberlin.online&fp=chrome#MU 🇲🇺 ┇ VLESS-GRPC-TLS - CLOUDFLARENET ┇ 45.194.11.176
-vless://42111477-885f-4d6a-b51e-cbd24c0607fd@ip.v2masters.ru:443?type=ws&security=tls&path=/investors.spotify.com?ed=2560&sni=tr.ps4link.ru&fp=chrome#MU 🇲🇺 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 45.194.11.76
-trojan://75dw7urw-z8wp-5pew-lcbj-stpz07xb86jd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://42111477-885f-4d6a-b51e-cbd24c0607fd@ip.v2masters.ru:443?type=ws&security=tls&path=/investors.spotify.com?ed=2560&sni=tr.ps4link.ru&fp=chrome#MU 🇲🇺 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 45.194.11.7
+trojan://07as6ofa-6zm1-kooo-mhiw-5bhm8xryvixq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

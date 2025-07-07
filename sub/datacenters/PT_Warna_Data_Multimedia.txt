@@ -1,6 +1,6 @@
-trojan://mx4nsykd-phf5-bgzu-bx13-s8q0809phwgl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://1bga6ktu-ye4t-ji7h-l440-4y9bp6hkz0pz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bspovuoj-3fm6-k3cq-shj7-ynjpykotjif3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8hshb1z3-bude-x7qn-p17b-m6sk4wlzq2yg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://owrlehd2-yq9s-s1dw-keqm-2v9uiwpg4naa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://3vrlmqak-bah5-14q6-9yx7-78mfn6r4zgba@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9mj94q4p-6495-0kmv-88up-qky27vfypxra@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://awh58i5n-esmr-k9j5-tsu6-jgmscj3b4lnu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://30448f9f-3ec8-5bd9-a8db-601e9014786b@103.189.164.171:2052?type=ws&security=none&path=/vless&pbk=@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL#ID 🇮🇩 ┇ VLESS-WS-NTLS - PT Warna Data Multimedia ┇ 103.189.164.171
-trojan://5z9c9ddw-ech4-06yy-dx8s-744ejlguy3j9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://yssscxui-o6iu-74e5-byk3-oiroullec2ji@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

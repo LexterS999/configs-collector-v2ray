@@ -1,6 +1,6 @@
-trojan://q8w0x0tn-iclm-2118-vedb-s05ct8i1o3fh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://vng8kx25-s0ne-vjc7-8q3h-fp5w66ph5oi1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2m1pdyip-cmkg-jp60-vkth-lx32v6d2pivq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0dlistbe-n1bx-guno-9muo-eznnwsm23uxo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVUEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRk9QIFJlem5pY2hlbmtvIFNlcmdleSBNeWtvbGF5b3ZpY2ggXHUyNTA3IDE0MS4xMS4yNTIuNjQiLCJhZGQiOiIxNDEuMTEuMjUyLjY0IiwicG9ydCI6MjA2MzAsImlkIjoiYjdiMjMyZDEtNzlhZS00ZmIxLThmZGItNmYwYmRjOGE0MWVlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvYjdiMjMyZDEifQ
-trojan://ffyr2pk3-nyoc-dz2a-pfkn-0avaaf8m6pbu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://50xrl4q7-mx8l-99e2-v3vg-q6evfqbgsh9l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://xjzqgb4d-vb7d-dvnx-jvl6-ivqvfw3vx3ko@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://neqo3nge-chcd-vj59-6b7y-b0flbdb8olut@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://81qs1g90-gl8d-2xe8-dcd2-hrrchpyzsdj5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://708fd02b-5138-4198-980d-79819b3875fd@141.11.252.64:32785?type=ws&security=none&path=/708fd02b#UA 🇺🇦 ┇ VLESS-WS-NTLS - FOP Reznichenko Sergey Mykolayovich ┇ 141.11.252.64
+trojan://skmwvfwc-qysh-53m6-u90e-pp5a6lurkrfh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

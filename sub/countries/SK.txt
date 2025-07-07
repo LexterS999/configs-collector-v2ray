@@ -1,10 +1,9 @@
-trojan://qt6hmyvw-3wdc-bprt-ozxn-s86brmjbfkz1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://44s7mfdr-s5tj-remb-vw7z-piujcxa9kxsm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kshinve6-5956-uki3-pbkp-d14un4fb8v6s@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://81vuhrqd-rc70-3bsw-lnx6-sj1fuj1vd3vq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.146.40.194:989#SK 🇸🇰 ┇ SHADOWSOCKS-TCP-NTLS - Datacamp Limited ┇ 156.146.40.194
+trojan://cu29zxnn-xtx5-27gl-rflg-ngf0doxn0kpy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://9t0ogomr-zjg1-vxmo-ywd1-6if0ruy7fg1p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://l9ajms69-8u4u-e6q9-4e9x-ebc6fbzfel3k@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://uab097b0-vmd4-ty0n-jfst-cty2bloycfjw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://9ac37507-dc17-5313-8125-c6f588c60103@5.252.23.173:8880?type=grpc&security=none#SK 🇸🇰 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 5.252.23.173
 vless://I_Love__SSHMax_86349d6@0:0:0:0:0:ffff:05fc:17ad:443?type=grpc&security=tls&sni=zula.ir#SK 🇸🇰 ┇ VLESS-GRPC-TLS - Pq Hosting Plus S.r.l. ┇ 0:0:0:0:0:ffff:05fc:17ad
 vless://8cd1ce5a-a8e4-5bb6-97e9-8d4e6223b619@5.252.23.133:8880?type=grpc&security=none#SK 🇸🇰 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 5.252.23.133
-vless://b22663cb-4b84-5ce8-b3f2-4edee9cb8145@5.252.23.173:80?type=grpc&security=none#SK 🇸🇰 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 5.252.23.173
 vless://e51aa02e-6358-4ade-963e-1c3ef2ed0d50@45.89.54.240:443?type=tcp&security=reality#SK 🇸🇰 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.89.54.240
-trojan://3tw9au2n-dmtp-70ht-uihj-qnw0r1sgye31@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://2fyq3ube-alrj-m24r-5vep-b1cbbhnobvbn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,16 +1,12 @@
-trojan://kibdfy4m-schk-65gs-70dq-b53i3utjeqoq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://pe7y3lm7-7kgk-trh6-bmdx-jq71d396rafs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1ei78oam-sdq8-wtov-968b-26pc592soqsg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://cowgpb28-r7qv-nko2-vzpk-m1c1krrltvxb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://a21yeesc-8zhq-ewcr-5r99-2md55yqvng2h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://a7cz137z-bb8b-gymr-p7o0-gtx2mgzvagsq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yzzwg467-opti-6j5j-qu52-ckkbvnncqmfo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://c1m19e47-m7kx-sqh0-uhn4-stes0jnlc2j8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://af50bdbf-1715-a461-cbb4-ebbea9ed338c@146.19.143.150:4768?type=tcp&security=reality&sni=yandex.com&fp=chrome&flow=xtls-rprx-vision&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709#EE 🇪🇪 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 146.19.143.150
 vless://d6fd3680-32f2-49b7-82a7-cdb3e7c60921@146.19.143.194:23455?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=zK6s0sgHJbBH2nc8nvFpeMux6FeRxvoNDdY13BGC2U4&sid=c8125f01#EE 🇪🇪 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 146.19.143.194
 vless://RzLDAo8bl56UoDcFFnTJO1@176.124.32.10:443?type=tcp&security=reality&sni=whatsapp.com&fp=chrome&flow=xtls-rprx-vision&pbk=0vYhbf5BHy-z9rIkAR2G-FsL5PQSkK-NsAlwUbuO_QQ&sid=edf4bdfe0882c415#EE 🇪🇪 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 176.124.32.10
-trojan://Aimer@45.86.229.28:443?sni=agepy.aimercc.filegear-sg.me&peer=agepy.aimercc.filegear-sg.me&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - BlueVPS OU ┇ 45.86.229.28
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 213.109.147.242
-ss://YWVzLTI1Ni1nY206QXhaUEtIYTc4THZoUEF0YQ@62.106.66.133:8388#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 62.106.66.133
 vless://739kySMlAPIfgXj7VHPmUF@185.39.18.77:443?type=tcp&security=reality&sni=ya.ru&fp=chrome&flow=xtls-rprx-vision&pbk=uR_iiQ5thhk8Zj2gazpySDUpkyjAKcICMmgPqzhKrRg&sid=f2552204f500c521#NL 🇳🇱 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 185.39.18.77
 vless://d197d32d-962e-4d5a-a0f1-ca18e59c43a1@45.150.109.64:28982?type=xhttp&security=reality&path=/mehdi@1404-marzx63wx?ed=2560&sni=fy-h3-frontier-a2z-com.customer.fastly.net&fp=randomized&pbk=VGULpliqwCC98vIUyB4olrmgUjGjRbgY6z3QxinkA2g&sid=2ddfc3d063c09388#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - BlueVPS OU ┇ 45.150.109.64
 vless://5f9ad25f-76c8-48d1-9c8c-c38effd52526@91.242.241.45:443?type=tcp&security=tls&sni=sin5.vpntype.dev&fp=chr...&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - BlueVPS OU ┇ 91.242.241.45
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRzhzaldzU1d3djl1bDZYMGJPMHJD@91.236.230.200:24542#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - BlueVPS OU ┇ 91.236.230.200
 vless://0870a931-b121-1278-f010-b140a958a300@185.28.119.112:8572?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=wwGp0z3xZVoNxnAd7lcvN14cCs5Ye_JxRfGY4nqXkXo&sid=81c7e2cabf#US 🇺🇸 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 185.28.119.112
-trojan://y4cjxe1r-2wbf-03cy-j6r0-lbzre4rl1d42@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://h454klyj-moa0-of2i-4ks8-9dtpjatuguy1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

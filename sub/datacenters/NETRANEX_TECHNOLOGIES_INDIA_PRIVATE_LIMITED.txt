@@ -1,7 +1,7 @@
-trojan://o055uwja-dwq4-1j68-7uj7-tv07f2tc5auh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://53h3t8y4-v511-3c64-dlre-dutptxrvbdac@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9s6yqvhr-385x-p9dm-jvy6-1f95zuzm566n@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7rzdp5lv-55vm-dwy0-totr-vieikt4fpuc9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://milgd2ai-jz4r-jddf-54vu-musockh117la@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://aobv1br8-bl4x-xrzi-24cw-ruezamkz9x43@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5cwrac7t-0amz-2us8-m9wx-u39d7qqlkuyu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://d8d7vmp9-aml8-vgqd-84c9-jjugxfng2ebd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://dc089b27-3f77-5c89-a282-bbbb728302d1@45.88.183.53:443?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.53
 vless://2201fa52-f394-5da9-80ab-7de702c379e4@45.88.183.54:443?type=ws&security=tls&path=/vlessfp=chrome&sni=zula.ir#IN 🇮🇳 ┇ VLESS-WS-TLS - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.54
-trojan://lrxy812r-p3fl-uww6-zhyf-4wej49021s83@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://x9l75e1o-qsm5-cpaw-1is8-bll7h9j4n9xv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

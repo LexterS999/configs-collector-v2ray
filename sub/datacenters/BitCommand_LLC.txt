@@ -1,10 +1,9 @@
-trojan://lin8cwsz-w2le-f397-mzpc-p8ty7nmeewgo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://qa24wbve-ajux-j5qs-evpk-ix7ytqblvkmd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3hkj0vfo-w3pn-kaxd-jog1-ex4fcuuihybb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ltc054h2-4j3w-viu5-xgz3-cd7tndhqq1jn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://h5assbay-5vs4-rzti-4938-sn52mer2s3zf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://ca50h75q-54i5-50kl-e1ps-j1ir4ndqlqkw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://us34axs5-zf2k-0pb5-y6mv-6xjvvo3zbao0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://43xksgyh-pcz1-kl39-55op-qve2ut9uadr0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6efbf9c2-a6c9-447a-ac04-4531d56edf7c@gxr.querenciavib.xyz:80?type=tcp&security=none&sni=www.fastly.com#AM 🇦🇲 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 185.202.113.224
-vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQml0Q29tbWFuZCBMTEMgXHUyNTA3IDgyLjExNS4xNy4yNDIiLCJhZGQiOiI4Mi4xMTUuMTcuMjQyIiwicG9ydCI6Mjg3MCwiaWQiOiI2NTZmN2RkYy1kMzY3LTQ2MGQtODg3Mi0xOGYxZjViYzgyZTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
 vless://04a8fc0b-a72b-4d31-8f26-4a8ed6f78d41@202.133.89.132:6062?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 202.133.89.132
 vless://052ac018-69f4-4e0c-880f-22715132d5b9@82.115.16.123:54022?type=tcp&security=tls&sni=www.speedtest.net#AU 🇦🇺 ┇ VLESS-TCP-TLS - BitCommand LLC ┇ 82.115.16.123
 vless://815724d3-0d61-4761-be07-471441d42be5@185.208.173.3:80?type=ws&security=none&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#GB 🇬🇧 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 185.208.173.3
-trojan://45wr1hr0-2i5f-ywxo-ikc1-l02wcsuggbh0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://l1x4y7wb-8220-navz-vzng-o4ywvzuc7jp7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

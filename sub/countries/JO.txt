@@ -1,11 +1,11 @@
-trojan://2ykdc2cy-mzfd-1cog-rsdr-w50gnrkv6yds@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://r9mz0kr1-d2k5-u6f9-5vez-hbcebluo5hde@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hgtys73y-3jd1-6wuy-mssc-zn7aoyqhu9bg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vmhpibk0-jevq-ythm-3ipy-4guv4p87dc3m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://m8qsukvu-29m0-d1ea-b0bz-kj2ga7cokpdm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://201fzl19-y98h-dcbk-tcue-g8tjwo5twa83@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vac4adve-le33-3tbc-qnew-fo2kltbl6234@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://em2howxy-2ihm-u9q4-u7b1-a1l8ynjtd517@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@62.72.166.177:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.177
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@62.72.166.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.13
 vless://401374e6-df77-41fb-f638-dad8184f175b@62.72.166.15:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#JO 🇯🇴 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 62.72.166.15
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@62.72.166.168:8880?type=ws&security=none&path=Telegram@WangCai2/?ed=2560&sni=kjgx.laoyoutiao.link#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.168
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@62.72.166.177:8880?type=ws&security=none&path=/Telegram@WangCai2/?ed=2560&sni=Telegram-channel-WangCai2#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.177
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880?type=ws&security=none&path=/?ed=2560#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.20
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@62.72.166.213:8880?type=ws&security=none#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.213
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@62.72.166.220:8880?type=httpupgrade&security=none&path=/#JO 🇯🇴 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 62.72.166.220
@@ -17,4 +17,4 @@ vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@62.72.166.3:8880?type=ws&security=n
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@62.72.166.63:8880?type=ws&security=none&path=/Telegram&sni=jp.laoyoutiao.link#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.63
 vless://775213ac-3976-439a-8977-3277c0e4735d@62.72.166.67:2096?type=ws&security=tls&path=/Twitter苏小柠&sni=fq521.6789.cloudns.be#JO 🇯🇴 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 62.72.166.67
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@62.72.166.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#JO 🇯🇴 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 62.72.166.77
-trojan://eh24t6xi-y50c-4gbf-mimx-h26qr52vs52f@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://270l4s7x-gt1x-t4te-kgqk-3p6pmnp9ssp3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

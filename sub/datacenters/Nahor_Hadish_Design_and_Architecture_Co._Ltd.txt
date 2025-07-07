@@ -1,9 +1,9 @@
-trojan://wdzjpwt2-zf82-yls5-9kpn-yz2uchbg8upa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://y2x570hn-zpap-0zw3-lhhx-kakjklfoqt1a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ctsyax70-ltrc-6dka-ld5w-axz86m9hegoz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://07ytudpn-h942-tnhp-ddcd-cgeq4xzhk0w4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://2fvtgd94-gark-uym5-cus4-tkbekzz5jx6a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://qauatm3o-k57u-0p7j-0ydn-cg7qjyu366pp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6uz4uk76-hbqg-gyd8-ths3-ehbdaxhv30as@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://klr43kt1-461s-ku88-1rx2-snlldx3mq7lj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6b17339b-9556-4ad6-8b48-ae997271738a@2f9niv.de9.razercompany.com:407?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.107
 vless://6dcfd31e-6f22-4cde-bbda-7753ff360b06@35nsp8.de5.bbbbbbbbbbbb9.biz:5019?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.27
 vless://c373e833-a2f6-4a82-b599-dc6dc6e3f806@5lubd1.de1.razercompany.com:322?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.99
 vless://c4389c70-1e5a-4bd2-934f-44fb2e62ccf5@de6.razercompany.com:33200?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.104
-trojan://6rfhjoum-63yn-cl50-mxla-xu6c813sksz1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://yf4wpfjt-cca4-ucws-u083-exr090ej58pq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

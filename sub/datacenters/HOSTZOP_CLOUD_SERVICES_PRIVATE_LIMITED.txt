@@ -1,6 +1,6 @@
-trojan://rn1r3ymu-7hmt-zcno-dpsp-3toh4k0vhdra@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://mgqc7n09-vwy0-bzv4-cehs-b8zwl1nn8inj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://16xop7ig-x8gp-c8k0-r4de-sgjmwp29o73e@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7n6qfmu7-rnoc-p9m1-245d-u8xxkqw83ic7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://h98e7sse-v0eg-rqpp-x01r-hc3i64ar50la@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://f4a6fy3n-k3x9-t38i-ahmv-wale64w9glnw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://l565v3yq-reyj-59h6-i78g-h11z3yfu3q85@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3fb1ejmb-9h36-jogq-h84p-2l018vkeyjqh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://009d69cc-4d08-4966-bd3c-75688b3c8145@157.20.172.163:443?type=ws&security=tls&sni=h2e.salehpersian.com&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - HOSTZOP CLOUD SERVICES PRIVATE LIMITED ┇ 157.20.172.163
-trojan://bwrmek54-fhib-3vkf-dgjh-imvbs8myca5f@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://gypr7o0q-m2ga-m2ce-kn2n-72knq5en2ys8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

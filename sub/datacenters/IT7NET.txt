@@ -1,32 +1,12 @@
-trojan://noy8bsh3-k3u0-1st3-rj6e-w91ov2ps2qbj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://japnhhox-tzf0-c7jp-o6s5-n3i860y2quxa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xvxsabuc-84ob-upz5-ijs3-hj6c8do7neiw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wvjjc54n-43ge-m7nf-i1h2-ybllaoukuc1e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ndd8otxb-dnpp-9e9a-umyo-m527ellmdx9s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://q3ty2qh4-ydop-42z1-4um0-5n6j63vgtj2j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://afafp3q9-pvsg-8jcs-rvhi-6fhuu4hn88is@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://05t55sty-14pf-4cij-aqgo-40b3u4xx3kse@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.78.16.178:443?type=ws&security=tls&path=TG@ZDYZ2&sni=cfed.tgzdyz2.top&fp=random#HK 🇭🇰 ┇ VLESS-WS-TLS - IT7NET ┇ 45.78.16.178
-trojan://share.mjj-home.com@185.212.56.168:443?sni=tw.softbank.mjj-home.com&peer=tw.softbank.mjj-home.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - IT7NET ┇ 185.212.56.168
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVQ3TkVUIFx1MjUwNyAyMTIuNTAuMjU0LjU1IiwiYWRkIjoiMjEyLjUwLjI1NC41NSIsInBvcnQiOjU2ODkzLCJpZCI6IjBhNTlhNjBiLTUyNmUtNDM3OC1mOWNiLTM0ODVlNjg4YWE5YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-vless://49dc19c3-e447-4422-9a54-35af28207a6e@178.157.61.222:31760?type=ws&security=tls&path=/?ed=2560&sni=mihu.sorry.ip-ddns.com&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - IT7NET ┇ 178.157.61.222
+vless://4ee1809a-4a35-4601-99b3-51ce05fb4585@178.157.61.222:31079?type=ws&security=tls&path=/?ed=2560&sni=oty.myto.ip-ddns.com&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - IT7NET ┇ 178.157.61.222
 vless://7d8c32d2-c541-4eee-9dde-32a151a922fe@45.78.50.206:57207?type=tcp&security=tls&path=/&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&pbk=zepzfnihvOcoinl31Lrv97AZB3DyhcVXunsYYej58B0&sid=40f8074b#JP 🇯🇵 ┇ VLESS-TCP-TLS - IT7NET ┇ 45.78.50.206
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@104.243.25.95:253#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 104.243.25.95
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@104.243.30.252:246#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 104.243.30.252
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@144.168.60.70:252#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 144.168.60.70
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@172.96.192.58:254#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 172.96.192.58
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@97.64.31.80:247#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 97.64.31.80
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@144.168.58.170:254#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 144.168.58.170
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@172.96.192.100:246#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 172.96.192.100
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@198.181.56.163:238#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 198.181.56.163
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@199.115.228.30:253#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 199.115.228.30
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@97.64.122.63:253#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 97.64.122.63
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDY@93.179.112.70:253#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 93.179.112.70
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDY@95.169.4.174:254#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 95.169.4.174
-ss://YWVzLTI1Ni1nY206NUFzSnBUMzZXcGRXYnY1cg@45.78.5.173:57998#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 45.78.5.173
-ss://YWVzLTI1Ni1nY206Vkp3MGVocnJlbw@98.142.141.198:16219#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - IT7NET ┇ 98.142.141.198
-trojan://Gl123qwe@us.playstone.info:23443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - IT7NET ┇ 104.224.176.186
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVQ3TkVUIFx1MjUwNyAxMDcuMTgyLjE4OS4yMDEiLCJhZGQiOiIxMDcuMTgyLjE4OS4yMDEiLCJwb3J0Ijo1NTE4NywiaWQiOiIyNjY3MGE3Ni01ZmUyLTQ3MzgtYTg0Yi0xMjI5OTA1ZTAzNTQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVQ3TkVUIFx1MjUwNyAxOTkuMTgwLjExNC44MSIsImFkZCI6IjE5OS4xODAuMTE0LjgxIiwicG9ydCI6ODAsImlkIjoiYTQ4MjVkMmUtYTU4MS00OTU0LThiZTItMWRjMGRmYmIyMTEyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcmF5In0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSVQ3TkVUIFx1MjUwNyA2NC42NC4yMjkuOTYiLCJhZGQiOiI2NC42NC4yMjkuOTYiLCJwb3J0Ijo4MCwiaWQiOiI4ODgxNmUwYy1kYjk3LTQ4NmMtOTAyOS05NjkzZDE0ZTRjMzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@144.34.247.227:13506?type=ws&security=tls&path=/?ed=2560&sni=ld.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 144.34.247.227
 vless://74049a59-4a76-48bb-9689-efa31e4dad6f@192.243.113.108:443?type=ws&security=tls&path=/bing&sni=usa.cayuo.me&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 192.243.113.108
-vless://4ee1809a-4a35-4601-99b3-51ce05fb4585@192.69.92.111:8081?type=ws&security=tls&path=/?ed=2560&sni=oty.myto.ip-ddns.com&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 192.69.92.111
+vless://b202af66-c6e8-4b50-b509-d9fbec42f295@192.69.92.111:8081?type=ws&security=tls&path=/?ed=2560&sni=mot.gike.dpdns.org&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 192.69.92.111
 vless://f19ed531-81cb-433e-8746-1a69e009f9df@66.112.216.70:443?type=ws&security=tls&path=/bing&sni=usa.rtot.me&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IT7NET ┇ 66.112.216.70
-trojan://vd59tcst-m52t-6pau-de7z-5haotfo1ksft@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://b7de4c8z-hiu5-m3we-to9g-61wi6o8u32lq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

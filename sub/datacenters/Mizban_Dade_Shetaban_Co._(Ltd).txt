@@ -1,7 +1,7 @@
-trojan://nauupxry-08uy-fbss-pncm-svrd88bo0h0k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://2duf45cw-ijxf-50mg-kwfs-7wdcmj1easkk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5c8zb5a4-25hb-nws3-j84x-2kslziyeqof1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://s4ni9ijp-3sui-g6hj-dgny-tqrbmtujoo67@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://vvaa61xl-omt2-nnve-vnk2-akxmgig2mdpt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://foehvblf-y5e8-whj8-pst8-pa14vzgm1tua@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rtur4i3q-c1sm-01i6-vfdv-mv5tz5adkymy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://sv7ipk7o-qds0-aaix-hp4v-yhliks4fmaft@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://37cf2001-eb48-49c5-9fe5-69142fc8fc27@fp.emeonline.top:3489?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Mizban Dade Shetaban Co. (Ltd) ┇ 193.228.90.104
 vless://n3o4y8vz-07s5-4751-ys70-t8t8q1227t59@xray.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Mizban Dade Shetaban Co. (Ltd) ┇ 185.130.50.10
-trojan://glnmensk-driq-rt6a-k6ue-zvc467nhm73d@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ibhbwnm4-ixt5-z16d-bh4q-2vdz6n8a4zrm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

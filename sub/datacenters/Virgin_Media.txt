@@ -1,6 +1,6 @@
-trojan://mxhxlmbz-qkku-4l9x-ugdn-93s5pdptjryq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://ks4oo5s7-rooj-hm8u-mjpl-57cju2nskyy5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2nyezsiq-m70g-4und-t1jk-9ntidj5m4c9a@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://f4uksiyl-yq43-pveq-ov4s-zqz54w6ebd1n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0uu682mu-68uh-a8iv-a2m4-5t28xm2srstp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://hi8i9v0b-iwjn-1yim-lcos-alf9jvcqwba2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qo4olunj-rf5s-6jbs-8bjz-xskxlkgkzmcl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://i81sovhh-bkvf-v6ip-n193-zrg4djex8e4y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://123e04c-dcc1-4ef8-a246-8fb31aec1f48@81.98.160.151:443?type=tcp&security=none#GB 🇬🇧 ┇ VLESS-TCP-NTLS - Virgin Media ┇ 81.98.160.151
-trojan://b39xrwvp-9njr-60r9-ebor-09ylcdf9wmqs@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://fk2vv6fb-qia0-ghwz-xx4w-j8e3l5wi1471@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

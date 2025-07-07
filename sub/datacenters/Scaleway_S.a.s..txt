@@ -1,36 +1,7 @@
-trojan://4w2pmemx-8wog-isgq-nvbk-kpoiif3zjpcq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://jhh4jjaj-drea-poom-sphq-ialzftznrwth@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3jxikgi9-6kr2-t5cg-kfxu-krmophe5rp1o@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://d7wwk3yl-c0ux-ocd7-bjgi-lowft6k7z4l9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RnlLRHZLaFR1aWNEUEZxTjgwWEwy@62.210.88.22:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 62.210.88.22
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.169.198:989#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 195.154.169.198
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.17.169:989#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.15.17.169
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.185.174:989#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 195.154.185.174
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.23.63:989#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.15.23.63
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@195.154.200.150:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 195.154.200.150
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.159.106.175:989#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.159.106.175
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.158.200.141:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.158.200.141
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.158.204.17:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.158.204.17
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.158.54.209:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.158.54.209
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.158.54.235:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.158.54.235
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.158.61.155:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.158.61.155
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.159.104.104:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.159.104.104
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.159.222.19:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.159.222.19
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.159.222.36:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.159.222.36
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.27.48:989#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.15.27.48
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.159.111.208:989#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.159.111.208
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.158.150.168:4444#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.158.150.168
-trojan://eG92F3gh09@51.15.86.181:1935?sni=x1ams-scaleway.devefun.net&peer=x1ams-scaleway.devefun.net&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - Scaleway S.a.s. ┇ 51.15.86.181
-trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@51.159.59.186:443?sni=zula.ir&peer=zula.ir&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - Scaleway S.a.s. ┇ 51.159.59.186
-trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?sni=Speedtest.net&peer=Speedtest.net&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - Scaleway S.a.s. ┇ 51.158.146.183
-trojan://27181131b8@62.210.188.19:443?sni=fra1.connecton.surf&peer=fra1.connecton.surf&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - Scaleway S.a.s. ┇ 62.210.188.19
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@62.210.254.72:28443?security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - Scaleway S.a.s. ┇ 62.210.254.72
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGV3YXkgUy5hLnMuIFx1MjUwNyA1MS4xNTkuMi4xNTIiLCJhZGQiOiI1MS4xNTkuMi4xNTIiLCJwb3J0Ijo4MCwiaWQiOiI0MzU4N2RjMS0zNGYxLTQyNTQtYWI5MC01NjUwN2U3MmQ3YTgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGV3YXkgUy5hLnMuIFx1MjUwNyA1MS4xNS4xOS4yMDYiLCJhZGQiOiI1MS4xNS4xOS4yMDYiLCJwb3J0Ijo4MCwiaWQiOiJkOGQ4YjZjMC0yZWM2LTExZWUtYjgzNi0yMDVjNmQ1ZjVkNzgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvVjJSYXl5Tkd2cG4ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGV3YXkgUy5hLnMuIFx1MjUwNyAxOTUuMTU0Ljc3LjE5MCIsImFkZCI6IjE5NS4xNTQuNzcuMTkwIiwicG9ydCI6MjA4MiwiaWQiOiIzNmZhNDVkYi0yZDRhLTQyOTUtYTFmZS0yMjM4MzY5ODk4NzgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9waW5lYXBwbGUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1IVFRQLU5UTFMgLSBTY2FsZXdheSBTLmEucy4gXHUyNTA3IDUxLjE1OS4xNTUuNTIiLCJhZGQiOiI1MS4xNTkuMTU1LjUyIiwicG9ydCI6MzM4OSwiaWQiOiI5YzA1MGE4Ni1kNjEyLTQ4ZjEtZWMzMi1lNTczZGYwOGExYjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBTY2FsZXdheSBTLmEucy4gXHUyNTA3IDUxLjE1LjEwNS4zOSIsImFkZCI6IjUxLjE1LjEwNS4zOSIsInBvcnQiOjQ0MywiaWQiOiI2Mzg4YmQ5Mi02Y2JjLTRiNzItYTlhNi05MzFmMDcxZDBmZmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii9uaW12d3MiLCJ0bHMiOiJ0bHMifQ
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1IMi1UTFMgLSBTY2FsZXdheSBTLmEucy4gXHUyNTA3IDUxLjE1LjExOS4zNiIsImFkZCI6IjUxLjE1LjExOS4zNiIsInBvcnQiOjQ0MywiaWQiOiIwNWI2YjI1Yi1iYjVkLTRkY2QtOTcxMC0zMWUzNzRmZmE1ODQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0IjoiaDIiLCJ0eXBlIjoiYXV0byIsInRscyI6InRscyJ9
+trojan://rafaayw2-tl7p-jghb-z6ok-jlqru1pm99kl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://4m97jbic-wxr0-3ava-18hm-f1xlwmjyn83m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rzwj6vf9-v8ue-o7bw-0caa-0wm4p0pbxfof@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hq6cuxjn-69ds-pxm7-j1cv-ccuvbjy1vigy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://32ea9b9f-1991-4ffb-b7ff-3c7d5a1fabcd@195.154.183.123:443?type=ws&security=tls&path=/v2ray#FR 🇫🇷 ┇ VLESS-WS-TLS - Scaleway S.a.s. ┇ 195.154.183.123
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@51.15.52.67:8080?type=ws&security=none&path=/test=true#FR 🇫🇷 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 51.15.52.67
 vless://ef1fdecb-e56f-4996-9b6a-da7ddb7f7c8d@51.158.205.126:24957?type=tcp&security=tls&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision-udp443#FR 🇫🇷 ┇ VLESS-TCP-TLS - Scaleway S.a.s. ┇ 51.158.205.126
@@ -43,9 +14,6 @@ vless://22a54b72-9c39-4bb0-97d0-41bbaaca2a67@163.172.122.94:19188?type=tcp&secur
 vless://67d1e140-d8c8-4e4c-be1f-9800a1bcad38@51.15.228.68:25481?type=tcp&security=reality&sni=www.7-zip.org&fp=chrome&flow=xtls-rprx-vision&pbk=uF7Fv79MbpkF2x_bDeXezdkMrI-vGS3UDNAwLzIKZTo&sid=d72dc8a0#FR 🇫🇷 ┇ VLESS-TCP-RLT - Scaleway S.a.s. ┇ 51.15.228.68
 vless://07c846af-4106-4790-9f83-10994c9e03d4@51.159.106.141:1991?type=xhttp&security=reality&path=/CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_configCANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&sni=ubuntu.com&fp=chrome&pbk=4qOKlkttwn8Yw2FN4ZYCint9k-TK9QU56tOXiXgXsGM&sid=fce601089937b01a#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - Scaleway S.a.s. ┇ 51.159.106.141
 vless://de8211a2-84a2-4fde-bdb9-06ce1550a453@51.159.236.178:1990?type=tcp&security=reality&path=/&sni=dl2.arashiphone.com#FR 🇫🇷 ┇ VLESS-TCP-RLT - Scaleway S.a.s. ┇ 51.159.236.178
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.158.202.190:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Scaleway S.a.s. ┇ 51.158.202.190
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGV3YXkgUy5hLnMuIFx1MjUwNyAxNjMuMTcyLjIyMC43MSIsImFkZCI6IjE2My4xNzIuMjIwLjcxIiwicG9ydCI6NjYxNiwiaWQiOiI0NTlkMjNmNC1kY2ZkLTRmZWYtOWJhMy1lZjBhZDEwZmMzMzYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-trojan://i8YdP0ivWoz5KEgN@151.115.62.113:444?sni=pl-25a97ea5.xeovo.net&peer=pl-25a97ea5.xeovo.net&security=tls#PL 🇵🇱 ┇ TROJAN-TCP-TLS - Scaleway S.a.s. ┇ 151.115.62.113
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.33.93:8080?type=ws&security=none#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.33.93
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.36.208:8080?type=ws&security=none#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.36.208
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.37.107:8080?type=ws&security=none&path=/test=true#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.37.107
@@ -55,4 +23,4 @@ vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.72.50:8080?type=ws&security
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.76.177:8080?type=ws&security=none&path=/test=true#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.76.177
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.77.74:8080?type=ws&security=none&path=/test=true&fp=chrome#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.77.74
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@151.115.79.79:8080?type=ws&security=none&path=/test=true#PL 🇵🇱 ┇ VLESS-WS-NTLS - Scaleway S.a.s. ┇ 151.115.79.79
-trojan://9chybws5-qd37-o7cw-kwnb-7o316cribdf0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qxvqcu5b-dh8l-b38v-25ts-t0l95gycgnsh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

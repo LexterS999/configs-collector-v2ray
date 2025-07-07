@@ -1,9 +1,8 @@
-trojan://2xhdunyv-0t14-tzzx-id37-azodtcunfsm6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://8a87nn3i-7j96-97ev-pdry-v324g6la0xka@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7uvc3zvx-6hrs-m384-efu6-h53fc851y3se@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://x9hmv6u8-e9np-4b4b-zsus-iil6h6o489wb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://oiosxv03-g5yk-zcpk-ki48-uuvcwhpphift@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://lnri0ho8-verf-52eb-2ser-mx5wab9cy3l6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0kbvuli3-rbeo-qzb3-7nd5-c46mvdxr93q4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://opf1uycd-any5-ya6d-iwc9-403f54w7qcoo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f1g2s6wu-85v3-2539-wv58-x6w6u9005x37@185.141.216.98:443?type=tcp&security=tls&sni=www.cloudflare.com#CA 🇨🇦 ┇ VLESS-TCP-TLS - RICAWEBSERVICES ┇ 185.141.216.98
 vless://g2h3t7xv-96w4-3640-xw69-y7x7v0116y48@185.141.216.99:443?type=tcp&security=tls&sni=www.cloudflare.com#CA 🇨🇦 ┇ VLESS-TCP-TLS - RICAWEBSERVICES ┇ 185.141.216.99
-vless://fdba320d-23a9-4e05-9604-3c1ca88f49b7@38.143.58.75:42537?type=tcp&security=none&path=/#CA 🇨🇦 ┇ VLESS-TCP-NTLS - RICAWEBSERVICES ┇ 38.143.58.75
 vless://b408f8bc-90f5-446d-a404-76cdcd2cefe0@104.152.210.36:25536?type=tcp&security=reality&sni=apps.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=t4dzgL6Q-l6Y8d-Z0FSEvtAygZFDQqg0FPHn7Qxg90M&sid=c40fa703ffa3d3b8#CA 🇨🇦 ┇ VLESS-TCP-RLT - RICAWEBSERVICES ┇ 104.152.210.36
-trojan://m67c0lcp-6jzj-d5q3-u9oz-re8iym0wbwso@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3voaeg45-4162-3pvp-5plm-0zuro8vqwdjd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

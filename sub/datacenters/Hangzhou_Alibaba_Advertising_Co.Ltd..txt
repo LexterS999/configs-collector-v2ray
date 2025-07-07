@@ -1,12 +1,8 @@
-trojan://k50of17x-jzne-nrxj-lgg5-qcg72b2x5mw6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://j81h1vhk-hyy0-n590-xfpp-t6megphux8wt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mjgi1ko5-7kzp-un65-p2ml-izuhogq1xd66@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gswn6m8d-nn7m-otlo-w6g9-2oimgsgvhp2t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206dGVMeGc2NW00djB6UVBwU09N@120.55.77.32:20659#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Hangzhou Alibaba Advertising Co.,Ltd. ┇ 120.55.77.32
+trojan://fppmomqk-jq8p-l1mf-5zln-xxlfqfcccj2t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://k1e0yqvr-y4x7-ngqv-wk9h-23v267eu7qqq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bc6vjarl-heaz-g9bv-yr78-46hg5tlrg1cn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://e61tt5to-011x-3m2x-l8z8-mw5dffg4l1u6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1SQVctTlRMUyAtIEhhbmd6aG91IEFsaWJhYmEgQWR2ZXJ0aXNpbmcgQ28uLEx0ZC4gXHUyNTA3IDQ3LjExNi4xNjYuMTc4IiwiYWRkIjoiNDcuMTE2LjE2Ni4xNzgiLCJwb3J0Ijo1MDAwMiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJyYXciLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhhbmd6aG91IEFsaWJhYmEgQWR2ZXJ0aXNpbmcgQ28uLEx0ZC4gXHUyNTA3IDQ3LjkyLjE1Mi4xNjkiLCJhZGQiOiI0Ny45Mi4xNTIuMTY5IiwicG9ydCI6NTAwMDIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhhbmd6aG91IEFsaWJhYmEgQWR2ZXJ0aXNpbmcgQ28uLEx0ZC4gXHUyNTA3IDQ3LjEwNC4xODYuMTMzIiwiYWRkIjoiNDcuMTA0LjE4Ni4xMzMiLCJwb3J0Ijo1MDAwMiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhhbmd6aG91IEFsaWJhYmEgQWR2ZXJ0aXNpbmcgQ28uLEx0ZC4gXHUyNTA3IDEyMC4yNi41NS4yMjUiLCJhZGQiOiIxMjAuMjYuNTUuMjI1IiwicG9ydCI6NTAwMDIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhhbmd6aG91IEFsaWJhYmEgQWR2ZXJ0aXNpbmcgQ28uLEx0ZC4gXHUyNTA3IDM5LjEwMy4xNjUuMTc4IiwiYWRkIjoiMzkuMTAzLjE2NS4xNzgiLCJwb3J0Ijo1NjAwMiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyJ9
 vless://d516b33d-86ee-49e8-9af7-4eb7405e5cfe@8.148.69.253:43762?type=tcp&security=none&fp=chrome#CN 🇨🇳 ┇ VLESS-TCP-NTLS - Hangzhou Alibaba Advertising Co.,Ltd. ┇ 8.148.69.253
-trojan://nlz3aelc-iv09-jgz6-6vjb-4oq8jkal4xaq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://id8awn6a-85bw-wcvi-i56o-p9lsoi00qfja@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

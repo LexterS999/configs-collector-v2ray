@@ -1,7 +1,7 @@
-trojan://e768vd1y-e6mn-cykw-jynq-du1ghn5eyjcl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://mrpa70rv-r1ht-jk7y-7463-gn8j4fvdbbyh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://da62n009-xmlr-i63b-2yet-m6gcg9rtmrgv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://p46xu03r-1q58-gbbl-xjkg-uhlyg3aq2xv5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://5ds1ayac-i6hx-30ot-afck-0poop81crqvv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://5sxjowiu-m6a7-49q4-vrdn-dwcm2hc4z5uu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lx11dv1w-nuz0-x7cs-jrbm-37ve4oz0bog1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://we7wm3ly-65v6-t8zf-u48z-gu4k03edd9p1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6ba6c3ee-3324-4649-a58c-2a5241944bdf@193.186.32.190:2020?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Parsian High Tech Company PJSC ┇ 193.186.32.190
 vless://ebc7f9df-d645-4be9-b979-c8012a5b5950@xuy.xuy.ir:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Parsian High Tech Company PJSC ┇ 185.88.152.152
-trojan://iagzr0kg-kuhp-j383-6ow2-w9k49eg5q4kj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://5hez266o-0qfi-lge0-z9ow-75vfgo1ej9xr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

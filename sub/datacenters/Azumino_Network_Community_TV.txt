@@ -1,6 +1,6 @@
-trojan://8jef5kl8-tpdu-466j-xdhg-3n7z6734b8wd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://vn16msm8-u9j8-q5d9-xypw-7haenb3b6e9t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://48wd4bw3-zw23-534q-84cd-i2nq7m16p0dy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ifafyplp-28dx-i505-elay-hcwfed5ikhj5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://i8bote12-cajs-pfsq-wr2j-i6ols5lt8zh7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://5bq3lxdn-o8yc-gft4-cjb9-0y9oqf1ltnjc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9entczxs-vo46-t1ha-a25j-oxd3nlpq44eg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5sbf0rex-kr1a-r8hr-l2p6-2lpab96ugxq7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://55520747-311e-4015-83ce-be46e2060ce3@202.84.53.85:12145?type=ws&security=tls&path=/?ed=2560&sni=fs.bgm2024.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - Azumino Network Community TV ┇ 202.84.53.85
-trojan://k3pdsagd-ll0w-vos3-21ly-j7c595gd9hwy@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://aye3p3re-2e1i-wbe0-op0v-m2exrx5p1856@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

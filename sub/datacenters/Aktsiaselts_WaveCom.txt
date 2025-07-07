@@ -1,9 +1,7 @@
-trojan://db4y688g-as71-0lwo-6m2e-713w1fr30bzc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://8p3irpms-tgtc-5pbr-813n-2whz8xpmgsg5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://80logkgm-0hr5-8f00-k4ey-knydisnzen65@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vtog8zof-tumq-90eb-gmly-6d9avvz103qs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989#EE 🇪🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aktsiaselts WaveCom ┇ 37.252.5.234
-trojan://bpb-trojan@37.252.5.75:443?sni=skwygx.top&peer=skwygx.top&security=tls#EE 🇪🇪 ┇ TROJAN-TCP-TLS - Aktsiaselts WaveCom ┇ 37.252.5.75
+trojan://xrxkk5ui-u0cd-zdj3-zm72-7nuigip2yk97@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://0hdedcmx-z2r0-0pzz-i93z-adq3ogtrn4ek@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://awwymu9m-p0g7-e3jt-rahc-1edlaixnus0s@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://iqc711g3-l0u5-l5vo-8vx4-1sh2t0fw2s21@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://cdaf9409-936e-4056-94d5-e68e9bf0d306@37.252.4.81:24773?type=tcp&security=reality#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 37.252.4.81
 vless://c775021c-c5a5-476e-8f0d-d78116f506c0@38.180.230.17:36654?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision&pbk=66MoA59GCNYSX43b0L-ufGOMp2S7Q45ixJDZLRkkzDk&sid=96e9a9a656a3cc83#EE 🇪🇪 ┇ VLESS-TCP-RLT - Aktsiaselts WaveCom ┇ 38.180.230.17
-trojan://qkz1lvuz-1x23-hz86-ydr3-8ayg79mgyu2w@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://4pdjtlk0-g14f-u354-0v5d-36h052bss30w@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

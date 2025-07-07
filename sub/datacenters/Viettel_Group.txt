@@ -1,6 +1,6 @@
-trojan://nbdpurso-nisg-og3h-1yjq-c5oyg6pmbcxi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://1f4wya36-ej54-wemg-qk14-nucb9hgmk41f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mm8loavr-v6sw-uvgj-td9c-k2a9o3a8szbb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://z1qac19e-mgf9-0wsi-3ouo-4dd9hdfmbo0q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1d74w9g5-92er-yyv6-fyep-47ptthyqxsjn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://fax86orv-q3jn-zxrj-76ow-inmrg8pfxi89@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://plhlhctg-m88t-xwv5-681z-c25zu10e3z1v@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://utasnk7o-jool-41d1-rtwp-svnkqverlbqs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://71775278-cf12-4318-a22d-84b579e23da6@2402:800:6117:5a38::dfb:65534?type=tcp&security=none#VN 🇻🇳 ┇ VLESS-TCP-NTLS - Viettel Group ┇ 2402:800:6117:5a38::dfb
-trojan://s1imn20o-kj5i-mfqg-i019-b4rj2dhwsx4n@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://j92ywvvs-4lny-gbuv-sf5c-w4qpnxbokkdq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

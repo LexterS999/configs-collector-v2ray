@@ -1,8 +1,7 @@
-trojan://3i6ntgwl-d37m-mxs6-rrr6-dy63emz0yuxt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://bbvjmwxo-xp2x-ku2d-z8t9-o9fwqivd7sre@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://90wepell-vy2s-v13j-zpan-ghgzoidss6bk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hah9436s-axr1-v1yl-78ol-l4jl9qrg46tx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBWTUlTUyBcdTI1MDcgMzguMjA3LjE2NC4zMSIsImFkZCI6IjM4LjIwNy4xNjQuMzEiLCJwb3J0IjoyNjkyNSwiaWQiOiI1ODQwYWIyZC1hYjU5LTRlYjAtOWRlYS0xMjJkMGZiYmQyZDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJjZmhrLjM5MzkzMC54eXoiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6ImNmaGsuMzkzOTMwLnh5eiJ9
+trojan://rk897rik-9nof-84ty-e4gd-x210kw7mxods@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://dft9yzof-8bc5-cg8r-32zr-yshlikei64wi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2wd00y83-v44t-knb1-8d8x-09vm6jgmh4zs@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2w6ora7r-bn8z-wf1n-j281-z9uwzbxn1m41@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.207.161.214:38294?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#HK 🇭🇰 ┇ VLESS-WS-TLS - VMISS ┇ 38.207.161.214
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBWTUlTUyBcdTI1MDcgMzguNDcuOTYuMzAiLCJhZGQiOiIzOC40Ny45Ni4zMCIsInBvcnQiOjQ0MywiaWQiOiIxNjRhNmFkMC00NzZhLTRiYWUtYjc4Zi1hM2QzN2NmMGY0MTQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9sempqaiIsInRscyI6InRscyJ9
-trojan://o3ukjbc4-fknl-vtmn-i1yn-vg5vlkqvv8ey@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.207.164.31:26925?type=ws&security=tls&path=TG@ZDYZ2&sni=cfed.tgzdyz2.top&fp=random#HK 🇭🇰 ┇ VLESS-WS-TLS - VMISS ┇ 38.207.164.31
+trojan://v3yz62io-y8um-5y3n-tr47-y5kdwc90vaca@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

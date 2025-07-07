@@ -1,7 +1,7 @@
-trojan://waiskcq6-knv2-id9p-ig57-sg210e0u4y71@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://rd2huilg-epd8-ru8g-tixi-8m0m1tbg43p7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zxlxzswe-qogu-ac76-0y2c-5c1u468bgck9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://d9hbw5aa-o0uk-v9wb-bt2j-fxu572n71d2v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0yec9kdu-mugm-vla5-lr9v-pv5e3zqwr0zl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://dyvtxdaf-8w1b-retu-u4kd-5le31o1qytnu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lfe6gxmd-n0fl-vy82-ldkg-8l5ip99f786x@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dq52edpp-2m1r-1abm-baqf-o7sj791hiebe@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://69f6f711-7fe5-417d-aa37-fdaf3ea1c307@188.213.170.136:29460?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 188.213.170.136
 vless://cb67141a-e9c7-42f8-9ef9-b2a382415242@188.213.170.9:12278?type=grpc&security=none#IT 🇮🇹 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 188.213.170.9
 vless://6aa1ec18-7ff9-4f6a-be06-c2bcb55fe49c@188.213.171.9:54601?type=httpupgrade&security=none&path=/#IT 🇮🇹 ┇ VLESS-HTTPUPGRADE-NTLS - Aruba S.p.A. ┇ 188.213.171.9
@@ -18,4 +18,4 @@ vless://ZEDMODEON--ZEDMODEON@95.110.210.19:59502?type=grpc&security=none#IT 🇮
 vless://d8079f97-ac60-4758-9dd5-9a5eb3dd5bb5@85.235.149.184:4000?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=QRGqyPYJmaBIeIXaOoKs8UG0vGLPGcbDinQqYrrpAGU&sid=d08aeb0330883adf#IT 🇮🇹 ┇ VLESS-TCP-RLT - Aruba S.p.A. ┇ 85.235.149.184
 vless://ZEDMODEON--ZEDMODEON@80.211.252.196:59438?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 80.211.252.196
 vless://ZEDMODEON--ZEDMODEON@80.211.252.85:45956?type=grpc&security=none#PL 🇵🇱 ┇ VLESS-GRPC-NTLS - Aruba S.p.A. ┇ 80.211.252.85
-trojan://5cdlyg7o-v7cl-eg7n-qc52-d8c5rjsrfowe@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://nb9xwba4-83x3-gqon-bgrj-n3rl277tc82t@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,9 +1,9 @@
-trojan://gskew7dr-o88x-i5je-s47e-jgvfzwk9zukm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://3qt8dsb2-c14e-hyz8-vepy-7t8is34lyjo5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vxwuwlra-vrrt-ozy7-t9xu-k68dr4uo3yc5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://spumnu5y-qrxw-l1mo-lm6s-20274953r8e9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://yainj65b-dveu-m7cl-383i-y94wcw7g1hx1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://utu1prdo-3px5-fic2-83qf-akuid3xoa8vc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kxekmot6-obcm-3d1e-dygo-qlo4x68m71vt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2fb3z6aj-jjbr-mz1e-tfmk-pr73x7c7tono@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://fa1ab865-cd2d-4c59-bfbf-a9958df88e1f@84.201.20.221:80?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - firstcolo GmbH ┇ 84.201.20.221
 vless://f9bc4b4f-6cc4-41ee-bcfe-1fe6e3376dcd@fergalvpnmod.com:443?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - firstcolo GmbH ┇ 84.200.205.185
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@31.172.80.143:7594?type=grpc&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#DE 🇩🇪 ┇ VLESS-GRPC-RLT - firstcolo GmbH ┇ 31.172.80.143
 vless://baf307cd-8a04-4189-9878-3a750ab8195b@84.201.20.248:45868?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - firstcolo GmbH ┇ 84.201.20.248
-trojan://tuyf2int-583u-xumm-a75l-2uh6jm1l2yy6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://v60e5ggf-5cej-qpex-axue-y60u5q3ww4xt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,6 @@
-trojan://bk4yxggx-2dy2-fq4k-plyd-16l93rn91g48@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://vwuekn2e-l6zl-gdjo-q0mu-dn1p5kp2se1l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hmqm1mcm-ojos-jl0o-mk1r-3p2d0hliy9pj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://dltrw976-xkh2-tuh2-s2n5-eeu23c27f0kt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1IMi1UTFMgLSBTY2FsZXdheSBTLmEucy4gXHUyNTA3IDUxLjE1LjExOS4zNiIsImFkZCI6IjUxLjE1LjExOS4zNiIsInBvcnQiOjQ0MywiaWQiOiIwNWI2YjI1Yi1iYjVkLTRkY2QtOTcxMC0zMWUzNzRmZmE1ODQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0IjoiaDIiLCJ0eXBlIjoiYXV0byIsInRscyI6InRscyJ9
+trojan://o069emqx-zl89-8w8s-4yyl-xijqlm7pgjuw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://wf7xvnt4-sr1w-7yab-uf2i-n0g6ysm0lpn7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://stk62izr-vax2-8s4s-zvh7-cnf6fuc17m56@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5wd4mery-8lbm-7v0a-2ff5-wiu0k9td6u7i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2f762cc1-3021-4bdc-8553-8931b2871ea0@185.212.50.4:6625?type=h2&security=reality&sni=ubisoft.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=ea1058117be12087#IR 🇮🇷 ┇ VLESS-H2-RLT - Pishgaman Toseeh Ertebatat Company (Private Joint Stock) ┇ 185.212.50.4
-trojan://s51wbs7x-hdtl-ax46-at01-e69lv3zuyoop@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://1lffr0is-4jhw-fdap-zxh3-xcxwev0kmznw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

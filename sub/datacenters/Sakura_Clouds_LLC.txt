@@ -1,6 +1,6 @@
-trojan://ircqyzyk-wnpv-1rsg-ss4i-1dgrza2rfozc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://d7nn66jv-cizf-0wp2-7o77-glyzcgakuwma@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b38u2670-brc6-n1yf-rcxc-kxjzqhgf84qm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vl1gp9u0-0hmx-7n2m-lusx-f6fixxdu7m0c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://7xvoc2ng-1f7j-s0jo-3vpw-w4pwunx8ccck@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://mygqw4e5-6og8-5h5b-c66v-mqi1uqkzp68r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1p0q2gdr-4lfp-l8vw-cjrx-ain3pt6huepc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://c6gnjbub-hjgf-h4dt-pfb7-2woputo1zbha@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3beed68e-0ec8-4acf-b6a7-ea5d3224de30@95.135.153.17:41078?type=tcp&security=reality&sni=apple.com&fp=chrome&pbk=BsBpv3VObzs8hFB178lSOEkkzbOR1jYcU1WrUYDqrhY&sid=b3#HK 🇭🇰 ┇ VLESS-TCP-RLT - Sakura Clouds LLC ┇ 95.135.153.17
-trojan://2lexlvhz-3jso-ez87-vncw-d4lxis77tcj8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://9pqr2p03-4wnk-do4a-u5zi-jfeodbxp1h4g@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

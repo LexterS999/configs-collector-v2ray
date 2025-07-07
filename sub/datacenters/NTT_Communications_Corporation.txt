@@ -1,6 +1,6 @@
-trojan://s8ppjczr-awqr-6v31-tp65-27yzqv48c5u7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://p9gnz3cy-2smt-faju-25y5-inzv3gvprw4x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://iqv9dr5y-ee4t-39cc-j614-fauhnczad411@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6n5xgq7f-cm49-9zy1-e519-q2d4y8aixopg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://haole55w-5t4t-3vw6-bi47-wjgxmgxxt8h3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://b563kvxl-2da5-rngz-cv7y-s4g2yc33ymaf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://grxzhn8g-tzar-leut-e0lf-rh8tu0wahpi9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://tjftgep9-ta7b-zf0s-9vvz-4xyzcze1affx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f2146d13-aa93-4210-9500-50fd3fed7bc8@118.18.4.44:12196?type=ws&security=tls&path=/?ed=2560&sni=oty.myto.ip-ddns.com&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - NTT Communications Corporation ┇ 118.18.4.44
-trojan://ur9v6ozz-gz12-e67x-0lvk-df4zxc2k7zrk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://mvn9t21q-djzu-zht5-vpgd-0cflem2begey@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://v8k5l8wl-zy7c-huh9-3rcz-l02h1ma8sabk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://3mgk7oxj-q1to-3nt5-3k2c-oqfep7drcxeq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3l712fdg-m3od-iuep-hdit-bwrjsy8g4o09@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rr5n6azd-ml4z-scgf-vuyd-c2mei2lrqmd4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mn7af0zx-akua-t0au-ocn0-1jdy9ff2uxd2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://9tzgr9xl-hu6l-lcdf-w54a-p4mxp7z8jcne@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://csg6i0lx-8ce9-m861-nva2-nw10ahb696ff@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6lcvc0cq-jlf7-2y0f-hkab-n130tl2o5l7l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://Amirinventor2010@217.196.107.14:8086?type=tcp&security=none&path=/@Amirinventor2010-Youtube-Telegram#RU 🇷🇺 ┇ VLESS-TCP-NTLS - CJSC Kolomna-Sviaz TV ┇ 217.196.107.14
 vless://2f8179a0-c0ea-4f8a-97fc-39af16d2bfc5@5.42.77.71:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - CJSC Kolomna-Sviaz TV ┇ 5.42.77.71
-trojan://8fcjccwn-1oz5-4e0u-v1ru-2bgm0u8u0vwd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qbauxmj1-ir38-4uwj-hzn5-s2susmmm0w4k@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

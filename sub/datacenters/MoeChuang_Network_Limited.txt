@@ -1,8 +1,6 @@
-trojan://6os6mybi-qgt0-1568-elcq-3zs6ovoot400@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://kdjl2uga-qjoc-y08q-79sd-biyvv26jfpjx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vm98egcz-uwsx-fzhi-5gek-cfqbky9mnexs@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://v65artno-qm6k-aqyk-pojt-suduh8kgjsx9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYjg5NTQxNS04MDQwLTRlNTItOGMyZC0zYTI0MjQ0OWVmYWE@191.96.206.4:51166#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS - MoeChuang Network Limited ┇ 191.96.206.4
-trojan://dc773e17-d94e-4f6e-a3cd-26c972a08b89@5.83.221.31:30049?sni=v2sg02.fuqiangren.com&peer=v2sg02.fuqiangren.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - MoeChuang Network Limited ┇ 5.83.221.31
+trojan://aro6m3q2-nu3t-idjd-evlk-ahfey1eb9cwe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://ph6xe37x-uvpp-1wxj-piju-y6ltv1zl49kh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kiox3my6-9fk7-8p8h-3e41-nalol6r42dx1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://64wodf0i-bszu-jarr-pep6-l8c9qgtjp3zs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://8382ac4a-95a5-11ee-b55e-473254c6dcf2@50.114.37.34:10004?type=tcp&security=none&path=/vpnjantit#US 🇺🇸 ┇ VLESS-TCP-NTLS - MoeChuang Network Limited ┇ 50.114.37.34
-trojan://mze1ank6-ccsb-4bjd-bzv6-r38e6rc02hg0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://s19gb02t-pvlq-legl-e86n-jpvy6a95guss@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

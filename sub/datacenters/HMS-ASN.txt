@@ -1,12 +1,12 @@
-trojan://shgob6el-rze3-gxcs-s5ii-kz43j50w1xod@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://2m3bgx1i-zewk-wvlv-sz7p-hitheu1xygwj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://owvklyby-4w77-78ob-8v2n-vv0leisf9899@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pgrgmdh0-9i0m-mt82-mot0-7d9hedhq3hf2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Aimer@198.62.62.61:2083?sni=epccd.ambercc.filegear-sg.me&peer=epccd.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - HMS-ASN ┇ 198.62.62.61
-trojan://12345678@198.62.62.4:443?sni=7bdfb97a.ikl.pages.dev&peer=7bdfb97a.ikl.pages.dev&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - HMS-ASN ┇ 198.62.62.4
-trojan://Aimer@198.62.62.192:2083?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - HMS-ASN ┇ 198.62.62.192
-trojan://amclubs2024@198.62.62.156:443?sni=tr.amclub.us.kg&peer=tr.amclub.us.kg&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - HMS-ASN ┇ 198.62.62.156
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBITVMtQVNOIFx1MjUwNyA2OS44NC4xODIuMTYiLCJhZGQiOiI2OS44NC4xODIuMTYiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZTEzMDkxN2MtMWI1OC00MTM2LWIyZDktNzZkYzkyMGUwYWRkLmFkZDk3ZWU4LTBmMTQtNDhhMy1iMmNkLTk3OWM1Njc0MmU2NC5sb3NleW91cmlwLmNvbSIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiZTEzMDkxN2MtMWI1OC00MTM2LWIyZDktNzZkYzkyMGUwYWRkLmFkZDk3ZWU4LTBmMTQtNDhhMy1iMmNkLTk3OWM1Njc0MmU2NC5sb3NleW91cmlwLmNvbSJ9
+trojan://qw7i0hsc-3hxw-ma82-96ib-ro1iipsl3x5i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://6ewop5wd-1oa0-ymz2-m991-3toodvfw7acu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9wqqp5v1-zoh4-hsud-xbus-pw5c2aibdadp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://462r6a11-pzln-s7r5-53om-7c269dyigodg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@69.84.182.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - HMS-ASN ┇ 69.84.182.77
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@198.62.62.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - HMS-ASN ┇ 198.62.62.77
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?type=ws&security=tls&path=/azadnet-7py.pages.dev/?ed=2560&sni=azadnet-7py.pages.dev&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.4
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@69.84.182.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - HMS-ASN ┇ 69.84.182.247
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@198.62.62.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - HMS-ASN ┇ 198.62.62.63
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.0:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxp.dedyp.io&sni=dp.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.0
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.102:443?type=ws&security=tls&path=/?ed=2560&sni=lp.ylka.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.102
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.106:443?type=ws&security=tls&path=/blue&sni=ap.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.106
@@ -22,6 +22,7 @@ vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@198.62.62.13:8880?type=ws&security=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.140:443?type=ws&security=tls&path=/blue&sni=dd.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.140
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.148:443?type=ws&security=tls&path=/blue&sni=dd.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.148
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.14:443?type=ws&security=tls&path=/?ed=2560&sni=lp.ylks.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.14
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@198.62.62.156:443?type=ws&security=tls&path=/?ed=2560&sni=rn.ylks0033.dpdns.org&fp=randomized#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.156
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.161:443?type=ws&security=tls&path=/blue&sni=lp.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.161
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.165:443?type=ws&security=tls&path=/blue&sni=ad.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.165
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.166:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=ad.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.166
@@ -66,10 +67,8 @@ vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.62.62.49:80?type=ws&security=no
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.52:443?type=ws&security=tls&path=/?ed=2560&sni=ld.ylks.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.52
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.59:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxp.dedyp.io&sni=ap.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.59
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.60:443?type=ws&security=tls&path=/blue&sni=ak.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.60
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@198.62.62.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - HMS-ASN ┇ 198.62.62.63
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.64:443?type=ws&security=tls&path=/?ed=2560&sni=ld.ylks.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.64
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.75:443?type=ws&security=tls&path=/?ed=2560&sni=lp.ylks.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.75
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.77:443?type=ws&security=tls&path=/blue&sni=ap.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.77
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.81:443?type=ws&security=tls&path=/blue&sni=cp.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.81
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.84:443?type=ws&security=tls&path=/blue&sni=ap.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.84
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.92:443?type=ws&security=tls&path=/blue&sni=lp.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 198.62.62.92
@@ -99,6 +98,7 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.163:443?type=ws&security=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.164:443?type=ws&security=tls&path=/?ed=2560&sni=ld.ylka.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.164
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.165:443?type=ws&security=tls&path=/?ed=2560&sni=ld.ylks.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.165
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@69.84.182.168:8880?type=ws&security=none&path=Telegram@WangCai2/?ed=2560&sni=kjgx.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - HMS-ASN ┇ 69.84.182.168
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.16:443?type=ws&security=tls&path=/blue&sni=lp.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.16
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.172:443?type=ws&security=tls&path=/blue&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.172
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.175:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=vz.ylkszy.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.175
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.177:443?type=ws&security=tls&path=/?ed=2560&sni=lp.ylka.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.177
@@ -126,7 +126,6 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.236:443?type=ws&security=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.23:443?type=ws&security=tls&path=/blue&sni=hk033.ylks.link#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.23
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.241:443?type=ws&security=tls&path=/blue&sni=jp033.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.241
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.242:443?type=ws&security=tls&path=/blue&sni=kk033.ylks.link#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.242
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.247:443?type=ws&security=tls&path=/blue&sni=dd.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.247
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.251:443?type=ws&security=tls&path=/?ed&sni=ll.ylks.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.251
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@69.84.182.254:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - HMS-ASN ┇ 69.84.182.254
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.26:443?type=ws&security=tls&path=/blue&sni=ap.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.26
@@ -155,15 +154,14 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.70:443?type=ws&security=t
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.71:443?type=ws&security=tls&path=/blue&sni=lp.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.71
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.75:443?type=ws&security=tls&path=/blue&sni=cd.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.75
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@69.84.182.76:80?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - HMS-ASN ┇ 69.84.182.76
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.77:443?type=ws&security=none&path=/bluesecurity=tls&sni=as.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-NTLS - HMS-ASN ┇ 69.84.182.77
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.82:443?type=ws&security=tls&path=/proxyip=proxyip.us.fxxk.dedyn.io&sni=la.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.82
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.84:443?type=ws&security=tls&path=/blue&sni=dp.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.84
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.85:443?type=ws&security=tls&path=/?ed=2560&sni=lp.ylks.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.85
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.86:443?type=ws&security=tls&path=/?ed=2560&sni=ld.ylka.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.86
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.88:443?type=ws&security=tls&path=/blue&sni=dp.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.88
-vless://55520747-311e-4015-83ce-be46e2060ce3@69.84.182.89:443?type=ws&security=tls&path=/?ed=2560&sni=jv.bgm2024.dpdns.org&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.89
+vless://55520747-311e-4015-83ce-be46e2060ce3@69.84.182.89:443?type=ws&security=tls&path=/?ed=2560&sni=zv.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.89
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.90:443?type=ws&security=tls&path=/blue&sni=kk033.ylks.link#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.90
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.93:443?type=ws&security=tls&path=/blue&sni=lp.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.93
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.95:443?type=ws&security=tls&path=/proxyip=proxyip.us.fxxk.dedyn.io&sni=la.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.95
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@69.84.182.97:443?type=ws&security=tls&path=/?ed&sni=hl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - HMS-ASN ┇ 69.84.182.97
-trojan://a1f9anl6-nxvj-4o1f-vk3z-ao7ksylm9k6b@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://c1o2sub8-8szd-zcsz-im7j-08kkqw2h6cwh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

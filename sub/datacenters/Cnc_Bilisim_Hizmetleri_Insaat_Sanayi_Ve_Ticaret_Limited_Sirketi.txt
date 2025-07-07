@@ -1,7 +1,6 @@
-trojan://6czi7yau-hrza-tdtu-ix79-rurbrbs2lt94@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://tqkeo90u-3hgb-hl87-ca5s-bc06xu9x7fb5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b7janwo2-e04g-2f2b-37gk-pzi5yev2lzgi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tn4ex1wx-m6jo-nejd-9ysw-5wb46bnggrxe@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ25jIEJpbGlzaW0gSGl6bWV0bGVyaSBJbnNhYXQgU2FuYXlpIFZlIFRpY2FyZXQgTGltaXRlZCBTaXJrZXRpIFx1MjUwNyAxODUuMjQyLjE2MS4yMDYiLCJhZGQiOiIxODUuMjQyLjE2MS4yMDYiLCJwb3J0IjoyNTIxMiwiaWQiOiI0M2E5ODhkMS04YzhjLTQzMDMtOWUwMy04ZDY1MWRlNmYzNzYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+trojan://er1rvck7-gmpe-pur7-o6te-yuz651fnq7kr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://bx49mi2q-muvk-icx9-owc1-rw0fa3km3v39@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rlpzqesj-bhir-io81-dqbh-hn0sk7vkleg1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ggexgxgl-swwl-tbbz-oj0i-gry35osu39zu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://09874b38-975f-11ee-8b6c-06263e24424e@185.242.161.214:10004?type=tcp&security=none&path=/vpnjantit#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Cnc Bilisim Hizmetleri Insaat Sanayi Ve Ticaret Limited Sirketi ┇ 185.242.161.214
-trojan://hxe3sx6v-6hz0-c84h-w4og-wk4iwvhqnwo3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://5jrjq8aq-rps0-9zh0-5g8t-yqioph4uit5g@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

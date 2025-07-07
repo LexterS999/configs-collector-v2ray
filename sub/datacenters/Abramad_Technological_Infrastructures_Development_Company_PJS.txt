@@ -1,6 +1,6 @@
-trojan://vfskef12-m5i6-xblq-t10l-qiqwgl5m0nps@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://2ak6zmgi-zrrf-c556-0k2k-nsfts6xe94oh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pbi8jjo6-420q-yfmg-z3ex-p8d02ygi190s@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yelc5i9l-vic0-snzm-am45-1tyfxub9krne@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0b5gfh7a-akld-693r-ultg-xugr0bw1xbkf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://vu3niuh9-2kip-cc2q-3bvs-e8lx0wrc9f0y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mxotiv0i-r41p-u2hv-t8mq-0vhdzcjm4ppb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0eqlk0e0-az4c-um0w-h8oq-nsqesw2x0two@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://32fa4579-ca6c-4e2c-b0de-d91a0cb37f45@78.31.235.130:53116?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Abramad Technological Infrastructures Development Company PJS ┇ 78.31.235.130
-trojan://efkayc5a-x1qd-uvbw-dzwe-lphdl569cuiw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://60w1j7z1-5qsv-vhft-chlg-p0n2jxfcit8q@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

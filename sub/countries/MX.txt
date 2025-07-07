@@ -1,14 +1,11 @@
-trojan://mlgxw4vw-5tvj-p5ip-5h9h-kmz0uy3hvzoc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://tcng5e3l-a6ff-1cny-txxk-9p3tldpcs2rk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://momrdpos-q1pv-978l-jc0z-zque1tq38cev@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://k6nh36v5-rld9-makd-2pwt-1i1uxmrprdow@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://t8m6yvr4-56s4-8014-xkz1-7cmg0qo7evyh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://icgilsr9-0r30-gc0a-29ke-rk1xiwk8wgud@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://62uq5air-8jn2-157j-1j31-bia61m0ubois@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zjpu4qs5-och6-hzpt-4zj9-nkev6tbl27py@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@mx.panelmarzban.com:3046?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#MX 🇲🇽 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 216.238.93.55
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.1.27
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.230:989#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 147.78.1.230
 vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhdGFjYW1wIExpbWl0ZWQgXHUyNTA3IDc5LjEyNy4yMjkuNTQiLCJhZGQiOiI3OS4xMjcuMjI5LjU0IiwicG9ydCI6MTgwMDAsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://65d2dfe6-e2f9-5880-a799-ac6664053e25@45.134.9.188:443?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#MX 🇲🇽 ┇ VLESS-WS-TLS - LATITUDE-SH ┇ 45.134.9.188
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.23.168.120:443?type=ws&security=tls&path=/?ed=2048&sni=lg.kpcloud.eu.org#MX 🇲🇽 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 158.23.168.120
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.84.179.114:443?type=ws&security=tls&path=/blue&sni=da.ylks.xyz#MX 🇲🇽 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 140.84.179.114
 vless://fbc922ce-2eb5-4362-b92e-25db69c9b023@159.54.130.226:985?type=tcp&security=reality&sni=icloud.com&fp=safari&flow=xtls-rprx-vision&pbk=xmqtBMz-4YkLgMf0b2B0U_vZX3IJElGgQQZuwmsEvy0&sid=354ad572#MX 🇲🇽 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 159.54.130.226
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.179.23:989#MX 🇲🇽 ┇ SHADOWSOCKS-TCP-NTLS - SONDATECH S.A.S. ┇ 190.103.179.23
-trojan://uddm1dt1-vww8-z0v8-6wjn-vw7qqp1ky8u4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ueqsh2yu-msth-ejfk-2rpd-88v9kn9dl936@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

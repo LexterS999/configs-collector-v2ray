@@ -1,6 +1,6 @@
-trojan://k0k6ek6a-t7jk-82fr-i4z3-6nxvvptn19jx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://a3n2t2nr-br6s-e05r-hc68-fcu2xyni24w3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3bf11x4d-qk8z-eapn-k1zu-66uju1a8miur@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://brvj2p7l-8h8j-gt8s-2dww-64llblzfpjcm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qsex7w3m-fbsv-xg5s-o7k5-oot7yk8xiks7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://p6a98ue7-p8lw-u8h6-i7un-4raxncdkunuh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://14ae5izg-ved9-tqzf-fj57-4bmkdabhlnbv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4gywzd5y-7gnr-vuql-eioc-d3vd4w8octxv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3a28cf29-3792-4947-bb3d-0b1c233582a7@147.45.113.72:808?type=grpc&security=reality&sni=wordpress.org&fp=chrome&pbk=qc392pDgnWNsggwZQWReiwvGE5as_hazAAFf7FgUoSw&sid=19a8d4582f5cf205#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Limited Liability Company Izet Telecom Ural ┇ 147.45.113.72
-trojan://q4laeoml-gjmx-e9ka-4lpm-bm6x86gi5b69@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://autm5mou-wno6-66u4-30ev-zgk2ehls2025@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,6 @@
-trojan://rdevoxxx-xi4z-vi2p-wsc4-tvh9izc9305y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://4roytgrh-c128-z77d-be6j-osgxoxf5p1uu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://u8jc4kry-zah4-xyfd-dgr5-7mtp192a4xsb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xg95zg4s-fxsf-hgyx-utbf-mtk4g7gp4uir@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://65dfojy6-xzdu-4zj4-2t1n-51dfwpkratgb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://cm35w3d6-hvik-hurz-ycw7-owx2et6obkqq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://as40eapa-5g97-3dei-jxke-qo2rmwu35va4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fr59kboz-440d-50so-62xb-8g29hf5nf9vc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@78.138.9.229:443?type=ws&security=tls&path=/?ed=2560&sni=v033.ylkszy.eu.org#ES 🇪🇸 ┇ VLESS-WS-TLS - servinga GmbH ┇ 78.138.9.229
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gc2VydmluZ2EgR21iSCBcdTI1MDcgNzkuMTMyLjEzMy4zOCIsImFkZCI6Ijc5LjEzMi4xMzMuMzgiLCJwb3J0Ijo1NDQ1OCwiaWQiOiIzMWIwMjJmMi01NDQxLTRlOWEtZmZlNy00M2ZlZTdhYjA2ODgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-trojan://sbfl11ag-3n10-hieb-vmuh-llwacsm7exme@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://nkxhdiru-eaog-ixu7-upvy-bb3uxruzkq1q@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

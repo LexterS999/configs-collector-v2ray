@@ -1,6 +1,6 @@
-trojan://god4wygz-f82r-pez9-8alj-ewf5ubgjrb4e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://hw9c0bsg-f91q-me4x-vey1-0q0h566vxgfe@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://m315d3io-1pg4-a2kf-m8tf-imy0vxaz6azh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5e0f4ixp-h6uq-o7n9-wte1-5jy7uwiaapl9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://q09ahi3s-20w1-5yc4-tf5n-y12q8o1g0p22@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://gy7qen3d-83rv-34ce-b95d-uchtq850r2ug@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kf0zuih6-uw53-js63-u347-h0o4pb9cpp1b@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1y1p4r9e-r0m6-9eim-xz9z-m0iu6vd8r446@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b2i1j4ni-63k1-0317-kl26-n4l4j6073l95@45.91.138.34:8443?type=ws&security=none&path=/vless/#FR 🇫🇷 ┇ VLESS-WS-NTLS - SAGO NET ┇ 45.91.138.34
-trojan://15oi6z6c-4hwe-98vb-8lyv-9mqmsaqknxya@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://zrbnlazh-h7qz-c6n5-6zji-00zhajmak4ym@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

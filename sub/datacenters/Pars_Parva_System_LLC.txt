@@ -1,7 +1,6 @@
-trojan://etywevo1-uhl0-k1z8-b7i4-kip0mlgk4srs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://d7ylstrc-rrhj-e7ng-o10d-dhc6688oeyfq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xo76hose-yrb3-mpra-l6bm-1px71utrv7x3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://exn4nfmo-z4iu-qrql-2ze2-umiwkc3egbdo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sb42xf17-cldb-9sww-j88n-5v8mudd71t9z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://u5lkgeu9-5lxe-eqn5-8lq9-5w5z05gjhu14@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://iwu6hn9c-nn6e-guks-lix2-octsus0skvki@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nwkvncsh-1lqi-w8sr-mgyo-kkfvxixot5ma@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@45.139.11.243:443?type=ws&security=tls&path=/&sni=Bia.alLhub.Ltd&fp=random#IR 🇮🇷 ┇ VLESS-WS-TLS - Pars Parva System LLC ┇ 45.139.11.243
-vless://55f98467-c726-4986-f5ca-c9335f2f6ad1@146.19.212.190:70?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Parva System LLC ┇ 146.19.212.190
-trojan://lw6l8k2o-lmdu-os5g-ljvl-dhwx5wgpsdf4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://0o70urul-alwi-7ipv-5sq6-tlvu5tod9yv0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

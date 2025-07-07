@@ -1,14 +1,7 @@
-trojan://leqqektw-k9sw-pqqj-hchk-8lem6ettrgfr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://rqk6x4uy-afmo-i7pm-oah0-2sgsbtfa1arr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8sm4v6hg-pc84-7de4-2eah-vsc1ecpxmi8m@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://v0fe63pn-9dld-dn63-c1wt-12po5ilgetlt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - NForce Entertainment B.V. ┇ 109.201.152.181
-trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@77.247.179.89:443?sni=jp-h1.sshub.xyz&peer=jp-h1.sshub.xyz&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 77.247.179.89
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.52:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.52
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.55:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.55
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.192:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.192
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@185.107.56.53:443?sni=trus.moonfree.top&peer=trus.moonfree.top&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - NForce Entertainment B.V. ┇ 185.107.56.53
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkZvcmNlIEVudGVydGFpbm1lbnQgQi5WLiBcdTI1MDcgMTQxLjExLjE4Ny4zMCIsImFkZCI6IjE0MS4xMS4xODcuMzAiLCJwb3J0Ijo0NTgzNywiaWQiOiI3MTE2YzgxMy1mNjM1LTQ5ZmYtOGQyZi1kZTIyMDA4MDRmZmQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjE0MS4xMS4xODcuMzAiLCJwYXRoIjoiLyIsInNuaSI6IjE0MS4xMS4xODcuMzAifQ
+trojan://sm4pdo0l-yxrl-3254-5cgj-fhjprp0xjj6x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://852azute-3m0m-qqot-ltki-rwanmrdv9upm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3t8rbn6b-xoqo-bvis-ukl3-10atx6t5283c@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://awyqv4bz-rt0g-x29m-ilj6-a1gg6ncz79yd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ab8daaac-7488-419d-938b-d51a720072b0@104.234.196.208:443?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - NForce Entertainment B.V. ┇ 104.234.196.208
 vless://e5223c33-b104-4f05-a893-9863e5b49592@104.234.46.135:443?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - NForce Entertainment B.V. ┇ 104.234.46.135
 vless://14f2ab34-a48e-4d99-900c-a24bfa261aa2@141.11.103.212:4001?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - NForce Entertainment B.V. ┇ 141.11.103.212
@@ -17,4 +10,4 @@ vless://c88af787-6347-4041-97df-acc98f6a6a17@141.11.250.213:45143?type=tcp&secur
 vless://61d4b8f7-2cb7-4abd-9494-5abcb2e54517@181.41.194.136:15734?type=tcp&security=tls&sni=www.tarafdari.com&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-TLS - NForce Entertainment B.V. ┇ 181.41.194.136
 vless://5c94fa63-8762-495a-af4e-ca681f926202@a.mdproxyi.site:443?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - NForce Entertainment B.V. ┇ 181.41.194.210
 vless://701e3595-6225-42c8-b1ec-d8074f1bd801@sd.sahand.knowledgeispower.com.tr:32387?type=ws&security=tls&path=/&sni=speedtest.com&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - NForce Entertainment B.V. ┇ 154.16.16.171
-trojan://4uvq2sty-1nsq-ymr3-rl6c-x0s9pb3dmr02@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://kr6qd1jr-6n3y-8lcn-9t5z-kgx4a3pg945s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

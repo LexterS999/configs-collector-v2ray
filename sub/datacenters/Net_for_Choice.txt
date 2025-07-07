@@ -1,7 +1,7 @@
-trojan://fa4pc4le-gg8h-ht42-xtma-q3f2tsy25je4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://84vvmcts-e68i-wrhr-386i-693esh0u291k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rk68bfy4-lvrw-ue16-uhwq-hdepwlxd3oqn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yv6nea61-dmkl-0skg-8q9v-m9g7457ifptp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://x0c2o3xg-p3nl-izve-bbey-wqq6dueaub33@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://gdf5antm-rju7-00qe-37dj-wisp5ve5unjv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://whyocxwq-ss6p-1it7-vj6k-ba7rflfybz4z@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://brlk1rvx-yz2s-27w3-ph9t-0o1dkyatss3a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0d26383d-21f7-4159-986a-a7ecac87e072@103.57.64.48:443?type=tcp&security=reality&sni=google.com&fp=firefox&flow=xtls-rprx-vision&pbk=sLOqi_GLDpQTPbqpUIAHoBqDCzIamePjAy701bD7mWI&sid=7DdB966b#IN 🇮🇳 ┇ VLESS-TCP-RLT - Net for Choice ┇ 103.57.64.48
 vless://0d26383d-21f7-4159-986a-a7ecac87e072@ind.kitten-tube.com:443?type=tcp&security=reality&sni=google.com&fp=firefox&flow=xtls-rprx-vision&pbk=sLOqi_GLDpQTPbqpUIAHoBqDCzIamePjAy701bD7mWI&sid=7DdB966b#IN 🇮🇳 ┇ VLESS-TCP-RLT - Net for Choice ┇ 103.57.64.43
-trojan://y3temhl7-olog-snk5-7wr9-9j5fk5tvo4cq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://jp0aictz-00mu-igj8-b67d-4vdizxysetxm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,27 +1,9 @@
-trojan://uw63onxm-yezf-tixw-ukou-f4on34pe6e9m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://r9qs45ed-9ngd-rzma-vhip-gk0ajh0yfhhr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yzwlcax1-w5kf-2a44-6fe3-75v3o9na8do0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://167vagl1-3con-lh4s-lp28-n8zlrj6u3fp2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ut5bcz8j-2q28-hnia-aaqd-fat1mjs48c38@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://qr42i4hn-w85c-eavs-wiox-y6wser9hq3lq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hu3rtugh-6zwb-0371-k4gs-fpg88whtpo2t@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8v6hkbf6-en4u-o7gn-195a-b4d4410nzqen@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMWhqaVVtU2d1Y2d6WVlKMFd0cXdX@77.246.102.112:60117#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 77.246.102.112
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RzBPRGZOd0NVR1IwS0VmM1ZQUUxo@77.238.229.244:12369#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 77.238.229.244
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 5.35.47.122
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNWNBeHBlWnpWdHVrRDJnejVGUTZn@212.118.54.195:443#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 212.118.54.195
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0@212.118.42.181:9260#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 212.118.42.181
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3a0pRczJSWUhoVmlUWVdhZjFSb2JC@77.246.97.187:7749#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 77.246.97.187
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncFcwZmZVQXBWdjB1NXExTndHSEFY@212.34.150.176:4199#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 212.34.150.176
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNk1BQVhUU0xmejZaU1RrOWdHYWJo@91.84.100.42:1843#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 91.84.100.42
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@185.21.14.103:2222#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 185.21.14.103
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@178.130.43.225:2222#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 178.130.43.225
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0TnJGWHU2TVVOamVDOWNjeU5LQTJ4@77.238.245.245:27818#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 77.238.245.245
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MXZZM3F2ZzVUa2hLN2RGd2Y3ZlJJ@77.246.98.67:4343#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 77.246.98.67
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQ3RFdGw3TlRmc2tNMTJPRURkZUVW@212.34.131.154:43879#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 212.34.131.154
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWmVxSVVDTWNhbzdSZU5qNUI4M1ly@91.84.109.28:49209#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 91.84.109.28
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eU9vVXFCcHdFZXZhR1E3Z014QzBG@62.84.102.28:26923#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 62.84.102.28
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@91.84.104.133:2222#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 91.84.104.133
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVk9aSERMdnZ2VUxqeDN6Mzg5ajBT@77.246.96.113:29530#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 77.246.96.113
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaN0lyeGt1N0JSalJ4NE5jMHh0NWlK@77.238.244.58:65491#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 77.238.244.58
-trojan://Aimer@5.35.68.249:2053?sni=epccv.ambercc.filegear-sg.me&peer=epccv.ambercc.filegear-sg.me&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Servers Tech Fzco ┇ 5.35.68.249
-trojan://Aimer@77.238.236.134:8443?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#NL 🇳🇱 ┇ TROJAN-TCP-TLS - Servers Tech Fzco ┇ 77.238.236.134
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.246.81.62:2501?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#NL 🇳🇱 ┇ VLESS-WS-TLS - Servers Tech Fzco ┇ 194.246.81.62
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@195.200.18.68:8445?type=ws&security=tls&path=/?ed&sni=miku.mikuru.ip-ddns.com&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Servers Tech Fzco ┇ 195.200.18.68
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@195.200.19.139:6060?type=ws&security=tls&sni=a.xn--i-sx6a60i.us.kg&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Servers Tech Fzco ┇ 195.200.19.139
@@ -31,11 +13,9 @@ vless://8fb0cf8c-ec7f-449a-9557-eec2646fff6d@77.246.109.79:44263?type=tcp&securi
 vless://5244075f-9c52-4940-a64a-eec419c4b5c9@88.210.9.149:4434?type=tcp&security=tls&sni=teamdocs.su&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - Servers Tech Fzco ┇ 88.210.9.149
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@89.110.102.115:2501?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#NL 🇳🇱 ┇ VLESS-WS-TLS - Servers Tech Fzco ┇ 89.110.102.115
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@91.201.113.193:443?type=ws&security=tls&path=Telegram@WangCai2/?ed&sni=0926.qiang2000.link#NL 🇳🇱 ┇ VLESS-WS-TLS - Servers Tech Fzco ┇ 91.201.113.193
-vless://82b884ab-d297-4726-9596-67c6d49acf6a@212.34.142.40:443?type=tcp&security=tls&sni=www.deepl.com&fp=chrome&flow=xtls-rprx-vision-udp443#NL 🇳🇱 ┇ VLESS-TCP-TLS - Servers Tech Fzco ┇ 212.34.142.40
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@185.157.214.81:2040?type=tcp&security=tls&sni=cdnjs.com&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-TLS - Servers Tech Fzco ┇ 185.157.214.81
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@91.84.106.196:2040?type=tcp&security=tls&sni=cdnjs.com&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-TLS - Servers Tech Fzco ┇ 91.84.106.196
 vless://addVPN_489718@185.121.234.27:443?type=tcp&security=reality&sni=whatsapp.com&fp=chrome&pbk=35pHRZk3mytjFsXv6bAYlXt3mHFhqjRIsvpAaDO-X28&sid=ffffffffff#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 185.121.234.27
 vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@185.121.235.210:1624?type=tcp&security=reality&sni=wwww.refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 185.121.235.210
+vless://10b59513-ef76-4494-a925-305ec45dd3a4@185.157.214.81:2040?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 185.157.214.81
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@185.157.215.53:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 185.157.215.53
 vless://48b19bad-bfb8-4e28-9937-60fafd2cb459@194.60.134.78:2083?type=grpc&security=reality&sni=www.speedtest.net&fp=firefox&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&sid=adf8a1f5689177a2#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Servers Tech Fzco ┇ 194.60.134.78
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@195.200.29.57:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 195.200.29.57
@@ -45,10 +25,12 @@ vless://RAKETA_5889827@212.111.88.184:443?type=tcp&security=reality&sni=apple.co
 vless://WindowsV_83968@212.118.43.27:443?type=tcp&security=reality&sni=whatsapp.com&fp=chrome&pbk=YXQf02ayKCAXRgCaxmP7QN3RNyVB7M2ygvqZIPviB18&sid=ffffffffff#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 212.118.43.27
 vless://GROZA_94806831@212.34.129.114:443?type=tcp&security=reality&sni=whatsapp.com&fp=chrome&pbk=hfCCLc7AvG7JHjSs6qW14w4TjO_YBGOIODhRcgRwvUg&sid=ffffffffff#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 212.34.129.114
 vless://49b47f61-11d6-4f69-a856-1d86b3510ca3@212.34.133.178:2083?type=grpc&security=reality&sni=speedtest.net&fp=firefox&pbk=17RMc6PgnvPV2Bra1x7WqdxzdXyHJAzE9__64-maZwE&sid=632ae6#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Servers Tech Fzco ┇ 212.34.133.178
+vless://82b884ab-d297-4726-9596-67c6d49acf6a@212.34.142.40:443?type=tcp&security=reality&sni=www.deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=s7QOHQWLwCBIM1KhDFjWDCyL7q-xednuttjl24HsV0U&sid=fa8a035bcf#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 212.34.142.40
 vless://GROZA_36865023@212.34.143.194:443?type=tcp&security=reality&sni=whatsapp.com&fp=chrome&pbk=YvbyqWIHFAzsuyJrJa5lkc10bEgJZsyHeeBL6To74Bw&sid=ffffffffff#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 212.34.143.194
 vless://fb2c3a6b-5a0e-46ce-ba74-07015df7f84f@89.110.104.14:4434?type=tcp&security=reality&sni=teamdocs.su&fp=chrome&flow=xtls-rprx-vision&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 89.110.104.14
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@91.84.101.13:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 91.84.101.13
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@91.84.102.132:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 91.84.102.132
+vless://10b59513-ef76-4494-a925-305ec45dd3a4@91.84.106.196:2040?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 91.84.106.196
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@91.84.111.144:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 91.84.111.144
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@91.84.111.148:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 91.84.111.148
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@91.84.111.160:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 91.84.111.160
@@ -58,4 +40,4 @@ vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@93.183.127.50:443?type=tcp&security
 vless://c83b40cb-c55d-4b85-b4c8-059c916d66cc@93.183.89.244:4434?type=tcp&security=reality&sni=vadim.fun&fp=chrome&flow=xtls-rprx-vision&pbk=I4ckWGs37sBXSBq3lGP79HqOhZ1eOjqaikCsDJXTaw0&sid=a4eed13ebbf2f9d2#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 93.183.89.244
 vless://f08272e1edf749429548e460cefde4ab@93.183.90.145:443?type=tcp&security=reality&sni=hackthebox.com&fp=chrome&flow=xtls-rprx-vision&pbk=baD2SZJzhG4Tm2KXwpJ4UMvn-qA9vGe5Ik7EymojhxA&sid=87#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 93.183.90.145
 vless://TrueVPN_8717128@v352085.hosted-by-vdsina.com:443?type=tcp&security=reality&sni=www.whatsapp.com&fp=chrome&flow=xtls-rprx-vision&pbk=NTmRXXZ3Ab-BV337T0r31bU813rYmMfMQa6Vsn3JQTg&sid=ffffffffff#NL 🇳🇱 ┇ VLESS-TCP-RLT - Servers Tech Fzco ┇ 185.21.14.29
-trojan://imu2pwou-s2o1-m902-3mj4-xjic1kb4b9fw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://sax9162s-p5wa-v97a-00h3-s7akgiym80nb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

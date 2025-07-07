@@ -1,12 +1,6 @@
-trojan://1430ym8t-urrc-lv66-skcr-1of8md3k7pl3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://c0jjx5n6-imaq-8xyf-6sx1-srbu302goru8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://atbagvqa-kqjn-e0lp-s9z4-hdz8sdjmad0d@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ujlcg5hv-crqu-r38n-ya1a-7791oi51nkx6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzgxMDcwMi04ZmQxLTRkZjYtYTA2MC03OWU4NDBhN2I2NTI@157.254.21.62:20000#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Hytron Network Services Limited ┇ 157.254.21.62
-trojan://5c634f9c-3dd4-4d3e-97c2-9db2470cf722@82.152.164.10:34015?sni=jsygouer.weixin-baidu-qq.com&peer=jsygouer.weixin-baidu-qq.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Hytron Network Services Limited ┇ 82.152.164.10
+trojan://ktvzex17-tvyf-r8bw-wnpk-orerarpm3n5q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://fifhs1o9-c89h-7o3c-7ipl-jcuc7uhzixyo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2ifnlqzr-sly4-rvs1-fsgh-gi7scvkggq3m@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://m46bnlxy-7kam-cin4-g3uu-z12zhnvcd3tf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b866d83a-d301-4270-b699-40f322bf52fb@89.185.27.133:443?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-RLT - Hytron Network Services Limited ┇ 89.185.27.133
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZGY5ZDlmMC1jNWRiLTRlNjYtYmUwYy1jOTY3YzBkNjU4OGU@38.150.12.187:39029#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Hytron Network Services Limited ┇ 38.150.12.187
-trojan://51c30b64-e07b-3999-b2f0-296812b3ab9e@38.150.12.188:56205?sni=k8zq2nld9wfx3vyu7tmb-hk.6pzftj.com&peer=k8zq2nld9wfx3vyu7tmb-hk.6pzftj.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Hytron Network Services Limited ┇ 38.150.12.188
-trojan://Hu4CFM0wJ3@38.150.13.140:57063?sni=38.150.13.140&peer=38.150.13.140&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Hytron Network Services Limited ┇ 38.150.13.140
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSHl0cm9uIE5ldHdvcmsgU2VydmljZXMgTGltaXRlZCBcdTI1MDcgMzguMTUwLjEzLjY0IiwiYWRkIjoiMzguMTUwLjEzLjY0IiwicG9ydCI6ODAsImlkIjoiY2FhOTk1ZWQtODZhOS00OTY4LWEzMzItOWMxMWU3ZTEzMTA3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-trojan://udtk5qaq-gmq1-z6fh-fb5y-406qvkge9zoy@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://6x0rgu5n-kpbf-ku9u-6a9a-cg5pc4yx2q2v@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,11 +1,10 @@
-trojan://5zn4g02v-tegg-l8cf-hixg-jbj9cfcgw0st@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://9qvsj057-qakb-6xz1-3eyx-5883ka5fu1qj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xlcoyzf8-ivjp-9jvj-7qyc-ug5a5824aecw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jdt5frag-md4n-s9yi-pb78-oodt7lc6oovy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://eazk9bk3-v5oy-b3uo-qj6p-6yosl95boewz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://rkizwjsa-wg05-qw4h-ivh0-ss6civp9rsdf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n8y8b992-0wy1-l1vn-bpmp-nd32ekcsbu46@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1v3epge2-un70-os8g-molf-hj3pw9gcm401@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://48735946-f706-4873-b9b6-d9f0255475cc@85.9.206.79:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=QYWJdS4JDdSmQKeMkJfPshFuz0bC3jhm9yW3uJfQFmw&sid=b4#DE 🇩🇪 ┇ VLESS-TCP-RLT - UpCloud Ltd ┇ 85.9.206.79
-trojan://3828095943467868160@194.62.99.56:443?sni=main-bee.dolphin109.quest&peer=main-bee.dolphin109.quest&security=tls#ES 🇪🇸 ┇ TROJAN-TCP-TLS - UpCloud Ltd ┇ 194.62.99.56
 vless://9fc6891e-b06b-4eb1-a6ec-5e180f7b1524@94.237.87.217:3096?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 94.237.87.217
 vless://74ea5905-0f26-4261-986c-0717ed34815d@dl.magnataur.uk:12344?type=grpc&security=tls#FI 🇫🇮 ┇ VLESS-GRPC-TLS - UpCloud Ltd ┇ 94.237.80.207
 vless://5d8b462c-aeae-416b-9c12-4d97ea025e29@5.22.212.180:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=cCsOIijb3G0Ogl9uIds1_cgjhZKGQSsOPojs4rR4JX0&sid=e869#FI 🇫🇮 ┇ VLESS-TCP-RLT - UpCloud Ltd ┇ 5.22.212.180
 vless://2e53ca3b-5cfd-478a-a541-e0d803a120bb@94.237.81.247:443?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=HRQDhdpRIWdrdZi5CoMlO2hfLeuSc8ftVWCvwwwsDW0&sid=e869#FI 🇫🇮 ┇ VLESS-TCP-RLT - UpCloud Ltd ┇ 94.237.81.247
-trojan://0z9ecxd7-pi7n-2l28-btib-ope9k9swh2us@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://9gvjqsrw-ynuf-2e5i-wa89-804m4alm01v7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

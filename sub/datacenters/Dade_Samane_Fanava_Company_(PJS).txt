@@ -1,25 +1,23 @@
-trojan://h7t7dfjj-zjz5-yrhv-i09s-tux60g6tg8tb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://t0v5r02t-q8cp-czqq-pb47-pu9bl9q68xna@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://u400nalj-8xq1-yd0q-eyfm-fyw8w65oz87i@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ayv54r81-n8ck-syxn-228s-yfecr3u6heyp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhZGUgU2FtYW5lIEZhbmF2YSBDb21wYW55IChQSlMpIFx1MjUwNyA3OC4xNTcuNDkuMjEzIiwiYWRkIjoiNzguMTU3LjQ5LjIxMyIsInBvcnQiOjU4ODE5LCJpZCI6ImIwYmY4MWUxLTBiMTgtNDI1My1hMjc4LWQ1MTZmNTgwMjQwYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhZGUgU2FtYW5lIEZhbmF2YSBDb21wYW55IChQSlMpIFx1MjUwNyA3OC4xNTcuNDQuODgiLCJhZGQiOiI3OC4xNTcuNDQuODgiLCJwb3J0IjozNDg5MiwiaWQiOiIyMTE4ZWU1MC1mMGE5LTRmYjEtOWExZC0zZjZiOTAwZTg0MzYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+trojan://xqsqn87h-bsvc-y6jk-769r-o3t0l71fgfml@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://azwfc2rq-92lm-4z1r-8eil-j1fbq2806tc1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://oyuhxzhz-g0mp-exm5-tvpo-ntcw514xtud1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zpwqaguz-j2xs-otmq-eoe0-2sosipyuncme@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://39051b26-3165-4898-a552-c777a89aaf10@78.157.49.210:32197?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.49.210
 vless://4af47bf8-34f2-49b4-8d1d-ac4129f4dc11@2irmo.musicbama4.monster:51996?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.60.228
+vless://55684e35-e8a4-4e98-b856-309ceba25392@78.157.61.139:13510?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.61.139
+vless://dd99ae43-d376-5a2d-4939-3658fd6c5980@78.157.45.181:11230?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.45.181
 vless://162dbfab-ed71-4371-bd95-4a51fdab6faa@78.157.38.244:2929?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.38.244
 vless://b41d5ac0-ed33-47cd-84c5-406471554f5d@78.157.38.253:15015?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.38.253
 vless://5e2d1a2a-9570-4fd7-9d17-12d10bebd62d@78.157.44.169:5261?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.44.169
+vless://ce20a6c7-c069-4bec-bd39-8201c49e31f2@78.157.44.88:27574?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.44.88
 vless://53d3a892-7a41-4c6b-9e5c-dd5b94691813@78.157.45.171:52333?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.45.171
-vless://dd99ae43-d376-5a2d-4939-3658fd6c5980@78.157.45.181:11230?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.45.181
-vless://39051b26-3165-4898-a552-c777a89aaf10@78.157.49.210:32197?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.49.210
+vless://bb4c6b72-4f69-4dd1-a819-574330bdbbdd@78.157.49.213:500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.49.213
 vless://9e316ce0-8fd3-4058-bc5e-241f9c3a9f56@78.157.59.140:50067?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.59.140
 vless://d7c8dc05-cde7-404a-9245-021b97fabe27@78.157.59.167:49342?type=ws&security=none&path=/Zarin3#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.59.167
 vless://26c2e015-4e7e-40ea-bb4c-bf0c85d316f4@78.157.59.169:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.59.169
 vless://d2a71fa0-ed0b-428c-9bb6-8eccb3e24793@78.157.59.173:2082?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.59.173
 vless://55905725-9838-4f05-80bd-97fcc4371443@78.157.59.178:27053?type=ws&security=none&path=/ZARIN7#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.59.178
-vless://55684e35-e8a4-4e98-b856-309ceba25392@78.157.61.139:13510?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.61.139
-vless://7bdc9023-6873-49d1-8325-1404b6427e28@configmastervip.khalilv2.com:46991?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.50.174
 vless://ef15cbe4-c2c1-4f0c-9fae-eb6857ba906a@ge7.freeeiran.me:24582?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.48.75
 vless://1db6e734-7383-4fb9-a24e-e95a52c46ae3@h.speedtest2028.com:887?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.49.219
 vless://26c2e015-4e7e-40ea-bb4c-bf0c85d316f4@u.armiaidin.top:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.59.144
-vless://cbea02f4-e0dd-4e76-b7e8-b0a20752c171@78.157.60.60:9050?type=ws&security=none&path=/translator?ed#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Samane Fanava Company (PJS) ┇ 78.157.60.60
-trojan://fdwr7kmw-4lf8-xee1-n091-8phgk351qgjr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://65f80aoz-4lqg-y6hv-jh2h-4438qdo3zpkj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

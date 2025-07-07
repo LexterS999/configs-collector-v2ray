@@ -1,11 +1,13 @@
-trojan://fsklbi5s-0qdb-ryp4-egwt-lufz0gmla5by@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://6za78mgd-mlnx-8nnc-hid0-4tpo6thizsgu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tsl4ova6-yuya-irvz-jvis-w1vctmwf6a9f@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gxrnqkwj-7dil-zam5-hnp9-57enfagl50ul@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRvbG9lIFJheWFuZWggTG9naG1hbiBFZHVjYXRpb25hbCBhbmQgQ3VsdHVyYWwgQ28uIFx1MjUwNyAyLjE4OS4xMTcuMTA4IiwiYWRkIjoiMi4xODkuMTE3LjEwOCIsInBvcnQiOjM1MDEwLCJpZCI6ImNkMzQ4Yzk0LWFiZmYtNDljNy1hM2VmLTU0NzVmZWM4OWQ0YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://01860891-2645-420f-a494-a653d960f58d@185.243.49.155:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 185.243.49.155
+trojan://jpom3dl4-mhqz-0t5v-voih-7qo61bk90v7m@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://77mbh6dq-uiu2-d1eq-5t7u-xtukiufy6rji@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://b3ndiquh-wz0n-dsi7-nok0-zpsat9y2qzgl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0qrxjc0b-o0ms-561j-b3ya-y3rdy78bn5tg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 185.243.49.205
-vless://0d280b77-2220-4dde-bc6a-859a668be26b@185.243.49.211:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 185.243.49.211
+vless://0d280b77-2220-4dde-bc6a-859a668be26b@aran.mrserver.fun:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 185.243.49.211
+vless://3a0f49f8-0759-4ed4-9c21-804824bbb73e@germany.a1mshop2.xyz:21483?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.62
+vless://64274cc4-6375-407c-8670-13eaf31a5eba@2.189.117.37:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.37
+vless://f43617b5-1a02-4776-bffe-85c30a27458a@trvip.irannoweb.art:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 37.32.42.185
+vless://01860891-2645-420f-a494-a653d960f58d@185.243.49.155:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 185.243.49.155
 vless://01860891-2645-420f-a494-a653d960f58d@185.243.49.253:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 185.243.49.253
 vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.117.141:2083?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.141
 vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.117.142:2083?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.142
@@ -15,27 +17,12 @@ vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.117.247:2083?type=ws&security
 vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.117.248:2083?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.248
 vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.117.249:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.249
 vless://610a9061-8934-4200-bdf1-2fddcf6dec49@2.189.117.31:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.31
-vless://64274cc4-6375-407c-8670-13eaf31a5eba@2.189.117.37:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.37
-vless://5db3a167-1a04-4f2c-ab9b-771c24b5cf1d@2.189.117.62:21483?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.62
 vless://4748c66f-6fd4-48ca-d64d-164af297af09@2.189.130.90:59058?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.130.90
 vless://7e8cdde3-ebf5-47a2-b6fb-290ddec5ab88@37.32.42.138:49894?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 37.32.42.138
 vless://eb1920ff-d816-4ca1-b832-4683cddebaa6@37.32.42.22:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 37.32.42.22
-vless://f43617b5-1a02-4776-bffe-85c30a27458a@trvip.irannoweb.art:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.147
 vless://e127d8da-1ebd-4239-859f-7a51f9a72356@uk.iranis.art:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.134
 vless://a1894876-1e93-4375-b29c-460527d7ebc3@vip7.rahatnet.com:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 37.32.42.62
 vless://b3df4ad2-c2be-4e76-a5fe-37bf49ffe60c@whats-my-ip.wizardxray.shop:701?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 37.32.42.173
-vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@185.243.49.177:24989?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 185.243.49.177
-vless://e127d8da-1ebd-4239-859f-7a51f9a72356@2.189.117.241:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.241
-vless://e127d8da-1ebd-4239-859f-7a51f9a72356@2.189.117.130:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.130
-vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.117.240:2083?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.240
-vless://0d280b77-2220-4dde-bc6a-859a668be26b@185.243.49.196:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 185.243.49.196
-vless://e127d8da-1ebd-4239-859f-7a51f9a72356@2.189.117.245:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.245
-vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.117.143:2083?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.143
-vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.117.146:2083?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.146
-vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.117.246:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.246
-vless://e127d8da-1ebd-4239-859f-7a51f9a72356@2.189.117.133:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.133
-vless://e127d8da-1ebd-4239-859f-7a51f9a72356@2.189.117.132:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.132
 vless://eddf8778-1682-43d5-afa6-dcf3dbf63f82@log.centralstoree.eu:2003?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=RiVTXWeVefxyMP869zKY2-YXoE7X2BdqQm53xGN99FE&sid=4c5bbe73#IR 🇮🇷 ┇ VLESS-TCP-RLT - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.130.105
 vless://00312a79-2ecd-419b-8d02-8b96357c7dc7@z5.centralstoree.eu:2005?type=tcp&security=reality&sni=www.speedtest.net&fp=firefox&flow=xtls-rprx-vision&pbk=XUWJSXlJRhAalSafwdOxmO_WbSOOK_RgJEsA_ToUllU&sid=c63ee1c9#IR 🇮🇷 ┇ VLESS-TCP-RLT - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.130.101
-vless://eba4b2d7-97fb-490d-88bd-385629e9612e@load.key98sell.com:2025?type=tcp&security=reality&sni=www.speedtest.net&fp=firefox&flow=xtls-rprx-vision&pbk=NujqjcWVaMrWBst4bjL9QH2057DRrS9VQZgA9izS1GY&sid=ffdb3abc#IR 🇮🇷 ┇ VLESS-TCP-RLT - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.130.108
-trojan://qykze8ji-oq36-evyn-97l9-5e0nwzgpqh0m@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://g34rjn5p-86yy-v3sp-b12d-lhb13kajxzme@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

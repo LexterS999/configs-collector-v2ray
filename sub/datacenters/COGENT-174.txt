@@ -1,15 +1,7 @@
-trojan://c87dpq3v-v368-8xy3-79mb-yhyu4w321xvv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://6tt1xyt5-qh3b-244n-xnsl-b5ki0w6exsvv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rev5htk1-polc-7dg3-co58-26ux86b281de@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ji6fcv6u-8bf2-qt2s-u73d-gzk8w7dsxtn1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://I864rxBP9tLYy6OdZ_3SrQ@149.5.172.218:995?sni=pubtlx.pqmin.online&peer=pubtlx.pqmin.online&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - COGENT-174 ┇ 149.5.172.218
-trojan://bs6KJkPBW9MP74uHEa@de1.trojan-lite.com:443?sni=de1.trojan-lite.com&peer=de1.trojan-lite.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - COGENT-174 ┇ 149.50.74.62
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ09HRU5ULTE3NCBcdTI1MDcgMTU0LjIxLjE5NC4xOTMiLCJhZGQiOiIxNTQuMjEuMTk0LjE5MyIsInBvcnQiOjQwNTU3LCJpZCI6IjQ3YzAwYWI2LTg0YWYtNDk3ZS1jMjA4LWY0MDE5M2QxMGEyZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ09HRU5ULTE3NCBcdTI1MDcgMTU0LjIxLjE5NC4yMTMiLCJhZGQiOiIxNTQuMjEuMTk0LjIxMyIsInBvcnQiOjE2MDI0LCJpZCI6IjI5YjZkNmZjLTcyYWYtNDU2ZS05YjZjLTM1NzM5NThlNmZiNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDT0dFTlQtMTc0IFx1MjUwNyAzOC41NC4xODUuMTEyIiwiYWRkIjoiMzguNTQuMTg1LjExMiIsInBvcnQiOjMwMDAwLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9wYXRoLzE3MDEwOTExMzM0MDkiLCJ0bHMiOiJ0bHMifQ
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDT0dFTlQtMTc0IFx1MjUwNyAzOC41NC4xODUuMTE0IiwiYWRkIjoiMzguNTQuMTg1LjExNCIsInBvcnQiOjMwMDAwLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6NjQsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9wYXRoLzE3MDM3NTU2MjU1NTgiLCJ0bHMiOiJ0bHMifQ
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDT0dFTlQtMTc0IFx1MjUwNyAzOC42My4wLjY4IiwiYWRkIjoiMzguNjMuMC42OCIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xNjgzNzE1ODI2ODcwIiwidGxzIjoidGxzIn0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBDT0dFTlQtMTc0IFx1MjUwNyAzOC42My4wLjg1IiwiYWRkIjoiMzguNjMuMC44NSIsInBvcnQiOjQ0MywiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvcGF0aC8xNjg5OTM1MjQzMDI3IiwidGxzIjoidGxzIn0
+trojan://hwm5cmt9-0aqj-uur2-9f8l-7fbezukxosqa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://hchvxzon-32hw-4e12-fk3i-orrn8n8bd5h5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://p4kdwnoz-y8ol-noxm-v4gt-b6pu808sy7h5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://l9gsdns3-rxnl-fauf-9yq4-zv6k9mwmazqt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.64.239.219:587?type=ws&security=none&path=/?ed=2560fp=chromesecurity=tls&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - COGENT-174 ┇ 154.64.239.219
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@209.146.103.197:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - COGENT-174 ┇ 209.146.103.197
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.22.233.47:587?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - COGENT-174 ┇ 38.22.233.47
@@ -21,4 +13,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.79.117.108:587?type=ws&security=
 vless://f103ce28-d683-4c53-8279-aafb7bbfff42@38.79.119.43:16093?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - COGENT-174 ┇ 38.79.119.43
 vless://f2ae3601-2e63-48ae-efa2-6dcb1c7ea70c@206.206.80.77:53533?type=tcp&security=reality&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=Qt4CixeKjXXvyeC1HcqFpapqNFnaCZ6EDaY3ZzTF0Q8#US 🇺🇸 ┇ VLESS-TCP-RLT - COGENT-174 ┇ 206.206.80.77
 vless://f2ae3601-2e63-48ae-efa2-6dcb1c7ea70c@us-2isp.aloofly.eu:53533?type=tcp&security=reality&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&pbk=Qt4CixeKjXXvyeC1HcqFpapqNFnaCZ6EDaY3ZzTF0Q8#US 🇺🇸 ┇ VLESS-TCP-RLT - COGENT-174 ┇ 206.206.80.79
-trojan://zfnknefd-f3oq-kg2d-hwsp-bnfhkj00or1y@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://f1s33veh-fszl-cs7s-qyo1-y8gmmfheqso8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

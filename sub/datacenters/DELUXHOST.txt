@@ -1,6 +1,6 @@
-trojan://0zogh5yg-y53m-4lql-eskz-atgv6tkrslm2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://r06blb19-g2r4-at0g-i7ds-j22zpmke3fsk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9438krkn-8bcw-j2ce-5vc5-w1m5727pcsg4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jn914l50-3hcn-kwmi-yldo-0s85rq240ogu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ev6wgdxi-5qt4-t1pi-0651-50cmfnufpoa1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://75dimcey-hfeg-l7ds-9u5t-62r79ce8wpin@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://r31qr5vi-df43-3zod-79b2-picojx3c8nnd@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5md326vf-9yi6-ye8c-i7iu-gwuh3jsn6gow@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://u6v7h1ei-30a8-7084-ba03-c1b1z4550c82@92.112.126.34:443?type=tcp&security=tls&sni=www.cloudflare.com#NL 🇳🇱 ┇ VLESS-TCP-TLS - DELUXHOST ┇ 92.112.126.34
-trojan://k978tb4z-w2a3-c34y-qlic-lgzmiz8iv44s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://2jlyfean-sg6z-3sc3-ilnt-hmm0aa90pdda@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

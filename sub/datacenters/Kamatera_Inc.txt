@@ -1,10 +1,10 @@
-trojan://yxrxngmp-lb6d-vqz5-c2zi-e6dxnkxf4mwl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://x5v96f9r-ngrn-tgmv-yxou-reif9apcxj06@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8gjaaoz3-1hfl-c4ho-0azh-e1xw2fn0owkz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://k808mrnl-vfy3-0gan-tfrb-z3h8o166r89p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://27c11f2c-85f4-44ef-ac28-670e987f5788@194.36.88.78:443?type=tcp&security=tls&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Kamatera Inc ┇ 194.36.88.78
+trojan://smyru6aj-2pyr-6al6-uyp7-vfuwp33n5g1r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://iqwjypws-jrvh-djm8-8trt-n82eqav6hhzl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://oybsi4n6-9323-j9te-8gkr-kjvvkdwfm7xu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://syhl9x1m-e1jd-ovji-0s3a-0cx2ofshyp1i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://27c11f2c-85f4-44ef-ac28-670e987f5788@194.36.88.78:443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=83kO-C72OoPSqNzGDHRwRwl2bAHlI6DCzDs2KR0spnI&sid=10de3e76c515259b#DE 🇩🇪 ┇ VLESS-TCP-RLT - Kamatera Inc ┇ 194.36.88.78
 vless://282bed58-1451-419f-a5b3-ed6f65ab8850@63.250.59.26:2030?type=tcp&security=reality&sni=www.datadoghq.com&fp=chrome&flow=xtls-rprx-vision&pbk=dmTTVeliJTAj35kMyQPCfA0_LS8aULh234eKzIFzxX8&sid=b756e372b9623b22#DE 🇩🇪 ┇ VLESS-TCP-RLT - Kamatera Inc ┇ 63.250.59.26
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@103.241.65.11:8445?type=ws&security=none&sni=miku.mikuru.ip-ddns.com#GB 🇬🇧 ┇ VLESS-WS-NTLS - Kamatera Inc ┇ 103.241.65.11
 vless://bc11baa2-da7c-11ef-957d-7538374f230f@194.37.81.211:2083?type=grpc&security=tls&sni=fastdownload.mahanhezar.ir&fp=edge#NL 🇳🇱 ┇ VLESS-GRPC-TLS - Kamatera Inc ┇ 194.37.81.211
 vless://d478ba8c-8f7c-41b4-ad9b-60881477e208@vpn.rayvortex.ir:65025?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Kamatera Inc ┇ 185.167.99.251
-trojan://6gxuovl0-4cdr-gy2y-eh66-ilznbemt516q@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ntdz0xvi-4dat-grl9-adho-yada8eabhezr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

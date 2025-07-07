@@ -1,7 +1,7 @@
-trojan://8rej324g-03k6-haaa-i9jd-sx6t7zhwzzs5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://m74lzih0-6ukf-v6zp-ind6-v403kniatbtd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ffe4e4on-ggfo-pdam-m9dj-xq47vefgpttw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qdzezf5x-3fdm-jjrj-lm56-j8fmtmycxouo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://i59zq3cp-iu06-3kld-8nag-05zv2s16eqyl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://rm6fnjpf-aml1-2qug-z1s4-m4z6dokgt8yo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ldur90m3-4vzo-9tuo-7p1z-sy5ojvjornha@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hqso2ipf-3wfp-f7ug-lr39-ciy53wqj7qpd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6b1a8762-30d3-4953-a71b-7e1a84c3a437@185.85.241.194:10940?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=pPzdjI1zEj-jp-_ZIwLswbswzRS-jskjxXXj2DiHkkI&sid=0d43314b#DE 🇩🇪 ┇ VLESS-TCP-RLT - Massivegrid Ltd ┇ 185.85.241.194
 vless://39d4ce03-f896-48db-8d2e-c95daa4898e4@185.85.241.196:28697?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=AYHrc8_0MYIbI5eS6Xw1tjYxVpa2haWlsqHl3rYALFQ&sid=3cc554af#DE 🇩🇪 ┇ VLESS-TCP-RLT - Massivegrid Ltd ┇ 185.85.241.196
 vless://3d8d5627-62c0-491a-ad68-0079983f95e1@185.168.194.59:41445?type=tcp&security=reality&sni=tesla.com&fp=chrome&flow=xtls-rprx-vision&pbk=eb0fWFAevT3a_BqrfJ2dLhY_Hv910o9LSmaumdZpIyQ&sid=f8a537#GB 🇬🇧 ┇ VLESS-TCP-RLT - Massivegrid Ltd ┇ 185.168.194.59
@@ -17,4 +17,4 @@ vless://737ff2b6-0e5d-48b5-9d4e-b9998e3ce1c1@185.122.164.48:45292?type=tcp&secur
 vless://d0324125-032e-4f17-b48d-26ae0b6bf081@185.122.166.216:11590?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=0NxhLNLvgD0NHroc2qx1CsXllFTOARjCMjwPPvU-yBs&sid=ba37#US 🇺🇸 ┇ VLESS-TCP-RLT - Massivegrid Ltd ┇ 185.122.166.216
 vless://18b42d4d-580c-4bcb-964b-db93457b3ae0@185.184.70.48:13507?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=paO1TMygT5PynUTEFWKHOym9ULbXoU7RyO-STHiDU1k&sid=31c87861#US 🇺🇸 ┇ VLESS-TCP-RLT - Massivegrid Ltd ┇ 185.184.70.48
 vless://7e84b5b9-e9fe-4dbe-906d-4abd67c09376@185.184.70.90:46865?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=MKAJr8pG0z3lTPa7L1uWQ9jlrCUIAV9H7cQeOBsUrlI&sid=45f61645#US 🇺🇸 ┇ VLESS-TCP-RLT - Massivegrid Ltd ┇ 185.184.70.90
-trojan://pege4lvb-o9d8-2o41-1hbr-c34ju92saw2g@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://jqksmh0n-1mur-wlei-n3jj-y7jat1260al4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

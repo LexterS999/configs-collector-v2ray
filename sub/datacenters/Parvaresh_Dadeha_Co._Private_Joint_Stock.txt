@@ -1,13 +1,13 @@
-trojan://ht4vkd0h-j0t1-t15f-wnpa-ikyb7y1rfvn7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://v9og2tw5-4f9w-0yya-nj6m-vsr6f6s91b7u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://q1ifp2dq-a9b0-u610-wxdj-7vume5oadwwx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://aoxp3lr1-6wqh-9e0v-bgnv-jbdjgwrgzwhc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://k1wfu0ps-fi0w-njo6-gt7i-7klxx955kkb4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://bhnelq2l-r15r-wdq6-97vr-3oy58sly75i8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7xv39ibv-tv1t-gich-1veb-zm88m740ui02@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ujmz2syq-ggc7-zxta-2lve-3t4511i6cgng@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnZhcmVzaCBEYWRlaGEgQ28uIFByaXZhdGUgSm9pbnQgU3RvY2sgXHUyNTA3IDg5LjQ0LjExMi4zNCIsImFkZCI6Ijg5LjQ0LjExMi4zNCIsInBvcnQiOjI1MzUsImlkIjoiMDRkN2MwODktYmJjNS00ZWYyLTgwZWYtYTA5ODJjZjMzNzA4IiwiYWlkIjowLCJzY3kiOiJhZXMtMTI4LWdjbSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnZhcmVzaCBEYWRlaGEgQ28uIFByaXZhdGUgSm9pbnQgU3RvY2sgXHUyNTA3IDg5LjQ0LjExMi4zNiIsImFkZCI6InMxLmNvbm5lY3QuYmxvcm94eS5uZXQiLCJwb3J0IjoxMTAyLCJpZCI6Ijc5YmVlMWVjLTM5ZWUtNDk3Yy04M2E0LTllY2Q4OTI5Yzg0NiIsImFpZCI6MCwic2N5IjoiYWVzLTEyOC1nY20iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnZhcmVzaCBEYWRlaGEgQ28uIFByaXZhdGUgSm9pbnQgU3RvY2sgXHUyNTA3IDg5LjQ0LjExMi4zOCIsImFkZCI6InMxLmNvbm5lY3QubGFiZXgucHJvIiwicG9ydCI6MjU0MiwiaWQiOiI3NjQ3ZDZlYS0yZmYyLTRlM2EtOTkwOC1iMjY5ODcwY2EzYWUiLCJhaWQiOjAsInNjeSI6ImFlcy0xMjgtZ2NtIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://aac76e15-76e8-df0c-41a3-74d2d5450043@89.44.113.58:606?type=tcp&security=none&path=/ws?ed=2048#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parvaresh Dadeha Co. Private Joint Stock ┇ 89.44.113.58
+vless://4ccd8137-fbdc-2d61-4d60-e9014c4261fd@ir.lightning2025.top:699?type=ws&security=none&path=/ws?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Parvaresh Dadeha Co. Private Joint Stock ┇ 89.44.113.58
 vless://0d742c88-7f2b-4a3b-b308-f727d4865bc7@94.139.182.120:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parvaresh Dadeha Co. Private Joint Stock ┇ 94.139.182.120
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@94.139.183.194:606?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Parvaresh Dadeha Co. Private Joint Stock ┇ 94.139.183.194
 vless://30a12fcb-5950-54bc-234a-70acdbe7a376@94.139.183.195:608?type=ws&security=none&path=/ws?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Parvaresh Dadeha Co. Private Joint Stock ┇ 94.139.183.195
 vless://62301c33-a285-78e8-9689-a28bea5712b9@94.139.183.196:698?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Parvaresh Dadeha Co. Private Joint Stock ┇ 94.139.183.196
-trojan://11ybs78v-4ro5-sphw-8fv0-2wz84amhyd6t@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://adedotuq-ehfv-lvwm-v67i-33ht0l8xfmvc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

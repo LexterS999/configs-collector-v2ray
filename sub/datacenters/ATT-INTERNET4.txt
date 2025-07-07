@@ -1,7 +1,7 @@
-trojan://n9exdjmx-lsjm-aeoe-l7ni-jywguxqcda0c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://a516f6lh-qnp7-cudm-e3fk-4nk509etj2il@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8n78tkai-4vfu-phcs-p06r-1qxsldeoatzw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://prz2pgzy-jqw6-ss5r-s7lr-7aoiw69jkegw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ohze09tg-aq9q-8a78-y0eh-5rko74wkzegi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://0f3xk3xx-8gh1-87oo-dv1n-dwbtawjwgczr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7q31vnmy-jj7d-mme2-e3fu-fzptbt486dbx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://09eohx5v-957a-cyr8-3018-z8jk2382ate3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b2c3d4e5-f6a7-8901-bcde-f23456789abc@104.185.79.76:8443?type=ws&security=tls&path=/Telegram@V2rayNG&sni=tasnim.farsonline24.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ATT-INTERNET4 ┇ 104.185.79.76
 vless://c7d8e9f0-a1b2-7890-3456-6789abcdef01@104.188.82.79:443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=ABC1234567890abcdef1234567890abcdef#US 🇺🇸 ┇ VLESS-TCP-RLT - ATT-INTERNET4 ┇ 104.188.82.79
-trojan://60sumv0t-2ztq-bm8s-jpvt-zunyfpek7djx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3tiknyfz-y7gr-yprs-6dvx-9dszqosx1npt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

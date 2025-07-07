@@ -1,7 +1,7 @@
-trojan://g83ayd2x-qgqb-hjly-3o5f-d9ktv724fq2s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://o9w0ltmm-la0o-457r-pd4x-ojkva6bgmk9a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://uh4nizuk-z1gl-pxeg-4zi0-9r4vgdm0yqsn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1fqvvfd2-i7qt-hfxn-fugr-x4chgumhc9pd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0a121uiq-qc1x-v7m2-iubf-etcyv0y01wtv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://z1s7kguc-6754-v8fl-vrcx-awgj7zhwh1yk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xub5jcjx-mgca-8g5n-zynb-5nxikqpsofm0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4fthufwl-xmod-uge3-hjv4-3zwxx7pr0vud@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6ba20a61-9ca7-4f9e-ac38-95f63c888a95@193.180.211.106:443?type=tcp&security=reality&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=9ScHOKzJC7yKULZTUXzLHqW1YdVm1iuAztbg3uyU4W4&sid=3b5f17c573589047#DK 🇩🇰 ┇ VLESS-TCP-RLT - Webdock.io ApS ┇ 193.180.211.106
 vless://6ba20a61-9ca7-4f9e-ac38-95f63c888a95@77.37.97.59:443?type=tcp&security=reality&sni=www.ign.com&fp=chrome&flow=xtls-rprx-vision&pbk=4GnPOZT2sf7WGkjOhOuBckj5VkTWkV_PZ6bw_hBC0nI&sid=dd53608f91a83f5a#DK 🇩🇰 ┇ VLESS-TCP-RLT - Webdock.io ApS ┇ 77.37.97.59
-trojan://lqt6u582-uhfl-3dtn-a7s4-194h3nabvfxo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://n6fw85gg-lpz9-g9n5-5vyv-qiaqcqu3pblm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

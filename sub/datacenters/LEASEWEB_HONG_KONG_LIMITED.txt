@@ -1,8 +1,6 @@
-trojan://l8623iyk-x6wa-8rnw-9n4j-84khokmobvp7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://kpextwxa-wx5x-ox52-zmby-c7wfs9czls20@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://u6ete9b5-rw4s-9hak-w0re-0odmrnr7wkjp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4lii770y-kmtt-eg1c-4dag-nrzilwmhli1r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - LEASEWEB HONG KONG LIMITED ┇ 203.23.128.33
-trojan://ttfang@192.131.142.161:46639?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - LEASEWEB HONG KONG LIMITED ┇ 192.131.142.161
+trojan://685mpsvf-ryhb-29nu-tghd-axl1j3hvmpuk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://pb6i031o-9lqi-m46z-ocpk-ipqe8mg52eco@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6l0d3r0g-tb0l-520w-7n5b-2m6vs167cyat@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://e23ixtlz-on99-l6ez-4ckv-gfsovewxej6s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@203.9.150.104:443?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edccy.ambercc.filegear-sg.me#HK 🇭🇰 ┇ VLESS-WS-TLS - LEASEWEB HONG KONG LIMITED ┇ 203.9.150.104
-trojan://04h3nv9t-k4nu-ypsn-j6kb-5iahixzfevei@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://uyhs8r2g-t9sc-d4j2-u9ki-bvdt1qpk8l0w@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

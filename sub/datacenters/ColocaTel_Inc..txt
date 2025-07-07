@@ -1,7 +1,7 @@
-trojan://0whx1va0-9ig3-v8zq-naai-4gi3k6w10e05@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://37vx1bev-018t-q3z4-gadl-v9jr8mwjeeuh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://y7iwof73-gab7-o6dc-rf0u-uuzn9hs4fca8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9nrhy4qq-sgob-qp4o-1dl3-d7cok5c42uld@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://n5nou5e8-puj4-3sik-cb7p-rkba048jyubn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://k85dqsks-4gof-ezv6-qaqv-bcd93bsnxk6h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://97u0g12v-o4ry-evhb-9n84-r1e6ecr3ojvf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://v8nhy7jq-yetq-3wh6-4leq-ll9biqs24yfo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://TELEGRAM-NUFiLTER-12a61022731d@45.129.230.75:80?type=ws&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-NTLS - ColocaTel Inc. ┇ 45.129.230.75
 vless://TELEGRAM-NUFiLTER-3f5f72a4620f@45.129.230.83:443?type=ws&security=tls&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&sni=banagh.2sedkfjeuixijd0ew9dvkcxoisiek31.blog&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - ColocaTel Inc. ┇ 45.129.230.83
-trojan://5kt6vo4j-a5vj-sjpc-cgdg-9fg9gtpxrnez@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://2xewmte4-zep8-yvgv-byn4-4blik4bf6cg2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

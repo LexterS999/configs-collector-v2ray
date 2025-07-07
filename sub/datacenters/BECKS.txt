@@ -1,7 +1,7 @@
-trojan://oe3bgolv-9zyr-lfni-toov-hotinkrs7ugy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://dtw8m1zz-wdix-p054-bm56-yzfxjp4hvcm0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rufj12n9-5ntt-3w76-vibv-gsyy7p7jdhhz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e55se32t-iwvz-ms3n-vog6-fzkg53acam8x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ltw58ze6-fgy0-uyat-5ru9-jcpyr5naetbz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://zdvbg4k6-ilm9-tn89-v202-6jz1g06kc40z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://s6k4iqif-xn5s-qvdd-cy0y-nss3552cuk80@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xy15l512-46nj-rmfj-mne0-0nh7a0xtaxwj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@141.193.27.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.13
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@141.193.27.177:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.177
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.27.213:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.213
@@ -10,4 +10,4 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@141.193.27.251:8880?type=ws&securit
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.27.29:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.29
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.27.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.63
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@141.193.27.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - BECKS ┇ 141.193.27.77
-trojan://gr5eh0kd-7wj3-knwp-j6y9-hlfajkw8tavq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://m2kqafgz-lxgu-o5sg-rqdi-1ktwnkom0rmk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

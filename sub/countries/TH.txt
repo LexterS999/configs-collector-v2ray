@@ -1,16 +1,9 @@
-trojan://wqim7wwv-8jwf-u2ru-b0v8-81mybjpdbi7l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://e2p32ec1-chw8-uyto-g1oh-96365tupyuj3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qu9w2ptd-rfvt-epzo-b414-vrioa7zp3tt8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://k2jgligg-3625-mjdz-6z54-24kh3d2qqe4m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - 453 Ladplacout Jorakhaebua ┇ 119.59.98.58
-trojan://your_password@15.220.240.255:443?sni=aws-th-bkk-1.f1rocketnode.com&peer=aws-th-bkk-1.f1rocketnode.com&security=tls#TH 🇹🇭 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.220.240.255
-vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ0FUIFRlbGVjb20gUHVibGljIENvbXBhbnkgTGltaXRlZCBcdTI1MDcgMTAzLjExNC4yMDEuNDQiLCJhZGQiOiIxMDMuMTE0LjIwMS40NCIsInBvcnQiOjQ1MjMzLCJpZCI6IjhlODc4MjFlLWMyMmEtNDRjNi1jNzQxLTQzYWI3OTFmNDdiNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ0FUIFRlbGVjb20gUHVibGljIENvbXBhbnkgTGltaXRlZCBcdTI1MDcgMTAzLjExNC4yMDIuMTU3IiwiYWRkIjoiMTAzLjExNC4yMDIuMTU3IiwicG9ydCI6MzY4NzQsImlkIjoiNjljNWVlZWEtMzc1Yi00ZTA2LWEzY2QtNTczNGMzOWZiYWRiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@th.fastsoonlink.com:40009#TH 🇹🇭 ┇ SHADOWSOCKS-TCP-NTLS - Siamdata Communication Co.,Ltd. ┇ 103.117.149.210
-vmess://eyJ2IjoiMiIsInBzIjoiVEggXHVkODNjXHVkZGY5XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2lhbWRhdGEgQ29tbXVuaWNhdGlvbiBDby4sTHRkLiBcdTI1MDcgMTAzLjk5LjExLjEzNyIsImFkZCI6IjEwMy45OS4xMS4xMzciLCJwb3J0Ijo1MzA1MiwiaWQiOiJlY2M0YTBhNy00MGJjLTQxNTktZTcwYi0wNTc0ODNiZWUyNDQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
+trojan://ituhczrb-qn25-ugyg-ayoc-0clf1j786dwd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://2qhhb5gf-i8fe-0quw-caod-xz2ed0r7lhl8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://o60ibfj1-5tkx-awq0-a43h-hjlbx5saytsy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ty6xpop0-pqp4-8z5n-o1t7-84m8b1x3tc93@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://6337837a-2b47-4e0d-a695-75c5a4a8ad51@45.144.167.46:19816?type=ws&security=tls&path=/lzjjjj666&sni=rs-hk.lzjnb.shop&fp=chrome#TH 🇹🇭 ┇ VLESS-WS-TLS - Siamdata Communication Co.,Ltd. ┇ 45.144.167.46
 vless://c1h8i2ke-30h8-9204-hi14-l1i1g2940i62@45.91.134.12:8443?type=ws&security=none&path=/vless/#TH 🇹🇭 ┇ VLESS-WS-NTLS - Siamdata Communication Co.,Ltd. ┇ 45.91.134.12
 vless://b2i1j4ni-63k1-0317-kl26-n4l4j6073l95@45.91.135.23:8443?type=ws&security=none&path=/vless/#TH 🇹🇭 ┇ VLESS-WS-NTLS - Siamdata Communication Co.,Ltd. ┇ 45.91.135.23
-trojan://ttfang@171.103.232.58:20475?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#TH 🇹🇭 ┇ TROJAN-TCP-TLS - TRUE INTERNET Co.,Ltd. ┇ 171.103.232.58
 vless://948f6596-66f9-4707-aa92-3107a214ce53@171.103.13.77:30157?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#TH 🇹🇭 ┇ VLESS-WS-TLS - TRUE INTERNET Co.,Ltd. ┇ 171.103.13.77
-trojan://27fchhly-u7p4-3vfh-29az-lui6d26qhqta@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://l9q7xsb4-u357-sh8y-r34h-0mt5nhmnfvx4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

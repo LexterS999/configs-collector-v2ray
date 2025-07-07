@@ -1,7 +1,7 @@
-trojan://ikfnwfpf-2vd8-vpxy-uaii-er1agn29uy8r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://61crmz8l-xci2-e4nj-f879-h7en15xlkeld@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://sxmyxeiv-zdtd-10id-jexl-q274m4y7zx5g@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3gcm7iny-qm5i-u6j9-v8u3-o2zg3cptph02@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9crvqx12-rkzb-qfxf-zbhj-5ad2b495uyvv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://kydhyfet-demx-8bat-emcw-j4ltgurvjgi3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://27yr3xds-0k8k-lgt5-27tp-50yz7dupw8vi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nqnjhzes-vx0m-1j7e-eif1-z9bntsjq7p7p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@jalurtepat.com:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shorekeeper.cloudns.org&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - NAMECHEAP-NET ┇ 162.0.232.190
 vless://4f17e173-4af9-5041-9662-f6c27e0decfd@wearestand.com:80?type=ws&security=none&path=/opentunnel?user=opentunnel.net-wearestandgroup1#US 🇺🇸 ┇ VLESS-WS-NTLS - NAMECHEAP-NET ┇ 192.64.119.120
-trojan://jdfabam3-smj5-0136-31ly-r719wlinufkk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qndd8cuz-kfj0-htly-kq0m-9jgsv6hdwx30@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

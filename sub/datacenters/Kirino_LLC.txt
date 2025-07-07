@@ -1,10 +1,6 @@
-trojan://ef5e4av0-vyx5-8oop-8j5f-dumz0oma69wv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://8uja6goc-8hlq-uu4l-3f8h-9swuhza4jig9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://aodjfz0z-0qte-3yzq-a1ye-m7ijayu04e6x@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zl17pn6u-hqwn-j89z-aw6b-d72oqtfggob8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://WpfQAbO2wg@45.9.10.103:443?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 45.9.10.103
-trojan://Aimer@185.148.13.158:587?sni=agepy.aimercc.filegear-sg.me&peer=agepy.aimercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 185.148.13.158
-trojan://Aimer@185.218.7.155:6667?sni=epcci.ambercc.filegear-sg.me&peer=epcci.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Kirino LLC ┇ 185.218.7.155
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS2lyaW5vIExMQyBcdTI1MDcgMzguNTkuMjQzLjEzMyIsImFkZCI6IjM4LjU5LjI0My4xMzMiLCJwb3J0Ijo4MCwiaWQiOiI1OGM3NmQ3NS01NjNjLTQ2OTQtODRjNC1hNzk4ZDU1ZTkwZWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
+trojan://u70wjlbk-1w2j-iigf-6qz4-mv4seyi4qd5g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://hmmq2eei-j4kg-o5jc-1qur-xtnimw8d6kb4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bg8eokko-t64i-mmq1-ba1g-0hgr1zohyv8i@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6swae2bh-tte8-mwqr-l0ii-wi50b5khlyt0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f14506ed-d55f-4b04-dc11-5282a5924ab4@sjc.aloofly.eu:24158?type=tcp&security=tls&sni=sjc.aloofly.eu&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - Kirino LLC ┇ 185.218.7.156
-trojan://480w5d6m-unlc-fvsv-ne20-jk5cbkzf8mcb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://t1cklrds-cd05-97nr-7px3-6ry1s3ua4es5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,20 +1,14 @@
-trojan://gh53l39d-8bwd-lc8d-enhd-jobd3ayd22tz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://q1ws75pt-3z4z-1vsf-pc0s-568zt0euo7fq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pnvia91o-9yr8-3sub-cgg2-prqy9pwk8yp7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ycq0uw11-api4-jpkh-d8ua-w9k2p0wmbtrl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sem3vodw-bcm3-8d2u-c9kv-5v0ibnfxk1s2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://k0i0ragz-v3ej-a5xn-yzk7-zpqkzdwhfoc7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://cey0rs63-w1xe-zibu-v70h-5xsllahvj3z7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://t5x9el4i-me89-rfmy-x716-skakmgnctg5q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://36977f8b-97b3-4b69-bc67-4c63a5a88e42@194.87.240.190:59842?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - ASNET ┇ 194.87.240.190
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@rusrv.vmagnum.win:57456#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 185.193.102.7
 vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&sid=86#FI 🇫🇮 ┇ VLESS-TCP-RLT - ASNET ┇ 94.156.116.5
 vless://ItsLegendaryking@212.193.2.142:443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-RLT - ASNET ┇ 212.193.2.142
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVNORVQgXHUyNTA3IDEwMy4xMzYuMTUwLjE1NSIsImFkZCI6IjEwMy4xMzYuMTUwLjE1NSIsInBvcnQiOjgwLCJpZCI6IjUzNTk4NDAxLTMxZTEtNGNlMy1iYjJlLTZjMDBhOGZjM2UwMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-ss://YWVzLTI1Ni1nY206YjhlZjQ2ZmVmYzNjYWMzNg@103.115.18.246:50120#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 103.115.18.246
 vless://6308d45b-ace4-495f-87a2-d1f9aad7729d@194.58.34.91:2020?type=grpc&security=none#LV 🇱🇻 ┇ VLESS-GRPC-NTLS - ASNET ┇ 194.58.34.91
 vless://82290ec7-0355-4326-9a80-780aafd7d0fe@62.76.239.176:28402?type=tcp&security=none#LV 🇱🇻 ┇ VLESS-TCP-NTLS - ASNET ┇ 62.76.239.176
 vless://Parsashonam-255@193.124.49.40:443?type=tcp&security=reality&sni=miro.com&fp=chrome&pbk=LvhboN12zGLBdlvVLEhSbl0ad_lijW1-D_TTP5n9UlE&sid=360557aa#NL 🇳🇱 ┇ VLESS-TCP-RLT - ASNET ┇ 193.124.49.40
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvRlhWWGxHNnY0TmhHTXl4alFxUVFn@193.124.46.196:53024#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - ASNET ┇ 193.124.46.196
-trojan://Aimer@91.149.239.198:443?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ASNET ┇ 91.149.239.198
-trojan://Aimer@91.149.239.122:443?sni=epccy.ambercc.filegear-sg.me&peer=epccy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ASNET ┇ 91.149.239.122
-trojan://Aimer@91.149.239.62:443?sni=epcci.ambercc.filegear-sg.me&peer=epcci.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ASNET ┇ 91.149.239.62
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@207.174.31.150:443?type=ws&security=tls&path=/blue&sni=cg.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - ASNET ┇ 207.174.31.150
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@91.149.239.122:443?type=ws&security=tls&path=/?ed&sni=mmdserver.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - ASNET ┇ 91.149.239.122
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@91.149.239.70:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - ASNET ┇ 91.149.239.70
-trojan://q95lylmg-8m78-jfw5-r26b-3tnwplj8el2x@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3n4v3y10-5ktx-olxu-zt3m-y0n168nl4ojc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,6 @@
-trojan://4hlvnsbv-3p3c-xazf-o24t-52c1y9zrzziv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://jup7783b-oiru-7csu-wuum-8c0buu7d9776@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b8z99csh-u7a1-21ss-gfw7-wcjvflzjuf3k@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://00kzmlwu-6qyq-8guz-fgve-zz6o7nfr59y3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jnze1aoa-2ifp-u16d-9g9r-idkuq94vsw46@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://i30jgmot-1f66-zjyh-h38q-9710lmqyoow3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://s65srjd0-x4rc-tm75-3qxm-z21y1url3mvd@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://y75scyst-elab-50vh-9q3p-1pnmznxqxoju@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ffbcd962-980f-4b80-a1d4-674b484785cf@88.214.58.123:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - aurologic GmbH ┇ 88.214.58.123
-trojan://nl5ol9qj-q67k-mxnk-khe5-21ve3cj7nhrl@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://od7ebbjt-zk9y-le17-8nrm-dislwqgc5yhf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

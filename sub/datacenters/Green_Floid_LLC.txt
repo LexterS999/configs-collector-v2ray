@@ -1,19 +1,11 @@
-trojan://arukvlol-e3kf-qxcy-rtvg-22334awj6vzv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://fkg4tv33-zhep-svd5-8z0h-uhnlf8jk7xqz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pj4jgncv-k9ql-3w23-4gq1-sj99298abbvy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://14a6dssg-7xte-21ro-gfhm-f9jo50h1pkk1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://yh4e9bea-cjir-xlgh-1nlu-kliv77teacd4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://nd8pcmry-x1fn-k394-xfdc-hyu4yawraxr1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nn95b624-mc36-0rh3-5et8-9fmg61jqd4xg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://uw76ex3f-bjmy-8axs-h0vd-7eemja2876d7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5b2b6e7a-fc72-4823-9ee5-733ec0b6a882@45.90.57.107:80?type=ws&security=none&path=/vless#CH 🇨🇭 ┇ VLESS-WS-NTLS - Green Floid LLC ┇ 45.90.57.107
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@91.90.193.159:443?type=ws&security=tls&sni=0926.qiang2000.link#CH 🇨🇭 ┇ VLESS-WS-TLS - Green Floid LLC ┇ 91.90.193.159
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeWk0RkRlNEZkclRHM3JVcG5h@195.123.246.15:51348#CZ 🇨🇿 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 195.123.246.15
-trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - Green Floid LLC ┇ 92.118.149.85
-trojan://5y8y3CwxRVYhyfSY@185.253.46.105:443?sni=ce.rutracker-cn.com&peer=ce.rutracker-cn.com&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - Green Floid LLC ┇ 185.253.46.105
-trojan://kGrwqmB1nEKUsDwE@185.253.46.121:443?security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - Green Floid LLC ┇ 185.253.46.121
 vless://00ae2be4-ad8c-4650-a543-569a5d2431a7@82.118.19.162:8443?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - Green Floid LLC ┇ 82.118.19.162
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTloT05jcDRMbVd1OENrNmhFUE0zNHR0ODlFcUFKNTBrN0ZiUkJkckJieGpYMW4@195.123.213.12:31348#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 195.123.213.12
 vless://72430a6d-e6e4-49aa-a327-291308963243@185.14.31.89:5779?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Green Floid LLC ┇ 185.14.31.89
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@94.142.255.97:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#PL 🇵🇱 ┇ VLESS-WS-TLS - Green Floid LLC ┇ 94.142.255.97
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzaHdvZ2hSaWE@195.28.182.217:51348#UA 🇺🇦 ┇ SHADOWSOCKS-TCP-NTLS - Green Floid LLC ┇ 195.28.182.217
-trojan://d2adff89-5143-4d67-921f-3478464de5bb@130.0.236.88:443?sni=ua.freeguard.org&peer=ua.freeguard.org&security=tls#UA 🇺🇦 ┇ TROJAN-TCP-TLS - Green Floid LLC ┇ 130.0.236.88
-trojan://Aimer@195.123.240.40:81?sni=epmf.ambercc.filegear-sg.me&peer=epmf.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Green Floid LLC ┇ 195.123.240.40
-trojan://3828095943467868160@5.34.178.225:443?sni=trusty-mayfly.dolphin109.quest&peer=trusty-mayfly.dolphin109.quest&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - Green Floid LLC ┇ 5.34.178.225
-trojan://319s7o0g-aci1-gbh7-i587-m4kdnypqftcl@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://55520747-311e-4015-83ce-be46e2060ce3@195.123.240.40:81?type=ws&security=none&sni=cl.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - Green Floid LLC ┇ 195.123.240.40
+trojan://o82tlpnp-fmf8-zfge-9nno-rnz0ixomgy51@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

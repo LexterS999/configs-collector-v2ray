@@ -1,6 +1,6 @@
-trojan://lo5mfz35-keq4-ssrw-ceh6-t057uhwpxb4i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://s4n2o50j-pbct-noy5-n65g-qq7yxg5xrh2s@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hoftfu6j-rlzq-jz84-0y16-h9a1aszomm74@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ids7fd8t-7157-488p-ameq-bhn1y7epcql2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8dwc2u0l-8hpu-td8h-ygf7-yzu1k8p1fx1e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://cc2h7na0-kmzb-t67g-omsg-x0zw6ouoktw9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rd4wwnfb-8vx7-a9z7-kyn8-wjmpex9v88qo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5yssyxml-gg1o-ig0c-t4zu-sptv9ksmp9xb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.145.210.76:55555?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - ENZUINC ┇ 38.145.210.76
-trojan://6u04d9mf-675b-bpzm-8d9h-8nyz2eqs9le1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://47bs3rqg-1dme-1tmc-xmbc-azq41h5mdjcn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

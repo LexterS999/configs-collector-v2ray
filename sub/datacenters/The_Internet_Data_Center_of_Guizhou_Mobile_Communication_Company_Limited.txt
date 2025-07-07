@@ -1,6 +1,6 @@
-trojan://p9l8yty6-73en-m2a6-kwih-1cz76339bhs3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://mfbrowjj-1ec7-pntc-kz6u-xtgauy5omt8t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9guzvcd9-rfut-97nz-m9fv-g6v5lg5z5ti5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jjg29m6q-3dby-ppxo-ql7t-rpppjk3xi3fr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://5ez6cogd-w62u-1b7c-pbx6-7zj0avy66odo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://60feezx5-vm0t-wonj-sexw-vx4z4qwa232f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://l1yt62x3-qmzf-pp8g-06nb-cq243nw321zj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://79qao4zj-t04w-12c6-hwsq-fgm0odf4jrjd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&security=tls&path=/?ed=2560&sni=vlee.amclubs.nyc.mn&fp=randomized#CN 🇨🇳 ┇ VLESS-WS-TLS - The Internet Data Center of Guizhou Mobile Communication Company Limited ┇ 117.187.185.76
-trojan://900w0246-qolz-ugvi-5vgf-sbyy4jgtfa8s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://0gu1cr3w-234f-x0mq-8htl-ddmx0loqn96a@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

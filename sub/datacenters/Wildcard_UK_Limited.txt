@@ -1,6 +1,6 @@
-trojan://dscck5v0-cg3r-4c24-qqom-bnjk6xw4z7xq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://m1nnx5u0-y42m-z5jk-rinj-3seh0d74gvfb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4q1qt63d-ah62-m66f-y8cz-166a6zi1b83z@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1dui6h7w-sw7o-t5y0-lzpr-9y7pondlt8af@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://w795o5o2-69uy-5o12-x8n6-79ghhn4l1w9h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://ohfs8em4-t5yl-sju6-59oq-6twp7gqmicmx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g2mdiqlj-7stv-iy0w-nuej-6e9zn2d3jadm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://z7wghjzm-62vv-fzb4-ardo-jgr0zvagmu3l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://088472ec-700f-4735-9201-8cf6a73f0851@makefree.internet.000.pe:25885?type=tcp&security=tls&sni=makefree.internet.000.pe&fp=random&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - Wildcard UK Limited ┇ 185.27.134.19
-trojan://r3hvwygf-bj4q-87or-uqr8-g2qt8w7kxs3z@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://i86krwyh-f80s-5toy-ks0g-1rtjiun6xxw6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

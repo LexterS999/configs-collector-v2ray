@@ -1,10 +1,7 @@
-trojan://m94bh26i-rkmu-38me-pl8k-sd6oel333x60@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://tr5efjjk-i6ch-oy38-q0yn-ibfcfjnn2ov1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ty3ei7dq-hcfr-1x3i-oz16-jo1pjwzx5v7w@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ovgcg6dj-y0lv-p6un-bz9c-3ihqzsgt7l6l@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - ''it Fruit'' S.r.l. ┇ 185.153.197.5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpETTAzOTVMVnF4eWw@45.145.0.31:51348#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Alexhost Srl ┇ 45.145.0.31
-trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.67.229.222:443?sni=morse-stank-most.stark-industries.solutions&peer=morse-stank-most.stark-industries.solutions&security=tls#MD 🇲🇩 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 45.67.229.222
+trojan://o6yu0hd8-dqwm-pihx-npl5-hm9zq7zrogb5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://mwkzlz9d-5ow4-itx9-ntu9-yjh3sdtm99f6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yn4x032x-rzaf-o8av-055o-3j2fbsnegkav@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kgrpv7vo-8gaq-j3bg-fgz8-mjaiwitqqhiu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b2c3d4e5-f6g7-8901-bcde-2345678901bc@45.142.214.124:443?type=grpc&security=tls#MD 🇲🇩 ┇ VLESS-GRPC-TLS - Pq Hosting Plus S.r.l. ┇ 45.142.214.124
 vless://g7h8i9j0-k1l2-3456-0123-7890123456gh@45.142.214.125:443?type=grpc&security=tls#MD 🇲🇩 ┇ VLESS-GRPC-TLS - Pq Hosting Plus S.r.l. ┇ 45.142.214.125
 vless://m3n4o5p6-q7r8-9012-6789-3456789012mn@45.142.214.126:443?type=grpc&security=tls#MD 🇲🇩 ┇ VLESS-GRPC-TLS - Pq Hosting Plus S.r.l. ┇ 45.142.214.126
@@ -20,5 +17,4 @@ vless://cc8ee26f-ff3c-40e7-ab93-c0c7a144a55f@213.159.78.23:443?type=tcp&security
 vless://79683a15-ebb2-4881-858e-a50e9553a371@45.142.212.154:443?type=tcp&security=reality&sni=dl.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=XsYCCmBu2xaOyGvjxzwjNmsqgsziY2vJ7N3JfQBDVXs&sid=e4ebe3ba#MD 🇲🇩 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.142.212.154
 vless://cea58936-d8e5-406e-8683-738485d4a17e@45.67.229.166:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cT#MD 🇲🇩 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.67.229.166
 vless://0878eb75-6121-6138-8f06-1aed31aeabe0@noads.saitsazs.ir:1443?type=tcp&security=reality&sni=refersion.com&fp=safari&flow=xtls-rprx-vision&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#MD 🇲🇩 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.142.212.217
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@45.153.124.90:989#MD 🇲🇩 ┇ SHADOWSOCKS-TCP-NTLS - Trabia SRL ┇ 45.153.124.90
-trojan://4az05ov7-znzn-f02f-t3k1-ma1oqcp0kjsm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://k2ixdkd1-wt33-t04v-q9md-df2565v5h3ww@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,12 +1,9 @@
-trojan://pag7gxsg-9jja-owk0-spgk-ydyvnss3xd8i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://y2cf8vlb-wpb7-aptn-6rwy-rc8bd1jhb6rm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://87wlvaz3-yppl-myzp-jrqh-o4gm6y84mhmz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ijzfqehv-883j-vfh6-ycz7-n6yidr73agk9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://juzi@217.160.216.30:443?sni=juzi8186-sr1.pages.dev&peer=juzi8186-sr1.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - IONOS SE ┇ 217.160.216.30
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSU9OT1MgU0UgXHUyNTA3IDIxNy4xNjAuNDUuMzEiLCJhZGQiOiIyMTcuMTYwLjQ1LjMxIiwicG9ydCI6ODg4MCwiaWQiOiI0ZTE4NjY3OC1mY2NhLTQzMjUtZTRiYy1iMjkxNmJkZjY3MDgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
+trojan://azeft9vy-0kap-aeai-a1tl-4a5uf6ltpbv6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://b4xyvil8-gvj4-mhdn-wku3-5uzmqjzzpysv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://756piju2-30d8-amx7-chwh-p9cm0mu7tf8i@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://v4rsguqx-qlim-5nbr-3ajl-okdhy4vh0t0e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://fc801d0c-a1a5-4ba4-b256-6b76b1ce4efd@1237273737goodfiru.mongral.ir:443?type=tcp&security=none&sni=speedtest.net#DE 🇩🇪 ┇ VLESS-TCP-NTLS - IONOS SE ┇ 217.154.220.28
 vless://f46ad8d7-f22c-40fc-d0b2-5db602a6d815@82.165.77.122:2083?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - IONOS SE ┇ 82.165.77.122
 vless://33453e54-dd1d-486c-8415-02892db0a0f5@85.215.250.229:443?type=xhttp&security=reality&path=/&sni=google.com&fp=chrome&pbk=DGei53BP-DjJoMksZSREjZcei7mCPTxUeru1_SPL5DQ&sid=4e03f70e8f06cc#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - IONOS SE ┇ 85.215.250.229
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdnNqUTBPWjVuR1FYREdmemZXWmY1@212.227.146.33:443#ES 🇪🇸 ┇ SHADOWSOCKS-TCP-NTLS - IONOS SE ┇ 212.227.146.33
 vless://5125eabf-8d91-4ed6-9d96-1ecbd0644e7f@66.179.243.212:443?type=ws&security=tls&path=/&sni=vkvd127.mycdn.me&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - IONOS SE ┇ 66.179.243.212
-trojan://42tzrml8-uxlj-x2yf-zzxq-0hz9fcfa0cv2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://tjdaniew-n83i-99cn-kx05-y5c97ll58l08@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

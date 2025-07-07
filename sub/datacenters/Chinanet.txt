@@ -1,25 +1,6 @@
-trojan://arh6y86w-5g5k-bogg-mqoo-ssm3i3qhyzyv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
-trojan://pgif35o6-upb4-26h4-hre0-5trbzz17ehlx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://63dcjx0j-p2ah-29qr-vfeu-9gtjkq2su35f@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://45qkkynl-2est-y7t1-k75c-7gs62ysl326n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 113.99.143.13
-ss://YWVzLTI1Ni1nY206QkdYOE9YRDZQMTBYNTNMWQ@219.135.227.209:17001#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 219.135.227.209
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs1.jymzffbquawl.com:3607#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 59.42.247.242
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@pr1.jymzffbquawl.com:3600#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 59.42.247.247
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@pr3.jymzffbquawl.com:3036#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 59.42.247.246
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs3.jymzffbquawl.com:6603#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 59.42.247.243
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MjE0YjhlMS01ZWVkLTRiMzYtOWVmNS00MmMyZjkxNWJkMGU@183.2.150.137:15028#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 183.2.150.137
-ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VVZwV1JrNUhXbGs0TWpVelRGcFpVQQ@14.215.40.18:18008#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 14.215.40.18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MjE0YjhlMS01ZWVkLTRiMzYtOWVmNS00MmMyZjkxNWJkMGU@a.moeya.cc:15028#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 59.42.247.193
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Y2FhcnJhZHNmYXNnZmRjeHg@itch1ub.ns.p36958.xyz:8123#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 183.36.41.69
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24002#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 14.29.124.168
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11003#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Chinanet ┇ 14.29.124.174
-trojan://616F5C28-A1B2-D7C7-2F5D-46AC56436130@bldgz.linkcubecloud.dev:8306?sni=cos.ap-guangzhou.myqcloud.com&peer=cos.ap-guangzhou.myqcloud.com&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 113.108.0.53
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@14.215.39.158:3462?sni=45.32.28.232&peer=45.32.28.232&security=tls#CN 🇨🇳 ┇ TROJAN-TCP-TLS - Chinanet ┇ 14.215.39.158
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hbmV0IFx1MjUwNyAxNC4yMTUuNDAuMTIyIiwiYWRkIjoibGEtZGV0b3VyLTA4LmdyYWJnby5wcm8iLCJwb3J0IjoxNTUwOCwiaWQiOiJmODM3YjUxMC03MDUwLTRkZWMtYjE4Mi1hNzc3ZGMzNTg0NjkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hbmV0IFx1MjUwNyAxNC4yMTUuNDAuMTIxIiwiYWRkIjoic3otc2ctMDcuZ3JhYmdvLnBybyIsInBvcnQiOjE1NzA3LCJpZCI6ImY4MzdiNTEwLTcwNTAtNGRlYy1iMTgyLWE3NzdkYzM1ODQ2OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hbmV0IFx1MjUwNyAyMTkuMTUxLjIwLjYyIiwiYWRkIjoiMjE5LjE1MS4yMC42MiIsInBvcnQiOjQyMzI0LCJpZCI6IjQzODFiZWFlLTQ1YTYtNDQyMS04NTQ3LTY1ZTMxMmRkMjA0YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2hpbmFuZXQgXHUyNTA3IDExNy40My4xNjYuNjQiLCJhZGQiOiJibG9nLnZvZXdsLmNvbSIsInBvcnQiOjQzODE1LCJpZCI6IjdhOWYwMjZmLWY3YTgtNDBjYS1mMmY5LTNiMzgwYzI4N2MwZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiL2FiYyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2hpbmFuZXQgXHUyNTA3IDE0LjIxNS40MC4xODgiLCJhZGQiOiJzdC0yLmRuc3Byby5pY3UiLCJwb3J0Ijo1MTAwLCJpZCI6IjEzZWY1ZjJjLWQwMDItMzZhMi05ZTk2LWExM2Q1ZTNhZTAzYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoibGctaGtnLWIuZ2NvcmVsYWJzLmluZm8iLCJwYXRoIjoiL2lzbyIsInNuaSI6ImxnLWhrZy1iLmdjb3JlbGFicy5pbmZvIn0
+trojan://njd8ry5h-dazk-klvu-dxrx-x2pnfw9vsv4r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
+trojan://v3l7bn5a-r52m-otvp-9wjp-0um95j1fsorj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://aiz1mj3m-80tz-v17b-f4oi-9wurpxadpg7r@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6d6mf2oy-do8n-kt48-d3hk-3ivmms32yl3y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://98635c25-7ce5-416e-9a45-3fcadc878f93@36.62.139.178:1111?type=grpc&security=none#CN 🇨🇳 ┇ VLESS-GRPC-NTLS - Chinanet ┇ 36.62.139.178
-trojan://q1ncyah0-hswf-qoal-xb8e-cuumab9ktg31@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://2ui1cj7w-8fjh-yisj-925n-dqtff3wswl6e@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
