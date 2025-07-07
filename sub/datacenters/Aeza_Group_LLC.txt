@@ -1,0 +1,3 @@
+vless://d273fcfe-6ffe-49c9-84c0-bf920f64b8fc@split2.parsbsd.ir:443?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 217.144.184.126
+vless://f4a0d694-91ca-4372-a05e-76e6b4faf080@srv10.amazon-osishop.ir:8880?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 45.134.12.125
+vless://009cccba-c0ec-4297-9898-5115898a7246@103.71.22.3:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 103.71.22.3
