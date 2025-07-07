@@ -7,6 +7,6 @@ vless://9520a1fd-5ced-4a0f-a912-ffabccc52543@81.12.27.90:39568?type=ws&security=
 vless://fdb60214-1d03-4b83-c4b7-3d2d33c08073@81.12.27.91:21807?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 81.12.27.91
 vless://2c3e2c41-4395-4df3-e788-cb9cc82beceb@81.12.27.93:52722?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 81.12.27.93
 vless://af311145-a785-4fd9-94ec-da2974de5739@87.107.110.254:9999?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 87.107.110.254
-vless://38928290-00af-4255-9006-57df913e1f95@gama.ir:80?type=ws&security=none&path=/@custom_config?ed=2056#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 185.53.142.133
+vless://38928290-00af-4255-9006-57df913e1f95@gama.ir:80?type=ws&security=none&path=/@custom_config?ed=2056#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 185.53.142.132
 vless://d3d1ce76-114d-4bb8-bca2-db1bca282704@me.lqgap.ir:7010?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 87.107.144.201
 vless://742a8c7b-6c96-418c-8d0f-c8f49ff7d257@sun3.webbaz.pw:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 87.107.110.190

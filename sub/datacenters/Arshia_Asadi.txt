@@ -5,7 +5,6 @@ vless://080fd5bd-db7b-400b-bf04-f2b7c19965d6@xpanel-ir.panelfreedom.com:2092?typ
 vless://38e6d66d-89b4-4a1a-b0fc-b8e8f2b510d9@nim.france-learns.ir:42535?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.113
 vless://5fbe83c8-8211-4a99-b0a1-653ad9930549@45.159.148.196:1106?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.196
 vless://c83c3b86-6520-4813-b16e-a0d3a8a9ee2c@45.159.148.76:55956?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.76
-vless://fb224824-0cef-4dde-829b-91ee0277bf06@alfa.subscrib.sbs:4246?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.49
 vless://fbdeee96-6152-42ba-a83c-db80d8ea2651@45.159.148.139:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.139
 vless://6b279116-4754-4037-9f90-a18131b312dd@45.159.148.153:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.153
 vless://00a86b74-d101-4105-afc0-0579aecbafc5@45.159.148.165:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.165
@@ -15,6 +14,5 @@ vless://fb0a3726-2bc4-475d-a157-87f2b349214e@45.159.148.48:4243?type=tcp&securit
 vless://fb0a3726-2bc4-475d-a157-87f2b349214e@45.159.148.49:4243?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.49
 vless://e20c0278-5cf2-4657-8ea2-f4f0033f82ef@45.159.148.54:10597?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.54
 vless://fa220dbd-8223-4ab5-a574-239885fead2b@45.159.148.66:5050?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.66
-vless://f11b459a-b505-4530-a883-59d5b8c51b64@alfa.subscrib.sbs:4242?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.49
 vless://cd70b456-190d-4f41-bdc3-6139252353dd@multinl.sataroyuyu.xyz:26570?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.180
 vless://05f55d35-b6fb-4db5-afad-f6ddcf0b095f@syntax.leaksfa.com:3547?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.205

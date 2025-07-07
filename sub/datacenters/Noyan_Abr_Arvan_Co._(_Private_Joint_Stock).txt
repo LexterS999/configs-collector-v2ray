@@ -1,8 +1,9 @@
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE5veWFuIEFiciBBcnZhbiBDby4gKCBQcml2YXRlIEpvaW50IFN0b2NrKSBcdTI1MDcgMzcuMTUyLjE4MS4xMzgiLCJhZGQiOiIzNy4xNTIuMTgxLjEzOCIsInBvcnQiOjUwNTAsImlkIjoiYTc3YzMwMjYtYjI5Ny00N2Q1LWM4MzctYjE4YjY0MTk4ZDBiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAifQ
 vless://0f307e5d-f3ef-4c16-b63f-0588f5ccb2a0@37.152.190.244:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 37.152.190.244
 vless://19d8dc59-1201-48ca-8b91-a5b75ead89ec@grizzly.grizzlyshoppp.shop:6235?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.226.117.168
-vless://363e8aaa-2677-470c-ae82-23968cf9259b@snapp.ir:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.234.120
+vless://363e8aaa-2677-470c-ae82-23968cf9259b@snapp.ir:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.233.120
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@185.143.235.201:443?type=ws&security=tls&path=/R8vYH26j2wZpwD4O?ed2048&sni=mydigipay.com&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.235.201
+vless://3c674b63-9a37-4f9f-874a-339256e75f40@185.143.233.200:443?type=ws&security=tls&path=/?ed=443&sni=kanoon.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.233.200
 vless://48e54f66-73f6-49c7-a0b5-5937e20d4abd@join.telegram.baleping.top:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 94.101.187.29
 vless://522121a7-84bf-4ef9-9fe3-e373d753099b@185.143.233.120:443?type=ws&security=tls&path=/?ed=443&sni=isna.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.233.120
 vless://522121a7-84bf-4ef9-9fe3-e373d753099b@185.143.234.200:443?type=ws&security=tls&path=/?ed=443&sni=alef.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.234.200
@@ -11,14 +12,14 @@ vless://73c824a5-bc9e-4155-b8c6-d23a880995a4@185.231.183.51:36279?type=tcp&secur
 vless://7db53b99-b560-4d25-9b6d-b9bc2ee81398@185.143.232.201:2087?type=ws&security=tls&path=/&sni=vip9.nikatel.store#IR 🇮🇷 ┇ VLESS-WS-TLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.232.201
 vless://7db53b99-b560-4d25-9b6d-b9bc2ee81398@185.143.235.201:2087?type=ws&security=tls&path=/&sni=vip9.nikatel.store#IR 🇮🇷 ┇ VLESS-WS-TLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.235.201
 vless://914b24f0-ad36-447a-8807-d6fdff103afb@185.143.235.201:2083?type=ws&security=tls&path=/BmHlLvr3qZOOinuP?ed&sni=snapp.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.235.201
-vless://I_Love_🇵🇸_sshOcean_1b24@185.143.233.120:80?type=ws&security=none&path=/vless#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.233.120
+vless://Telegram@FNET00@Am20094@188.121.126.69:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 188.121.126.69
 vless://b07ad968-2580-403e-9fb4-844a1449e6b4@arv1.lalash.ir:48037?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 37.32.25.57
 vless://d85a89f0-f90a-47a7-ba3f-7b354bd1810a@ger1bot-ir.headerip.com:8331?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 188.121.123.150
 vless://deef7b6a-9198-4fd4-ad80-539be26a754a@37.152.183.131:35021?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 37.152.183.131
 vless://f480fb21-d461-4d74-a70f-78226a5e83ec@fl-vip.digitalldns.net:8070?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 37.152.190.184
 vless://f7989975-35fd-4bdb-b636-fbd4327e9006@fl-vip.digitalldns.net:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 37.152.190.184
 vless://fa8fe712-142c-46d7-9a4b-77032d34bd30@f1.arshiashop.org:2086?type=ws&security=none&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 37.152.183.206
-vless://Telegram@FNET00@Am20094@188.121.126.69:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 188.121.126.69
+vless://fb224824-0cef-4dde-829b-91ee0277bf06@alfa.subscrib.sbs:4246?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 37.152.188.80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.153:443?type=ws&security=tls&path=/H?ed=2560&sni=behdasht.hrtc.ir&fp=randomized#IR 🇮🇷 ┇ VLESS-WS-TLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ N/A
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.228:443?type=ws&security=tls&path=/H?ed=2560&sni=behdasht.hrtc.ir&fp=randomized#IR 🇮🇷 ┇ VLESS-WS-TLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ N/A
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.97:443?type=ws&security=tls&path=/H?ed=2560&sni=behdasht.hrtc.ir&fp=randomized#IR 🇮🇷 ┇ VLESS-WS-TLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ N/A
@@ -46,6 +47,7 @@ vless://4c183cd1-0079-45ce-9204-4360a643601c@185.143.234.120:2052?type=ws&securi
 vless://778bef22-7ac1-47b4-940b-53e848952ca5@185.143.234.120:2086?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.234.120
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.120:443?type=ws&security=tls&sni=vikimovie.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.234.120
 vless://0aca17e2-e010-c78d-372d-0b4070367d41@185.143.234.120:8080?type=ws&security=none&path=/websocket?ed=2560#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.234.120
+vless://a7413c82-3cfc-4a1d-9fd7-af1b36897f39@185.143.234.120:80?type=ws&security=none&path=/das/las#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.234.120
 vless://5a1e5c0d-92ec-44f0-86f7-add44c41aa83@185.143.234.122:8080?type=httpupgrade&security=none&path=/#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.234.122
 vless://b100bc08-4991-4f19-88a4-7c8dbfc176a2@185.143.234.143:443?type=ws&security=tls&path=/&sni=panel.faloweram.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ N/A
 vless://b1b34c65-0587-4395-d5b9-67087005fae7@185.143.234.200:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.234.200
@@ -130,8 +132,9 @@ vless://2a54636c-20ab-42cd-b725-f0da347c50e2@94.101.176.12:443?type=tcp&security
 vless://0742d3cb-f567-4075-a479-d15dcc7a3ece@94.101.176.205:2086?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 94.101.176.205
 vless://eb3aca0e-ed7c-443f-8c4f-e72486928380@94.101.176.247:2086?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 94.101.176.247
 vless://a80274e2-ff42-48b7-9817-41a5b56e0c72@networknim.cam:34927?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 188.121.106.108
+vless://f11b459a-b505-4530-a883-59d5b8c51b64@alfa.subscrib.sbs:4242?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 37.152.188.80
 vless://bda8cd7d-2be2-4e7c-86ac-9f914d23df02@arv01.catfire.site:2270?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.97.119.72
-vless://8@cert.ir:80?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.234.41
+vless://8@cert.ir:80?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.143.233.41
 vless://e8ddff9a-4320-492d-b88c-da0202014aaf@de.foxinonet.ir:443?type=ws&security=tls&path=/lw&sni=de.foxinonet.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 188.121.107.200
 vless://1984a5cd-5b66-430f-8ebe-8cba3a7d9e15@dk3.besteen.info:2082?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 188.213.198.235
 vless://4b64a202-8d86-4e56-e91a-f576ee66fe3e@jet.narkhesanj.ir:2080?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Noyan Abr Arvan Co. ( Private Joint Stock) ┇ 185.228.236.66

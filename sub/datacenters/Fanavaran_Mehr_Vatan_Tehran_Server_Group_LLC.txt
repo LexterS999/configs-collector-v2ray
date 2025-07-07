@@ -55,11 +55,13 @@ vless://29c51eaa-7168-4f3d-95b3-109379690d69@94.182.147.148:80?type=tcp&security
 vless://7c5381a0-9bea-4edb-f99a-9fa9918b5c1d@94.182.149.18:7850?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.149.18
 vless://d2a46b5c-8840-4589-885a-0f28036b558c@94.182.149.20:48820?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.149.20
 vless://c9e2b43f-a3bf-4cb4-9e21-aa40f5c7ba3c@94.182.150.200:4041?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.150.200
+vless://e2a2ba4b-8e69-449f-907f-21e5b1df27e4@anony.freaky.gg-moviz.com:42852?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.152.13
 vless://7692cef8-74bc-a5bc-6e35-0e3a21342820@anim.photoggenic.ir:4283?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.106.158
 vless://61c4e0f5-4fe2-4430-90fa-2987158b4d3b@asia2.novahomedesigntips.com:18200?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.237.102
 vless://d2a46b5c-8840-4589-885a-0f28036b558c@asia4.novahomedesigntips.com:48820?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.237.100
 vless://146d4f0a-c3dc-b0b2-4008-0ebdba26ca9c@c1.ersalb.top:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.235.27
 vless://526cb6f4-bdef-4a15-baa0-c8d7f1dad5b5@force.ir60.shop:34970?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.107.222
+vless://b2e25d71-c46a-4cf2-8710-deb7391d82a5@germany1.fiogoir-germany1.site:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.152.13
 vless://61a291cc-259a-4ca1-b788-503b21fa0bf0@hajibazari.deakhemashtiiirann.online:2020?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 37.202.228.138
 vless://62237966-b2c6-4bf9-a269-3717e1773c99@irtun.m0rt3zsh0pping2.ir:9091?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.152.99
 vless://e9f4e8cd-4fd9-73b5-2307-cb5990f93884@l84.magicnetwork.info:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Fanavaran Mehr Vatan Tehran Server Group LLC ┇ 94.182.131.45

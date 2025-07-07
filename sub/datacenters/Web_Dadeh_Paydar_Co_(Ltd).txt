@@ -8,7 +8,8 @@ vless://778bef22-7ac1-47b4-940b-53e848952ca5@fi.firephone.shop:2086?type=ws&secu
 vless://7d4dc2da-0f7b-48cb-a7c0-a8f15e28b5b3@2xhotult.youirme.com:2052?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.93.88.179
 vless://88bc3858-b31c-4a1d-9f17-9c485ae404b1@ne2sr.blushop1403.info:17160?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.0.58
 vless://9a318d23-b635-4518-a5ae-6072c1bcf1e2@81.30.108.71:58232?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 81.30.108.71
-vless://d2275c3e-5aea-4083-a886-c330f22d5e21@base.apkfa.com:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.2.36
+vless://a6bc389a-80df-43e4-adbc-e9d6ae018c43@library98.ir:54?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.240.95.61
+vless://d2275c3e-5aea-4083-a886-c330f22d5e21@base.apkfa.com:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.180
 vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@ver2.tcod008.info:28505?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.155.72.101
 vless://f8a995f7-2862-4f53-985d-3cca55d09ea2@nt.franker.shop:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 5.159.49.226
 vless://fc27ebd9-312f-47e7-b515-cbcd7a182d19@193.24.105.24:61?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.105.24
@@ -19,6 +20,7 @@ vless://a0e8f5ff-602a-4fbf-83da-f50d538c21fc@185.155.72.152:39984?type=ws&securi
 vless://64debbff-20b3-4a82-a53c-83fcbcaaba46@185.239.0.62:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.0.62
 vless://d2275c3e-5aea-4083-a886-c330f22d5e21@185.239.2.34:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.2.34
 vless://d2275c3e-5aea-4083-a886-c330f22d5e21@185.239.2.35:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.2.35
+vless://d2275c3e-5aea-4083-a886-c330f22d5e21@185.239.2.36:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.2.36
 vless://d2275c3e-5aea-4083-a886-c330f22d5e21@185.239.2.37:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.2.37
 vless://d2275c3e-5aea-4083-a886-c330f22d5e21@185.239.2.38:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.2.38
 vless://d2275c3e-5aea-4083-a886-c330f22d5e21@185.239.2.39:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.2.39
@@ -29,7 +31,6 @@ vless://d2275c3e-5aea-4083-a886-c330f22d5e21@185.239.2.43:8880?type=tcp&security
 vless://d2275c3e-5aea-4083-a886-c330f22d5e21@185.239.2.44:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.2.44
 vless://d2275c3e-5aea-4083-a886-c330f22d5e21@193.24.103.178:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.178
 vless://d2275c3e-5aea-4083-a886-c330f22d5e21@193.24.103.179:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.179
-vless://d2275c3e-5aea-4083-a886-c330f22d5e21@193.24.103.180:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.180
 vless://d2275c3e-5aea-4083-a886-c330f22d5e21@193.24.103.181:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.181
 vless://d2275c3e-5aea-4083-a886-c330f22d5e21@193.24.103.182:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.182
 vless://d2275c3e-5aea-4083-a886-c330f22d5e21@193.24.103.183:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.183
@@ -46,13 +47,13 @@ vless://3b25587c-bc05-457d-aa77-7b8cd08573aa@91.223.61.108:2003?type=tcp&securit
 vless://a306aa7f-86b5-4c52-a305-35b5795e684f@91.240.95.47:40611?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.240.95.47
 vless://1fb767e0-8a51-4c8d-bd22-32e269dd4de0@91.240.95.47:46692?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.240.95.47
 vless://5d8b8f8c-2b06-49cd-b4ea-08dee087a967@91.240.95.48:5060?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.240.95.48
-vless://6577a581-1672-4cdc-8e3d-ff2ed161e3c7@forza.minecraftr.us:2050?type=ws&security=none&path=/archive#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.2.42
+vless://6577a581-1672-4cdc-8e3d-ff2ed161e3c7@forza.minecraftr.us:2050?type=ws&security=none&path=/archive#IR 🇮🇷 ┇ VLESS-WS-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.239.2.34
 vless://358289ab-2735-4ca1-8c1a-80f040e4866e@cloud.web-pc.ir:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 81.30.108.119
 vless://c698a4d6-19b4-d47b-50b1-dbc3e0f7a4eb@de.crocodilserver.top:9005?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 88.135.72.84
 vless://9d4c4ac9-e5ec-4129-bc28-417ce0a1ce28@de.hardgaming.xyz:45817?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 194.39.248.136
 vless://b3bc00c6-d65b-4286-adc9-02134b37ae8d@dns8.mehrancloud.ir:34982?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.93.88.254
-vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@fr1vip.vnetplus.click:19094?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.131
-vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@fr1vip.vnetplus.click:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.131
+vless://f1bdbbbb-265d-49bc-aea0-53530d87135c@fr1vip.vnetplus.click:19094?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.134
+vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@fr1vip.vnetplus.click:19151?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 193.24.103.134
 vless://585a4670-f905-4043-a9a7-757c14f55621@h4.tcod008.info:28732?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 185.155.72.114
 vless://e8dc92da-89f4-4b1e-b1ba-3911c1ac8362@ir4.golden-dragon66.pw:9211?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 81.30.108.103
 vless://29242208-69c2-4b67-9300-18e04dc565bf@killhosein.jcvps.sbs:35829?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.240.95.47

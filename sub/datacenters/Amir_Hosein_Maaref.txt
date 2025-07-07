@@ -6,7 +6,7 @@ vless://2b4a6b04-9924-4206-b08a-9f0e81382efa@ir15.sogol98.com:54848?type=tcp&sec
 vless://2d981224-e967-4dbc-b752-73739a88df01@85.133.237.165:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.165
 vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58097?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 185.201.49.30
 vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.52
-vless://d1da4478-ad0f-422f-a4e8-4bd033fd7fe6@tun.gambronservice.xyz:32541?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.250
+vless://d1da4478-ad0f-422f-a4e8-4bd033fd7fe6@tun.gambronservice.xyz:32541?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.250
 vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 185.201.49.30
 vless://d3f3fd0b-7b5c-4070-d5dc-61f96641b507@185.201.49.94:58089?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 185.201.49.94
 vless://8a52d270-ed78-4f73-99fb-83d6e9c953a1@213.176.121.10:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 213.176.121.10

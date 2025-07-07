@@ -2,7 +2,7 @@ vless://5db3a167-1a04-4f2c-ab9b-771c24b5cf1d@2.189.117.62:21483?type=tcp&securit
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 185.243.49.205
 vless://0d280b77-2220-4dde-bc6a-859a668be26b@aran.mrserver.fun:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 185.243.49.211
 vless://64274cc4-6375-407c-8670-13eaf31a5eba@2.189.117.37:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.37
-vless://f43617b5-1a02-4776-bffe-85c30a27458a@trvip.irannoweb.art:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 37.32.42.188
+vless://f43617b5-1a02-4776-bffe-85c30a27458a@trvip.irannoweb.art:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.240
 vless://01860891-2645-420f-a494-a653d960f58d@185.243.49.155:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 185.243.49.155
 vless://01860891-2645-420f-a494-a653d960f58d@185.243.49.253:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 185.243.49.253
 vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.117.141:2083?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.141
@@ -19,6 +19,5 @@ vless://610a9061-8934-4200-bdf1-2fddcf6dec49@2.189.117.31:443?type=tcp&security=
 vless://4748c66f-6fd4-48ca-d64d-164af297af09@2.189.130.90:59058?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.130.90
 vless://7e8cdde3-ebf5-47a2-b6fb-290ddec5ab88@37.32.42.138:49894?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 37.32.42.138
 vless://eb1920ff-d816-4ca1-b832-4683cddebaa6@37.32.42.22:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 37.32.42.22
-vless://b3df4ad2-c2be-4e76-a5fe-37bf49ffe60c@ip-static-address.wizardxray.shop:700?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 37.32.42.49
 vless://e127d8da-1ebd-4239-859f-7a51f9a72356@uk.iranis.art:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 2.189.117.134
 vless://a1894876-1e93-4375-b29c-460527d7ebc3@vip7.rahatnet.com:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toloe Rayaneh Loghman Educational and Cultural Co. ┇ 37.32.42.62
