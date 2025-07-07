@@ -25,7 +25,7 @@ except ImportError:
 
 try:
     from rich.console import Console
-    from rich.progress import Progress, BarColumn, TextColumn, TimeRemainingColumn
+    from rich.progress import Progress, BarColumn, TextColumn, TimeRemainingColumn, SpinnerColumn
     from rich.table import Table
 except ImportError:
     print("Error: 'rich' library not found. Please run: pip install rich")
@@ -54,10 +54,9 @@ class AppConfig:
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
 
-    # Список ключевых слов для фильтрации нежелательных провайдеров (CDN и т.д.)
-    UNDESIRED_ASN_KEYWORDS: Set[str] = {
-        "cloudflare", "amazon", "fastly", "google", "alibaba", 
-        "akamai", "microsoft", "oracle", "yahoo"
+    # ИЗМЕНЕНО: Переход на Whitelist. Только провайдеры, содержащие эти слова, будут сохранены.
+    DESIRED_ASN_KEYWORDS: Set[str] = {
+        "aeza", "hetzner", "digitalocean", "g-core", "pq hosting", "global connectivity"
     }
 
     HTTP_TIMEOUT = 25.0
@@ -73,9 +72,10 @@ class AppConfig:
     ENABLE_SUBSCRIPTION_FETCHING = True
     ENABLE_IP_DEDUPLICATION = True
     
-    ENABLE_CONNECTIVITY_TEST = False 
-    CONNECTIVITY_TEST_TIMEOUT = 4
-    MAX_CONNECTIVITY_TESTS = 250
+    # НОВЫЕ ПАРАМЕТРЫ: Конфигурация для обязательной проверки доступности
+    ENABLE_CONNECTIVITY_TEST = True 
+    CONNECTIVITY_TEST_TIMEOUT = 2.0  # 2000 мс
+    CONNECTIVITY_TEST_CONCURRENCY = 40 # 40 одновременных проверок
     
 CONFIG = AppConfig()
 console = Console()
@@ -102,7 +102,7 @@ COUNTRY_CODE_TO_FLAG = {
     'GY': '🇬🇾', 'HK': '🇭🇰', 'HN': '🇭🇳', 'HR': '🇭🇷', 'HT': '🇭🇹', 'HU': '🇭🇺', 'ID': '🇮🇩', 'IE': '🇮🇪', 'IL': '🇮🇱', 'IM': '🇮🇲', 'IN': '🇮🇳', 'IO': '🇮🇴', 'IQ': '🇮🇶', 'IR': '🇮🇷', 'IS': '🇮🇸', 'IT': '🇮🇹', 'JE': '🇯🇪', 'JM': '🇯🇲',
     'JO': '🇯🇴', 'JP': '🇯🇵', 'KE': '🇰🇪', 'KG': '🇰🇬', 'KH': '🇰🇭', 'KI': '🇰🇮', 'KM': '🇰🇲', 'KN': '🇰🇳', 'KP': '🇰🇵', 'KR': '🇰🇷', 'KW': '🇰🇼', 'KY': '🇰🇾', 'KZ': '🇰🇿', 'LA': '🇱🇦', 'LB': '🇱🇧', 'LC': '🇱🇨', 'LI': '🇱🇮', 'LK': '🇱🇰',
     'LR': '🇱🇷', 'LS': '🇱🇸', 'LT': '🇱🇹', 'LU': '🇱🇺', 'LV': '🇱🇻', 'LY': '🇱🇾', 'MA': '🇲🇦', 'MC': '🇲🇨', 'MD': '🇲🇩', 'ME': '🇲🇪', 'MF': '🇲🇫', 'MG': '🇲🇬', 'MH': '🇲🇭', 'MK': '🇲🇰', 'ML': '🇲🇱', 'MM': '🇲🇲', 'MN': '🇲🇳', 'MO': '🇲🇴',
-    'MP': '🇲🇵', 'MQ': '🇲🇶', 'MR': '🇲🇷', 'MS': '🇲🇸', 'MT': '🇲🇹', 'MU': '🇲🇺', 'MV': '🇲🇻', 'MW': '🇲🇼', 'MX': '🇲🇽', 'MY': '🇲🇾', 'MZ': '🇲🇿', 'NA': '🇳🇦', 'NC': '🇳🇨', 'NE': '🇳🇪', 'NF': '🇳🇫', 'NG': '🇳🇬', 'NI': '🇳🇮', 'NL': '🇳🇱',
+    'MP': '🇲🇵', 'MQ': '🇲🇶', 'MR': '🇲🇷', 'MS': '🇲🇸', 'MT': '🇲🇹', 'MU': '🇲🇺', 'MV': '🇻', 'MW': '🇲🇼', 'MX': '🇲🇽', 'MY': '🇲🇾', 'MZ': '🇲🇿', 'NA': '🇳🇦', 'NC': '🇳🇨', 'NE': '🇳🇪', 'NF': '🇳🇫', 'NG': '🇳🇬', 'NI': '🇳🇮', 'NL': '🇳🇱',
     'NO': '🇳🇴', 'NP': '🇳🇵', 'NR': '🇳🇷', 'NU': '🇳🇺', 'NZ': '🇳🇿', 'OM': '🇴🇲', 'PA': '🇵🇦', 'PE': '🇵🇪', 'PF': '🇵🇫', 'PG': '🇵🇬', 'PH': '🇵🇭', 'PK': '🇵🇰', 'PL': '🇵🇱', 'PM': '🇵🇲', 'PN': '🇵🇳', 'PR': '🇵🇷', 'PS': '🇵🇸', 'PT': '🇵🇹',
     'PW': '🇵🇼', 'PY': '🇵🇾', 'QA': '🇶🇦', 'RE': '🇷🇪', 'RO': '🇷🇴', 'RS': '🇷🇸', 'RU': '🇷🇺', 'RW': '🇷🇼', 'SA': '🇸🇦', 'SB': '🇸🇧', 'SC': '🇸🇨', 'SD': '🇸🇩', 'SE': '🇸🇪', 'SG': '🇸🇬', 'SH': '🇸🇭', 'SI': '🇸🇮', 'SJ': '🇸🇯', 'SK': '🇸🇰',
     'SL': '🇸🇱', 'SM': '🇸🇲', 'SN': '🇸🇳', 'SO': '🇸🇴', 'SR': '🇸🇷', 'SS': '🇸🇸', 'ST': '🇸🇹', 'SV': '🇸🇻', 'SX': '🇸🇽', 'SY': '🇸🇾', 'SZ': '🇸🇿', 'TC': '🇹🇨', 'TD': '🇹🇩', 'TF': '🇹🇫', 'TG': '🇹🇬', 'TH': '🇹🇭', 'TJ': '🇹🇯', 'TK': '🇹🇰',
@@ -538,46 +538,48 @@ class ConfigProcessor:
         self.parsed_configs: Dict[str, BaseConfig] = {}
         self.total_raw_count = sum(len(v) for v in raw_configs_by_type.values())
         self.allowed_protocols = {'vless', 'vmess'}
+        self.passed_connectivity_test_count = 0
 
     async def process(self):
         console.log(f"Processing {self.total_raw_count} raw config strings...")
 
+        # 1. Парсинг
         all_parsed_configs: List[BaseConfig] = []
         for config_type, configs in self.raw_configs_by_type.items():
             for uri in configs:
                 parsed = V2RayParser.parse(uri, source_type=config_type)
                 if parsed:
                     all_parsed_configs.append(parsed)
-        
         console.log(f"Successfully parsed {len(all_parsed_configs)} configs.")
 
+        # 2. Фильтрация по протоколу
         filtered_by_protocol = [c for c in all_parsed_configs if c.protocol in self.allowed_protocols]
-        discarded_count = len(all_parsed_configs) - len(filtered_by_protocol)
-        if discarded_count > 0:
-            console.log(f"Protocol filter discarded {discarded_count} configs (e.g., trojan, ss). {len(filtered_by_protocol)} remaining.")
+        console.log(f"Protocol filter kept {len(filtered_by_protocol)} configs (vless/vmess).")
         
+        # 3. Дедупликация по URI
         for config in filtered_by_protocol:
             key = config.get_deduplication_key()
             if key not in self.parsed_configs:
                 self.parsed_configs[key] = config
         console.log(f"Deduplication by URI resulted in {len(self.parsed_configs)} unique configs.")
 
+        # 4. Определение геолокации
         await self._resolve_geo_info()
         
-        self._filter_by_asn()
+        # 5. Фильтрация по Whitelist'у провайдеров
+        self._filter_by_desired_asn()
 
-        if CONFIG.ENABLE_IP_DEDUPLICATION:
-            self._deduplicate_by_endpoint()
-
+        # 6. Обязательная проверка доступности
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
             await self._test_connectivity()
-            
-        self._format_config_remarks()
         
-        if CONFIG.ENABLE_CONNECTIVITY_TEST:
-            self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: item[1].ping if item[1].ping is not None else 9999))
-        else:
-            self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: (item[1].country, item[1].asn_org or "")))
+        # 7. Финальная дедупликация
+        if CONFIG.ENABLE_IP_DEDUPLICATION:
+            self._deduplicate_by_endpoint()
+            
+        # 8. Форматирование и сортировка
+        self._format_config_remarks()
+        self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: (item[1].country, item[1].asn_org or "")))
 
     async def _resolve_geo_info(self):
         hosts_to_resolve = set()
@@ -595,54 +597,101 @@ class ConfigProcessor:
                 config.country = Geolocation.get_country_from_ip(ip_address)
                 config.asn_org = Geolocation.get_asn_from_ip(ip_address)
 
-    # ИЗМЕНЕНО: Метод стал более общим и использует список ключевых слов из конфига
-    def _filter_by_asn(self):
-        """
-        Removes configurations from undesired ASNs based on a keyword list.
-        """
+    def _filter_by_desired_asn(self):
         initial_count = len(self.parsed_configs)
         
         kept_configs = {}
         for key, config in self.parsed_configs.items():
             if config.asn_org:
-                # Проверяем, содержит ли название провайдера любое из нежелательных ключевых слов
-                is_undesired = any(keyword in config.asn_org.lower() for keyword in CONFIG.UNDESIRED_ASN_KEYWORDS)
-                if not is_undesired:
+                is_desired = any(keyword in config.asn_org.lower() for keyword in CONFIG.DESIRED_ASN_KEYWORDS)
+                if is_desired:
                     kept_configs[key] = config
-            else:
-                # Сохраняем конфиги, для которых не удалось определить провайдера
-                kept_configs[key] = config
         
         self.parsed_configs = kept_configs
         removed_count = initial_count - len(self.parsed_configs)
         if removed_count > 0:
-            console.log(f"[bold yellow]Filtered out {removed_count} configs from major CDNs/hosting providers.[/bold yellow]")
+            console.log(f"ASN whitelist filter kept {len(self.parsed_configs)} configs, removing {removed_count}.")
+
+    async def _test_tcp_connection(self, config: BaseConfig, semaphore: asyncio.Semaphore) -> Optional[str]:
+        """Tries to connect and returns the config key on success."""
+        async with semaphore:
+            ip = Geolocation._ip_cache.get(config.host)
+            if not ip:
+                return None
+            
+            try:
+                fut = asyncio.open_connection(ip, config.port)
+                reader, writer = await asyncio.wait_for(fut, timeout=CONFIG.CONNECTIVITY_TEST_TIMEOUT)
+                writer.close()
+                await writer.wait_closed()
+                return config.get_deduplication_key()
+            except (asyncio.TimeoutError, ConnectionRefusedError, OSError, Exception):
+                return None
+
+    async def _test_connectivity(self):
+        """Tests all configs for TCP connectivity and discards failures."""
+        configs_to_test = list(self.parsed_configs.values())
+        if not configs_to_test:
+            return
+
+        console.log(f"Performing connectivity test for {len(configs_to_test)} configs...")
+        semaphore = asyncio.Semaphore(CONFIG.CONNECTIVITY_TEST_CONCURRENCY)
+        
+        passed_keys: Set[str] = set()
+        
+        with Progress(
+            SpinnerColumn(),
+            TextColumn("[progress.description]{task.description}"),
+            BarColumn(),
+            TextColumn("[progress.percentage]{task.percentage:>3.0f}%"),
+            "•",
+            TextColumn("Passed: [bold green]{task.fields[passed]}"),
+            "•",
+            TextColumn("Failed: [bold red]{task.fields[failed]}"),
+            console=console,
+            transient=True
+        ) as progress:
+            task = progress.add_task(
+                "Testing...", 
+                total=len(configs_to_test), 
+                passed=0, 
+                failed=0
+            )
+            
+            test_tasks = [self._test_tcp_connection(c, semaphore) for c in configs_to_test]
+            
+            for future in asyncio.as_completed(test_tasks):
+                result_key = await future
+                if result_key:
+                    passed_keys.add(result_key)
+                    progress.update(task, advance=1, fields={"passed": len(passed_keys), "failed": progress.completed - len(passed_keys)})
+                else:
+                    progress.update(task, advance=1, fields={"failed": progress.completed - len(passed_keys)})
+
+        self.passed_connectivity_test_count = len(passed_keys)
+        self.parsed_configs = {key: self.parsed_configs[key] for key in passed_keys}
+        console.log(f"Connectivity test complete: {self.passed_connectivity_test_count} configs passed.")
 
     def _deduplicate_by_endpoint(self):
-        console.log("Performing enhanced deduplication by service endpoint (IP:Port:Protocol)...")
+        initial_count = len(self.parsed_configs)
         seen_endpoints: Set[str] = set()
         kept_configs: Dict[str, BaseConfig] = {}
         
         for uri_key, config in self.parsed_configs.items():
             ip = Geolocation._ip_cache.get(config.host)
-            
             if not ip:
                 kept_configs[uri_key] = config
                 continue
 
             endpoint_key = f"{ip}:{config.port}:{config.protocol}"
-            
             if endpoint_key not in seen_endpoints:
                 seen_endpoints.add(endpoint_key)
                 kept_configs[uri_key] = config
 
-        removed_count = len(self.parsed_configs) - len(kept_configs)
         self.parsed_configs = kept_configs
-        console.log(f"Endpoint-based deduplication removed {removed_count} configs. {len(self.parsed_configs)} remaining.")
-
-    async def _test_connectivity(self):
-        # ... (без изменений)
-        pass
+        removed_count = initial_count - len(self.parsed_configs)
+        if removed_count > 0:
+            console.log(f"Endpoint deduplication removed {removed_count} configs. {len(self.parsed_configs)} remaining.")
 
     def _format_config_remarks(self):
         for config in self.parsed_configs.values():
@@ -692,7 +741,7 @@ class V2RayCollectorApp:
         self.last_update_time = datetime.now(get_iran_timezone()) - timedelta(days=1)
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v30.0.0 (Hyper-Focused)[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v31.0.0 (Whitelist & Tested)[/bold green]")
         await self._load_state()
 
         tg_channels = await self._fetch_source(CONFIG.REMOTE_TELEGRAM_CHANNELS_URL, "Telegram channels")
@@ -784,10 +833,9 @@ class V2RayCollectorApp:
         summary_table.add_column("Value", style="bold green")
 
         summary_table.add_row("Raw Configs Found", str(processor.total_raw_count))
-        summary_table.add_row("Final Processed Configs", str(len(all_configs)))
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
-            responsive_configs = sum(1 for c in all_configs if c.ping is not None)
-            summary_table.add_row("Responsive (Pinged)", str(responsive_configs))
+            summary_table.add_row("Passed Connectivity Test", str(processor.passed_connectivity_test_count))
+        summary_table.add_row("Final Saved Configs", str(len(all_configs)))
         
         console.print(summary_table)
 
