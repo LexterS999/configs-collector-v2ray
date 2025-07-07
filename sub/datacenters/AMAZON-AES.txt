@@ -1,5 +1,5 @@
+vless://382b0047-9884-4e85-dff8-df55fed8bcf2@fi.iranbax.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-AES ┇ 13.216.111.180
 vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@44.211.192.25:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-AES ┇ 44.211.192.25
-vless://90731987-05b1-4e83-e2db-795d9b809acc@free1.iranbax.com:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-AES ┇ 13.216.111.180
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.224.160.149:80?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - AMAZON-AES ┇ 34.224.160.149
-vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@44.206.117.108:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-AES ┇ 44.206.117.108
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.227.178.201:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-AES ┇ 3.227.178.201
+vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@44.206.117.108:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-AES ┇ 44.206.117.108

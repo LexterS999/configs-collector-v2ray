@@ -1,6 +1,4 @@
 vless://bf9b316d-31ac-42ee-b8a5-8dc795118917@192.210.183.136:36678?type=tcp&security=reality#IE 🇮🇪 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 192.210.183.136
-vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@185.146.173.94:2087?type=ws&security=tls&path=/?ed=2560&sni=a.xiazitong.zone.id#US 🇺🇸 ┇ VLESS-WS-TLS - AS-COLOCROSSING ┇ 185.146.173.94
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1SQVctTlRMUyAtIEFTLUNPTE9DUk9TU0lORyBcdTI1MDcgMTA3LjE3Mi45Ni4yMjciLCJhZGQiOiIxMDcuMTcyLjk2LjIyNyIsInBvcnQiOjIwOTUsImlkIjoiNzE4ZTQyYzctNzU5MS00MTc2LWUyZWQtNGIzZGQyMzRmNWIyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUifQ
 vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@172.67.164.239:2087?type=ws&security=tls&path=/?ed=2560&sni=a.xiazitong.zone.id#US 🇺🇸 ┇ VLESS-WS-TLS - AS-COLOCROSSING ┇ 172.67.164.239
 vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@192.200.160.17:2087?type=ws&security=tls&path=/?ed=2560&sni=a.xiazitong.zone.id#US 🇺🇸 ┇ VLESS-WS-TLS - AS-COLOCROSSING ┇ 192.200.160.17
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBBUy1DT0xPQ1JPU1NJTkcgXHUyNTA3IDE5OC4yMy4yMjguMTAxIiwiYWRkIjoiMTk4LjIzLjIyOC4xMDEiLCJwb3J0Ijo2MzQ3OSwiaWQiOiIzM2FlOTAwNC00NzhkLTUyNzQtNWMwNi03NGY5NjU5ZGNjZjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biJ9

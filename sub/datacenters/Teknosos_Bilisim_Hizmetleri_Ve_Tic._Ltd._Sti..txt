@@ -1,2 +1,2 @@
-vless://3588f520-67db-48b3-e80f-24f03a82e84e@opl.vip-senior.info:56504?type=ws&security=none#TR 🇹🇷 ┇ VLESS-WS-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.134.198
 vless://67525da1-a606-4725-98f3-513c13904d9d@213.142.133.184:11928?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.133.184
+vless://3588f520-67db-48b3-e80f-24f03a82e84e@opl.vip-senior.info:56504?type=ws&security=none#TR 🇹🇷 ┇ VLESS-WS-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.134.198

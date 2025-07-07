@@ -1,5 +1,6 @@
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@216.24.57.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - RENDER ┇ 216.24.57.251
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@216.24.57.254:8880?type=ws&security=none&path=/Telegram🇨🇳#US 🇺🇸 ┇ VLESS-WS-NTLS - RENDER ┇ 216.24.57.254
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@216.24.57.6:2052?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - RENDER ┇ 216.24.57.6
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@216.24.57.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - RENDER ┇ 216.24.57.251
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@216.24.57.213:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - RENDER ┇ 216.24.57.213
 vless://6b8f99cc-b49c-4fc3-a6ac-44112d9c8f7e@216.24.57.1:8080?type=ws&security=none&path=/fontawesome.com/m9KlY/?ed#US 🇺🇸 ┇ VLESS-WS-NTLS - RENDER ┇ 216.24.57.1
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@216.24.57.254:8880?type=ws&security=none&path=/Telegram🇨🇳#US 🇺🇸 ┇ VLESS-WS-NTLS - RENDER ┇ 216.24.57.254
+vless://a88cb5df-7efc-44a5-a078-d1dde8bfc327@216.24.57.38:2096?type=tcp&security=tls#US 🇺🇸 ┇ VLESS-TCP-TLS - RENDER ┇ 216.24.57.38

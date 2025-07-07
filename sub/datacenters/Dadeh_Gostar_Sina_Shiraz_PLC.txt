@@ -1,4 +1,4 @@
-vless://25daca7c-f92a-4b8d-8144-dd25c20cb95a@188.212.96.228:18588?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.228
-vless://95984f4e-0733-4430-a937-f630cb2fb113@ak111.amirak.cfd:25679?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.114
-vless://447b8797-1429-4e3e-9137-f29d8b2b414d@panel-germany-22.subcenter.net:1022?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.245
 vless://5a3b97ef-2571-4e37-9975-9c271b680e83@ak111.amirak.cfd:48169?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.114
+vless://95984f4e-0733-4430-a937-f630cb2fb113@ak111.amirak.cfd:25679?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.114
+vless://25daca7c-f92a-4b8d-8144-dd25c20cb95a@188.212.96.228:18588?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.228
+vless://447b8797-1429-4e3e-9137-f29d8b2b414d@panel-germany-22.subcenter.net:1022?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dadeh Gostar Sina Shiraz PLC ┇ 188.212.96.245

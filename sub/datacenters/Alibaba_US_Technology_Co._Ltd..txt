@@ -1,8 +1,7 @@
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@47.76.218.163:443?type=tcp&security=none&path=/Telegram#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.76.218.163
-vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@47.242.155.183:80?type=ws&security=none&path=/?ed=2048#HK 🇭🇰 ┇ VLESS-WS-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.242.155.183
 vless://200fa9ac-dc45-48c3-a278-94cdc18e008e@47.239.5.71:36944?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.239.5.71
-vless://f18d9e84-6988-442d-b3f2-885740a6e775@to01.34gpg.shop:443?type=ws&security=tls&path=/f18d9e84-6988-442d-b3f2-885740a6e775&sni=to01.34gpg.shop#HK 🇭🇰 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 47.76.112.75
+vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@47.242.155.183:80?type=ws&security=none&path=/?ed=2048#HK 🇭🇰 ┇ VLESS-WS-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.242.155.183
 vless://4d5903dd-5d8a-4879-9e0d-cf12b8404b8e@47.76.81.217:40830?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.76.81.217
-vless://633d3f6b-5f34-4ef8-b240-01667f6dd07d@47.76.81.217:38971?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.76.81.217
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@47.76.218.163:443?type=tcp&security=none&path=/Telegram#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.76.218.163
+vless://f18d9e84-6988-442d-b3f2-885740a6e775@to01.34gpg.shop:443?type=ws&security=tls&path=/f18d9e84-6988-442d-b3f2-885740a6e775&sni=to01.34gpg.shop#HK 🇭🇰 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 47.76.112.75
 vless://83e47814-bc89-4133-8e0d-1d59678249c4@47.243.126.92:47381?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.243.126.92
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.245.95.160:1443?type=ws&security=none#SG 🇸🇬 ┇ VLESS-WS-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.245.95.160

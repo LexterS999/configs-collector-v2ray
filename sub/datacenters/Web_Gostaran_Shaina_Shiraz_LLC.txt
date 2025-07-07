@@ -1,2 +1,2 @@
-vless://60bdbed7-228b-466b-bd8c-32e779a5aea9@ipe.alighan.ir:2083?type=ws&security=tls&path=/?ed=2048&sni=germany.alighan.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Gostaran Shaina Shiraz LLC ┇ 87.236.212.210
 vless://60bdbed7-228b-466b-bd8c-32e779a5aea9@104.16.27.251:2083?type=ws&security=tls&path=/?ed=2048&sni=germany.alighan.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Gostaran Shaina Shiraz LLC ┇ 104.16.27.251
+vless://60bdbed7-228b-466b-bd8c-32e779a5aea9@ipe.alighan.ir:2083?type=ws&security=tls&path=/?ed=2048&sni=germany.alighan.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Web Gostaran Shaina Shiraz LLC ┇ 87.236.212.210
