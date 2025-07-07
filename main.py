@@ -40,13 +40,9 @@ class AppConfig:
     DATA_DIR = BASE_DIR / "data"
     OUTPUT_DIR = BASE_DIR / "sub"
 
+    # ИЗМЕНЕНО: Оставлены только необходимые директории
     DIRS = {
-        "splitted": OUTPUT_DIR / "splitted",
-        "security": OUTPUT_DIR / "security",
         "protocols": OUTPUT_DIR / "protocols",
-        "networks": OUTPUT_DIR / "networks",
-        "subscribe": OUTPUT_DIR / "subscribe",
-        "countries": OUTPUT_DIR / "countries",
         "datacenters": OUTPUT_DIR / "datacenters",
     }
 
@@ -57,7 +53,7 @@ class AppConfig:
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-ASN.mmdb"
 
-    # ИСПРАВЛЕНО: Разделены URL для разных источников
+    # ПОДТВЕРЖДЕНО: Эти URL будут использоваться для загрузки источников
     REMOTE_TELEGRAM_CHANNELS_URL = "https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/refs/heads/main/data/telegram-channel.json"
     REMOTE_SUBSCRIPTION_LINKS_URL = "https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/refs/heads/main/data/subscription_links.json"
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
@@ -80,12 +76,8 @@ class AppConfig:
     CONNECTIVITY_TEST_TIMEOUT = 4
     MAX_CONNECTIVITY_TESTS = 250
 
-    ADD_SIGNATURES = True
-    ADV_SIGNATURE = "「 ✨ Free Internet For All 」 @OXNET_IR"
-    DNT_SIGNATURE = "❤️ Your Daily Dose of Proxies @OXNET_IR"
-    DEV_SIGNATURE = "</> Collector v5.1.0"
-    CUSTOM_SIGNATURE = "「 PlanAsli ☕ 」"
-
+    # УДАЛЕНО: Вся секция с подписями
+    
 CONFIG = AppConfig()
 console = Console()
 
@@ -293,12 +285,19 @@ class V2RayParser:
                 raise ParsingError(f"Missing hostname or port in VLESS URI.")
 
             params = parse_qs(parsed_url.query)
+            
+            # Определение типа сети, включая 'http' для xhttp
+            net_type = params.get('type', ['tcp'])[0]
+            if net_type == 'http' and 'path' not in params:
+                # Это может быть xhttp, который не использует path
+                pass
+
             return VlessConfig(
                 uuid=parsed_url.username, 
                 host=parsed_url.hostname, 
                 port=parsed_url.port, 
                 remarks=unquote(parsed_url.fragment) if parsed_url.fragment else f"{parsed_url.hostname}:{parsed_url.port}",
-                network=params.get('type', ['tcp'])[0], 
+                network=net_type, 
                 security=params.get('security', ['none'])[0], 
                 path=unquote(params.get('path', [None])[0]) if params.get('path') else None, 
                 sni=params.get('sni', [None])[0], 
@@ -518,31 +517,22 @@ class FileManager:
                 return json.loads(await f.read())
         except Exception: return []
 
-    async def write_configs_to_file(self, file_path: Path, configs: List[BaseConfig], base64_encode: bool = True):
+    # ИЗМЕНЕНО: Упрощенный метод без подписей и base64
+    async def write_configs_to_file(self, file_path: Path, configs: List[BaseConfig]):
         if not configs: return
-        final_list = self._add_signatures(configs) if CONFIG.ADD_SIGNATURES else [c.to_uri() for c in configs]
+        
+        # Простое преобразование в URI и объединение
+        final_list = [c.to_uri() for c in configs]
         content = "\n".join(final_list)
-        if base64_encode: content = base64.b64encode(content.encode('utf-8')).decode('utf-8')
+        
         try:
             file_path.parent.mkdir(parents=True, exist_ok=True)
-            async with aiofiles.open(file_path, 'w', encoding='utf-8') as f: await f.write(content)
-        except IOError: pass
+            async with aiofiles.open(file_path, 'w', encoding='utf-8') as f:
+                await f.write(content)
+        except IOError:
+            pass
 
-    def _add_signatures(self, configs: List[BaseConfig]) -> List[str]:
-        uris = [c.to_uri() for c in configs]
-        now = datetime.now(get_iran_timezone())
-        update_str = f"[ LAST UPDATE: {now.strftime('%Y-%m-%d | %H:%M')} ]"
-
-        final_list = uris[:]
-        final_list.insert(0, self._create_title_config(update_str, 1080))
-        final_list.insert(1, self._create_title_config(CONFIG.ADV_SIGNATURE, 2080))
-        final_list.insert(2, self._create_title_config(CONFIG.DNT_SIGNATURE, 3080))
-        final_list.insert(3, self._create_title_config(CONFIG.CUSTOM_SIGNATURE, 4080))
-        final_list.append(self._create_title_config(CONFIG.DEV_SIGNATURE, 8080))
-        return final_list
-
-    def _create_title_config(self, title: str, port: int) -> str:
-        return f"trojan://{generate_random_uuid_string()}@127.0.0.1:{port}?security=tls&type=tcp#{unquote(title)}"
+    # УДАЛЕНО: Методы _add_signatures и _create_title_config
 
 class Geolocation:
     _country_reader: Optional[geoip2.database.Reader] = None
@@ -607,10 +597,12 @@ class ConfigProcessor:
         self.raw_configs_by_type = raw_configs_by_type
         self.parsed_configs: Dict[str, BaseConfig] = {}
         self.total_raw_count = sum(len(v) for v in raw_configs_by_type.values())
+        self.allowed_protocols = {'vless', 'vmess'} # ДОБАВЛЕНО: Набор разрешенных протоколов
 
     async def process(self):
         console.log(f"Processing {self.total_raw_count} raw config strings...")
 
+        # 1. Парсинг
         all_parsed_configs: List[BaseConfig] = []
         for config_type, configs in self.raw_configs_by_type.items():
             for uri in configs:
@@ -619,15 +611,25 @@ class ConfigProcessor:
                     all_parsed_configs.append(parsed)
         console.log(f"Successfully parsed {len(all_parsed_configs)} configs.")
 
-        for config in all_parsed_configs:
+        # 2. ДОБАВЛЕНО: Фильтрация по протоколу
+        filtered_by_protocol = [
+            c for c in all_parsed_configs if c.protocol in self.allowed_protocols
+        ]
+        discarded_count = len(all_parsed_configs) - len(filtered_by_protocol)
+        if discarded_count > 0:
+            console.log(f"Protocol filter discarded {discarded_count} configs (e.g., trojan, ss). {len(filtered_by_protocol)} remaining.")
+        
+        # 3. Дедупликация по URI
+        for config in filtered_by_protocol:
             key = config.get_deduplication_key()
             if key not in self.parsed_configs:
                 self.parsed_configs[key] = config
         console.log(f"Deduplication by URI resulted in {len(self.parsed_configs)} unique configs.")
 
+        # 4. Дальнейшая обработка
         await self._resolve_geo_info()
         if CONFIG.ENABLE_IP_DEDUPLICATION:
-            self._deduplicate_by_endpoint() # ИЗМЕНЕНО: вызов нового метода
+            self._deduplicate_by_endpoint()
 
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
             await self._test_connectivity()
@@ -639,58 +641,52 @@ class ConfigProcessor:
         else:
             self.parsed_configs = dict(sorted(self.parsed_configs.items(), key=lambda item: (item[1].country, item[1].asn_org or "")))
 
-
+    # УЛУЧШЕНО: Логика определения геолокации с приоритетом SNI
     async def _resolve_geo_info(self):
-        unique_hosts = list({c.host for c in self.parsed_configs.values()})
-        console.log(f"Resolving geo-information for {len(unique_hosts)} unique hosts...")
-        await asyncio.gather(*[Geolocation.get_ip(host) for host in unique_hosts])
-        
+        """
+        Resolves geo-information for configs, prioritizing SNI for resolution
+        to get more accurate data behind CDNs.
+        """
+        # Собираем уникальные хосты/SNI для резолвинга
+        hosts_to_resolve = set()
         for config in self.parsed_configs.values():
-            ip_address = Geolocation._ip_cache.get(config.host)
+            # Приоритет SNI, если это домен. Иначе - хост.
+            target_host = config.sni if config.sni and not is_ip_address(config.sni) else config.host
+            hosts_to_resolve.add(target_host)
+        
+        console.log(f"Resolving geo-information for {len(hosts_to_resolve)} unique hosts/SNIs...")
+        await asyncio.gather(*[Geolocation.get_ip(host) for host in hosts_to_resolve])
+        
+        # Присваиваем гео-данные обратно конфигурациям
+        for config in self.parsed_configs.values():
+            target_host = config.sni if config.sni and not is_ip_address(config.sni) else config.host
+            ip_address = Geolocation._ip_cache.get(target_host)
             if ip_address:
                 config.country = Geolocation.get_country_from_ip(ip_address)
                 config.asn_org = Geolocation.get_asn_from_ip(ip_address)
 
-    # УЛУЧШЕНО: Полностью переработанный метод дедупликации
     def _deduplicate_by_endpoint(self):
-        """
-        Performs enhanced deduplication based on the unique service endpoint,
-        defined as a combination of IP address, port, and protocol.
-        This is more accurate than IP-only deduplication, as a single IP can
-        host multiple distinct proxy services on different ports or with different protocols.
-        """
         console.log("Performing enhanced deduplication by service endpoint (IP:Port:Protocol)...")
-        
-        # A set to store unique endpoints we've already kept.
         seen_endpoints: Set[str] = set()
-        
-        # A new dictionary to store the configs we decide to keep.
         kept_configs: Dict[str, BaseConfig] = {}
         
         for uri_key, config in self.parsed_configs.items():
+            # Для ключа дедупликации используем IP от хоста, т.к. это реальная точка подключения
             ip = Geolocation._ip_cache.get(config.host)
             
-            # If we couldn't resolve an IP, we can't perform endpoint-based
-            # deduplication, so we keep the config as a fallback.
             if not ip:
                 kept_configs[uri_key] = config
                 continue
 
-            # The new, more precise key for identifying a unique service.
             endpoint_key = f"{ip}:{config.port}:{config.protocol}"
             
             if endpoint_key not in seen_endpoints:
-                # This is the first time we've seen this specific endpoint.
-                # We add it to our set of seen endpoints and keep the config.
                 seen_endpoints.add(endpoint_key)
                 kept_configs[uri_key] = config
-            # If the endpoint_key is already in seen_endpoints, we discard
-            # the current config as it's a duplicate of one we've already kept.
 
         removed_count = len(self.parsed_configs) - len(kept_configs)
         self.parsed_configs = kept_configs
         console.log(f"Endpoint-based deduplication removed {removed_count} configs. {len(self.parsed_configs)} remaining.")
-
 
     async def _test_tcp_connection(self, config: BaseConfig) -> Optional[int]:
         ip = Geolocation._ip_cache.get(config.host)
@@ -740,16 +736,30 @@ class ConfigProcessor:
 
     def _format_config_remarks(self):
         for config in self.parsed_configs.values():
-            proto_full_map = {'vmess': 'VMESS', 'vless': 'VLESS', 'trojan': 'TROJAN', 'shadowsocks': 'SHADOWSOCKS'}
+            proto_full_map = {'vmess': 'VMESS', 'vless': 'VLESS'}
             proto_full = proto_full_map.get(config.protocol, 'CFG')
 
-            sec = 'RLT' if config.source_type == 'reality' else (config.security.upper() if config.security != 'none' else 'NTLS')
-            net = config.network.upper()
+            # Определение типа сети для ремарки
+            net_type = config.network.upper()
+            if config.protocol == 'vless' and config.network == 'http':
+                net_type = 'XHTTP'
+
+            # Определение типа безопасности для ремарки
+            sec = 'NTLS'
+            if config.security == 'tls':
+                sec = 'TLS'
+            elif config.security == 'reality':
+                sec = 'RLT'
+            elif config.security == 'xtls':
+                sec = 'XTLS'
+
             flag = COUNTRY_CODE_TO_FLAG.get(config.country, "🏳️")
+            
+            # Для IP в ремарке используем IP от хоста, т.к. это реальный IP подключения
             ip_address = Geolocation._ip_cache.get(config.host, "N/A")
             
             asn_str = f" - {config.asn_org}" if config.asn_org else ""
-            new_remark = f"{config.country} {flag} ┇ {proto_full}-{net}-{sec}{asn_str} ┇ {ip_address}"
+            new_remark = f"{config.country} {flag} ┇ {proto_full}-{net_type}-{sec}{asn_str} ┇ {ip_address}"
             config.remarks = new_remark.strip()
 
     def get_all_unique_configs(self) -> List[BaseConfig]:
@@ -757,29 +767,14 @@ class ConfigProcessor:
 
     def categorize(self) -> Dict[str, Dict[str, List[BaseConfig]]]:
         configs = self.get_all_unique_configs()
+        # ИЗМЕНЕНО: Категоризируем только то, что нужно для сохранения
         categories: Dict[str, Dict[str, List[BaseConfig]]] = { 
-            "protocols": {}, "networks": {}, "security": {}, "countries": {}, "datacenters": {} 
+            "protocols": {}, "datacenters": {} 
         }
         
         for config in configs:
             # Protocols
             categories["protocols"].setdefault(config.protocol, []).append(config)
-            
-            # Networks
-            if config.network:
-                categories["networks"].setdefault(config.network, []).append(config)
-
-            # Security
-            if config.security == 'tls':
-                categories["security"].setdefault('tls', []).append(config)
-            elif config.security == 'xtls':
-                categories["security"].setdefault('xtls', []).append(config)
-            elif config.security == 'none':
-                categories["security"].setdefault('nontls', []).append(config)
-
-            # Countries
-            if config.country and config.country != "XX":
-                categories["countries"].setdefault(config.country, []).append(config)
             
             # Datacenters
             if config.asn_org:
@@ -795,10 +790,9 @@ class V2RayCollectorApp:
         self.last_update_time = datetime.now(get_iran_timezone()) - timedelta(days=1)
 
     async def run(self):
-        console.rule("[bold green]V2Ray Config Collector - v27.1.0[/bold green]")
+        console.rule("[bold green]V2Ray Config Collector - v28.0.0 (Specialized)[/bold green]")
         await self._load_state()
 
-        # ИЗМЕНЕНО: Чтение локальных файлов происходит после попытки их загрузки в main()
         tg_channels = await self.file_manager.read_json_file(self.config.TELEGRAM_CHANNELS_FILE)
         sub_links = await self.file_manager.read_json_file(self.config.SUBSCRIPTION_LINKS_FILE)
 
@@ -826,7 +820,7 @@ class V2RayCollectorApp:
             return
             
         categories = processor.categorize()
-        await self._save_results(all_unique_configs, categories)
+        await self._save_results(categories)
         await self._save_state()
         self._print_summary_report(processor)
         console.log("[bold green]Collection and processing complete.[/bold green]")
@@ -848,25 +842,20 @@ class V2RayCollectorApp:
         name = re.sub(r'[\U0001F600-\U0001F64F\U0001F300-\U0001F5FF\U0001F680-\U0001F6FF\U0001F700-\U0001F77F\U0001F780-\U0001F7FF\U0001F800-\U0001F8FF\U0001F900-\U0001F9FF\U0001FA00-\U0001FA6F\U0001FA70-\U0001FAFF\U00002702-\U000027B0\U00002620-\U0000262F\U00002300-\U000023FF\U00002B50]', '', name)
         return re.sub(r'[\\/*?:"<>|,@=]', "", name).replace(" ", "_")
 
-    async def _save_results(self, all_configs: List[BaseConfig], categories: Dict[str, Any]):
+    # ИЗМЕНЕНО: Упрощенная логика сохранения
+    async def _save_results(self, categories: Dict[str, Any]):
         console.log("Saving categorized configurations...")
         save_tasks: List[Coroutine] = []
-        save_tasks.append(self.file_manager.write_configs_to_file(self.config.DIRS["subscribe"] / "base64.txt", all_configs))
-        save_tasks.append(self.file_manager.write_configs_to_file(self.config.OUTPUT_DIR / "all_configs.txt", all_configs, base64_encode=False))
         
         for cat_name, cat_items in categories.items():
-            for item_name, configs in cat_items.items():
-                if configs:
-                    sanitized_name = self._sanitize_filename(str(item_name))
-                    if not sanitized_name: continue # Skip if name is empty after sanitization
-                    path = self.config.DIRS[cat_name] / f"{sanitized_name}.txt"
-                    save_tasks.append(self.file_manager.write_configs_to_file(path, configs, base64_encode=False))
-            
-        chunk_size = math.ceil(len(all_configs) / 20) if all_configs else 0
-        if chunk_size > 0:
-            for i, chunk in enumerate([all_configs[i:i + chunk_size] for i in range(0, len(all_configs), chunk_size)]):
-                path = self.config.DIRS["splitted"] / f"mixed_{i+1}.txt"
-                save_tasks.append(self.file_manager.write_configs_to_file(path, chunk, base64_encode=False))
+            # Проверяем, что такая директория для сохранения сконфигурирована
+            if cat_name in self.config.DIRS:
+                for item_name, configs in cat_items.items():
+                    if configs:
+                        sanitized_name = self._sanitize_filename(str(item_name))
+                        if not sanitized_name: continue
+                        path = self.config.DIRS[cat_name] / f"{sanitized_name}.txt"
+                        save_tasks.append(self.file_manager.write_configs_to_file(path, configs))
             
         await asyncio.gather(*save_tasks)
 
@@ -881,7 +870,7 @@ class V2RayCollectorApp:
         summary_table.add_column("Value", style="bold green")
 
         summary_table.add_row("Raw Configs Found", str(processor.total_raw_count))
-        summary_table.add_row("Unique & Valid Configs", str(len(all_configs)))
+        summary_table.add_row("Final Processed Configs", str(len(all_configs)))
         if CONFIG.ENABLE_CONNECTIVITY_TEST:
             responsive_configs = sum(1 for c in all_configs if c.ping is not None)
             summary_table.add_row("Responsive (Pinged)", str(responsive_configs))
@@ -925,14 +914,12 @@ async def _download_db_if_needed(url: str, file_path: Path):
         except Exception as e:
             console.log(f"[bold red]Failed to download {file_path.name}: {e}.[/bold red]")
 
-# НОВОЕ: Вспомогательная функция для загрузки JSON-источников
 async def _download_remote_source_if_needed(url: str, file_path: Path, file_description: str):
     if not file_path.exists():
         console.log(f"[yellow]Local {file_description} file not found, attempting to download from remote...[/yellow]")
         try:
             status, content = await AsyncHttpClient.get(url)
             if status == 200 and content:
-                # Проверяем, что это валидный JSON, прежде чем сохранять
                 json.loads(content) 
                 async with aiofiles.open(file_path, "w", encoding='utf-8') as f:
                     await f.write(content)
@@ -948,14 +935,11 @@ async def _download_remote_source_if_needed(url: str, file_path: Path, file_desc
 async def main():
     CONFIG.DATA_DIR.mkdir(exist_ok=True)
 
-    # Загрузка GeoIP баз
     await _download_db_if_needed(CONFIG.GEOIP_DB_URL, CONFIG.GEOIP_DB_FILE)
     await _download_db_if_needed(CONFIG.GEOIP_ASN_DB_URL, CONFIG.GEOIP_ASN_DB_FILE)
 
-    # Инициализация Geolocation после возможной загрузки баз
     Geolocation.initialize()
 
-    # ДОБАВЛЕНО: Загрузка конфигурационных файлов из удаленных источников
     await _download_remote_source_if_needed(
         CONFIG.REMOTE_TELEGRAM_CHANNELS_URL, 
         CONFIG.TELEGRAM_CHANNELS_FILE, 
