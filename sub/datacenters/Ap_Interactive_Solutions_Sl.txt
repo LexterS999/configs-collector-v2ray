@@ -1,7 +1,9 @@
-trojan://l2ilch05-6nkc-wgmd-pbvk-mg4zeehc0th0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://b6dvuz3e-5e5a-imv9-odbh-b3kcii5nbmtn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xwxhj0ck-tvl5-h3j3-jz6k-9eywrvpc6b5n@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wnyivtuk-6147-316b-xbdu-39cqsnqeyu4x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6tarryt3-wi61-fhys-36i6-he0dyeayestn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://njov3jmt-68n6-al7u-41d4-0whe3t85340e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://askw32s6-tdqi-e7m6-j4tn-o85xx4ls6rd5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7mt9l48q-2ewp-1rnd-bqks-2t7x2em1ni4j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b9e3fc70-0770-4530-acd8-3468d9a9d093@manageit.ir.systemgamingirani.ir:700?type=tcp&security=none&path=/#ES 🇪🇸 ┇ VLESS-TCP-NTLS - Ap Interactive Solutions Sl ┇ 171.22.18.7
+vless://b9e3fc70-0770-4530-acd8-3468d9a9d093@manageit.ir.systemgamingirani.ir:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=yt8Wndh3hJecGfShmocar1IDAuC5Ly3H0oyq9puPP24&sid=e54b5ad736ae4c37#ES 🇪🇸 ┇ VLESS-TCP-RLT - Ap Interactive Solutions Sl ┇ 171.22.18.7
 vless://b9e3fc70-0770-4530-acd8-3468d9a9d093@netherlands.speedtest.org.systemgamingirani.ir:700?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Ap Interactive Solutions Sl ┇ 154.202.74.106
-trojan://u6oejtmb-vnfv-2hry-sn96-vfwboe5kfnov@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://b9e3fc70-0770-4530-acd8-3468d9a9d093@netherlands.speedtest.org.systemgamingirani.ir:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=yt8Wndh3hJecGfShmocar1IDAuC5Ly3H0oyq9puPP24&sid=e54b5ad736ae4c37#NL 🇳🇱 ┇ VLESS-TCP-RLT - Ap Interactive Solutions Sl ┇ 154.202.74.106
+trojan://tbha58xs-h498-82nb-812n-2qr0e31jzw8m@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,6 @@
-trojan://8bbnn7dc-hzcq-9ydo-hst0-y5g5df0kvyjp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://fbxutyln-2i9d-bjeo-d3n8-lcdd2yyksj79@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3t61wt7l-d4z5-uay4-zowb-tz75ogjw21mq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8ns7cpk7-8xun-y3c9-cs7t-7k75i9kwq5jf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sz6fh0mo-xrax-wzye-4u5n-iudqf69o91x3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://p683vrkc-ybop-u3o0-ykzf-b2kn2qcnbzxl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dqiv1i67-r8yf-wuuy-ikmk-1mh7870umhqx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://arwgjgby-zsiy-q2ba-mcmq-u9v0ju4ef3x9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?type=ws&security=tls&path=/?ed=2560&sni=a.mifeng.us.kg#ES 🇪🇸 ┇ VLESS-WS-TLS - Aspa Cloud Sl ┇ 94.250.246.200
-trojan://6do55tvi-et97-qyhj-no3n-88pgcqa2n75d@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://cr59lv6b-n5zr-1yiv-o96u-y30phxbrwi55@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

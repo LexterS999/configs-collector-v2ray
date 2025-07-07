@@ -1,7 +1,7 @@
-trojan://apnfm2gm-rqkn-8bsx-qex5-6qiss4i32o19@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://8ehf49xe-krdu-05ng-gys7-xw2otlnk1dx9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bykhbwn5-rnfn-hf1x-d6n5-ckd1a3cknv0u@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tsqsjzrf-uc6w-qurs-jjp4-7cczr4h00bds@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xbb0lyth-ze0z-6w0y-jypu-ptd5xy7wo4na@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://nji72vmf-0h54-qhgs-4f32-2qd2ubc7bajg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0c9t5ya1-nlob-sumr-p639-zej6i2dcczyn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1v0qd26h-tb2o-jw2l-utny-s0nbql2gln62@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9db6acf4-d3d3-4176-f704-0da5f6da6165@185.248.187.69:10297?type=tcp&security=reality&sni=www.sega.com&fp=chrome&flow=xtls-rprx-vision&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM#SG 🇸🇬 ┇ VLESS-TCP-RLT - Akari Networks ┇ 185.248.187.69
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@188.253.6.210:443?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me#TW 🇹🇼 ┇ VLESS-WS-TLS - Akari Networks ┇ 188.253.6.210
-trojan://ostxu1x8-v2hx-zn4w-3w80-l50x5dqai3eo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://8mhdi04o-u6s7-fpch-xuq0-u1atxmktjlry@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

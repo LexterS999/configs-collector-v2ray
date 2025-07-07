@@ -1,6 +1,6 @@
-trojan://az0lprv5-oiwg-fl2k-r40l-66pk1g9zzs23@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://tw9u9fwq-esds-586j-n6gr-kc5og0lldb60@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://hqcei5tj-o3xv-shnm-6f4s-trvv2ytyoufy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jfa1nehc-onso-450n-804q-kx5ae5ufgzz0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://fdyinkrh-gh10-niru-9m49-o8bcyn5cq56x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://o6t3cwn3-i4wk-bcox-lvcq-0r7f4ma2eq94@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1wqn1agq-wkfr-ytf6-12fl-v4tznbkk07fq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dxqh7wrt-893s-2qjl-a2pd-gezef6pg2gwv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a0de1607-5b63-fab8-a759-9f98706b6125@178.20.215.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA#SC 🇸🇨 ┇ VLESS-TCP-RLT - Oy Crea Nova Hosting Solution Ltd ┇ 178.20.215.10
-trojan://i9of6c0y-dtx6-38c0-2epa-l7uojnemst9s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qg4pziqw-s801-jf6a-rrug-v0kglnwlz8og@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

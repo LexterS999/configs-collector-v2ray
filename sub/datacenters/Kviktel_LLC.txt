@@ -1,6 +1,6 @@
-trojan://11caa6sa-04d4-vwbz-ghzf-1qdqa5cj1cgl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://xn6zr8ti-ymy1-yy2f-iqge-v6fh6vgcj2wf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xxtzsu0u-nm1p-x3mf-vzct-i5ezcc4k0zfq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lyx95csk-whpg-fgot-7och-0epuqs6b77ev@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://08x2iz01-l9pf-vgy3-rd7f-tcjpkbsquevb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://lfs9nmlf-fx8d-r34q-gk3h-zk21ia351s77@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://93572uh3-25qk-ocme-pjhu-wm1pv8dx9ghb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cqqa6i1p-gdlb-m6m0-gn37-ibs7q3kpgc4o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Kviktel LLC ┇ 45.139.24.24
-trojan://l83j78la-vgvv-j2ov-wsut-6rww9ehv80iq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://nexinmuv-h8bv-8o3h-cvww-x12sogxqkcru@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://5qkn4iv8-c4a9-c2p8-h0r3-f832n5hqu391@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://5cj94vr5-rk0v-ye9o-7yd4-ufmu19vr1y9z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qoq764da-uegv-8w8w-myen-da088zndbb9a@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8zom359h-za9t-h144-ebqr-5qnjm9jz9ax9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://fnbefdv8-85sx-3a7h-a6gp-6djwf5hwadae@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://tmrqer11-qz4s-fwrk-q86w-yn0qat74rjsj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://q1l6o1cl-v7dt-fog9-0js9-agckncyogm1b@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zces4y31-9kxe-v6m7-lzc6-rpexaqgcgqv3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@160.250.65.124:34045?type=tcp&security=tls&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome#VN 🇻🇳 ┇ VLESS-TCP-TLS - Thien Quang Digital technology joint stock company ┇ 160.250.65.124
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.81.86.172:34045?type=tcp&security=tls&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox#VN 🇻🇳 ┇ VLESS-TCP-TLS - Thien Quang Digital technology joint stock company ┇ 103.81.86.172
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@59.153.217.133:34045?type=tcp&security=tls&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox#VN 🇻🇳 ┇ VLESS-TCP-TLS - Thien Quang Digital technology joint stock company ┇ 59.153.217.133
@@ -19,4 +19,4 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@160.250.65.148:34045?type=tcp&secur
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@160.250.65.149:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#VN 🇻🇳 ┇ VLESS-TCP-RLT - Thien Quang Digital technology joint stock company ┇ 160.250.65.149
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@59.153.216.133:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#VN 🇻🇳 ┇ VLESS-TCP-RLT - Thien Quang Digital technology joint stock company ┇ 59.153.216.133
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@59.153.218.14:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#VN 🇻🇳 ┇ VLESS-TCP-RLT - Thien Quang Digital technology joint stock company ┇ 59.153.218.14
-trojan://3dfodqfs-88px-xzc1-vrga-dot4k61okyqn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://e5y41jb8-2ref-xz2b-u9p9-v23befqx6uij@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

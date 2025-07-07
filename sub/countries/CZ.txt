@@ -1,7 +1,7 @@
-trojan://6sbgj009-zfz1-5rsx-xiwv-bjk2ipqna1ve@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://gh53cxrk-iaxi-24jf-df1l-l2qpdhvgavcn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://k5pcsn2q-395c-rxmm-6gxm-op3hbq3w5noe@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3do6mzrc-c93c-j4lk-z2ae-9u3bfle4ah29@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cg532efr-6hbi-b1rf-x22u-z44cfk65w9bq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://yk5csx2y-fojw-nv4m-ma6e-924gfo5oc11s@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://04r9mhzp-edx5-dozx-ynqp-p3puxa9a3p96@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://o3l8spis-ysp2-4vc9-o08t-9cyknv45yec5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@154.197.108.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#CZ 🇨🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 154.197.108.254
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.108.20:8880?type=ws&security=none&path=/?ed=2560&sni=reedfree8mahsang2.redorg.ir#CZ 🇨🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 154.197.108.20
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.197.108.113:8880?type=httpupgrade&security=none&path=/#CZ 🇨🇿 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 154.197.108.113
@@ -107,8 +107,9 @@ vless://aa8b969e-b90e-400e-a36b-9e3cd6722e57@81.2.233.201:23664?type=grpc&securi
 vless://6b183376-70b8-474e-bf64-f05b8dc41bf9@81.2.233.69:52679?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 81.2.233.69
 vless://d73bb99c-0375-4840-ad56-f9850eef3ef1@194.182.84.53:443?type=grpc&security=reality&sni=wordpress.org&fp=randomized&pbk=DpSW8adQoMP_hcXxdAGD6PPdrHuwYbFomzJmBmtsqxM&sid=e3f189ed#CZ 🇨🇿 ┇ VLESS-GRPC-RLT - INTERNET CZ, a.s. ┇ 194.182.84.53
 vless://turboo-server@turboo-server.aftabz.com:65000?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=paXwzQ6qDGHFfMlpY1vX6-lZrkI2gUzP3nXg91ZrBQw&sid=0efa0583a943#CZ 🇨🇿 ┇ VLESS-TCP-RLT - INTERNET CZ, a.s. ┇ 194.182.84.136
+vless://turboo-server@turboo-server.aftabz.com:65001?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - INTERNET CZ, a.s. ┇ 194.182.84.136
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@194.87.190.57:8443?type=tcp&security=none&path=Telegram🇮🇷#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 194.87.190.57
 vless://df3173df-eff6-4c33-8f81-6cb142e4a2cd@194.87.140.148:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#CZ 🇨🇿 ┇ VLESS-TCP-RLT - Jsc timeweb ┇ 194.87.140.148
 vmess://eyJ2IjoiMiIsInBzIjoiQ1ogXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyA5NC4xMzEuOTcuMTI3IiwiYWRkIjoiOTQuMTMxLjk3LjEyNyIsInBvcnQiOjg4ODAsImlkIjoiZGQxMTU0YjEtZDVmYS01ZTUyLWExMDgtNzVlNTY4YzRhZDA2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4iLCJwYXRoIjoidm1lc3MtZ3JwYyJ9
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.87.11.56:8000?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg&fp=chrome#CZ 🇨🇿 ┇ VLESS-WS-TLS - Root Localhost LLC ┇ 194.87.11.56
-trojan://2qd0ew1x-y66k-e2ad-p5au-1scjziyfngqt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://0p5i7ypm-u0k6-s543-nn0b-maa2hen0h2yi@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

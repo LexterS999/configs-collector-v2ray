@@ -1,9 +1,9 @@
-trojan://czqurmp7-vlaz-oimb-y21i-u5653hg9h965@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://3pyzv4cr-twgr-6dme-n5mh-7au3t7ameuu0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b951qoz4-23go-9379-chjk-w60x44isliji@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fujair2q-f86h-4u5b-ze7m-g23f2k6g3p2d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://54usei33-u12r-utzc-cpwz-0v0shaqgzz9p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://q3n3b9l7-ncph-gv9y-pex4-pxk8eve11fov@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://uj1zbley-gqkg-wz7m-6m3e-13qlrd3gby8m@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vcveg64p-b9nm-kdp8-h46s-nllr29yh62fc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ba6b0be7-0a4e-4e12-a1f2-aaa506977f7c@85.9.104.85:55579?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.85
 vless://feea4b50-0588-4160-9327-85a61b7f8903@85.9.104.89:36916?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 85.9.104.89
 vless://66373462-3132-4232-b765-646435366564@91.213.151.58:3128?type=tcp&security=none&path=/gb/l/w/aGpi82wBtPrbIRSs?ed=2047#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Taknet Afzar Aftab PJSC ┇ 91.213.151.58
 vless://7e3b4e5a-483f-4c2d-957d-765137dbe186@h2.tikmarket1.site:2095?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Taknet Afzar Aftab PJSC ┇ 195.230.107.47
-trojan://a7c7bwjw-ltsw-2p23-z046-oxpjd5rpvqpa@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://8qmp814k-1m1e-v1mi-979o-lpe5pfn3xgpv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

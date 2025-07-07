@@ -1,6 +1,6 @@
-trojan://cg2bzmiz-l165-k1wf-6rvu-gs7g8jgo8ho6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://i89lin67-g5oh-aj4j-cp6w-zjermlng9uaf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fjhvkv2q-lf4c-4prv-ncch-s2415tns8air@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://p7gpwx32-owc2-qtf5-d40z-1005qnu0ryz8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xpp0qh4q-tr9d-od8z-xp6o-dpqkleq1dafb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://hivvv8l8-s94d-vh3p-zf1b-6g3g4yoehoh4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://uin1d1yf-v7sv-ryih-9ksl-b08g6ucq5ugr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://q81j5oqq-973h-iad4-9loi-5334bkkgny2f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d8e9f0a1-b2c3-8901-4567-789abcdef012@188.215.101.196:2053?type=ws&security=tls&path=/@Filter_breaker&sni=iran.aslivpn.ir&fp=chrome#PS 🇵🇸 ┇ VLESS-WS-TLS - Palestine Telecommunications Company (PALTEL) ┇ 188.215.101.196
-trojan://u6mohrau-zede-edjn-8ye0-3quk3ficnsgn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://1e9uw5h0-spja-8wee-g5i7-sxhjpjdcj9uq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,19 +1,24 @@
-trojan://jaxy55k6-qdc9-7f5y-o30m-lj7iac9e42jl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://j5tkonga-48ua-1fva-oj57-rdun0ddozsor@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5fe1fnf7-tyol-8eoj-p4j3-u5dtsxws60px@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://l8g8350d-n7yl-5dq9-mnb3-voyn3n36xx8t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://90f1fa90-75f7-4691-b5b7-a8e4a84d66d9@66.90.74.84:20012?type=tcp&security=reality#AR �🇷 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 66.90.74.84
+trojan://6mmlvt3k-97qv-veur-duss-3nv9f2vce0el@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://vx1gb3tj-s9tj-g75o-x279-kdon4wqqc9uu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tk9dpfr4-e68u-u6xf-8joa-plsfhhbd2gad@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5no5qt44-qrl1-dins-ywj6-5zg030bszgqx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://90f1fa90-75f7-4691-b5b7-a8e4a84d66d9@66.90.74.84:20012?type=tcp&security=reality#AR 🇦🇷 ┇ VLESS-TCP-RLT - FDCSERVERS ┇ 66.90.74.84
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZEQ1NFUlZFUlMgXHUyNTA3IDIxNi4yMjcuMTY4LjE1NyIsImFkZCI6IjIxNi4yMjcuMTY4LjE1NyIsInBvcnQiOjQ1NDE3LCJpZCI6IjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGRENTRVJWRVJTIFx1MjUwNyA1MC43Ljg3Ljg2IiwiYWRkIjoidGVocmFuLXNtcy54eXoiLCJwb3J0Ijo0NDMsImlkIjoiN2YwMzRlMGItMGQzZi00OTYxLTkyZDYtMWI0YmRiZjNjYjE3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InBrZ2J1aWxkLm9yZyIsInBhdGgiOiIvY29ubmVjdC9kZS8/ZWQ9MTAyNC8/Sk9LRVJSVlBOIiwidGxzIjoidGxzIiwic25pIjoicGtnYnVpbGQub3JnIn0
-vless://827545b9-5e1d-4e29-a97f-46b388891f57@::ffff:50.7.85.220:80?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - FDCSERVERS ┇ ::ffff:50.7.85.220
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGRENTRVJWRVJTIFx1MjUwNyA1MC43Ljg3Ljg0IiwiYWRkIjoidGVocmFuLXNtcy54eXoiLCJwb3J0Ijo0NDMsImlkIjoiN2YwMzRlMGItMGQzZi00OTYxLTkyZDYtMWI0YmRiZjNjYjE3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6InBrZ2J1aWxkLm9yZyIsInBhdGgiOiIvY29ubmVjdC9kZS8/ZWQ9MTAyNC8/Sk9LRVJSVlBOIiwidGxzIjoidGxzIiwic25pIjoicGtnYnVpbGQub3JnIn0
+vless://d4e5f6a7-b8c9-0123-def0-456789abcdef@216.227.168.157:45235?type=ws&security=none&path=/Telegram@V2rayNG#US 🇺🇸 ┇ VLESS-WS-NTLS - FDCSERVERS ┇ 216.227.168.157
+vless://e5f6a7b8-c9d0-1234-ef01-56789abcdef0@216.227.168.157:45258?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - FDCSERVERS ┇ 216.227.168.157
 vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@50.7.85.218:443?type=ws&security=tls&path=/hajmi?ed=2050&sni=nitter.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 50.7.85.218
 vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@50.7.85.219:443?type=ws&security=tls&path=/hajmi?ed=2050&sni=nitter.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 50.7.85.219
 vless://7bff2494-32b8-4c13-a995-32b188546270@50.7.85.220:443?type=ws&security=tls&path=/connect/ws/&sni=pkgbuild.org#US 🇺🇸 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 50.7.85.220
 vless://1b6ae0f5-01dc-4b96-bca9-31c672dcf0aa@50.7.85.221:443?type=ws&security=tls&path=/?ed=2048&sni=mohsenfitshr.wibibin259.workers.dev#US 🇺🇸 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 50.7.85.221
+vless://f21e1b2d-71e6-4f50-b921-acd4e89ef19a@50.7.85.221:8443?type=ws&security=tls&path=/?ed=2048&sni=hello-world-nameless-morning-b71b.bojipar202.workers.dev#US 🇺🇸 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 50.7.85.221
 vless://7bff2494-32b8-4c13-a995-32b188546270@50.7.85.222:443?type=ws&security=tls&path=/connect/ws/&sni=pkgbuild.org#US 🇺🇸 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 50.7.85.222
 vless://7bff2494-32b8-4c13-a995-32b188546270@50.7.87.82:443?type=ws&security=tls&path=/connect/ws/&sni=pkgbuild.org#US 🇺🇸 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 50.7.87.82
 vless://8214a3c7-23d5-4168-8754-c1ad8c9ad71d@50.7.87.84:443?type=ws&security=tls&path=/ALB/VIPSell/@saeedtelg&sni=ccsnal.vipsell-one.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 50.7.87.84
 vless://fc6c6f4c-3c4f-49ea-a35d-14f1b188bfca@50.7.87.85:443?type=ws&security=tls&path=/@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,&sni=whalebot.riveDe2001.workers.DeV&fp=randomized#US 🇺🇸 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 50.7.87.85
+vless://68eaa29e-d95e-4e5f-8532-8f4385f5dd77@50.7.87.85:80?type=ws&security=none&path=/@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,@vpnwhale,&sni=whale50.pidaf47086.workers.DeV&fp=randomized#US 🇺🇸 ┇ VLESS-WS-NTLS - FDCSERVERS ┇ 50.7.87.85
+vless://5011a449-a2f9-4a98-a0da-7ef0d927e3d2@50.7.87.86:443?type=ws&security=tls&path=/hajmi?ed=2560&sni=nitter.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FDCSERVERS ┇ 50.7.87.86
 vless://827545b9-5e1d-4e29-a97f-46b388891f57@::ffff:3207:55dc:80?type=ws&security=none&path=/?ed=443#US 🇺🇸 ┇ VLESS-WS-NTLS - FDCSERVERS ┇ ::ffff:3207:55dc
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@::ffff:3207:55dd:443?type=tcp&security=none&path=/xUnw05Z6MV3NG29U?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - FDCSERVERS ┇ ::ffff:3207:55dd
-trojan://5ye1yqyo-j4c4-k7ap-0fq7-102hnpp3ivuj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://827545b9-5e1d-4e29-a97f-46b388891f57@::ffff:50.7.85.220:80?type=ws&security=none&path=/?ed=443#US 🇺🇸 ┇ VLESS-WS-NTLS - FDCSERVERS ┇ ::ffff:50.7.85.220
+trojan://alll2gql-496r-jm11-q6iy-6zmzike1ql5h@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,6 @@
-trojan://0w29s54w-5lde-dimo-djdt-coi9ssmubpx4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://6qmd4wfk-ehtw-cn9g-3e4n-6t3d1mlfw6zc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kyqyrz8n-mzv3-gsbz-c68s-sz3bz3kk8l9v@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3bhimhlu-q87b-g0xg-vevw-doevou1ay1ls@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://p0ij23kq-lbag-y53w-5283-l9x8aktp0meb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://g5kk1do9-r3wx-v08x-tsxs-r2xghh6jc8r1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1xsuogk1-b83o-8yts-f45r-994d4f3ynhb0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4bp81hjf-6tto-qneq-coug-kiwdd700f0cn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@70.32.1.32:443?type=ws&security=tls&path=/kos_madar_publisher&sni=cndb9wjin2i7vab5vvcg.khodavakili.top#US 🇺🇸 ┇ VLESS-WS-TLS - ASN-GIGENET ┇ 70.32.1.32
-trojan://t34flfyv-a12v-bqqs-f4qb-ph09qhl8mk7t@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://zcc4wl8t-c6n3-fffn-cun0-c5a1ispwahrr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

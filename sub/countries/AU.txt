@@ -1,28 +1,28 @@
-trojan://dmqakzt3-nga8-nj7m-ivyp-i0dheirrse7l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://x0dzdgn1-qzg0-mv2n-2yg4-1hwb6qr3pbfo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gnb5hn2w-6poc-j1by-hw5c-x9hlylb3b48d@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rri84fh0-bilf-jyl7-l46t-nsvp9eiqp7kh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://g1llv33e-i2xu-80e3-1x6u-2o3lrmzeabod@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://6s5bpjuf-tenk-8qtu-or88-s0xd2o36took@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://601mzcek-sx4n-ydis-d2a7-a8aokqu873jy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://uparniyg-psoi-hvjw-cvej-fjkld0nkkfyh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@103.21.245.109:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#AU 🇦🇺 ┇ VLESS-WS-TLS ┇ 103.21.245.109
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@103.21.245.42:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#AU 🇦🇺 ┇ VLESS-WS-TLS ┇ 103.21.245.42
-vless://a1b2c3d4-5678-9abc-def0-1234567890ab@45.76.123.45:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.45
+vless://38599da9-b69c-4787-f9af-ba056b7ebf81@149.28.183.15:8080?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 149.28.183.15
+vless://z5a6b7c8-9012-3abc-4def-567890abcdef@45.76.123.100:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.100
+vless://c9d0e1f2-3456-7bcd-8abc-9012abcdef34@45.76.123.110:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.110
+vless://q7r8s9t0-0123-4bcd-5abc-67890abcdef1@45.76.123.120:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.120
+vless://e3f4g5h6-7890-1abc-2def-34567890abcd@45.76.123.130:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.130
+vless://s9t0u1v2-1234-5bcd-6abc-7890abcdef12@45.76.123.140:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.140
+vless://y7z8a9b0-9012-3abc-4def-567890abcdef@45.76.123.150:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.150
+vless://q1r2s3t4-5678-9abc-def0-1234567890ab@45.76.123.160:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.160
+vless://y7z8a9b0-9012-3abc-4def-567890abcdef@45.76.123.170:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.170
+vless://g5h6i7j8-9012-3abc-4def-567890abcdef@45.76.123.180:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.180
+vless://s1t2u3v4-5678-9abc-def0-1234567890ab@45.76.123.190:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.190
+vless://y9z0a1b2-1234-5bcd-6abc-7890abcdef12@45.76.123.200:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.200
+vless://w1x2y3z4-9012-3abc-4def-567890abcdef@45.76.123.210:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.210
 vless://a9b0c1d2-5678-9abc-def0-1234567890ab@45.76.123.220:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.220
 vless://c1d2e3f4-9012-3abc-4def-567890abcdef@45.76.123.230:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.230
-vless://c9d0e1f2-3456-7bcd-8abc-9012abcdef34@45.76.123.110:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.110
-vless://e3f4g5h6-7890-1abc-2def-34567890abcd@45.76.123.130:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.130
-vless://g5h6i7j8-9012-3abc-4def-567890abcdef@45.76.123.180:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.180
 vless://i1j2k3l4-1234-5bcd-6abc-7890abcdef12@45.76.123.240:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.240
+vless://a1b2c3d4-5678-9abc-def0-1234567890ab@45.76.123.45:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.45
 vless://i9j0k1l2-3456-5bcd-6abc-7890abcdef12@45.76.123.67:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.67
 vless://n5o6p7q8-9012-3abc-4def-567890abcdef@45.76.123.89:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.89
-vless://q1r2s3t4-5678-9abc-def0-1234567890ab@45.76.123.160:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.160
-vless://q7r8s9t0-0123-4bcd-5abc-67890abcdef1@45.76.123.120:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.120
-vless://s1t2u3v4-5678-9abc-def0-1234567890ab@45.76.123.190:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.190
-vless://s9t0u1v2-1234-5bcd-6abc-7890abcdef12@45.76.123.140:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.140
-vless://w1x2y3z4-9012-3abc-4def-567890abcdef@45.76.123.210:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.210
-vless://y7z8a9b0-9012-3abc-4def-567890abcdef@45.76.123.150:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.150
-vless://y7z8a9b0-9012-3abc-4def-567890abcdef@45.76.123.170:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.170
-vless://y9z0a1b2-1234-5bcd-6abc-7890abcdef12@45.76.123.200:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.200
-vless://z5a6b7c8-9012-3abc-4def-567890abcdef@45.76.123.100:8443?type=ws&security=tls&path=/vless&sni=sg.vpnfree.org#AU 🇦🇺 ┇ VLESS-WS-TLS - AS-VULTR ┇ 45.76.123.100
-vless://38599da9-b69c-4787-f9af-ba056b7ebf81@149.28.183.15:8080?type=ws&security=none&path=/#AU 🇦🇺 ┇ VLESS-WS-NTLS - AS-VULTR ┇ 149.28.183.15
 vless://f5a6b7c8-d9e0-4f1a-9234-567890abcdef@45.76.123.10:443?type=tcp&security=reality&fp=chrome&pbk=publickey1234567890abcdef1234567890abcdef#AU 🇦🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.76.123.10
 vless://f5a6b7c8-d9e0-4f1a-9234-567890abcdef@45.76.123.11:443?type=tcp&security=reality&fp=chrome&pbk=publickey1234567890abcdef1234567890abcdef#AU 🇦🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.76.123.11
 vless://f5a6b7c8-d9e0-4f1a-9234-567890abcdef@45.76.123.12:443?type=tcp&security=reality&fp=chrome&pbk=publickey1234567890abcdef1234567890abcdef#AU 🇦🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.76.123.12
@@ -34,8 +34,9 @@ vless://f5a6b7c8-d9e0-4f1a-9234-567890abcdef@45.76.123.17:443?type=tcp&security=
 vless://f5a6b7c8-d9e0-4f1a-9234-567890abcdef@45.76.123.18:443?type=tcp&security=reality&fp=chrome&pbk=publickey1234567890abcdef1234567890abcdef#AU 🇦🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.76.123.18
 vless://f5a6b7c8-d9e0-4f1a-9234-567890abcdef@45.76.123.19:443?type=tcp&security=reality&fp=chrome&pbk=publickey1234567890abcdef1234567890abcdef#AU 🇦🇺 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 45.76.123.19
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyc2hpYSBBc2FkaSBcdTI1MDcgNDYuMjQ5LjExMC42IiwiYWRkIjoibmV0aGVybGFuZHMuYXBhcmF0LW1vdmllcy1kb3dubG9hZC5pciIsInBvcnQiOjQyNTYyLCJpZCI6Ijc5MDVjMjhkLTM0ZDctNDM1YS1iNjdlLWQxZDJkMzQyZjAxMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://71a3cd5b-90cf-4fea-b286-e011b31438cf@lovefishingfishes.kuckenpq.ir:8880?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 46.249.110.26
+vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@46.249.110.26:8880?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 46.249.110.26
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@46.249.110.31:8880?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 46.249.110.31
+vless://fa37c0b5-8e65-475c-b575-7f87135fd8ed@46.249.110.26:32135?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&sid=085753500f657097#AU 🇦🇺 ┇ VLESS-GRPC-RLT - Arshia Asadi ┇ 46.249.110.26
 vless://04a8fc0b-a72b-4d31-8f26-4a8ed6f78d41@202.133.89.132:6062?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 202.133.89.132
 vless://052ac018-69f4-4e0c-880f-22715132d5b9@82.115.16.123:54022?type=tcp&security=tls&sni=www.speedtest.net#AU 🇦🇺 ┇ VLESS-TCP-TLS - BitCommand LLC ┇ 82.115.16.123
 vless://fa0825cd-89b2-4e57-a669-68d4f4a3bd2c@103.169.142.0:443?type=ws&security=tls&path=/proxyip=nami.shorekeeper.ir&sni=taochan.ssyyllpphhaachan.ip-ddns.com&fp=random#AU 🇦🇺 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 103.169.142.0
@@ -96,4 +97,4 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@168.138.13.201:443?type=ws&security
 vless://d516b33d-86ee-49e8-9af7-4eb7405e5cfe@syd-ociee.oraclenat.cc:23258?type=tcp&security=reality&sni=akcdnoversea.inter.71edge.com&fp=chrome&flow=xtls-rprx-vision&pbk=ThfOtumNgf18JU_gZRGLrM_-HLcTGVn5D174o37mShI&sid=5b9b950d#AU 🇦🇺 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 150.230.14.167
 vless://89d7fe3b-e879-4786-8390-0ab08f797fb2@syd5.vpntype.dev:443?type=tcp&security=tls&sni=syd5.vpntype.dev&fp=chrome&flow=xtls-rprx-vision#AU 🇦🇺 ┇ VLESS-TCP-TLS - OVH SAS ┇ 51.161.164.74
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@cdn.mcinet.xyz:8880?type=httpupgrade&security=none&path=/#AU 🇦🇺 ┇ VLESS-HTTPUPGRADE-NTLS - Trellian Pty. Limited ┇ 103.224.212.202
-trojan://qv6n6d9p-5saq-qkgs-374b-h1rxc1ki9mi2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ruhk97oy-ikby-m6uz-xcmw-f7yvhku5j5sx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

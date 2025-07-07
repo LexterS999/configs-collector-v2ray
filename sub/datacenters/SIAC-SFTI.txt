@@ -1,7 +1,7 @@
-trojan://y24exedy-oltc-1nm8-zf6z-om1hz73yvjo3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://qoyisxkk-fnih-lv70-0gkp-oa8e7a34zugi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g8q6yod1-c9yq-ytxs-7mjx-3idyt8rfdadc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://o1qbs562-jbdt-7lfw-v8xf-wqz5oyviylls@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cvfjnlli-xe39-1ja0-70yw-pf9uclh0wb4y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://q6ps5q5f-nl5r-skkx-v1y8-ppuy6b6cssjv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://paj6eefh-cm7l-eda2-3r44-33ep7gqk8qiv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gft8v1dn-dmq0-83ju-4b2e-xzsc7xft63qc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.83.160:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 158.224.83.160
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@158.224.83.27:443?type=ws&security=none&sni=hl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - SIAC-SFTI ┇ 158.224.83.27
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.224.90.158:443?type=ws&security=tls&path=/blue&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 158.224.90.158
@@ -12,4 +12,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.221.213.172:443?type=ws&securit
 vless://55520747-311e-4015-83ce-be46e2060ce3@216.221.213.189:443?type=ws&security=none&sni=uu.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - SIAC-SFTI ┇ 216.221.213.189
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@216.221.214.50:443?type=ws&security=tls&path=/blue&sni=ap.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - SIAC-SFTI ┇ 216.221.214.50
 vless://3b2eb5e5-ec54-4db4-aece-297faf81d926@216.221.222.153:443?type=xhttp&security=tls&path=/?BIA_CHANEL@JOKERRVPN&sni=xuy.cyberkotakbas.ru&fp=chrome#US 🇺🇸 ┇ VLESS-XHTTP-TLS - SIAC-SFTI ┇ 216.221.222.153
-trojan://xaeegqut-gwa6-89zt-ru2s-gk9z9prgq6an@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://fremesna-zzmv-lkib-6zgm-0wj781m8rzba@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

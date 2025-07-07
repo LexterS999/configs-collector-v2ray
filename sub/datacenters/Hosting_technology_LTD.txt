@@ -1,8 +1,8 @@
-trojan://7lefjx5h-r86l-ew57-9fh9-3kvsu6z3cz36@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://lkduomsy-okb3-ry54-f88d-mu71a6mv0ne7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4w6hi9ua-du32-agp4-8or9-mdyrwf0rbyln@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e20ikh28-t9jk-h2gb-zk5m-dhdjntdnf8yb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ezvkr1zi-3nzo-zfcz-sa8g-qgjo4uvvrtqw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://zcoa1775-ydni-1q40-fga5-gn10xzavzu8b@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z9i32ff8-oyb3-ty60-pmf9-a5u7mf9cu3se@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5504otuc-x5e8-3j3t-k6i5-3mnct2nca8fk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ce9791a6-ed9d-4a73-9cf5-953441458ba8@melli.easy-swap.net:80?type=ws&security=none&path=/price#RU 🇷🇺 ┇ VLESS-WS-NTLS - Hosting technology LTD ┇ 93.183.92.238
-vless://2e1e96f0-821f-40a0-93ed-7ce695e803df@speed.easy-swap.net:80?type=ws&security=none&path=/price#RU 🇷🇺 ┇ VLESS-WS-NTLS - Hosting technology LTD ┇ 94.103.83.139
+vless://2e1e96f0-821f-40a0-93ed-7ce695e803df@speed.easy-swap.net:80?type=ws&security=none&path=/price#RU 🇷🇺 ┇ VLESS-WS-NTLS - Hosting technology LTD ┇ 94.103.86.129
 vless://Z4KQOIyDP9ZkDA3kTtHZG7@93.183.95.25:443?type=tcp&security=reality&sni=whatsapp.com&fp=chrome&flow=xtls-rprx-vision&pbk=vKz__rOyyNMz7aPldKGs2kiVERALKv6eHGUms2EUDFE&sid=de6559c435f91a7a#RU 🇷🇺 ┇ VLESS-TCP-RLT - Hosting technology LTD ┇ 93.183.95.25
-trojan://9cqtm9xc-0erq-lb9y-rx1j-jr7qjcqt1gbl@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://yf3qempr-n0cj-btfp-gvjo-ulttwo4c3p97@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

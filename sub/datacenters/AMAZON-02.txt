@@ -1,7 +1,7 @@
-trojan://uqfoakm0-nvwr-9cpb-55yk-g6py4hmmee6p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://9xa1pmpz-d3sd-xpxl-kj1c-et16s4fuqfed@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3ncgdk76-jd0o-ezzs-8y5f-kv18k44v0bek@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://p0n4clch-obxj-jxvb-3cqg-zol6yutokhsi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://tcw0zmxj-qss9-v80j-dz4m-xh0thr36znb1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://nbv6q5tw-5mfh-crf1-t8d7-bfrbgrln5z9j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lahvfrjb-882j-ks21-uct1-o8kaxcukdx3p@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2j9jw75r-jo13-0wl1-310e-hvgpfav43uaw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b44067d6-8476-4135-9807-5fc1819e533c@51.112.101.2:3040?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#AE 🇦🇪 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 51.112.101.2
 vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@51.112.83.198:3040?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#AE 🇦🇪 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 51.112.83.198
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.119.101:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#CA 🇨🇦 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.156.119.101
@@ -51,8 +51,15 @@ trojan://telegram-id-privatevpns@3.121.254.201:22222?sni=trojan.burgerip.co.uk&p
 trojan://telegram-id-privatevpns@18.157.144.163:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.157.144.163
 trojan://telegram-id-privatevpns@63.178.31.204:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 63.178.31.204
 trojan://telegram-id-privatevpns@18.194.185.25:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.194.185.25
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.15.163:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.121.15.163
-vless://928c7c5b-5928-4b7c-98d7-dcfca65d02f3@3.79.61.93:20733?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.79.61.93
+trojan://telegram-id-directvpn@3.68.63.67:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.68.63.67
+trojan://telegram-id-directvpn@18.153.187.134:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.153.187.134
+trojan://telegram-id-directvpn@3.121.254.201:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.121.254.201
+trojan://telegram-id-directvpn@18.157.144.163:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.157.144.163
+trojan://telegram-id-directvpn@63.178.31.204:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 63.178.31.204
+trojan://telegram-id-directvpn@3.76.173.190:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.76.173.190
+trojan://telegram-id-directvpn@3.74.20.115:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.74.20.115
+trojan://telegram-id-directvpn@18.194.185.25:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.194.185.25
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.144.163:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.157.144.163
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.111.206:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.153.111.206
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.123.243:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.153.123.243
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.129.97:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.153.129.97
@@ -60,6 +67,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.135.79:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.156.224:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.153.156.224
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.170.201:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.153.170.201
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.179.45:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.153.179.45
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.187.134:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.153.187.134
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.116.190:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.156.116.190
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.130.48:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.156.130.48
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.138.162:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.156.138.162
@@ -107,6 +115,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.28.55:22222?type=ws&security
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.51.241:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.193.51.241
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.11.221:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.194.11.221
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.138.8:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.194.138.8
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.185.25:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.194.185.25
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.77.103:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.194.77.103
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.77.188:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.194.77.188
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.195.107.212:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.195.107.212
@@ -157,10 +166,12 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.23.217:22224?type=ws&security
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.242.252:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.120.242.252
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.64.92:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.120.64.92
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.14.56:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.121.14.56
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.15.163:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.121.15.163
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.15.99:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.121.15.99
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.167.30:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.121.167.30
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.17.118:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.121.17.118
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.17.74:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.121.17.74
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.254.201:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.121.254.201
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.255.219:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.121.255.219
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.63.185:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.121.63.185
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.65.203:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.121.65.203
@@ -248,6 +259,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.68.151.13:22222?type=ws&security=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.68.168.184:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.68.168.184
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@3.68.31.54:443?type=ws&security=tls&path=/blue&sni=hz.ylks.xyz#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.68.31.54
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.68.38.206:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.68.38.206
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.68.63.67:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.68.63.67
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@3.69.0.8:443?type=ws&security=tls&path=/blue&sni=hz.ylks.xyz#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.69.0.8
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.153.186:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.69.153.186
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.153.40:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.69.153.40
@@ -284,6 +296,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.30.42:22224?type=ws&security=t
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.122.89:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.74.122.89
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.18.33:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.74.18.33
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.181.8:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.74.181.8
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.20.115:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.74.20.115
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.29.74:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.74.29.74
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.31.111:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.74.31.111
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.36.198:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.74.36.198
@@ -298,6 +311,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.75.56.33:22222?type=tcp&security=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.149.235:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.76.149.235
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.154.155:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.76.154.155
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.166.82:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.76.166.82
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.173.190:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.76.173.190
 vless://590eb209-461f-471a-c8ac-500139c924be@3.76.214.32:55244?type=grpc&security=none#DE 🇩🇪 ┇ VLESS-GRPC-NTLS - AMAZON-02 ┇ 3.76.214.32
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.232.144:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.76.232.144
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.237.63:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.76.237.63
@@ -333,6 +347,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.79.209:22222?type=ws&security=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.79.241:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.78.79.241
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.99.247:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.78.99.247
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.133.0:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.79.133.0
+vless://928c7c5b-5928-4b7c-98d7-dcfca65d02f3@3.79.61.93:20733?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.79.61.93
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.78.44:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.79.78.44
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.137.154:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 35.156.137.154
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.176.104:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 35.156.176.104
@@ -464,6 +479,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.212.178:22224?type=ws&securi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.252.63:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 63.178.252.63
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.27.177:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 63.178.27.177
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.28.207:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 63.178.28.207
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.31.204:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 63.178.31.204
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.35.184:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 63.178.35.184
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.47.43:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 63.178.47.43
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.60.16:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#DE 🇩🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 63.178.60.16
@@ -477,14 +493,25 @@ vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@18.153.71.5:8443?type=tcp&security=
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@18.153.78.187:8443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.153.78.187
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@18.194.97.216:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.194.97.216
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@3.123.37.20:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.123.37.20
+vless://96a9bb13-9278-4b90-9632-f528fb884915@3.70.70.60:2084?type=tcp&security=reality&path=/www.python.org/downloads/&sni=tgju.org&fp=firefox&pbk=5GbLSpPmrHvrw9FWUE4hJFA-6WDGlKlw1874njXXBX4&sid=5852a2dac3553560#DE 🇩🇪 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.70.70.60
 trojan://telegram-id-privatevpns@15.236.126.225:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.236.126.225
 trojan://telegram-id-directvpn@35.181.146.19:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.181.146.19
 trojan://telegram-id-directvpn@51.44.102.57:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.44.102.57
+trojan://telegram-id-directvpn@15.236.126.225:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.236.126.225
 trojan://telegram-id-directvpn@13.36.44.43:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.36.44.43
+trojan://telegram-id-privatevpns@51.44.102.57:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.44.102.57
+trojan://telegram-id-privatevpns@13.36.44.43:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.36.44.43
 trojan://telegram-id-privatevpns@35.181.47.121:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.181.47.121
 trojan://telegram-id-privatevpns@13.39.154.143:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.39.154.143
 trojan://telegram-id-privatevpns@15.236.33.94:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.236.33.94
 trojan://telegram-id-privatevpns@51.44.138.7:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.44.138.7
+trojan://telegram-id-privatevpns@35.181.146.19:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.181.146.19
+trojan://telegram-id-directvpn@35.181.47.121:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.181.47.121
+trojan://telegram-id-directvpn@13.39.154.143:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.39.154.143
+trojan://telegram-id-directvpn@15.236.33.94:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.236.33.94
+trojan://telegram-id-directvpn@51.44.138.7:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.44.138.7
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.146.19:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 35.181.146.19
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.138.7:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 51.44.138.7
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.206.161:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 35.181.206.161
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.101.183:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.36.101.183
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.101.57:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.36.101.57
@@ -519,6 +546,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.250.47:22224?type=tcp&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.28.39:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.36.28.39
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.32.228:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.36.32.228
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.42.132:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.36.42.132
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.44.43:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.36.44.43
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.45.57:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.36.45.57
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.57.188:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.36.57.188
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.59.43:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.36.59.43
@@ -604,6 +632,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.134.95:22222?type=ws&security
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.137.193:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.39.137.193
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.147.38:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.39.147.38
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.152.74:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.39.152.74
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.154.143:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.39.154.143
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.166.196:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.39.166.196
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.166.82:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.39.166.82
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.168.53:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.39.168.53
@@ -679,6 +708,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.1.58:22224?type=ws&security=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.108.181:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.108.181
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.118.215:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.118.215
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.121.158:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.121.158
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.126.225:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.126.225
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.13.62:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.13.62
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.136.249:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.136.249
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.147.255:22224?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 15.236.147.255
@@ -686,6 +716,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.150.114:22222?type=ws&securi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.16.80:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.16.80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.160.30:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.160.30
 vless://telegram-id-directvpn@15.236.162.49:22223?type=tcp&security=tls#FR 🇫🇷 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 15.236.162.49
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.162.49:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.162.49
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.165.252:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.165.252
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.170.3:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.170.3
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.171.90:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.171.90
@@ -705,6 +736,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.251.197:22222?type=ws&securi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.27.95:22224?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 15.236.27.95
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.31.240:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.31.240
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.33.140:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.33.140
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.33.94:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.33.94
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.34.176:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.34.176
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.5.68:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.5.68
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.50.197:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.236.50.197
@@ -724,6 +756,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.104.107:22224?type=ws&securi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.11.137:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.237.11.137
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.11.16:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.237.11.16
 vless://f33f3bec-0ea1-404a-970a-fb535ae8f4f4@15.237.116.254:18951?type=ws&security=none&path=/#FR 🇫🇷 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 15.237.116.254
+vless://65410be0-1411-4c94-b017-0ac2d7181ca8@15.237.116.254:36105?type=tcp&security=tls&sni=b.vahidvpn.com.tr#FR 🇫🇷 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 15.237.116.254
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.146.213:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.237.146.213
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.148.165:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.237.148.165
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.154.212:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 15.237.154.212
@@ -823,6 +856,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.255.132:22224?type=ws&securi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.28.118:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 35.181.28.118
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.29.16:22224?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 35.181.29.16
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.42.7:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 35.181.42.7
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.47.121:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 35.181.47.121
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.64.222:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 35.181.64.222
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.71.30:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 35.181.71.30
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.77.27:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 35.181.77.27
@@ -831,6 +865,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.1.140:22224?type=ws&security=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.100.160:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 51.44.100.160
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.100.175:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 51.44.100.175
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.100.244:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 51.44.100.244
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.102.57:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 51.44.102.57
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.103.6:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 51.44.103.6
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.103.93:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 51.44.103.93
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.105.67:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#FR 🇫🇷 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 51.44.105.67
@@ -923,7 +958,6 @@ vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@51.44.160.168:8443?type=tcp&securit
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@51.44.163.247:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#FR 🇫🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 51.44.163.247
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@51.44.208.122:443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b#FR 🇫🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 51.44.208.122
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.98.57:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#GB 🇬🇧 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 35.179.98.57
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.241.47:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#GB 🇬🇧 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.11.241.47
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.134.10.53:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#GB 🇬🇧 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.134.10.53
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.134.11.95:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#GB 🇬🇧 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.134.11.95
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.134.19.11:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#GB 🇬🇧 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.134.19.11
@@ -1060,6 +1094,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.148.163:22222?type=ws&security
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.189.7:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#GB 🇬🇧 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.11.189.7
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.228.154:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#GB 🇬🇧 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.11.228.154
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.234.17:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#GB 🇬🇧 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.11.234.17
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.241.47:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#GB 🇬🇧 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.11.241.47
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.26.102:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#GB 🇬🇧 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.11.26.102
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.43.2:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#GB 🇬🇧 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.11.43.2
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.45.159:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#GB 🇬🇧 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.11.45.159
@@ -1149,6 +1184,7 @@ vless://7f93e196-1b2f-4a42-8051-5815554c05db@18.133.125.53:443?type=tcp&security
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@18.135.103.109:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#GB 🇬🇧 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.135.103.109
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@18.169.134.255:443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b#GB 🇬🇧 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.169.134.255
 vless://0feab3e5-b30a-47f6-b4ce-65a23fd33856@18.169.158.249:32785?type=tcp&security=reality&sni=s0.awsstatic.com&fp=chrome&flow=xtls-rprx-vision&pbk=K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU#GB 🇬🇧 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.169.158.249
+vless://1b187900-969e-4770-a3f6-f7f4d7bb24b8@18.169.158.249:32821?type=tcp&security=reality&sni=s0.awsstatic.com&fp=edge&flow=xtls-rprx-vision&pbk=K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU#GB 🇬🇧 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.169.158.249
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@18.170.45.199:443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b#GB 🇬🇧 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.170.45.199
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@18.171.189.129:443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b#GB 🇬🇧 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.171.189.129
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@18.175.135.22:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#GB 🇬🇧 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.175.135.22
@@ -1409,8 +1445,6 @@ vless://7f93e196-1b2f-4a42-8051-5815554c05db@63.35.162.35:443?type=tcp&security=
 trojan://ttfang@13.233.5.49:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.233.5.49
 vless://948f6596-66f9-4707-aa92-3107a214ce53@65.1.147.200:35979?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#IN 🇮🇳 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 65.1.147.200
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFNQVpPTi0wMiBcdTI1MDcgMTMuMTEyLjQ5LjE3MSIsImFkZCI6IjEzLjExMi40OS4xNzEiLCJwb3J0Ijo0ODg5NywiaWQiOiIzMzc0ZGU3Yi02MWNhLTRlZjQtYWU5NC1hZDBlMGU3NTlkYjAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@3bd9.55dca.e048.f3-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 52.196.242.13
-vless://badbc35d-a86b-412d-ac05-29ab54643c80@57.180.172.178:30000?type=ws&security=tls&path=/?ed=2560&sni=mot.majusti.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 57.180.172.178
 vless://f1c18014-d4e9-4c81-c7e2-bd7ea51ab297@13.230.113.30:42294?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 13.230.113.30
 vless://3fdc8e22-464f-4cbf-bc9f-5d11bf468322@13.230.123.236:24132?type=ws&security=none&path=/bing#JP 🇯🇵 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 13.230.123.236
 vless://948f6596-66f9-4707-aa92-3107a214ce53@13.230.34.30:443?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.230.34.30
@@ -1424,6 +1458,7 @@ vless://7e40f1ed-01a6-460a-af2e-9ef67749a497@35.72.9.171:37453?type=ws&security=
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@35.75.160.251:443?type=ws&security=tls&path=Telegram🇨🇳 @pgkj666 /?ed=2560&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 35.75.160.251
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f1-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 18.183.175.44
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f2-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 54.249.86.118
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f3-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfjp.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 52.196.242.13
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f4-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfjp.xn--4gq62f52gppi29k.com&fp=ios&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 35.76.201.233
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f5-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfjp.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 18.179.206.207
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f6-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfjp.xn--4gq62f52gppi29k.com&fp=ios&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 3.112.235.148
@@ -1432,6 +1467,7 @@ vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@52.195.187.159:443?type=ws&security
 vless://f739a293-0e4f-4e22-eee8-834dea3cbe59@54.168.84.181:22935?type=ws&security=none&path=/bing#JP 🇯🇵 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 54.168.84.181
 vless://36ac48d1-4242-4a94-ac8c-fe4c3ebd8317@54.178.127.19:35107?type=ws&security=none&path=/bing#JP 🇯🇵 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 54.178.127.19
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@54.238.156.23:443?type=ws&security=tls&path=/?ed&sni=edccj.ambercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 54.238.156.23
+vless://b22a0538-39c3-4b16-92c9-c81a5b94d4f5@57.180.172.178:30000?type=ws&security=tls&path=/?ed=2560&sni=mot.luyuju.dpdns.org&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 57.180.172.178
 vless://1117a11a-c420-48cf-8bc6-d304461319e7@jp1.ab-c789-4500-8caf-d2a37755fe09.myyemail.com:443?type=tcp&security=tls&sni=jp1.chaoyueemail.com&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 3.112.229.36
 vless://1117a11a-c420-48cf-8bc6-d304461319e7@jp2.ab-c789-4500-8caf-d2a37755fe09.myyemail.com:443?type=tcp&security=tls&sni=jp2.chaoyueemail.com&flow=xtls-rprx-vision#JP 🇯🇵 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 54.95.8.233
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.114.211.151:443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.114.211.151
@@ -1444,6 +1480,7 @@ vless://374e925e-7f93-4d82-8d03-fd713bebfa24@54.249.203.211:10002?type=tcp&secur
 vless://3fdf5dbc-d3e8-4ae9-aeef-dd83278ea4af@57.182.23.113:443?type=tcp&security=reality&sni=tv.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=gkeUZppVQzutjGsRcsGMW8OrPHboJ3qRFpIvj8lcUj4&sid=c174618d#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 57.182.23.113
 vless://be0b1c5d-e2f4-4828-a527-f4e0f2eaea1a@aws-link14.liangxin1.xyz:25485?type=tcp&security=none#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.230.116.155
 vless://be0b1c5d-e2f4-4828-a527-f4e0f2eaea1a@aws-link15.liangxin1.xyz:35457?type=tcp&security=reality&sni=www.apple.com.cn&fp=chrome&flow=xtls-rprx-vision&pbk=3gb-aG6qLCJpEOFrEPZ9qKqLvVPA_ovlu0X1PvjcE0k&sid=05288db3#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 52.199.1.36
+vless://c9ca73e7-35d9-486a-a141-22aebf4ac879@aws-link15.liangxin1.xyz:443?type=tcp&security=reality&sni=www.apple.com.cn&fp=chrome&flow=xtls-rprx-vision&pbk=3gb-aG6qLCJpEOFrEPZ9qKqLvVPA_ovlu0X1PvjcE0k&sid=05288db3#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 52.199.1.36
 vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@jp002.421421.xyz:20230?type=grpc&security=reality&sni=www.nvidia.com&fp=chrome&pbk=yNOemxnmT-HQ2HiR9fdHSN2B8HpHsRyMIsir_iAlaHE&sid=5c3c9f11#JP 🇯🇵 ┇ VLESS-GRPC-RLT - AMAZON-02 ┇ 3.112.196.33
 vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@jp004.421421.xyz:20230?type=grpc&security=reality&sni=www.nvidia.com&fp=chrome&pbk=lbOfuIKCBPcQH4AEnwnPw1LNxWrl-Bul6KU99H240Fc&sid=abae4722#JP 🇯🇵 ┇ VLESS-GRPC-RLT - AMAZON-02 ┇ 3.112.204.6
 vless://3fdf5dbc-d3e8-4ae9-aeef-dd83278ea4af@pq.aws53.yydjc.top:443?type=tcp&security=reality&sni=buylite.tv.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=0UFjUVBI4nT-rTdQewzCmsYLrs_a4-qTq2ksWpDanXw&sid=c6306490#JP 🇯🇵 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 35.78.248.243
@@ -1456,12 +1493,12 @@ vless://4de74123-0081-4a83-98ef-a965aadddf0d@13.125.140.64:17846?type=tcp&securi
 vless://f37384b3-ed03-4205-8a8f-c6b639fb335f@13.209.11.26:30001?type=tcp&security=reality&sni=s0.awsstatic.com&fp=qq&pbk=DyRHSP0NYimjT2GuBQ1qyIIYvSHvR1X9ufQjUBVw9yQ#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.209.11.26
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@16.184.18.141:443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 16.184.18.141
 vless://d09bc91d-b7e6-449f-ba3f-401312648b3a@3.34.191.59:32449?type=tcp&security=reality&sni=s0.awsstatic.com&fp=firefox&flow=xtls-rprx-vision&pbk=K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.34.191.59
+vless://d09bc91d-b7e6-449f-ba3f-401312648b3a@3.34.191.59:32866?type=tcp&security=reality&sni=s0.awsstatic.com&fp=ios&flow=xtls-rprx-vision&pbk=K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.34.191.59
 vless://3aec9607-0136-4ca1-90c2-553a0322b25e@52.78.43.107:40000?type=tcp&security=reality&sni=coss.ac.kr&fp=chrome&flow=xtls-rprx-vision&pbk=jd3zjULyxo9tNSxDdg3qKurlO_xiWLODwM-bG_wKdTg&sid=4aba17ca#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 52.78.43.107
 vless://be0b1c5d-e2f4-4828-a527-f4e0f2eaea1a@aws-link25.liangxin1.xyz:34578?type=tcp&security=reality&sni=download-porter.hoyoverse.com&fp=chrome&flow=xtls-rprx-vision&pbk=PSn2s5TN4e7n0LkzPunu2IA1hSmOoPYFu3d_psl2Nmc&sid=e534c8be#KR 🇰🇷 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.38.170.56
 vless://63ea63b4-abd1-4659-dbcc-8cdc30710578@43.216.10.241:58491?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 43.216.10.241
 vless://881a611f-a8ed-4fea-bda2-1f2bd77a5bfd@43.216.181.43:18264?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 43.216.181.43
 vless://63ea63b4-abd1-4659-dbcc-8cdc30710578@43.216.210.242:58491?type=tcp&security=none#MY 🇲🇾 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 43.216.210.242
-vless://d988c5de-e423-4465-e77c-61d686f603f7@13.53.44.85:43470?type=ws&security=none&path=/#SE 🇸🇪 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 13.53.44.85
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.103.4:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#SE 🇸🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.48.103.4
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.12.94:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#SE 🇸🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.48.12.94
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.120.95:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#SE 🇸🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.48.120.95
@@ -1542,6 +1579,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@13.53.165.65:8080?type=ws&security=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.227.53:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#SE 🇸🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.53.227.53
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.241.252:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#SE 🇸🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.53.241.252
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.33.12:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#SE 🇸🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.53.33.12
+vless://d988c5de-e423-4465-e77c-61d686f603f7@13.53.44.85:43470?type=ws&security=none&path=/#SE 🇸🇪 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 13.53.44.85
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@13.53.51.77:8080?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.53.51.77
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.58.237:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#SE 🇸🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.53.58.237
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.65.97:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#SE 🇸🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.53.65.97
@@ -1718,8 +1756,6 @@ vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@51.20.71.8:8443?type=tcp&security=r
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@51.21.218.30:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#SE 🇸🇪 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 51.21.218.30
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@51.21.220.61:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#SE 🇸🇪 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 51.21.220.61
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@56.228.16.109:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#SE 🇸🇪 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 56.228.16.109
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@3bd9.55dca.e048.f8-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 54.255.139.254
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@3bd9.55dca.e048.f9-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 3.0.101.89
 vless://cdb63ff9-1767-4a35-97e5-900048e4feb2@13.215.252.170:443?type=tcp&security=tls&sni=cdn-sg02.download.pikoport.com&fp=chrome&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 13.215.252.170
 vless://70c2e363-a934-4ea5-9e29-7cadd817194c@13.228.142.218:443?type=ws&security=tls&path=/?ed=2560&sni=v2-3h5.pages.dev&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.228.142.218
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@13.228.155.72:443?type=ws&security=none&sni=miku.mikuru.ip-ddns.com#SG 🇸🇬 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 13.228.155.72
@@ -1730,11 +1766,13 @@ vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@18.140.1.71:20230?type=grpc&securit
 vless://b543c066-2189-4aa4-8afb-445ac8ee28d4@18.142.229.20:443?type=tcp&security=tls&sni=buylite.tv.apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 18.142.229.20
 vless://4ee1809a-4a35-4601-99b3-51ce05fb4585@18.143.64.158:60002?type=ws&security=tls&path=/?ed=2560&sni=oty.myto.ip-ddns.com&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.143.64.158
 vless://3d93a26b-4b85-49fc-9818-8bb80a76d04a@18.143.93.7:13242?type=ws&security=tls&path=/?ed=2560&sni=miku.mikuru.ip-ddns.com&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.143.93.7
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3.0.101.89:443?type=tcp&security=tls&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision-udp443#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 3.0.101.89
 vless://f4522b1a-7cc2-4d4b-84c5-357242e052bb@3.0.39.179:443?type=ws&security=tls&path=/&sni=jd.chenchuanjin.sbs#SG 🇸🇬 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.0.39.179
 vless://f4522b1a-7cc2-4d4b-84c5-357242e052bb@3.0.39.180:443?type=ws&security=tls&path=/&sni=jd.chenchuanjin.sbs#SG 🇸🇬 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.0.39.180
 vless://f2b3219c-215f-4b7e-96d8-25b751d79988@3.1.94.232:443?type=ws&security=tls&path=/Telegram🇨🇳 @WangCai2 /&sni=edgetunnel.xiaomayi.nyc.mn#SG 🇸🇬 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.1.94.232
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f10-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=ios&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 54.179.186.107
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f7-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=b295-23ap29-6bh.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 54.179.89.113
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f8-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=firefox&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 54.255.139.254
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.128.164.52:9999?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#SG 🇸🇬 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 47.128.164.52
 vless://e752cca9-18aa-4eaf-a6f6-79c375eee55d@47.129.154.91:443?type=tcp&security=tls&sni=android.google.com&fp=chrome#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 47.129.154.91
 vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@47.129.30.173:20230?type=grpc&security=tls&path=/&sni=sg001.421421.xyz#SG 🇸🇬 ┇ VLESS-GRPC-TLS - AMAZON-02 ┇ 47.129.30.173
@@ -1756,34 +1794,10 @@ vless://3fdf5dbc-d3e8-4ae9-aeef-dd83278ea4af@13.229.122.251:443?type=tcp&securit
 vless://3fdf5dbc-d3e8-4ae9-aeef-dd83278ea4af@18.141.158.36:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=xjWkdgeetCnB1-kHqwVnAaSUqg4qK9TFWQlamW8FSRI&sid=e2e15173#SG 🇸🇬 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.141.158.36
 vless://a89fd399-8e64-4084-b363-c9bed3ebb524@18.142.231.20:443?type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=LNCmkXw_XXSJ5uWuabVN6PAYGEW9Yef6C3kc9jqoXBI&sid=b1aa86bb600f9a1d#SG 🇸🇬 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.142.231.20
 vless://be0b1c5d-e2f4-4828-a527-f4e0f2eaea1a@aws-link9.liangxin1.xyz:23587?type=tcp&security=reality&sni=iosapps.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=H66PLLf6HkZwHk4oFqisfTawIvw2cxkEwk8Ue8sHZgA&sid=19b580ae#SG 🇸🇬 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.143.64.184
+vless://98bd7253-05c5-47e0-b507-f4f4465fd4c2@aws-link9.liangxin1.xyz:443?type=tcp&security=reality&sni=www.lamer.com.sg&fp=chrome&flow=xtls-rprx-vision&pbk=WwOadVLgJs-cjvdtcBs6HAFX9J64F7_P4-8YioR2dXY&sid=140a4f72#SG 🇸🇬 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.143.64.184
 vless://7300363f-c18f-4bcf-a5a9-2ad35220505e@pq.aws63.yydjc.top:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=2fXYSD6vZyrb38UGOzeqjhQCj4N9kImoIjopb6tSii4&sid=9cbb1611#SG 🇸🇬 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.136.196.137
 vless://7300363f-c18f-4bcf-a5a9-2ad35220505e@pq.aws65.yydjc.top:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=Lc4jxP7X3dDG6LYEciBN9gBGu8SuarmXDiQfIFhLdyI&sid=f2759a18#SG 🇸🇬 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 54.251.188.53
 trojan://3723507166611775488@35.155.4.93:443?sni=usable-toad.treefrog761.one&peer=usable-toad.treefrog761.one&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.155.4.93
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.59.3.36:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 13.59.3.36
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.116.27.187:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.116.27.187
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.117.151.219:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.117.151.219
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.119.104.197:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.119.104.197
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.119.111.49:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.119.111.49
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.119.130.164:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.119.130.164
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.189.145.16:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.189.145.16
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.216.155.124:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.216.155.124
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.217.58.160:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.217.58.160
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.165.138:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.218.165.138
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.219.181.146:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.219.181.146
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.152.18:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.223.152.18
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.3.72:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.223.3.72
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.226.185.119:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.226.185.119
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.237.162.57:1006?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.237.162.57
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.131.85.34:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.131.85.34
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.245.203:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.144.245.203
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.145.136.199:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.145.136.199
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.10.242:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.15.10.242
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.217.133:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.15.217.133
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.216.33.163:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 34.216.33.163
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.89.252.137:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 35.89.252.137
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.242.224.41:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 44.242.224.41
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.14.180.79:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 52.14.180.79
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.186.99.113:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 54.186.99.113
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@100.20.122.195:1006?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 100.20.122.195
 vless://3202d35a-c51c-4055-bcd7-3eb000c13dc3@100.21.111.217:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 100.21.111.217
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@13.248.169.48:443?type=ws&security=tls&path=/kos_madar_publisher&sni=9pgcn69xy7i539t1wtli.khodavakili.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.248.169.48
@@ -1801,12 +1815,14 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.58.82.110:2222?type=tcp&security
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.59.230.90:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 13.59.230.90
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.59.240.107:2222?type=tcp&security=tls&sni=sv4.cloudjetm.com#US 🇺🇸 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 13.59.240.107
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.59.254.84:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 13.59.254.84
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.59.3.36:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 13.59.3.36
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.59.82.38:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 13.59.82.38
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.59.87.195:1006?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 13.59.87.195
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@18.116.15.168:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.116.15.168
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.116.164.133:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.116.164.133
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.116.203.61:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.116.203.61
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.116.242.31:1006?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.116.242.31
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.116.27.187:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.116.27.187
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.116.43.209:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.116.43.209
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.116.65.15:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.116.65.15
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.117.103.204:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.117.103.204
@@ -1814,6 +1830,7 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.117.106.93:2222?type=tcp&securit
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.117.108.174:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.117.108.174
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.117.113.243:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.117.113.243
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.117.115.42:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.117.115.42
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.117.151.219:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.117.151.219
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.117.174.201:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.117.174.201
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.117.178.252:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.117.178.252
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.117.73.6:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.117.73.6
@@ -1828,7 +1845,10 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.118.23.133:3229?type=tcp&securit
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.118.24.233:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.118.24.233
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.118.33.105:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.118.33.105
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.118.9.166:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.118.9.166
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.119.104.197:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.119.104.197
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.119.105.140:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.119.105.140
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.119.111.49:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.119.111.49
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.119.130.164:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.119.130.164
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.119.14.43:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.119.14.43
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.119.9.58:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.119.9.58
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.188.14.93:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.188.14.93
@@ -1837,6 +1857,7 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.188.234.82:3229?type=tcp&securit
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.188.44.121:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.188.44.121
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.188.80.99:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.188.80.99
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.188.81.61:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.188.81.61
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.189.145.16:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.189.145.16
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@18.189.201.119:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.189.201.119
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.189.43.192:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.189.43.192
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.190.160.175:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.190.160.175
@@ -1853,6 +1874,7 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.191.255.26:2222?type=tcp&securit
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.191.67.134:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.191.67.134
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.191.90.175:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.191.90.175
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.216.146.184:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.216.146.184
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.216.155.124:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.216.155.124
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.216.177.244:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.216.177.244
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.216.179.90:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.216.179.90
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.216.198.208:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.216.198.208
@@ -1864,10 +1886,12 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.217.227.16:2222?type=tcp&securit
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.217.233.186:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.217.233.186
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.217.51.33:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.217.51.33
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.217.56.44:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.217.56.44
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.217.58.160:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.217.58.160
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.116.23:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.218.116.23
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.142.29:1006?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.218.142.29
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.151.195:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.218.151.195
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.162.48:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.218.162.48
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.165.138:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.218.165.138
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.178.204:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.218.178.204
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.180.89:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.218.180.89
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.35.217:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.218.35.217
@@ -1876,6 +1900,7 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.68.0:3229?type=tcp&security=
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.78.1:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.218.78.1
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.219.103.116:1006?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.219.103.116
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.219.112.210:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.219.112.210
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.219.181.146:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.219.181.146
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.219.213.217:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.219.213.217
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.219.3.157:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.219.3.157
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.219.44.213:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.219.44.213
@@ -1917,9 +1942,11 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.1.138:2222?type=tcp&security
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.120.219:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.223.120.219
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.134.191:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.223.134.191
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.151.110:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.223.151.110
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.152.18:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.223.152.18
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.160.110:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.223.160.110
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.195.187:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.223.195.187
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.252.105:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.223.252.105
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.3.72:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.223.3.72
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.44.103:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.223.44.103
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.224.140.83:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.224.140.83
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.224.170.167:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.224.170.167
@@ -1929,12 +1956,14 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.224.33.228:2222?type=tcp&securit
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.224.94.176:1006?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.224.94.176
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@18.225.195.38:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.225.195.38
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.226.165.233:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.226.165.233
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.226.185.119:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.226.185.119
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@18.226.88.199:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.226.88.199
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@18.227.228.41:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.227.228.41
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.236.189.53:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.236.189.53
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.236.191.122:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.236.191.122
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.237.11.33:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.237.11.33
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.237.137.240:1006?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.237.137.240
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.237.162.57:1006?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.237.162.57
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.237.193.219:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.237.193.219
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.237.201.114:1006?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.237.201.114
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.237.207.242:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 18.237.207.242
@@ -1968,6 +1997,7 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.129.6.169:3229?type=tcp&security=
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.129.70.59:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.129.70.59
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.131.160.86:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.131.160.86
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.131.34.216:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.131.34.216
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.131.85.34:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.131.85.34
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.131.90.254:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.131.90.254
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.132.4.59:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.132.4.59
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.133.81.99:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.133.81.99
@@ -2032,11 +2062,13 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.193.63:2222?type=tcp&security
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.227.143:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.144.227.143
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.24.81:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.144.24.81
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.241.192:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.144.241.192
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.245.203:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.144.245.203
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.28.74:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.144.28.74
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.3.199:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.144.3.199
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.69.30:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.144.69.30
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.70.9:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.144.70.9
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.145.1.253:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.145.1.253
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.145.136.199:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.145.136.199
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.145.155.224:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.145.155.224
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.145.168.109:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.145.168.109
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.145.208.104:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.145.208.104
@@ -2050,12 +2082,14 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.147.89.183:2222?type=tcp&security
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.148.162.124:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.148.162.124
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.148.216.105:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.148.216.105
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.148.227.2:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.148.227.2
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.10.242:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.15.10.242
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.15.108.229:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.15.108.229
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.178.102:1006?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.15.178.102
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.179.207:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.15.179.207
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.20.88:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.15.20.88
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.202.222:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.15.202.222
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.214.60:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.15.214.60
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.217.133:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.15.217.133
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.41.24:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.15.41.24
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.8.177:1006?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.15.8.177
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.15.97.226:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 3.15.97.226
@@ -2120,6 +2154,7 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.215.181.43:3229?type=tcp&securit
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.215.97.100:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 34.215.97.100
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.216.17.242:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 34.216.17.242
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.216.199.183:1009?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 34.216.199.183
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.216.33.163:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 34.216.33.163
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.217.33.238:1009?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 34.217.33.238
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.217.5.74:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 34.217.5.74
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@34.218.226.141:1009?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 34.218.226.141
@@ -2197,6 +2232,7 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.89.156.205:3229?type=tcp&securit
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.89.213.86:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 35.89.213.86
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.89.214.15:1009?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 35.89.214.15
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.89.233.236:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 35.89.233.236
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.89.252.137:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 35.89.252.137
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.89.36.71:1009?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 35.89.36.71
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.89.51.35:1009?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 35.89.51.35
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.89.60.0:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 35.89.60.0
@@ -2259,6 +2295,7 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.234.42.250:3229?type=tcp&securit
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@44.234.50.213:443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 44.234.50.213
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@44.240.222.56:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 44.240.222.56
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@44.242.168.74:1009?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 44.242.168.74
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.242.224.41:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 44.242.224.41
 vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@44.243.10.167:80?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 44.243.10.167
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.243.156.138:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 44.243.156.138
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@44.243.166.52:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 44.243.166.52
@@ -2288,6 +2325,7 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.13.36.75:3229?type=tcp&security=
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.14.105.150:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 52.14.105.150
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.14.13.228:1006?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 52.14.13.228
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.14.162.13:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 52.14.162.13
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.14.180.79:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 52.14.180.79
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.14.239.225:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 52.14.239.225
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.14.240.188:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 52.14.240.188
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.14.246.240:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 52.14.246.240
@@ -2329,6 +2367,7 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.184.82.90:3229?type=tcp&security
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.185.10.148:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 54.185.10.148
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@54.185.192.38:1009?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 54.185.192.38
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.186.198.52:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 54.186.198.52
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.186.99.113:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 54.186.99.113
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.187.135.99:1006?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 54.187.135.99
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@54.187.176.83:1009?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 54.187.176.83
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.188.15.151:2222?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 54.188.15.151
@@ -2373,34 +2412,35 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.68.96.217:3229?type=tcp&security
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.69.34.153:3229?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 54.69.34.153
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@72.1.32.168:80?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 72.1.32.168
 vless://73039c19-caee-48e5-af88-e6c74197c1a1@75.2.18.233:443?type=ws&security=tls&path=/&sni=playemlive.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 75.2.18.233
+vless://73039c19-caee-48e5-af88-e6c74197c1a1@75.2.18.233:80?type=ws&security=none&path=/&sni=playemlive.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 75.2.18.233
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@76.223.54.146:443?type=ws&security=tls&path=/kos_madar_publisher&sni=9pgcn69xy7i539t1wtli.khodavakili.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 76.223.54.146
 vless://45ce6f5fd81c414286cad87e5ba1f61a@76.76.21.21:80?type=ws&security=none&path=/t.me/Inconigto_Mode/35.219.50.99/443#US 🇺🇸 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 76.76.21.21
+vless://c91ca460-51e6-470f-99ab-2b1d3439f194@bestcf.mfwl.art:443?type=ws&security=tls&path=/&sni=byvless.xiaoqi666.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 199.59.243.228
+vless://0a48815d-b1b3-4197-901d-f7ac75a217df@bestshopxvip3.channeltest.site:39563?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 13.248.169.48
 vless://95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@funnelytics.io:8443?type=tcp&security=none&path=/Telegram,VPNCUSTOMIZE?ed=2480#US 🇺🇸 ┇ VLESS-TCP-NTLS - AMAZON-02 ┇ 99.83.190.102
+vless://72090163-17a9-4200-893e-215786a48523@hk7.vlessx.xyz:8080?type=ws&security=none&path=@BetV2ray,@BetV2ray,@BetV2ray,@BetV2ray,@BetV2ray,@BetV2ray,@BetV2ray,@BetV2ray,@BetV2ray,@BetV2ray#US 🇺🇸 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 13.248.169.48
 vless://00005ad4-d2be-48cb-b272-b506ea7a32b7@ip.fonexteam.online:80?type=xhttp&security=none&path=/secer#US 🇺🇸 ┇ VLESS-XHTTP-NTLS - AMAZON-02 ┇ 15.197.130.221
+vless://254f050f-c845-57e1-882d-a3af7294fcd1@sitespeedtest.nl.v2vless.site:2052?type=ws&security=none&path=/vless#US 🇺🇸 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 199.59.243.228
 vless://1117a11a-c420-48cf-8bc6-d304461319e7@us1.myyemail.com:443?type=tcp&security=tls&sni=us1.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 34.215.233.228
+vless://5aa06d39-b6d5-4527-89b6-5e16cf73275a@us1.vlessx.us:80?type=ws&security=none&path=/?ed=2048#US 🇺🇸 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 13.248.169.48
 vless://1117a11a-c420-48cf-8bc6-d304461319e7@us2.myyemail.com:443?type=tcp&security=tls&sni=us2.b01d1e-cdd6-4a11-9fb8-1c45613e3eab.chaoyueemail.com&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 34.222.150.113
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.59.158.6:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.59.158.6
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.59.225.126:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.59.225.126
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.116.242.42:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.116.242.42
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.133.142.236:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.133.142.236
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.137.208.164:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.137.208.164
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.138.190.80:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.138.190.80
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.16.162.240:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.16.162.240
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.17.61.11:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.17.61.11
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@35.93.156.90:443?type=tcp&security=reality&sni=www.chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 35.93.156.90
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@44.244.26.187:443?type=tcp&security=reality&sni=www.chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 44.244.26.187
-vless://cd54a584-2aeb-4a81-8558-84822c5e60d1@3.142.77.74:443?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&pbk=J2bRPBQbUXzfoe-sch7fxMlzKqaX2L0kEm4Rcly6Kgo&sid=d0c43a7737#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.142.77.74
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.216.2.178:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.216.2.178
 vless://fbe02c0b-775f-4431-8615-a9497255c876@13.248.252.114:443?type=tcp&security=reality&sni=none.felinetest.site&fp=chrome&flow=xtls-rprx-vision&pbk=fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs&sid=6f9deca7#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.248.252.114
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.58.126.235:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.58.126.235
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@13.58.142.81:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.58.142.81
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.59.158.6:4433?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.59.158.6
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@13.59.172.217:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.59.172.217
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.59.225.126:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.59.225.126
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@15.181.56.82:1212?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 15.181.56.82
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@15.220.248.66:1212?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 15.220.248.66
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.116.242.42:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.116.242.42
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@18.117.103.140:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.117.103.140
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@18.117.165.26:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.117.165.26
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.117.168.181:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.117.168.181
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@18.117.189.219:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.117.189.219
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.118.173.103:4433?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.118.173.103
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@18.118.189.160:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.118.189.160
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.118.9.166:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.118.9.166
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.119.105.140:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.119.105.140
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@18.119.118.191:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.119.118.191
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@18.119.125.73:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.119.125.73
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@18.119.137.198:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.119.137.198
@@ -2412,14 +2452,19 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.191.217.121:4433?type=tcp&securi
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.191.28.47:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.191.28.47
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.191.51.206:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.191.51.206
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@18.216.0.42:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.216.0.42
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.216.2.178:4433?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.216.2.178
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.217.227.211:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.217.227.211
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.171.48:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.218.171.48
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.218.65.234:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.218.65.234
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@18.218.95.236:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.218.95.236
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@18.219.127.17:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.219.127.17
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.219.181.146:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.219.181.146
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@18.219.206.174:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.219.206.174
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@18.219.33.166:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.219.33.166
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.220.217.152:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.220.217.152
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.220.48.175:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.220.48.175
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.222.111.134:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.222.111.134
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.222.139.218:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.222.139.218
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.222.252.51:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.222.252.51
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@18.223.43.71:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.223.43.71
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@18.224.45.35:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.224.45.35
@@ -2434,19 +2479,27 @@ vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@18.237.109.233:8443?type=tcp&securi
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@18.237.85.162:1212?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.237.85.162
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@18.246.209.82:1212?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.246.209.82
 vless://a642fe4b-3326-40af-8929-71616eb9052f@199.59.243.227:443?type=tcp&security=reality&sni=ns.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=H2GPj9jI13FyXVB0NLOhSAUimkI5pQmln9gEA3ynWgo&sid=4aeebc87#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 199.59.243.227
+vless://03785d07-03ad-4e12-942e-aaccecb8ca2e@199.59.243.228:2087?type=grpc&security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&sid=83cdb009#US 🇺🇸 ┇ VLESS-GRPC-RLT - AMAZON-02 ┇ 199.59.243.228
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@3.12.155.79:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.12.155.79
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@3.129.249.223:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.129.249.223
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.129.71.136:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.129.71.136
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.133.132.40:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.133.132.40
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.133.142.236:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.133.142.236
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.133.146.224:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.133.146.224
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@3.133.148.216:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.133.148.216
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.133.156.179:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.133.156.179
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@3.133.157.96:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.133.157.96
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.137.159.67:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.137.159.67
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.137.208.164:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.137.208.164
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@3.137.223.68:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.137.223.68
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.138.120.133:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.138.120.133
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.138.190.80:4433?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.138.190.80
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.139.104.120:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.139.104.120
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.139.62.17:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.139.62.17
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.14.135.227:4433?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.14.135.227
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.14.79.116:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.14.79.116
+vless://cd54a584-2aeb-4a81-8558-84822c5e60d1@3.142.77.74:443?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&pbk=J2bRPBQbUXzfoe-sch7fxMlzKqaX2L0kEm4Rcly6Kgo&sid=d0c43a7737#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.142.77.74
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.143.4.62:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.143.4.62
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.144.139.49:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.144.139.49
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.144.250.255:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.144.250.255
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.145.107.225:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.145.107.225
@@ -2464,12 +2517,19 @@ vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.147.84.20:8443?type=tcp&security=
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.149.228.39:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.149.228.39
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.149.255.134:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.149.255.134
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.18.217:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.15.18.217
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.20.88:4433?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.15.20.88
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@3.15.219.7:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.15.219.7
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@3.15.229.182:8444?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.15.229.182
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.15.29.235:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.15.29.235
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.16.147.76:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.16.147.76
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.16.160.150:4433?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.16.160.150
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.16.162.240:4433?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.16.162.240
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.16.29.42:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.16.29.42
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.16.47.130:4433?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.16.47.130
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.16.90.24:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.16.90.24
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.17.61.11:4433?type=tcp&security=reality#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.17.61.11
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.21.170.72:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.21.170.72
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.23.104.24:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.23.104.24
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.23.130.20:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.23.130.20
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.23.92.143:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 3.23.92.143
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@34.208.49.180:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 34.208.49.180
@@ -2494,6 +2554,7 @@ vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@35.90.15.46:8443?type=tcp&security=
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@35.90.239.222:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 35.90.239.222
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@35.92.245.101:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 35.92.245.101
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@35.93.117.9:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 35.93.117.9
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@35.93.156.90:443?type=tcp&security=reality&sni=www.chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 35.93.156.90
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@35.93.176.13:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 35.93.176.13
 vless://fb8092db-cafa-439c-8599-9d8bb82fe6c6@35.93.218.232:21879?type=tcp&security=reality&sni=s0.awsstatic.com&fp=chrome&flow=xtls-rprx-vision&pbk=K-rJkQX4Aix-0zxXbhxaZx2YcZmftmsMwybwpdGcpBU#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 35.93.218.232
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@35.93.41.253:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 35.93.41.253
@@ -2511,9 +2572,12 @@ vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@44.243.16.171:8443?type=tcp&securit
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@44.243.77.77:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 44.243.77.77
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@44.244.18.132:443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 44.244.18.132
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@44.244.220.43:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 44.244.220.43
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@44.244.26.187:443?type=tcp&security=reality&sni=www.chatgpt.com&fp=chrome&flow=xtls-rprx-vision&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 44.244.26.187
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@44.244.5.230:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 44.244.5.230
 vless://b2c3d4e5-f6a7-2345-8901-bcdef0123456@45.35.126.48:443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=GHI1234567890abcdef1234567890abcdef#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 45.35.126.48
+vless://d2e3f4a5-b6c7-2345-8901-123456789abc@45.35.126.48:8443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&pbk=VWX1234567890abcdef1234567890abcdef#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 45.35.126.48
 vless://e5f6a7b8-c9d0-5678-1234-ef0123456789@51.82.89.185:2053?type=tcp&security=reality&sni=fast.com&fp=chrome&pbk=JKL9876543210fedcba9876543210fed#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 51.82.89.185
+vless://a5b6c7d8-e9f0-5678-1234-456789abcdef@51.82.89.185:443?type=tcp&security=reality&sni=fast.com&fp=chrome&pbk=XYZ9876543210fedcba9876543210fed#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 51.82.89.185
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@52.12.110.220:1212?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 52.12.110.220
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@52.14.105.176:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 52.14.105.176
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.14.208.62:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 52.14.208.62
@@ -2534,6 +2598,8 @@ vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@54.245.133.255:1212?type=tcp&securi
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@54.245.188.244:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 54.245.188.244
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@54.70.102.114:8443?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 54.70.102.114
 vless://fbe02c0b-775f-4431-8615-a9497255c876@99.83.138.213:443?type=tcp&security=reality&sni=none.felinetest.site&fp=chrome&flow=xtls-rprx-vision&pbk=fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs&sid=6f9deca7#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 99.83.138.213
+vless://9ee62cf6-f3b8-4c9b-93b5-dd0a5f6bd7d9@n.t.khoresht.xyz:442?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 13.248.169.48
 vless://d733244e-fd22-4ed6-854b-c682afc81584@our.patent-door.fwh.is:14875?type=tcp&security=reality&sni=yahoo.com&fp=random&flow=xtls-rprx-vision&pbk=2mte9DEeo0OwNppy36bIfMqAXL4yLiFbhDqOGXu8XVI&sid=e34371db#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 199.59.243.225
 vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@us002.421421.xyz:20230?type=grpc&security=reality&sni=www.nvidia.com&fp=chrome&pbk=Bq_RQyPwxp7zTYywC37jLxmcjV9npNN6H6_1d_R6GT0&sid=c9916730#US 🇺🇸 ┇ VLESS-GRPC-RLT - AMAZON-02 ┇ 54.149.40.60
-trojan://h55n557f-gwu1-s11q-76dn-518cu3tup3cx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://665db431-79ed-4309-ede4-9df37be3eb6e@yahoo.wlftest.xyz:8443?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 199.59.243.228
+trojan://i4w77l4f-xfn9-r7x9-gp1d-017bsp73y1m8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

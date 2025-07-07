@@ -1,7 +1,7 @@
-trojan://rc0hsbat-lt20-43cr-d67i-budu8cs5ks1t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://8z47cnad-qgeb-jpjh-esx4-em0ppqkw7ia0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8pn98xha-u4f6-e91c-kuwr-7i5jhnghet6r@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://x3ka280e-nort-htqm-aqpk-kizozh4mu726@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sgs255vz-t3b1-fp7y-t7lb-dd8a03h2bp6f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://nhb6hjuz-xz9a-gqak-b81p-4fatiox2x87v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ccr1jz66-r58m-atrg-uh0v-z5dmiapv61xz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8cx5nvs4-tyxt-do9m-9vwn-8k75f49wvhlt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.109.21.19:443?type=ws&security=tls&path=/tg@zdyz2security=tls&sni=cfed.tgzdyz2.top#FI 🇫🇮 ┇ VLESS-WS-TLS - Scalaxy B.V. ┇ 185.109.21.19
 vless://fc95f0a9-52a3-4c12-82a9-a43ca2267a18@38.244.137.191:2053?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#FI 🇫🇮 ┇ VLESS-GRPC-RLT - Scalaxy B.V. ┇ 38.244.137.191
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@37.1.203.41:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#NL 🇳🇱 ┇ VLESS-WS-NTLS - Scalaxy B.V. ┇ 37.1.203.41
@@ -12,4 +12,4 @@ vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@5.61.57.62:443?type=ws&security=tls
 vless://c6e8b852-70a0-45f9-93d8-1f4f9cfbc799@38.180.158.38:443?type=tcp&security=reality&sni=coinmarketcap.com&fp=chrome&flow=xtls-rprx-vision&pbk=j92DRuk8tfLr75PNYuS-RylvQywocdE206IhMBS3YCc&sid=aa7db0204b0a1e66#NL 🇳🇱 ┇ VLESS-TCP-RLT - Scalaxy B.V. ┇ 38.180.158.38
 vless://62237966-b2c6-4bf9-a269-3717e1773c99@38.180.105.218:9091?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Scalaxy B.V. ┇ 38.180.105.218
 vless://838e226d-c328-4107-af74-88a071869d59@38.180.105.106:80?type=xhttp&security=reality&path=/fgvb&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=jv-iGCfpmBqc85L6LIL5fVP9Tx6-I_SKDCQYaXF9Sj4&sid=a506e8582e#TR 🇹🇷 ┇ VLESS-XHTTP-RLT - Scalaxy B.V. ┇ 38.180.105.106
-trojan://5agu0o9x-owyl-2hv6-4c4b-kdt243yywjkw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://jzp2db59-2mn9-0ncp-eygp-9qk8enekfb7s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

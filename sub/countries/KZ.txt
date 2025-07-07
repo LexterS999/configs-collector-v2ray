@@ -1,14 +1,13 @@
-trojan://1lag8fq9-u6i6-bbtv-j89l-3bm4zujtx0gw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://hj8pdlgv-wu8x-3xf4-pb2d-8s9dz41jmqa3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://63wbilrt-b2bv-73h1-zrv5-hfab96u4otac@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wvzoxnn1-kji9-lwsg-9gid-6p01n4paezdk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://l9r6rjkq-7e7i-rzsa-j9ng-6b22pu32uox5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://hioy5mjn-1byd-96ev-jppi-y9lzz3i9515z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n5qplt8u-oqjc-4he6-5el5-2w3zkitgsljk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1rgsvnsa-vymo-a6t1-qd9b-8qw1i0xkn1ys@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.107:80?type=ws&security=none&path=/Telegram:@ShadowProxy66/?ed=2560#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.107
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.228:80?type=ws&security=none&path=Telegram:@ShadowProxy66/?ed=2560#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.228
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.176.26.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.176.26.63
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.59.5.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 194.59.5.63
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.159:8880?type=ws&security=none&path=/Telegram@ShadowProxy66/?ed=2560&sni=reedfree8mahsang2.redorg.ir#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.176.26.159
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@31.43.179.177:8880?type=ws&security=none&path=/TelegramрЯЗ®рЯЗ≥&sni=ip.langmanshanxi.top#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.177
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80?type=ws&security=none&path=Telegram@V2ray_Alpha/?ed=2560#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.145
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@185.176.26.128:443?type=ws&security=tls&path=/JHVdDlmFTThrY7WI/NjIuMy4xMi4xODU&sni=TITanTabLOmaNAHaMRaH.IR&fp=randomized#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 185.176.26.128
 vless://9530a590-49bc-41dd-9499-88c33614ef28@185.176.26.131:2086?type=ws&security=none&path=/wp-admin?ed=2048&sni=cdn.sudolog.ir&fp=chrome#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.176.26.131
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.176.26.13:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 185.176.26.13
@@ -52,10 +51,12 @@ vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@31.43.179.133:2087?type=ws&security
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.134:2096?type=ws&security=tls&path=/&sni=JpHzJdVn23.bLuEvIa.oRg&fp=chrome#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 31.43.179.134
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.139:2096?type=ws&security=tls&path=/&sni=JpHzJdVn23.bLuEvIa.oRg&fp=chrome#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 31.43.179.139
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@31.43.179.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.13
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80?type=ws&security=none&path=Telegram@V2ray_Alpha/?ed=2560#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.145
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.153:8880?type=httpupgrade&security=none&path=/#KZ 🇰🇿 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 31.43.179.153
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.43.179.155:8880?type=ws&security=none&path=/Channel id: @ShadowProxy66?ed=2560#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.155
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.156:8880?type=httpupgrade&security=none&path=/#KZ 🇰🇿 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 31.43.179.156
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.158:8443?type=ws&security=tls&path=/&sni=NuWoLcZn28.qUiCkOrA.OrG&fp=chrome#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 31.43.179.158
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.158:8?type=tcp&security=none#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 31.43.179.158
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.163:8880?type=httpupgrade&security=none&path=/#KZ 🇰🇿 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 31.43.179.163
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.168:8880?type=ws&security=none&path=Telegram@WangCai2/?ed=2560&sni=kjgx.laoyoutiao.link#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.168
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.43.179.171:8880?type=ws&security=none&path=Telegram@ShadowProxy66/?ed=2560#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.171
@@ -68,11 +69,13 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.213:8880?type=ws&security
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.217:80?type=ws&security=none&path=Telegram:@ShadowProxy66/?ed=2560#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.217
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.43.179.219:8880?type=ws&security=none&path=/#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.219
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.43.179.222:80?type=ws&security=none&path=/re5IzbZ9IZZMddtw?ed=2560/?Join_Bade_Channel@ShadowProxy66#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.222
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@31.43.179.228:443?type=ws&security=tls&path=/fJBvsL0uR2MtzRig&sni=mypHOtoGRAPICpIctUre.iR&fp=chrome#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 31.43.179.228
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.22:443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 31.43.179.22
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@31.43.179.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.247
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@31.43.179.251:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.251
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@31.43.179.254:8880?type=ws&security=none&path=/Telegram🇨🇳#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.254
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@31.43.179.29:443?type=ws&security=tls&path=/blue&sni=hk033.ylks.link#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 31.43.179.29
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.29
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.31:2096?type=ws&security=tls&path=/&sni=HiDyVnDe14.bInTeRmA.OrG&fp=chrome#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 31.43.179.31
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@31.43.179.37:443?type=ws&security=tls&path=/fJBvsL0uR2MtzRig&sni=mypHOtoGRAPICpIctUre.iR#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 31.43.179.37
 vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.38:443?type=grpc&security=tls&sni=pqh23v4.hiddendom.shop#KZ 🇰🇿 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 31.43.179.38
@@ -81,12 +84,14 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.42:443?type=ws&security=t
 vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.43:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#KZ 🇰🇿 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 31.43.179.43
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.51:80?type=ws&security=none&path=Telegram:@V2ray_Alpha/?ed=2560#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.51
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.52:443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 31.43.179.52
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.43.179.52:8880?type=ws&security=none&path=/&sni=reedfree8mahsang2.redorg.ir#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.52
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@31.43.179.57:8880?type=httpupgrade&security=none&path=/#KZ 🇰🇿 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 31.43.179.57
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.63
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.65:2096?type=ws&security=tls&path=/&sni=LhCgBjGr29.vElTrIxS.OrG&fp=chrome#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 31.43.179.65
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.72:2096?type=ws&security=tls&sni=LhCgBjGr29.vElTrIxS.OrG&fp=chrome#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 31.43.179.72
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@31.43.179.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 31.43.179.77
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.7:2096?type=ws&security=tls&path=/&sni=JpHzJdVn23.bLuEvIa.oRg&fp=chrome#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 31.43.179.7
+vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.7:443?type=grpc&security=tls&sni=vp28.hiddendom.shop&fp=chrome#KZ 🇰🇿 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 31.43.179.7
 vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@31.43.179.84:2083?type=ws&security=tls&path=/?ed&sni=t-netplus1.pages.dev#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 31.43.179.84
 vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@31.43.179.87:2083?type=ws&security=tls&path=/proxy_mtm?ed&sni=t-netplus1.pages.dev#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 31.43.179.87
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@31.43.179.89:8443?type=ws&security=tls&path=/&sni=QtRkJtLt27.pRiMeXaD.OrG&fp=chrome#KZ 🇰🇿 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 31.43.179.89
@@ -97,6 +102,7 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@194.76.18.254:8880?type=ws&security
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.0:80?type=ws&security=none&path=/vless/#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.0
 vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.109:2082?type=httpupgrade&security=none&path=/Channel-CONFIGT?ed=2082#KZ 🇰🇿 ┇ VLESS-HTTPUPGRADE-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.109
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.10:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=dd.ylks.xyz#KZ 🇰🇿 ┇ VLESS-WS-TLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.10
+vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.10:80?type=ws&security=none&path=/vless/#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.10
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.113:443?type=ws&security=tls&path=/blue&sni=cj.ylks.xyz#KZ 🇰🇿 ┇ VLESS-WS-TLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.113
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.116:443?type=ws&security=none&path=/bluesecurity=tls&sni=lw.kpcloud.eu.org#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.116
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.129:443?type=ws&security=tls&path=/?ed=2560&sni=ln.ylka.us.kg#KZ 🇰🇿 ┇ VLESS-WS-TLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.129
@@ -115,12 +121,17 @@ vless://d0f9437f-3c49-45c6-976b-ebea24158b39@194.76.18.237:2082?type=httpupgrade
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.243:443?type=ws&security=tls&path=/blue&sni=lk.kpcloud.eu.org#KZ 🇰🇿 ┇ VLESS-WS-TLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.243
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@194.76.18.251:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.251
 vless://4a4c4a4d-36f4-4f84-b86f-0aa2489c6acf@194.76.18.253:2052?type=httpupgrade&security=none&path=/d3d3LmlyYW5ob5N0LmNvbQ==?ed=2082#KZ 🇰🇿 ┇ VLESS-HTTPUPGRADE-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.253
+vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.253:2082?type=httpupgrade&security=none&path=/Channel-CONFIGT?ed=2082#KZ 🇰🇿 ┇ VLESS-HTTPUPGRADE-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.253
+vless://01970283-51b9-4ad4-96ef-9dfc8ee3dd74@194.76.18.253:2087?type=grpc&security=tls&sni=qauuf2.telzirrr.com.tr&fp=chrome#KZ 🇰🇿 ┇ VLESS-GRPC-TLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.253
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.76.18.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.29
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.30:80?type=ws&security=none&path=/vless/#telegram_...#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.30
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@194.76.18.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.3
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.40:80?type=ws&security=none&path=/vless/#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.40
 vless://ae564d93-0a3f-40b6-9137-4b73da4432c5@194.76.18.46:2052?type=httpupgrade&security=none#KZ 🇰🇿 ┇ VLESS-HTTPUPGRADE-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.46
+vless://512b8741-0eb1-4bf5-abb8-25369c0aa33b@194.76.18.46:2082?type=httpupgrade&security=none&path=/?ed=2087#KZ 🇰🇿 ┇ VLESS-HTTPUPGRADE-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.46
+vless://ce9a4a9f-54cd-4e63-983b-ff8b7b6ce939@194.76.18.46:8080?type=httpupgrade&security=none&path=/#KZ 🇰🇿 ┇ VLESS-HTTPUPGRADE-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.46
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.50:443?type=ws&security=tls&path=/freecodes&sni=dy.ylks.xyz#KZ 🇰🇿 ┇ VLESS-WS-TLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.50
+vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.50:80?type=ws&security=none&path=/vless/#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.50
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.60:80?type=ws&security=none&path=/vless/#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.60
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.62:443?type=ws&security=tls&path=/blue&sni=cp.ylks.xyz#KZ 🇰🇿 ┇ VLESS-WS-TLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.62
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.76.18.63:8880?type=ws&security=none&path=/Telegram&sni=jp.laoyoutiao.link#KZ 🇰🇿 ┇ VLESS-WS-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.63
@@ -130,8 +141,7 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@194.76.18.99:443?type=ws&security=t
 vless://bd227cdc-cccd-4915-8d48-5ca798b6d328@g1.fandogh4.ir:443?type=tcp&security=none&path=/digikala.com?ed#KZ 🇰🇿 ┇ VLESS-TCP-NTLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.110
 vless://9dc73289-89f7-41f1-bc46-fe09b1658bfd@g2.afraseda.ir:443?type=httpupgrade&security=tls&path=/digikala.com/login/?ed=2560&sni=ffm.harfavali.ir.&fp=chrome#KZ 🇰🇿 ┇ VLESS-HTTPUPGRADE-TLS - Mikrofinansovaya organizaciya Robocash.kz LLP ┇ 194.76.18.108
 vless://c775021c-c5a5-476e-8f0d-d78116f506c0@38.180.36.83:36654?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision&pbk=66MoA59GCNYSX43b0L-ufGOMp2S7Q45ixJDZLRkkzDk&sid=96e9a9a656a3cc83#KZ 🇰🇿 ┇ VLESS-TCP-RLT - NLS Kazakhstan LLC ┇ 38.180.36.83
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 38.107.234.38
 vless://vmessprotocol@91.224.74.23:40132?type=grpc&security=none#KZ 🇰🇿 ┇ VLESS-GRPC-RLT - Newserverlife LLC ┇ 91.224.74.23
 vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Nls Astana Llp ┇ 83.222.23.113
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#KZ 🇰🇿 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 176.120.72.63
-trojan://q1v8raxd-n7c7-r6jv-dyen-jardoe13exoz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3p9u3f6g-vof2-8wly-7hvo-tdzoeczerupe@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

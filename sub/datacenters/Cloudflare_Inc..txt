@@ -1,8 +1,8 @@
-trojan://2cxr204v-9peg-bd7x-s78q-l55a1zttylrc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://7bkq550z-qq6i-v912-3sfa-efq7ii4qfp7x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0x4cqxgy-ccs4-uk12-jjht-y3tmv5xzz0o1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://imlokmr0-8ann-ux0g-a95s-i3itg36gyitg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9xfc11x2-1n8m-nu6i-6b0i-cchwlzlxawxu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://fan9q927-4t3q-shv7-n1md-4v346ri5322a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://853u1039-90uc-u7fx-5188-giekz3abd5dz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nvvvw2ul-n8um-vbcl-getd-3q3cs6uhy1xw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@103.21.247.104:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 103.21.247.104
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@103.21.247.50:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 103.21.247.50
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@141.101.88.112:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - Cloudflare, Inc. ┇ 141.101.88.112
-trojan://qnei6dah-96qn-3s6s-obuo-80lk3tr04a7t@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://p8q2b5s3-t4p8-3czi-y8e4-aeprec4gstj0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

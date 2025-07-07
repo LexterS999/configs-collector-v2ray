@@ -1,10 +1,12 @@
-trojan://auygzoyy-qz7h-nxw1-j0f6-vm9eyhwlg5ow@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://j60pvvrm-1m49-tvxm-3tni-dd60xl7mqc3k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://57uktfx9-ny12-110r-q9mu-fz3b6z3ko7tl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://k44o9ksj-xzef-h0md-flkr-8cvdpeo0l2j7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://iwpykdw7-nnpn-6c8z-6t3d-1aojizj67axf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://trk0se5u-oru2-xvwk-v6qz-v8u77gu5cmy7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://d2nlh84n-wsm5-gz8c-8og0-x458rxh7l47x@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wjyak4bk-5vtm-xpma-11op-usjf37q13dzi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyA0Ni4yOS4xNjMuMTc3IiwiYWRkIjoiNDYuMjkuMTYzLjE3NyIsInBvcnQiOjIwMDczLCJpZCI6IjY0MjRhMTQwLWEzN2UtNDgwYS05NmI4LTdiYzhiZWFiMmMwOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-vless://ac7e5f1e-1a04-4685-b075-cc9d8cff63b1@ru2.asc-sam.ir:8443?type=xhttp&security=tls&path=/rgtsreuiRYcfq&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - LLC Baxet ┇ 176.32.39.29
 vless://78f71fb4-3425-4eb8-a734-8b5401634fa8@195.133.11.229:443?type=ws&security=tls&path=/getupdates&sni=lessless.duckdns.org#RU 🇷🇺 ┇ VLESS-WS-TLS - LLC Baxet ┇ 195.133.11.229
 vless://088472ec-700f-4735-9201-8cf6a73f0851@46.29.162.87:25885?type=tcp&security=tls&sni=makefree.internet.000.pe&fp=random&flow=xtls-rprx-vision#RU 🇷🇺 ┇ VLESS-TCP-TLS - LLC Baxet ┇ 46.29.162.87
+vless://dec1d9ec-bca0-4fee-8829-0960c72b3cec@ru2.asc-sam.ir:443?type=http&security=tls&path=/@NoForcedHeavan@NoForcedHeavan@NoForcedHeavan@NoForcedHeavan@NoForcedHeavan&sni=ru2.asc-sam.ir&fp=chrome#RU 🇷🇺 ┇ VLESS-HTTP-TLS - LLC Baxet ┇ 176.32.39.29
+vless://ac7e5f1e-1a04-4685-b075-cc9d8cff63b1@ru2.asc-sam.ir:8443?type=xhttp&security=tls&path=/rgtsreuiRYcfq=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - LLC Baxet ┇ 176.32.39.29
 vless://f3ba3679-f2f4-465f-92a5-de320b775a88@185.22.155.105:42632?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=qtqcKrPLXaN-jpo7Zs1_80QDmA2uvCZKFGanJLJFFXA&sid=1f8b5201#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC Baxet ┇ 185.22.155.105
-trojan://1r2x2lkp-wywn-5pqk-fbyv-l0rqrcs954zc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://a8c69dd7-9d17-436e-b9ed-383846dbfbdf@cookies.oops.wtf:43774?type=tcp&security=reality&sni=tutu.ru&fp=random&flow=xtls-rprx-vision&pbk=ZLAYpx5wkCanyDNjQO_-7kwg0K5e728t2FPD9fSZ4VE&sid=b9a9aba39ba5ab#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC Baxet ┇ 195.133.11.229
+trojan://4kgazf22-j6u4-2m74-6xhv-fvew1qnv6scv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

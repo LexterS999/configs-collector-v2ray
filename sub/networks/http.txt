@@ -1,15 +1,17 @@
-trojan://hhwuefdp-waq0-265m-yj9b-bgr6xujaf3h5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://skpf7fcw-1n0q-vx44-l106-n2w9me8pi90r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wwahrnqv-0jfd-dmow-w1wx-k6aim0zvkjgs@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://p6oqje93-c3ht-t56d-0nsr-xtb2mpkozhbc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://b26e54mo-khtr-xs0n-4qdd-7gvtdjfidgxe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://big5u1bo-wymt-r7pm-aw5r-lzrsrhguohoe@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://iqswkxto-gxbm-o9tq-5ae6-vzy1h5a78bm9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qnas0bvl-ma1c-alep-k5zo-vk5xvvw513me@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://7562048f-6694-43da-a9ba-c80e92808fff@161.35.201.75:2042?type=http&security=reality&path=/&sni=ftp.debian.org&fp=random&pbk=0UC5UUU0EMYg1v2rv-clwdnpRYl2b-bfOvEJMXed2nI&sid=ee3caeb997f6#DE 🇩🇪 ┇ VLESS-HTTP-RLT - DIGITALOCEAN-ASN ┇ 161.35.201.75
 vless://e65f0a57-96f4-4c60-b550-d5bd0c20c557@91.99.125.246:1429?type=http&security=none#DE 🇩🇪 ┇ VLESS-HTTP-NTLS - Hetzner Online GmbH ┇ 91.99.125.246
 vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?type=http&security=reality&path=/dl/index.php&sni=ubuntu.com&fp=chrome&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&sid=61138e86#DE 🇩🇪 ┇ VLESS-HTTP-RLT - Hetzner Online GmbH ┇ 167.235.249.207
+vless://07c98d86-94d3-4c5e-bbe5-6c485919e673@195.201.32.108:8082?type=http&security=reality&path=/&sni=microsoft.com&fp=chrome&pbk=ACTxP6V5rI1TWFO720IJu5Y2GN49St1rQ3dqxrhAAEk&sid=3ac6d7c7#DE 🇩🇪 ┇ VLESS-HTTP-RLT - Hetzner Online GmbH ┇ 195.201.32.108
 vless://1250c0dd-856e-4cb9-b254-5d8e55419fed@57.128.123.50:2096?type=http&security=reality&path=/&sni=dalfak.com&fp=chrome&pbk=9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY&sid=a56f693ce784b4cc#FR 🇫🇷 ┇ VLESS-HTTP-RLT - OVH SAS ┇ 57.128.123.50
 vless://22d01af5-8d00-407b-882a-aa0a2ce3045b@85.133.241.220:2050?type=http&security=none#IR 🇮🇷 ┇ VLESS-HTTP-NTLS - Asre Pardazeshe Ettelaate Amin Institute ┇ 85.133.241.220
 vless://a8df45a4-eb57-450d-a526-43dcef46981a@78.141.221.194:8080?type=http&security=none#NL 🇳🇱 ┇ VLESS-HTTP-RLT - AS-VULTR ┇ 78.141.221.194
 vless://feb6f54a-1c99-4281-b0d4-113765e70c61@93.185.163.238:8082?type=http&security=reality&path=media/download?file_id=12345&ReturnUrl=/media/download/callback?response_type=download&client_id=mediaClient&redirect_uri=https://yourapp.com/success&sni=use.fontawesome.com&fp=chrome&pbk=1wsuGvwHBl4upMnlmg3ehyqL-CgRpK9g4XZXkUX-B3k&sid=6a69d0c3821da542#NL 🇳🇱 ┇ VLESS-HTTP-RLT - DutchIS ┇ 93.185.163.238
+vless://dec1d9ec-bca0-4fee-8829-0960c72b3cec@ru2.asc-sam.ir:443?type=http&security=tls&path=/@NoForcedHeavan@NoForcedHeavan@NoForcedHeavan@NoForcedHeavan@NoForcedHeavan&sni=ru2.asc-sam.ir&fp=chrome#RU 🇷🇺 ┇ VLESS-HTTP-TLS - LLC Baxet ┇ 176.32.39.29
 vless://0cadadcb-626f-4f2e-92f1-eb53fbf05409@138.124.102.97:40042?type=http&security=none#SE 🇸🇪 ┇ VLESS-HTTP-RLT - Aeza International Ltd ┇ 138.124.102.97
 vless://013877b2-c1b9-4288-bcd3-ded6ee20c00d@176.223.66.182:4673?type=http&security=reality&path=/StDNeNqkbQxrj6Xy?ed=2560&sni=refersion.com&fp=chrome&pbk=o2sacmqNjp9zNFdMIUZB1V7oQuDmwU2sf8VGW8c1vzw&sid=0a3df65e8c94b271#TR 🇹🇷 ┇ VLESS-HTTP-RLT - Netlen Internet Hizmetleri Ltd. Sti. ┇ 176.223.66.182
 vless://Channel-ITV2RAY@itv2ray.ddns.net:969?type=http&security=reality&path=/iTV2RAY&sni=www.speedtest.net&fp=chrome&pbk=BK8bqxmSO3nF4r8wMDTJ7wl97UQ3uSVEw60cnPk7zW4&sid=d05b9020#XX 🏳️ ┇ VLESS-HTTP-RLT ┇ None
-trojan://wy5bm4zr-6bye-numn-c76w-srxswjj5schh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3qgh6168-0502-eel5-1d53-x9kyb0367pj7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

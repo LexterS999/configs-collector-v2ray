@@ -1,6 +1,6 @@
-trojan://ifwruse5-k7ui-tu2f-1c21-dvybpwasiswy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://ulhign5a-c5ap-olci-5ciu-f0vvb7799337@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://crirzhgc-6wgw-6jx3-lpzm-cnmidt48kqw2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6qabygng-2fo8-pvkg-l0br-i51w5wwzkv94@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://rl575b91-hhdd-j6wg-1x67-zat42vr6woky@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://hqw75f6y-pzxk-7zzw-yxt9-ewd7lia3cwac@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://czzwa6ie-8xsa-ks5m-nom0-8x8rg5tq5nva@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ti9kwth9-5ifk-mevq-rl03-d5ija8y1mbb9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.175.108.84:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - MISAKA ┇ 38.175.108.84
-trojan://ucr3ztaz-54ft-ps4z-dyf8-dcugw17itxl2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://iuaax3e6-us0f-88uf-sfrf-kny047ucfc7c@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

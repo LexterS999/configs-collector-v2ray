@@ -1,6 +1,6 @@
-trojan://njd8ry5h-dazk-klvu-dxrx-x2pnfw9vsv4r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://v3l7bn5a-r52m-otvp-9wjp-0um95j1fsorj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://aiz1mj3m-80tz-v17b-f4oi-9wurpxadpg7r@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6d6mf2oy-do8n-kt48-d3hk-3ivmms32yl3y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://86zsd8qm-npy7-c5td-6bxw-l8916xptxxg6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://r7lgvtrp-jc6t-ilk6-zntn-ii8q0ngtvhi3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://h3xc8599-z15h-qqe9-0c0y-fiymqon1azss@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kaztyox5-t3to-2blk-pr5v-6cz3s3jz6gx9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://98635c25-7ce5-416e-9a45-3fcadc878f93@36.62.139.178:1111?type=grpc&security=none#CN 🇨🇳 ┇ VLESS-GRPC-NTLS - Chinanet ┇ 36.62.139.178
-trojan://2ui1cj7w-8fjh-yisj-925n-dqtff3wswl6e@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://nrt2zvd3-2cx0-q05g-mfhb-m4v0m4sb1w5j@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

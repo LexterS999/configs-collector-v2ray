@@ -1,8 +1,9 @@
-trojan://ykex3wpo-pbms-by89-fc1s-cjs3rg40kltt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://t2zcqxq9-jydy-o8e2-1uq5-8mtoxaqmpfiq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://avm71mr7-al7y-0qn1-yqt4-u9ulvmui20ae@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7p8q40ph-paj9-89zu-7hw2-3r9pcobt3p23@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jw3q2a4b-usei-jx6s-mf6x-ssutsili4v3c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://ii565g6l-z9e0-pmf5-u29r-e4f746ahy85m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://j3k69nn7-0qmv-q5pn-yzfa-shif5pk24u25@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lhoc1zuu-2hb8-o0qq-0b1b-ukuxo8dmyqpf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b722886c-e0aa-4720-9812-0f8ccf7a24aa@homee.oops.wtf:8866?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 79.110.50.154
 vless://d7f40691-ef51-45ce-9a2c-051e2a1b0750@216.9.225.159:8000?type=tcp&security=tls&sni=tr-1.claudify.org&fp=randomized&flow=xtls-rprx-vision#TR 🇹🇷 ┇ VLESS-TCP-TLS - Fiba Cloud Operation Company, LLC ┇ 216.9.225.159
 vless://885a03bb-4797-3fd8-5446-c770066cb87e@216.9.225.51:4111?type=tcp&security=reality&sni=serverdlt1.goodshoes.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SLaKJrXI_5q7tPsYGffScpC1MEl75kMp-Z6M5KnvZwc&sid=cc30318af8ce0970#TR 🇹🇷 ┇ VLESS-TCP-RLT - Fiba Cloud Operation Company, LLC ┇ 216.9.225.51
-trojan://si9q6923-l3n9-f6gp-692y-tbmtan8j99u2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://885a03bb-4797-3fd8-5446-c770066cb87e@216.9.225.51:4141?type=tcp&security=reality&sni=TurkeyNode.iranwebfa.com&fp=chrome&flow=xtls-rprx-vision&pbk=HC6mNBrJbEp_AQ_TLO0yqglzadGYG-jv6KfPMcbr7xU&sid=a8d8ae605613aebb#TR 🇹🇷 ┇ VLESS-TCP-RLT - Fiba Cloud Operation Company, LLC ┇ 216.9.225.51
+trojan://4yk1q344-128y-ey2n-j7gn-0ev60tb787zg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

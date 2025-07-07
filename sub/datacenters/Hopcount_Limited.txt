@@ -1,7 +1,7 @@
-trojan://uv5k1n65-tiwh-qd26-xyd3-rpw9n0ixkx7w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://6wsp8nob-segw-t188-i3js-w8a8n2q22hqn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mx6j10bq-1p2g-yk2a-lylw-nyq3y0335uxy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://akbm9xxm-b8y6-6oug-l513-7fc9sukf6xb8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ixv586kv-ww1v-oxg9-8qcv-z09elfdzqetg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://r9m9r6ay-jtpj-607h-h3dx-dgv0ppdlulh2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8vhuxhhv-hutf-3z2w-z3pz-irr6gb85dhxt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://37fopxly-yvxa-x18i-t9kd-ntw7tl72e78s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@199.212.90.49:443?type=ws&security=tls&path=/?ed=2048&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Hopcount Limited ┇ 199.212.90.49
 vless://0b32d187-fbea-476d-a8f8-ae2a024631eb@199.212.90.8:443?type=ws&security=tls&path=/?ed=2048&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Hopcount Limited ┇ 199.212.90.8
-trojan://bsyijvpc-xiof-vhcv-142n-q02p68ko9kjn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://wx9k0jrp-9sbk-nfyi-nw7q-fs5l87a04128@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

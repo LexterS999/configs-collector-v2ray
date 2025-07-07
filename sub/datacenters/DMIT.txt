@@ -1,7 +1,7 @@
-trojan://ihg2wozg-1961-ripi-qbhs-f3ndoe40bhen@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://c1ocpfze-ay7p-cfhk-a54a-qrhiacd25jxs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yv7ehw7g-tbzy-i92s-mrh1-5t1vgzrstuk2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qedbpk5h-6sn9-5h4q-xb8u-7wxykwtnkvyi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://rz42ab76-79ck-tju0-6m6m-dejz7xkux4yo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://uqt3jeqc-pre8-5pdn-b7oq-8n88viq255o2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://u5iqwc6a-mecy-76b4-7any-bzcbscutwb45@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rzykv90k-rcwf-n3dz-3a7t-zr3e8yizwvv7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.3.37.27:9004?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#HK 🇭🇰 ┇ VLESS-WS-TLS - DMIT ┇ 154.3.37.27
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@154.31.113.72:443?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edmp.aimercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-TLS - DMIT ┇ 154.31.113.72
 vless://14c8603b-f036-4ebe-800b-ce6add99cd50@154.17.225.73:443?type=ws&security=tls&path=/bing&sni=usb.rtot.me#US 🇺🇸 ┇ VLESS-WS-TLS - DMIT ┇ 154.17.225.73
@@ -22,4 +22,4 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@65.75.192.89:34184?type=ws&security
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@65.75.194.43:10511?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edccr.aimercc.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-TLS - DMIT ┇ 65.75.194.43
 vless://d2093082-a38a-316b-adcb-71013e595bd0@154.17.236.102:443?type=tcp&security=reality&sni=tesla.com&fp=random&flow=xtls-rprx-vision&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM#US 🇺🇸 ┇ VLESS-TCP-RLT - DMIT ┇ 154.17.236.102
 vless://18fe216e-628f-4795-acac-28ef6372245c@154.26.187.73:18373?type=tcp&security=reality&sni=www.ebay.com&fp=chrome&flow=xtls-rprx-vision&pbk=VZ5yPzcA8GExBvYJs5EbguQr5ZXVxPdC4lPisBJwWio#US 🇺🇸 ┇ VLESS-TCP-RLT - DMIT ┇ 154.26.187.73
-trojan://ajvm0x8t-68bs-nwa2-2cc7-e06pj1xulqaf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ion4snj7-x9aj-nl8h-b9er-wdlmvay9tz1j@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

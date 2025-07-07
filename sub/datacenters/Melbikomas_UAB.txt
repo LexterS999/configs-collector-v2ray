@@ -1,12 +1,13 @@
-trojan://qvs3nbxu-rasz-ev8j-43ts-fkdl8tx4ewgr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://dzezbk3t-gh4j-1ooi-uzwe-w2y5stbphmr1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://322oy1jz-eyp2-igh2-ng0x-lx17tvk97jlj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zq09c4be-fmxb-z3pe-noq0-xvp2w9qezftq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cgpuoqsm-h2ex-1vmp-3rme-3s2jo6jpj6y4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://yi4b272v-ild4-vtp7-y0a9-cefqvt6me7ai@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://s7v1nkxx-g1nv-lf99-mfb6-0nejkomp37gw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9w5e71nh-8g7m-x5lt-tpyq-lu5rwz3hgfbg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.224.248.120:443?type=ws&security=none&sni=0926.qiang2000.link#DE 🇩🇪 ┇ VLESS-WS-NTLS - Melbikomas UAB ┇ 185.224.248.120
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@213.183.44.184:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - Melbikomas UAB ┇ 213.183.44.184
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@213.183.44.105:7594?type=grpc&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Melbikomas UAB ┇ 213.183.44.105
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 103.111.114.29
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@91.201.67.27:7594?type=grpc&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#IT 🇮🇹 ┇ VLESS-GRPC-RLT - Melbikomas UAB ┇ 91.201.67.27
+vless://b69f3e77-cdf1-4b84-851a-4b7ebede5433@swedeeen.mehrdadsadaf.com:1300?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-RLT - Melbikomas UAB ┇ 91.201.67.27
 vless://1bbaa76a-43fd-4a36-b54d-6351223de5d6@103.97.88.187:443?type=ws&security=tls&path=/lzjjjjjjjjjjjjj&sni=msk.lzj520hxw.dpdns.org#NL 🇳🇱 ┇ VLESS-WS-TLS - Melbikomas UAB ┇ 103.97.88.187
 vless://f2d1b51c-6624-4f31-8496-d9bc67cf49fe@103.97.88.93:2052?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Melbikomas UAB ┇ 103.97.88.93
 vless://2b592ceb-fb13-427f-9bc2-bd1df15e9c15@109.122.202.170:33011?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Melbikomas UAB ┇ 109.122.202.170
@@ -19,4 +20,4 @@ vless://97c136a7-da4b-40b7-af73-1321f9e75fe8@109.122.201.224:2095?type=tcp&secur
 vless://8d5c286f-d00a-4377-8cea-3e4ce23e2373@surfboard-se.jingfan.cyou:24782?type=tcp&security=reality&sni=m.media-amazon.com&fp=safari&flow=xtls-rprx-vision&pbk=_On5EYS5axlQCBRzDSbjf4bMWbnIGWrTdP_qN3kfayc#SE 🇸🇪 ┇ VLESS-TCP-RLT - Melbikomas UAB ┇ 109.122.201.47
 vless://f68ecbc3-bf67-470c-a4a8-dcd157112813@146.19.196.222:443?type=tcp&security=tls&sni=aka.ms&fp=chrome#SG 🇸🇬 ┇ VLESS-TCP-TLS - Melbikomas UAB ┇ 146.19.196.222
 vless://a040115b-aaef-4851-9ba0-d558bba55359@185.140.211.50:2052?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Melbikomas UAB ┇ 185.140.211.50
-trojan://eh0nogo3-2tgw-4rcv-vs9q-hhpk3edc9q3z@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://kq8uedna-s56k-clp7-rbyg-lk7n38ojs9vs@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,8 +1,8 @@
-trojan://pxkogg9v-o3zv-y8i9-j7e1-mdnizoj6gvbl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://6hukth4u-nx9g-w1ba-fbz3-lgcjj2phmjxv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dh5rzf32-g8m4-6q9b-128n-x4765y5awfsv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://khq72ch4-644o-2521-06cg-4yrpbcyuxhlf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3aj1wdbp-z7t2-51tp-3mk3-ivhd3setp1w4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://ggx1zf2b-vrml-uvyl-q67y-nd4nedmg7hi1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://azfzox54-44oq-p22i-w04i-9h0l6rh8cek2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hs264vql-blko-vawj-zqwv-b88ouyxo8sa7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ab03c163-c098-44ce-8e68-ed1578c82035@216.9.224.31:1181?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - DC Host INC ┇ 216.9.224.31
 vless://96685d68-be9c-41b5-9122-e5a4331ea76c@216.9.224.156:443?type=xhttp&security=reality&path=/@v2RayyNGvpn&sni=www.microsoft.com&fp=chrome&pbk=PtBXJIYX5wPuiv0dX_hjJIiod4HOa0lELi4IJeSHBFg&sid=8d5dd1#TR 🇹🇷 ┇ VLESS-XHTTP-RLT - DC Host INC ┇ 216.9.224.156
 vless://ef487a93-d7d4-422a-81c1-764237b52bed@216.9.224.211:4003?type=tcp&security=reality&sni=soft98.4en1.net&fp=chrome&flow=xtls-rprx-vision&pbk=ugJy-HhAx5XAQC8BZ9dI9IBZr7FDMkEe-I-kklVnQyA&sid=e6da440fec1529ea#TR 🇹🇷 ┇ VLESS-TCP-RLT - DC Host INC ┇ 216.9.224.211
-trojan://ngshyj6g-va7u-swtq-0cun-r9tq4nl1wl0x@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://6lr49q5u-vn1v-cl51-w5a0-clgj03xn9u7x@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

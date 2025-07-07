@@ -1,7 +1,7 @@
-trojan://rpu7a814-2rov-gqzx-cl95-ocnkwfm9oxdz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://t9k7r6hm-avbh-codl-9l04-vkt86ep5hv5c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tpwh7k3n-bvl5-fk2d-znbf-7kbwlbfw8i5z@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://t32vh1vn-k6mr-z4ka-9zvu-jsac7gkpkuep@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://gqemnn1r-smpu-s90v-z5ys-6fpihg6xuw25@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://tsnj92si-1qcq-8p81-3g2i-vlmn8zcw35de@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8yb8gypr-gwzx-r9vv-4w2u-arzrb8409e9w@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://uio60kou-zmyj-o68r-76yu-bh3453g29jp2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ea286109-d20f-415e-849e-4af20ab04b65@139.185.34.131:443?type=tcp&security=tls&sni=147135001195.sec22org.com#AE 🇦🇪 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 139.185.34.131
 vless://639241df-db2e-4dbb-90c7-55f5eea2ad81@193.123.80.245:80?type=ws&security=none&path=/telegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed&sni=syyed.nobaarne.Space.#AE 🇦🇪 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 193.123.80.245
 vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@193.123.81.17:443?type=tcp&security=reality&sni=itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=0Vvc6EFXPQHWWqyhG4wek-MEh_q6a9CDMY7U-TSHGV4&sid=6ba85179e30d4fc2#AE 🇦🇪 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 193.123.81.17
@@ -24,6 +24,7 @@ vless://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.80.61:26113?type=tcp&securit
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@140.238.212.95:443?type=ws&security=tls&path=/?ed=2560&sni=rt.ylks0033.dpdns.org&fp=random#CH 🇨🇭 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 140.238.212.95
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@140.238.214.247:443?type=ws&security=tls&path=/?ed=2048&sni=ak.ylks.xyz#CH 🇨🇭 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 140.238.214.247
 vless://55520747-311e-4015-83ce-be46e2060ce3@140.238.218.65:2053?type=ws&security=none&sni=uu.vs2024.us.kg#CH 🇨🇭 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 140.238.218.65
+vless://55520747-311e-4015-83ce-be46e2060ce3@140.238.218.65:8443?type=tcp&security=none&sni=uu.vs2024.us.kg#CH 🇨🇭 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 140.238.218.65
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@144.24.243.207:443?type=tcp&security=tls&sni=147135004002.sec20org.com&fp=chrome#CH 🇨🇭 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 144.24.243.207
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.67.65.201:443?type=ws&security=tls&path=/blue&sni=cj.ylks.xyz#CH 🇨🇭 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.67.65.201
 vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@152.67.68.116:443?type=tcp&security=tls&sni=yapc-1.afshin.ir&fp=chrome&flow=xtls-rprx-vision-udp443#CH 🇨🇭 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 152.67.68.116
@@ -50,11 +51,11 @@ vless://1d4e36cb-344b-43b0-ba5a-7b6b292ab691@130.61.234.225:50005?type=tcp&secur
 vless://c33b1535-1557-4e0b-aa2b-f326c6151436@158.180.36.225:64452?type=tcp&security=reality&sni=apps.apple.com&fp=edge&flow=xtls-rprx-vision&pbk=kuUK6cpkUqYScm1MwKgeB41JBmAOcpY4zXq4fTyJ9RU&sid=ee1cd94f#DE 🇩🇪 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 158.180.36.225
 vless://661ea549-3367-4c37-b307-253cfe8d2ee6@158.180.48.19:18443?type=tcp&security=reality&sni=www.tesla.com&fp=edge&pbk=bRUCz8KaceEKnBFT5V7czJj1t0OAu_nbKnMyVfyeK1I&sid=e6658462#DE 🇩🇪 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 158.180.48.19
 vless://c62d1cba-4966-42e9-8aab-c76c90668c0b@89.168.112.135:985?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 89.168.112.135
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@141.253.124.138:443?type=tcp&security=tls&sni=b2-9fr2329-6bh.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#FR 🇫🇷 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 141.253.124.138
 vless://55520747-311e-4015-83ce-be46e2060ce3@129.151.225.228:8443?type=ws&security=none&sni=uu.vs2024.us.kg#FR 🇫🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 129.151.225.228
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@129.151.254.48:443?type=ws&security=tls&path=/l7p3vofu860yuels/mtuyljy3ljiznc40oq==?ed=2560&sni=bpB005.pAgEs.DEv#FR 🇫🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 129.151.254.48
 vless://55520747-311e-4015-83ce-be46e2060ce3@141.145.199.188:443?type=ws&security=tls&path=/?ed=2560&sni=zv.bgm2024.dpdns.org#FR 🇫🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 141.145.199.188
 vless://55520747-311e-4015-83ce-be46e2060ce3@141.145.205.115:8443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 141.145.205.115
+vless://6bc29783-3ff6-4379-8650-611a7095307b@141.253.124.138:443?type=tcp&security=tls&sni=b2-9fr2329-6bh.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#FR 🇫🇷 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 141.253.124.138
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@144.24.200.164:443?type=ws&security=tls&path=/&sni=a.xn--i-sx6a60i.us.kg#FR 🇫🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 144.24.200.164
 vless://6bc29783-3ff6-4379-8650-611a7095307b@144.24.206.147:443?type=tcp&security=tls&sni=b2-9fr5232-96bh.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#FR 🇫🇷 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 144.24.206.147
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@158.178.192.221:443?type=ws&security=tls&path=/?ed=2048&sni=ad.ylks.xyz#FR 🇫🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 158.178.192.221
@@ -88,9 +89,9 @@ vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.127.7:443?type=tcp&security=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.70.71.23:443?type=ws&security=tls&path=/blue&sni=da.ylks.xyz#IN 🇮🇳 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.70.71.23
 vless://5ea08aa1-96db-4614-b5b5-823717d27c17@158.180.231.216:443?type=ws&security=tls&path=/?ed=2560&sni=vless3.114514660.xyz&fp=random#IT 🇮🇹 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 158.180.231.216
 vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE9SQUNMRS1CTUMtMzE4OTggXHUyNTA3IDE1Mi42OS4xOTcuNjAiLCJhZGQiOiIxNTIuNjkuMTk3LjYwIiwicG9ydCI6MTA2OSwiaWQiOiJhYzhlMjZmZS04MTUwLTRiNjAtYWU2NC04MmZjNzdlYmEyY2YiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@132.145.116.185:443?type=ws&security=none&sni=mmdserver.us.kg#JP 🇯🇵 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 132.145.116.185
 vless://55520747-311e-4015-83ce-be46e2060ce3@131.186.33.175:443?type=ws&security=tls&path=/?ed=2560&sni=bv.bgm2024.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 131.186.33.175
 vless://948f6596-66f9-4707-aa92-3107a214ce53@131.186.63.89:11655?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 131.186.63.89
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@132.145.116.185:443?type=tcp&security=none&sni=mmdserver.us.kg#JP 🇯🇵 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 132.145.116.185
 vless://70c2e363-a934-4ea5-9e29-7cadd817194c@132.145.127.203:2053?type=ws&security=tls&path=/?ed=2560&sni=v2-3h5.pages.dev&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 132.145.127.203
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@132.226.1.227:443?type=ws&security=tls&path=/blue&sni=ll.ylks01.eu.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 132.226.1.227
 vless://948f6596-66f9-4707-aa92-3107a214ce53@138.2.10.149:45638?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 138.2.10.149
@@ -117,6 +118,7 @@ vless://948f6596-66f9-4707-aa92-3107a214ce53@141.147.185.15:443?type=ws&security
 vless://948f6596-66f9-4707-aa92-3107a214ce53@141.147.185.63:443?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 141.147.185.63
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@141.147.188.120:443?type=ws&security=none&sni=cr777.medicaldream.ir#JP 🇯🇵 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 141.147.188.120
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@150.230.107.234:34307?type=ws&security=tls&path=/?ed=2560&sni=v033.ylkszy.eu.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 150.230.107.234
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@150.230.107.234:41381?type=ws&security=tls&path=/?proxyip=proxyip.jp.fxxk.dedyn.io&sni=v033.ylkszy.eu.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 150.230.107.234
 vless://cd2e9541-3fce-4d95-9bec-919d884f911e@150.230.196.248:443?type=ws&security=tls&path=/tiger&sni=piqie.justin-lifeistooshort.info#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 150.230.196.248
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@150.230.206.237:9710?type=ws&security=none&sni=edcci.aimercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 150.230.206.237
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@150.230.63.93:443?type=ws&security=tls&path=/?ed=2560&sni=vk.ylka.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 150.230.63.93
@@ -180,26 +182,51 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@193.122.115.67:4434?type=ws&securit
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.122.122.16:40377?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 193.122.122.16
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.122.125.174:2053?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 193.122.125.174
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@193.123.244.37:34237?type=ws&security=tls&path=/?proxyip=proxyip.kr.fxxk.dedyn.io&sni=xz.ylks.xyz#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 193.123.244.37
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:2052?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 146.56.187.154
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:2052?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 144.24.87.250
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:2053?type=ws&security=tls&path=/?ed=2048&sni=node.vauth.workers.dev&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 144.24.87.250
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:2082?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 144.24.87.250
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:2083?type=ws&security=tls&path=/?ed=2048&sni=node.vauth.workers.dev&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 144.24.87.250
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:2086?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 144.24.87.250
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:2087?type=ws&security=tls&path=/?ed=2048&sni=node.vauth.workers.dev&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 144.24.87.250
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:2095?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 144.24.87.250
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:2096?type=ws&security=tls&path=/?ed=2048&sni=node.vauth.workers.dev&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 144.24.87.250
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:443?type=ws&security=tls&path=/?ed=2048&sni=node.vauth.workers.dev&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 144.24.87.250
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:8080?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 144.24.87.250
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:80?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 144.24.87.250
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:8443?type=ws&security=tls&path=/?ed=2048&sni=node.vauth.workers.dev&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 144.24.87.250
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:8880?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 144.24.87.250
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:2052?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 193.122.107.147
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:2053?type=ws&security=tls&path=/?ed=2048&sni=node.vauth.workers.dev&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 193.122.107.147
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:2082?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 193.122.107.147
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:2083?type=ws&security=tls&path=/?ed=2048&sni=node.vauth.workers.dev&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 193.122.107.147
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:2086?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 193.122.107.147
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:2087?type=ws&security=tls&path=/?ed=2048&sni=node.vauth.workers.dev&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 193.122.107.147
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:2095?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 193.122.107.147
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:2096?type=ws&security=tls&path=/?ed=2048&sni=node.vauth.workers.dev&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 193.122.107.147
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:443?type=ws&security=tls&path=/?ed=2048&sni=node.vauth.workers.dev&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 193.122.107.147
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:8080?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 193.122.107.147
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:80?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 193.122.107.147
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:8443?type=ws&security=tls&path=/?ed=2048&sni=node.vauth.workers.dev&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 193.122.107.147
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn.xn--b6gac.eu.org:8880?type=ws&security=none&path=/?ed=2048&fp=random#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 193.122.107.147
 vless://3fdf5dbc-d3e8-4ae9-aeef-dd83278ea4af@131.186.22.238:443?type=tcp&security=reality&sni=buylite.music.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=P--AseuV7sGvgy7YJ8iX58GxeP5-M2oq0Mq2YxPAXRs&sid=f00d40f38482#KR 🇰🇷 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 131.186.22.238
 vless://30f85233-d41e-4297-97c1-cfac047a948b@193.123.248.228:23333?type=tcp&security=reality&sni=www.yahoo.co.jp&fp=qq&flow=xtls-rprx-vision&pbk=LGcYLmLcvwtfKuk_Qa_dy0N6YNz4szWReWug5fxAwh0&sid=15f7#KR 🇰🇷 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 193.123.248.228
 vless://d516b33d-86ee-49e8-9af7-4eb7405e5cfe@seoul-1ddns.aboutanime.eu.org:23258?type=tcp&security=reality&sni=akcdnoversea.inter.71edge.com&fp=chrome&flow=xtls-rprx-vision&pbk=p-g7A0RMBXZOUey2V-HjWsI-5j-EpNITj_JVqx_9OnI&sid=545abc6e#KR 🇰🇷 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 129.154.210.200
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.84.179.114:443?type=ws&security=tls&path=/blue&sni=da.ylks.xyz#MX 🇲🇽 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 140.84.179.114
 vless://fbc922ce-2eb5-4362-b92e-25db69c9b023@159.54.130.226:985?type=tcp&security=reality&sni=icloud.com&fp=safari&flow=xtls-rprx-vision&pbk=xmqtBMz-4YkLgMf0b2B0U_vZX3IJElGgQQZuwmsEvy0&sid=354ad572#MX 🇲🇽 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 159.54.130.226
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@158.101.195.118:443?type=tcp&security=tls&sni=b295-23nl29-6bh.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 158.101.195.118
 vless://ffbdab9b-f330-4588-a712-39f6f2052dd7@141.144.192.235:443?type=ws&security=tls&path=/admin&sni=en.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li#NL 🇳🇱 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 141.144.192.235
 vless://cd2e9541-3fce-4d95-9bec-919d884f911e@141.148.229.106:443?type=ws&security=tls&path=/tiger&sni=piqie.justin-lifeistooshort.info#NL 🇳🇱 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 141.148.229.106
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@143.47.183.1:443?type=ws&security=tls&path=/?ed&sni=mmdserver.us.kg#NL 🇳🇱 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 143.47.183.1
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@150.230.20.156:2053?type=ws&security=tls&path=/?ed=2560&sni=tx.vs2024.dpdns.org&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 150.230.20.156
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@150.230.20.156:8443?type=ws&security=tls&path=/?ed=2560&sni=tx.vs2024.dpdns.org&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 150.230.20.156
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.70.49.115:443?type=ws&security=tls&path=/?ed=2048&sni=lm.kpcloud.eu.org#NL 🇳🇱 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.70.49.115
 vless://55520747-311e-4015-83ce-be46e2060ce3@152.70.57.182:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.70.57.182
+vless://6bc29783-3ff6-4379-8650-611a7095307b@158.101.195.118:443?type=tcp&security=tls&sni=b295-23nl29-6bh.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 158.101.195.118
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@158.101.199.249:8443?type=ws&security=tls&sni=CiR346yL3b.DeRaKhT.iNfO#NL 🇳🇱 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 158.101.199.249
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.101.209.76:443?type=ws&security=tls&path=/?ed=2048&sni=lk.kpcloud.eu.org#NL 🇳🇱 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 158.101.209.76
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@158.101.214.54:443?type=ws&security=tls&path=/?ed=2560&sni=rt.ylks0033.dpdns.org&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 158.101.214.54
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@84.235.169.234:443?type=ws&security=tls&path=/?ed=2048&sni=ap.ylks.xyz#NL 🇳🇱 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 84.235.169.234
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@bestproxy.onecf.eu.org:80?type=ws&security=none&path=/blue&sni=hk033.ylks.link#NL 🇳🇱 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 152.70.59.90
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cdn-all.xn--b6gac.eu.org:2052?type=ws&security=none&path=/?ed=2048&fp=random#NL 🇳🇱 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 143.47.180.116
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@129.151.198.3:2053?type=ws&security=none&sni=vz.bgm2024.us.kg#SE 🇸🇪 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 129.151.198.3
+vless://55520747-311e-4015-83ce-be46e2060ce3@129.151.198.3:8443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#SE 🇸🇪 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 129.151.198.3
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.151.204.91:443?type=ws&security=tls&path=/?ed=2048&sni=lg.kpcloud.eu.org#SE 🇸🇪 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 129.151.204.91
 vless://73ef5ea7-6452-4c44-88f5-d088aad4ba4a@129.150.63.206:25250?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 129.150.63.206
 vless://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?type=ws&security=tls&path=/?ed=2560&sni=nv.bgm2024.dpdns.org#SG 🇸🇬 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 138.2.107.107
@@ -231,8 +258,6 @@ vless://661ea549-3367-4c37-b307-253cfe8d2ee6@217.142.191.140:18443?type=tcp&secu
 vless://b19c4375-d847-4c40-9824-4767c88b5f38@sg-a1.oci.ee:10084?type=tcp&security=reality&sni=www.amazon.com&fp=firefox&pbk=s2Lr_deTRNuRBKQ15Rsx04KFcujYRFImLNVLAoGFTl8&sid=a81cba9c#SG 🇸🇬 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 213.35.119.90
 vless://f1e7149e-a10a-4f57-b7f9-0a32de7d7bb8@xjp3vl.xiao666666.site:46350?type=tcp&security=reality&sni=www.bing.com&fp=safari&flow=xtls-rprx-vision&pbk=1Chz-KxnZ6wuUwc-FdkxJkzSn7Qt_7hFO2_JDCfRpX8&sid=547f4d0f#SG 🇸🇬 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 138.2.95.90
 vless://6c7a6a6a-6a6a-4000-8000-000000000002@192.9.129.108:55573?type=ws&security=none&path=/lzjjjjjjjjj666666666security=tls&sni=us2-hax.lzj520hxw.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 192.9.129.108
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@192.9.247.127:443?type=tcp&security=tls&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 192.9.247.127
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@64.181.255.250:443?type=tcp&security=tls&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 64.181.255.250
 vless://cc5ef30a-effc-4054-967a-5b474cd1e056@129.146.102.191:443?type=tcp&security=tls&sni=djdownloadus.xn--4gq62f52gopi49k.com&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 129.146.102.191
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.146.168.102:443?type=ws&security=tls&path=/blue&sni=cg.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 129.146.168.102
 vless://cd2e9541-3fce-4d95-9bec-919d884f911e@129.146.170.172:443?type=ws&security=tls&path=/tiger&sni=piqie.justin-lifeistooshort.info#US 🇺🇸 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 129.146.170.172
@@ -258,6 +283,9 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@150.136.87.192:443?type=ws&security
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@150.230.34.116:443?type=ws&security=tls&path=/?ed=2048&sni=aw.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 150.230.34.116
 vless://55520747-311e-4015-83ce-be46e2060ce3@152.67.251.232:443?type=tcp&security=none&path=/?ed=2560#US 🇺🇸 ┇ VLESS-TCP-NTLS - ORACLE-BMC-31898 ┇ 152.67.251.232
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.70.155.147:2083?type=ws&security=tls&path=/blue&sni=hk033.ylks.link#US 🇺🇸 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.70.155.147
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@152.70.155.147:2087?type=ws&security=tls&path=/blue&sni=xin033.ylks.link#US 🇺🇸 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.70.155.147
+vless://55520747-311e-4015-83ce-be46e2060ce3@152.70.155.147:2096?type=ws&security=tls&path=/?ed=2560&sni=jv.bgm2024.dpdns.org&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.70.155.147
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.70.155.147:443?type=ws&security=tls&path=/?ed=2048&sni=lm.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 152.70.155.147
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.101.15.48:443?type=ws&security=tls&path=/blue&sni=dp.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 158.101.15.48
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@158.101.23.175:443?type=ws&security=tls&path=/?ed=2560&sni=cr777.medicaldream.ir#US 🇺🇸 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 158.101.23.175
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.101.24.17:443?type=ws&security=tls&path=/blue&sni=hz.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 158.101.24.17
@@ -270,9 +298,11 @@ vless://6bc29783-3ff6-4379-8650-611a7095307b@192.9.142.185:443?type=tcp&security
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@192.9.155.61:6666?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 192.9.155.61
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.227.116:443?type=ws&security=none&sni=s0.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 192.9.227.116
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@192.9.236.144:443?type=tcp&security=tls&sni=147135004002.sec20org.com&fp=chrome#US 🇺🇸 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 192.9.236.144
+vless://6bc29783-3ff6-4379-8650-611a7095307b@192.9.247.127:443?type=tcp&security=tls&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 192.9.247.127
 vless://70c2e363-a934-4ea5-9e29-7cadd817194c@192.9.250.241:443?type=ws&security=tls&path=/?ed=2560&sni=v2-3h5.pages.dev&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - ORACLE-BMC-31898 ┇ 192.9.250.241
 vless://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@207.211.161.67:30158?type=tcp&security=tls&path=/&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=n7Ptb-3f4pw0D-hG-UP8Dp5Gf8J8Uxn029JMwdTyEFc&sid=ee9e2505#US 🇺🇸 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 207.211.161.67
 vless://b543c066-2189-4aa4-8afb-445ac8ee28d4@64.181.225.150:443?type=tcp&security=tls&sni=dcpqjs.yydjc.top&fp=ios&flow=xtls-rprx-vision-udp443#US 🇺🇸 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 64.181.225.150
+vless://6bc29783-3ff6-4379-8650-611a7095307b@64.181.255.250:443?type=tcp&security=tls&sni=b295-23ae29-6bh.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 64.181.255.250
 vless://661ea549-3367-4c37-b307-253cfe8d2ee6@129.146.128.183:18443?type=tcp&security=reality&sni=www.tesla.com&fp=ios&pbk=8233FxCRw1a_aCJ8d1HwHBMD_fABUNNW7rsrFe3vK0s&sid=e6658462#US 🇺🇸 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 129.146.128.183
 vless://36b98d0b-958d-4d4a-c1b7-aaf1a7fa756a@137.131.10.83:25073?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA#US 🇺🇸 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 137.131.10.83
 vless://cbeaa3aa-4364-4d79-8f60-e964a28724bf@152.70.124.233:30002?type=tcp&security=reality&sni=icloud.cdn-apple.com&fp=firefox&pbk=Mg15AliRh4C_Jh5RQywOyLPxldCeKwlfGg_0Lt25TEM&sid=0cd46745#US 🇺🇸 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 152.70.124.233
@@ -287,4 +317,4 @@ vless://f8c9e1b2-5a31-45a8-80c8-e54382f3c38a@oracle2.188122.xyz:28429?type=tcp&s
 vless://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@pix-02.oraclenat.cc:13146?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&pbk=niPS9mP66K_zOyfCoYOHZC3hMoZiFKAkRUOHU_-z4zM&sid=aa3972a0ca9266b5#US 🇺🇸 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 129.153.104.167
 vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us03.ssr.ee:443?type=tcp&security=reality&sni=itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=XjWpqtyIQmXsbx5-HXLZmgJpr9V4Xzqtx3PLbCx_URE&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 167.234.216.177
 vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@us04.ssr.ee:443?type=tcp&security=reality&sni=itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=--Ssq_QptGzn8kl6PwVSRKglFCYXJHLUX2-Q4IGCgl0&sid=6ba85179e30d4fc2#US 🇺🇸 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 64.181.231.153
-trojan://qiiqvnnz-419u-k4ft-e6nb-ig1uxlfy8ozi@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://dwucqq36-ewug-027b-kx6f-36citxrhcs5n@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

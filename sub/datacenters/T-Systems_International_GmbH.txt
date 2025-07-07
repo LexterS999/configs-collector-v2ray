@@ -1,6 +1,6 @@
-trojan://6x938h1z-6rjs-jhuf-0q9l-lj2iwfj5imsf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://mkj0fpus-ulo2-8hx3-7kdu-2ee5bkl7ghbk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2edoo81s-ify9-n4ye-lrzq-xvcbjknweat0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kmdlnoms-t63i-mlph-exql-pzn1m2wy27ua@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://c7af3qoe-znw8-7ne0-e51w-ytrl575s289i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://ca0a4neg-tov8-iqaz-evg5-c0wa4bbqxua6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7or004eq-ec5t-5boe-7yt8-ws8mb8wl6ldm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wzny79le-kpqm-vsxx-3ms9-shixl4xa2dxg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@80.158.63.104:443?type=ws&security=tls&path=/?ed=2560&sni=ly.ylks.us.kg#DE 🇩🇪 ┇ VLESS-WS-TLS - T-Systems International GmbH ┇ 80.158.63.104
-trojan://pr32ee7e-e5iz-lxxi-dxfc-com6zuhvwz7u@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://n1pzhn3e-zlbt-q4qx-ga88-1kh5ym2ikcid@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

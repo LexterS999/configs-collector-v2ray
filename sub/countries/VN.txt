@@ -1,7 +1,7 @@
-trojan://l6co4ph1-jmpi-fmbt-87mr-21yxq2tah032@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://58fpq1u5-kbwz-9yp4-skdk-o4nlc5g5k6e7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://maivpuwm-nlav-65y0-dlot-hhtm3jbcssl3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nm9tp1z5-hqey-cdnm-vosa-3b8j7rjv21u1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qjcziwln-ff1o-hxd4-1my4-8xk1idln0gw3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://wnd8q7wb-gx56-6wjd-vdgd-t0ebilhjge1p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://08qvdxxe-vswc-51m2-48e6-8ages5lladby@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cyxkvqh5-zqve-lyk3-5aa5-hudhy2y46vio@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9c1db283-1b21-4d04-abeb-91bf18dec777@157.10.53.146:14626?type=tcp&security=reality#VN 🇻🇳 ┇ VLESS-TCP-RLT - INTERDIGI JOINT STOCK COMPANY ┇ 157.10.53.146
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@160.250.65.124:34045?type=tcp&security=tls&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome#VN 🇻🇳 ┇ VLESS-TCP-TLS - Thien Quang Digital technology joint stock company ┇ 160.250.65.124
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.81.86.172:34045?type=tcp&security=tls&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox#VN 🇻🇳 ┇ VLESS-TCP-TLS - Thien Quang Digital technology joint stock company ┇ 103.81.86.172
@@ -24,4 +24,4 @@ vless://3ba7797d-e4ed-4512-b186-330b1b9ae3bd@103.153.254.231:80?type=ws&security
 vless://b408f8bc-90f5-446d-a404-76cdcd2cefe0@103.15.91.138:21488?type=tcp&security=reality&sni=apps.apple.com&fp=firefox&flow=xtls-rprx-vision&pbk=rM7kZRAClXiLTHC-vG9PDQujq3alpb3S5-V-1GiIGGM&sid=120330eb7b#VN 🇻🇳 ┇ VLESS-TCP-RLT - VNPT Corp ┇ 103.15.91.138
 vless://9e321fdf-ea8a-4a3a-a81d-38961f40e39f@103.240.6.21:32319?type=grpc&security=none#VN 🇻🇳 ┇ VLESS-GRPC-NTLS - VPSTTT COMPUTER COMPANY LIMITED ┇ 103.240.6.21
 vless://71775278-cf12-4318-a22d-84b579e23da6@2402:800:6117:5a38::dfb:65534?type=tcp&security=none#VN 🇻🇳 ┇ VLESS-TCP-NTLS - Viettel Group ┇ 2402:800:6117:5a38::dfb
-trojan://r42kha6k-nd73-6vua-me8t-rthmu94o1xf3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://67apryfq-823s-5q60-nze3-02cg0rynbsk8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

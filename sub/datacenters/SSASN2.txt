@@ -1,6 +1,7 @@
-trojan://rolhl9dk-jdfc-75ku-vk4r-1ocxnhc61niy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://0yquagx8-bo4t-u84c-ta9v-nkkqb01oqzxi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2bgm9upk-hrct-cvvz-tg6k-0i1l7em63czc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wzze21ma-dulz-2qr6-un50-dyb3ay7pl383@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://w3j5pnc4-nalg-oseb-zy4n-8klfajsj8wqi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://rqyr2tge-a5i4-bcpf-8kat-f8dgt0g8adpz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://47e689bk-belu-lxfn-9fwv-nim4m001gz49@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ucvrslxe-egzf-57zk-g6fp-gkvdmmam5vjh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://01d5f5bb-085f-4ce8-bc64-2cce5e47bbbd@dl1.arashiphone.com:1990?type=xhttp&security=reality&path=/?/@Join_Bade_Channel@Nicotine_joker__Nicotine_joker&sni=stackoverflow.com&fp=chrome&pbk=4qOKlkttwn8Yw2FN4ZYCint9k-TK9QU56tOXiXgXsGM&sid=fce601089937b01a#US 🇺🇸 ┇ VLESS-XHTTP-RLT - SSASN2 ┇ 131.153.227.162
-trojan://qpyzx8fm-5cah-mmfn-3r2u-qrrf9x9i1hlm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://60630c28-378d-45f3-9917-ee181f12faaf@dl1.arashiphone.com:2040?type=grpc&security=reality&sni=wordpress.org&fp=chrome&pbk=UrQ4Dr8Nc2GS67rkuGLu3wgZVDjtafKQ0fcP9Kd-2kM&sid=c8c412da04c9d171#US 🇺🇸 ┇ VLESS-GRPC-RLT - SSASN2 ┇ 131.153.227.162
+trojan://rsrnpl6g-x5ud-qhnn-pguj-u0k3pyji5jls@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

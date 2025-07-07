@@ -1,6 +1,6 @@
-trojan://xruiz01r-yz4k-gnte-wpv6-fiudqzwek208@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://9rhewj1b-xevs-q125-r2k7-ne02q53odbxw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wsnznrhf-kq3x-ihtb-50ng-5wategd5zv5u@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://833lrcw0-zzhl-rr77-t395-q9dvsu4dh4e2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://st64qh1h-1dn6-t41b-ctiv-obsofympvxak@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://3wun31us-t1r2-yaay-tq4f-31j3jsohggka@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2f1w307o-h6vt-x0s7-zvxz-a761ee2wxcry@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fzdiwkfr-rkcq-hefa-nd6r-in4mi0yp7vqm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://80817fde-96ec-4e8f-8d87-3e844f993455@217.60.187.84:47465?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Yusuf Ozturk ┇ 217.60.187.84
-trojan://jmtiat3c-esl2-f82n-pl0k-se1kfic32z5e@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://35xz68zr-t2gg-1zjc-4pfp-yewoc2een33s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

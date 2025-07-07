@@ -1,7 +1,7 @@
-trojan://a5b6388e-s1cz-xc3x-owt6-253y3klrye88@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://asfjzyz5-5nul-qk1r-yv72-gcjfi9kzpynm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://j59fpmn6-7gfz-6tsn-roaq-s16qqdk92pxy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://290547fu-8lxa-uyai-debb-qczjdl6xqnie@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6ln2puyp-92fo-myjp-6f3i-cc1yvjt3bx8h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://rio61rs7-31zg-41ka-8dnw-6hj21f2n3z4s@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://o5vwxm2c-arco-8uez-eoxu-2nwrrqrukamt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://s0q5y4b6-qu95-8836-i2b3-6xoo70uw45qr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@154.219.5.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#PE 🇵🇪 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.219.5.77
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.219.5.168:8880?type=ws&security=none&path=Telegram@WangCai2/?ed=2560&sni=kjgx.laoyoutiao.link#PE 🇵🇪 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.219.5.168
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.219.5.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#PE 🇵🇪 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.219.5.177
@@ -15,4 +15,4 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.85.99.177:8880?type=ws&security
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.85.99.20:8880?type=ws&security=none&path=Telegram@WangCai2/?ed=2560&sni=ip.langmanshanxi.top#US 🇺🇸 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.85.99.20
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@154.85.99.254:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.85.99.254
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@154.85.99.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.85.99.3
-trojan://xrt2if8w-yasl-ao6v-bbp6-oxkwgb4n6v2f@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://m82mrf1l-mbs8-7e62-dgpe-5jw588fof9pb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,8 @@
-trojan://eefqpb6t-g0kv-tks9-7iyk-7ga8lef88p3r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://a8od8xbs-a4px-4lml-nwsw-0k21iwgbxzxc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ly7kur3x-k7be-9dsk-uris-p52nzq1k77s9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wxzv87t8-3dd5-9rtn-w6eh-25yeai22cnou@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jztsrw2s-zws8-9jbx-lnwj-aukzn1l1g1uv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://yof34o5x-dv84-u6h0-2ld0-pjubkbysrhzd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2t52uo08-vmcf-q0rv-ya2l-ou616fmw3llp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://svbzrh42-js6q-ey31-g1sv-znzq1rqt7zf2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://87236aba-c500-468b-8c25-6d417b8c7bb9@78.129.155.112:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=CGxndWVzEmoJ6cFp23m4XukF5Ad5R_0TRWmJz_KJ6y4&sid=a221477f#GB 🇬🇧 ┇ VLESS-TCP-RLT - Iomart Cloud Services Limited ┇ 78.129.155.112
 vless://66d32b28-5df1-4cb7-b352-a11619175748@78.129.155.89:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=zeExWvxwf-KRpC4nulicavAOeMfT8LQ-kaNZAyQoPh8&sid=0817d6#GB 🇬🇧 ┇ VLESS-TCP-RLT - Iomart Cloud Services Limited ┇ 78.129.155.89
-trojan://zyle00r4-2qht-w3yz-62v4-u790kw14mfqs@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://279c8e66-2b1d-466d-99aa-95b51708311e@78.129.155.89:8443?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=2Czmwe30_iRsGakJCnlCbGoT6k8i2SYhmi-XPuUunQo&sid=3a37589c#GB 🇬🇧 ┇ VLESS-GRPC-RLT - Iomart Cloud Services Limited ┇ 78.129.155.89
+trojan://upahyh6v-824d-wqwc-402v-a7o2k62sczsm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,10 +1,10 @@
-trojan://s9vafxul-r3y5-o0ew-ulk5-zha0f5dhdp47@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://6e4vhfb5-6yxm-mgcp-5koa-jid7uaco828u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fpfezog8-8jhm-2j6s-qacd-ueo3l23omuqr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4ba02auf-hj1s-0itd-zqzr-o03pvxqlyj23@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://iamg5uw0-zunn-kt8v-xk4f-vjhjbintwhd4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://kqkplc72-d1hg-l3n1-qupf-g9qc74uxtfew@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9yy0d1d7-pone-qspr-9ovu-wfuujspy3gmn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dg9a1u2d-6cz7-kw91-0qdn-xng8atsbwhyp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@154.219.5.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#PE 🇵🇪 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.219.5.77
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.219.5.168:8880?type=ws&security=none&path=Telegram@WangCai2/?ed=2560&sni=kjgx.laoyoutiao.link#PE 🇵🇪 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.219.5.168
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.219.5.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#PE 🇵🇪 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.219.5.177
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.68:2083?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#PE 🇵🇪 ┇ VLESS-WS-TLS - LARUS Limited ┇ 154.219.5.68
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.92:443?type=ws&security=tls&path=/?ed=2048&sni=juzibaipiao.5112233.xyz#PE 🇵🇪 ┇ VLESS-WS-TLS - LARUS Limited ┇ 154.219.5.92
-trojan://52fmrcyp-eiao-ptuh-5jhp-qtkxhvvd72g3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://65hs0f4r-ek7q-5o4p-4355-p0sabftb3p6g@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

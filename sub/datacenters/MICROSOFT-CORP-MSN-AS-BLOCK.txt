@@ -1,7 +1,7 @@
-trojan://5ojpld53-i6xg-5psw-oumz-rn8g5589xkic@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://xxttu58s-4qm1-uyox-qyg5-eq7lyj8tyk8s@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://38go7zpw-h1y5-t6iu-r4t9-37oa3ep3g84p@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vgq6ir0q-52j7-kv1w-y3oq-93652knc0bik@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://rc8iw6uq-q2pa-zudk-vtxy-9aake736lgr6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://5hm4jxwc-zfah-fb6u-pzo1-4ic3v0eqyxoq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ax5sw13x-ssq7-7mqu-r02l-rhfkhwkuslyf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://u02mfs0z-sru1-7ear-t15m-s0xnaqttfp9s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@20.74.223.241:443?type=ws&security=tls&path=/?ed=2048&sni=ap.ylks.xyz#AE 🇦🇪 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.74.223.241
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1JQ1JPU09GVC1DT1JQLU1TTi1BUy1CTE9DSyBcdTI1MDcgMjAuMjEzLjIwLjE4NSIsImFkZCI6IjIwLjIxMy4yMC4xODUiLCJwb3J0IjoxNzcxOCwiaWQiOiJjMjA2ZTAyMi0zNGM2LTRmZTMtYTIzMi1iOWMwN2JhMzE2NWQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.42.228.160:443?type=ws&security=tls&sni=sdfee4.azurewebsites.net#AU 🇦🇺 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.42.228.160
@@ -13,8 +13,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.250.60.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.158.124.20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 74.177.202.58
-vless://0cf13601-4752-4f9f-b196-e2e214a589bb@172.167.181.175:443?type=tcp&security=tls&sni=hefdah.dilik.co&fp=chrome&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 172.167.181.175
 vless://7e6d3409-ea79-43d9-eaa1-e881146017de@172.167.12.228:443?type=tcp&security=tls&path=/telegram,ELiV2RAY--telegram,ELiV2RAY--telegram,ELiV2RAY--telegram,ELiV2RAY--telegram,ELiV2RAY&sni=sizdah.dilik.co&fp=qq&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 172.167.12.228
+vless://0cf13601-4752-4f9f-b196-e2e214a589bb@172.167.181.175:443?type=tcp&security=tls&sni=hefdah.dilik.co&fp=chrome&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 172.167.181.175
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@20.77.106.83:8080?type=ws&security=tls&path=/?ed=2048&sni=lr.kpcloud.eu.org#GB 🇬🇧 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.77.106.83
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@20.90.163.76:2053?type=ws&security=tls&path=/?ed=2560&sni=v033.ylkszy.eu.org#GB 🇬🇧 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.90.163.76
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@13.75.34.176:443?type=ws&security=tls&sni=hkklo.azurewebsites.net#HK 🇭🇰 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 13.75.34.176
@@ -27,10 +27,10 @@ vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvo
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@20.217.81.178:443?type=tcp&security=reality&sni=i2pd.website&fp=chrome&flow=xtls-rprx-vision&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98#IL 🇮🇱 ┇ VLESS-TCP-RLT - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.217.81.178
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1JQ1JPU09GVC1DT1JQLU1TTi1BUy1CTE9DSyBcdTI1MDcgMjAuMTkzLjEzMS4xNTIiLCJhZGQiOiIyMC4xOTMuMTMxLjE1MiIsInBvcnQiOjIzMjk0LCJpZCI6ImU2ZjA1NDFmLWFmNzEtNGUxNi05Y2Q4LTVhNjEyOTM0YjdhNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@98.70.26.236:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=bpbg.168168.us.kg#IN 🇮🇳 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 98.70.26.236
-vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@itmi-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?type=tcp&security=reality&sni=itgetsbetter.org&fp=chrome&flow=xtls-rprx-vision&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&sid=462c73aef9f448#IT 🇮🇹 ┇ VLESS-TCP-RLT - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.232.168.118
 vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@4.232.169.126:443?type=tcp&security=reality&sni=itgetsbetter.org&fp=chrome&flow=xtls-rprx-vision&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&sid=462c73aef9f448#IT 🇮🇹 ┇ VLESS-TCP-RLT - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.232.169.126
 vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@4.232.170.158:443?type=tcp&security=reality&sni=itgetsbetter.org&fp=chrome&flow=xtls-rprx-vision&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&sid=462c73aef9f448#IT 🇮🇹 ┇ VLESS-TCP-RLT - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.232.170.158
 vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@72.146.232.244:443?type=tcp&security=reality&fp=chrome&flow=xtls-rprx-vision&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&sid=462c73aef9f448#IT 🇮🇹 ┇ VLESS-TCP-RLT - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 72.146.232.244
+vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@itmi-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?type=tcp&security=reality&sni=itgetsbetter.org&fp=chrome&flow=xtls-rprx-vision&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&sid=462c73aef9f448#IT 🇮🇹 ┇ VLESS-TCP-RLT - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.232.168.118
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@104.215.58.230:443?type=ws&security=tls&path=/&sni=gkkui8.azurewebsites.net#JP 🇯🇵 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 104.215.58.230
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.210.64.11:443?type=ws&security=tls&path=/&sni=vsdfee.azurewebsites.net&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.210.64.11
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.210.64.14:443?type=ws&security=tls&path=/&sni=jp066.azurewebsites.net#JP 🇯🇵 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.210.64.14
@@ -64,4 +64,4 @@ vless://f19ed531-81cb-433e-8746-1a69e009f9df@4.255.56.138:443?type=ws&security=t
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@48.217.34.120:443?type=ws&security=tls&path=/?ed=2048&sni=lp.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 48.217.34.120
 vless://588c04df-a56f-4d0f-8c6e-d8580a31e0cb@52.252.59.207:443?type=tcp&security=tls&sni=asqar4.rahavard365.co&fp=chrome&flow=xtls-rprx-vision#US 🇺🇸 ┇ VLESS-TCP-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 52.252.59.207
 vless://89722a6c-e074-4651-d0a7-6ad6c29ce87b@20.96.165.134:80?type=grpc&security=reality&sni=microsoft.com&fp=firefox&pbk=EyQUEBzlUrhZxnNL5uODPYYMu50SCsZo4abimP9aWlI&sid=c811882c07#US 🇺🇸 ┇ VLESS-GRPC-RLT - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 20.96.165.134
-trojan://1rjo9pho-y92k-4h4t-k59k-n7l19rxadaoy@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://lgfznoid-gre2-pjkx-5myk-uycesi0qtaj5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

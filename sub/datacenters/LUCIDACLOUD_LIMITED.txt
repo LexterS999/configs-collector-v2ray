@@ -1,6 +1,6 @@
-trojan://7b8b59g8-zg80-9qju-s5fx-oqgh2vrs9jep@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://pzw9vwfn-ezxh-axy6-lqbb-a87l1ytqs38e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://200kpscd-6jd2-xmyr-f91s-htpy3c9445oj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zufl7hqf-f6mm-8abz-3a26-dtx4uk7td1ru@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://dgar1rw8-puvr-eug8-1cd2-qu6s3lgc01sx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://zeqmnczk-0jk6-rgxt-xuy6-w4k0tckcyeyu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gx7who1c-ru8n-jhyh-n3zu-5m0tqvk6w0r7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jik16wkp-eg6j-gjdj-g74y-91rtzpec3rdq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@83.229.123.36:8443?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edccr.ambercc.filegear-sg.me#HK 🇭🇰 ┇ VLESS-WS-TLS - LUCIDACLOUD LIMITED ┇ 83.229.123.36
-trojan://v90ygefq-lmdy-2pj3-dqe9-59blmkyub3ox@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://6cfg253z-je33-86vk-uawi-2lagme4xt8q1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

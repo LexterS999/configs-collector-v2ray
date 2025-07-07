@@ -1,10 +1,10 @@
-trojan://vflbtjhv-cpwv-q7mp-t1w6-lj7fn77fhzq9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://didi018o-tbub-y9qd-yva2-on8iohl8lfxq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wkqb6f41-m6sk-i7ji-9w3w-py09q2c0o4ii@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://s8wladq7-oxjb-nunn-xj58-0exw5lcm99bt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://r5qzvs33-3e1l-ybbv-2wry-bmo8f94ijp8g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://hbdwk2in-n5iu-6sdf-1ji6-zoghuqzfpbnd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://oulu4qew-zdve-hrx9-xyyu-h5lou5i59eip@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ua5xd25i-xg46-728a-ke1x-xuzprqincp5q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c4b13ceb-11d0-4611-8e50-f5bb453defa2@153.121.32.78:7000?type=ws&security=tls&sni=mot.luyuju.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - SAKURA Internet Inc. ┇ 153.121.32.78
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.16.76.226:443?type=ws&security=none&path=/Telegram🇨🇳&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-NTLS - SAKURA Internet Inc. ┇ 160.16.76.226
 vless://ef23ddd0-14c5-39c2-9880-af55ce892363@219.94.255.221:443?type=tcp&security=tls&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - SAKURA Internet Inc. ┇ 219.94.255.221
 vless://5d711a41-6fe4-4ced-9eb2-e86474c17906@160.16.148.100:31738?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=aMur4VIL6x4K12L7FRxqcrqjLbhmu9viYfssGXS8gEI&sid=ee#JP 🇯🇵 ┇ VLESS-TCP-RLT - SAKURA Internet Inc. ┇ 160.16.148.100
 vless://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.75.222:443?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a#JP 🇯🇵 ┇ VLESS-TCP-RLT - SAKURA Internet Inc. ┇ 160.16.75.222
-trojan://qqclydew-c3ux-syjz-2wyj-psnyrl4n5m59@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://lu3ohzxz-vu1b-3bjj-96ob-w3v1myv78ck6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

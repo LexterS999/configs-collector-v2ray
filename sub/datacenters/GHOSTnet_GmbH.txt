@@ -1,7 +1,7 @@
-trojan://qo6tgqfc-ddn0-afr3-brwm-9rpjhihgovyc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://y1ch2ynt-9b3z-ydlb-u7e5-wfl5o3a6tqo4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://e8s31qvj-niup-me78-fo73-bx1mvf0xf59g@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://b1j3ljzk-92ez-kf5f-cpb8-qw1m64qnfoo3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ygmgcix1-j29d-hll1-84xo-1w4gdedm0ggs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://k8t78jty-7s8o-8wq3-t7t7-bth5sov1o74v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4s6jxcx6-a8n9-0k5i-50fw-spr5fps5phr2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wge5ia23-u5ql-y6e6-1p4n-xwhxe314j3h2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@5.230.44.117:16771?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - GHOSTnet GmbH ┇ 5.230.44.117
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@5.230.44.233:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - GHOSTnet GmbH ┇ 5.230.44.233
-trojan://xdde7739-vydw-790w-5lno-jedzftd27z81@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://mwc85dkj-yu3g-mf3r-h6tw-srakp4w4d4c7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

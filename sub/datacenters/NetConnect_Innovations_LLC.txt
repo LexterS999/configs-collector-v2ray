@@ -1,7 +1,11 @@
-trojan://lvn8do0d-y6de-xq1d-5yqa-tjd0u9l0nj0t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://43u01fm8-zmx1-khqh-kcvj-d4wbfxcii9wt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://45oodq8u-adkt-0n4s-h8de-mfxab5ni575r@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://q97yzrsa-i2ma-1e2j-q8pj-uojyso0zyd6u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sawrb1w6-cwc3-pmgb-6ysv-qj0amyx3vecx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://6szbgfop-14k3-esvv-npni-s9kzkxsys9dk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2h3v8w6r-p9t0-esif-41gj-ixxsvna7jap7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://1sbh2mep-u0fq-d8er-7ggn-i9psqly0jfi4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://eb5f5964-1b12-457b-b8a6-bca5332e0494@138.128.224.100:443?type=ws&security=tls&path=/telegram-mitivpn&sni=s6.design-mobo.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - NetConnect Innovations LLC ┇ 138.128.224.100
+vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?type=ws&security=none&path=/telegram-mitivpn#AE 🇦🇪 ┇ VLESS-WS-NTLS - NetConnect Innovations LLC ┇ 138.128.224.100
 vless://6bf5267e-cbe3-42eb-bdb0-9f6cd457f168@138.128.225.100:2053?type=ws&security=tls&path=/telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic.zip&sni=design-mobo.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - NetConnect Innovations LLC ┇ 138.128.225.100
-trojan://eqllnemk-sao4-zev9-u66a-4yj7x5ifii9j@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://b97490d7-e509-4ef7-b218-130a680bcd4c@138.128.225.100:2083?type=xhttp&security=tls&path=/telegram-shrakpublic/log.rar&sni=design-mobo.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-XHTTP-TLS - NetConnect Innovations LLC ┇ 138.128.225.100
+vless://801b7b00-2271-45ec-b189-bf0aef419073@138.128.225.100:2086?type=ws&security=none&path=/telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic-telegram-shrakpublic.zip#AE 🇦🇪 ┇ VLESS-WS-NTLS - NetConnect Innovations LLC ┇ 138.128.225.100
+vless://a07827b5-4b27-4910-8333-f78949562fc9@138.128.225.100:443?type=ws&security=tls&sni=design-mobo.ir&fp=chrome#AE 🇦🇪 ┇ VLESS-WS-TLS - NetConnect Innovations LLC ┇ 138.128.225.100
+trojan://jv27rwzu-ua8x-f2gs-6hwp-gifsns8m6zpk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

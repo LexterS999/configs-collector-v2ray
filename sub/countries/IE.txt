@@ -1,7 +1,7 @@
-trojan://l3c2mzqa-trqq-zkyy-lbto-4ql0pq61dwlr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://5pskzn4v-e0d3-6fzr-lo0q-y1zq6okwgq4a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://yv0cti98-8h0w-l26u-sgnn-9kkssaoysyhm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fh2cpn8e-l89q-s42i-s5ye-30khgqzxcyjt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://yad7uur0-j7rs-mlo8-7s49-0o098721tr6v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://14z1dpci-7ud2-dc6b-qyl2-if2vp9k0bkev@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://klblczmw-1t5j-kn2e-c0pj-caqqbdg9k5oo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2e6s40zv-5oxo-pkui-idjq-m1fgw5kjryih@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.214.123.197:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 52.214.123.197
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@108.128.206.146:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 108.128.206.146
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@108.128.55.246:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#IE 🇮🇪 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 108.128.55.246
@@ -239,4 +239,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.26.64:443?type=ws&security=
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@85.159.229.243:2040?type=tcp&security=reality&sni=github.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#IE 🇮🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 85.159.229.243
 vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.88:2087?type=grpc&security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&sid=fc805835#IE 🇮🇪 ┇ VLESS-GRPC-RLT - Global Connectivity Solutions Llp ┇ 85.159.229.88
 vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.8:2087?type=tcp&security=none#IE 🇮🇪 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 85.159.229.8
-trojan://2bgz957q-uben-wfpp-x75q-x8ifpxtx900f@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qlh8l99r-0pff-ubab-i6s6-1l6s1bojv3jk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

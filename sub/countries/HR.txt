@@ -1,7 +1,7 @@
-trojan://weqaqrzw-bbnr-yp7q-m5iv-614qlqw02foj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://uf1m65aa-al97-5vdc-uvod-tp2b9trqjbpy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://eclypok2-tww8-qq5c-8rnl-rda2jx4l9fe4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://r1aqflfc-pzjg-ag1r-dupk-y7n1yfaxjr2f@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3caf8q25-anxe-m0ws-7ins-sd2mj1zdipez@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://oeo6lc12-uhi9-hena-p1s9-p27cr1ojgp9z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7wop5vyk-wtm2-70pb-enif-1u008x6dhtqo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7w10hr4h-oamu-cmn4-xtbm-0oxzae1zr70s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@213.182.199.168:8880?type=ws&security=none&path=Telegram@WangCai2/?ed=2560&sni=kjgx.laoyoutiao.link#HR 🇭🇷 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 213.182.199.168
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@213.182.199.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#HR 🇭🇷 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 213.182.199.177
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@213.182.199.213:8880?type=ws&security=none&sni=jp.laoyoutiao.link#HR 🇭🇷 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 213.182.199.213
@@ -14,4 +14,4 @@ vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@213.182.199.77:8880?type=ws&securit
 vless://7db834ec-1847-4f0c-9e24-d7f12fd43187@5.181.2.3:443?type=ws&security=tls&path=/11790/staticvpn&sni=k1.allservers.org&fp=random#HR 🇭🇷 ┇ VLESS-WS-TLS - Global Connectivity Solutions Llp ┇ 5.181.2.3
 vless://8346adf1-76ff-41d6-8ca4-044c817a3ec9@5.181.2.112:7610?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=2wBPu3_o03KRu5ujEFZ9cgczdgiR2eLdJTo7ZfAAogo&sid=1923945e10a464a5#HR 🇭🇷 ┇ VLESS-GRPC-RLT - Global Connectivity Solutions Llp ┇ 5.181.2.112
 vless://66924fa3-47cf-4272-a290-9bd476ebc6cd@5.181.2.51:2040?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs#HR 🇭🇷 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 5.181.2.51
-trojan://x49u8r3z-730i-260o-trs0-69lk049q7l5e@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://jb0bp9q0-5jg5-wc6i-gwjk-hy7feja72nod@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

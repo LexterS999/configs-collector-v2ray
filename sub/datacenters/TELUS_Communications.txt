@@ -1,8 +1,17 @@
-trojan://c69j3gq1-8kvb-szvg-512g-bqt2aip431eb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://40ajagni-3a2y-hu9i-cedi-sjsadxuneg13@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://oms7n23t-cxw6-2nd6-15ws-6hg08ub4gtvc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vpcsbnro-t2pe-zbf3-ey8j-oksvvl6pvcys@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://18jf02j6-z7s8-9kdj-ozgt-e960hkrz7iqu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://owqm68rt-dnl7-abyo-e7gu-9lmbn086e7bw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lcolcx2y-ddkh-ibob-2eqh-1jx3zdaa4afw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ifawnr1n-r1qj-eo41-3oja-yib5fkvzt587@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuNzMuNTMiLCJhZGQiOiI5OS4xOTkuNzMuNTMiLCJwb3J0IjozMzIzMCwiaWQiOiIyOWY4NjY0MC0wMzU5LTQ1NmMtZDZlNi03NTE1NWIzZDc4MWUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvP0JJQV9DSEFORUxASk9LRVJSVlBOIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRFTFVTIENvbW11bmljYXRpb25zIFx1MjUwNyA5OS4xOTkuNzMuMjgiLCJhZGQiOiJwcm9kMi1maC1jbG91ZC1oeWJyaWQwMS12bXQwMS5jeWJlcnNjYWxlci5jb20iLCJwb3J0IjozNzMzMywiaWQiOiI5MjliZDA2Yi02YTBlLTQ0NWEtOWRhMS03MTBhZTIyMmRhZDAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://4cb12ac3-f4fa-47bc-a009-14b5b7d83510@prod6-cloud03-net03.cyberscaler.com:6068?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.83.62
-trojan://bzkaos6u-ktod-dx70-dkca-zr3c4ibpalxd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://b8dacd2a-cb02-4451-f430-a519e8fa2f13@99.199.73.53:18616?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
+vless://56f318ff-2ab0-4e40-aa45-80991d59d6ef@99.199.73.53:18646?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
+vless://c1c15aa0-f5ce-4e1e-c9af-8eb80852166a@99.199.73.53:18716?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
+vless://651fda6c-aba1-49f2-b1da-0ccb7de0a81d@99.199.73.53:20744?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
+vless://623a1b9d-bf41-4181-9466-d099996dc706@99.199.73.53:20911?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
+vless://5cf90cec-7303-409e-8772-b1478defb56f@99.199.73.53:23877?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
+vless://60d955c2-c8b5-492c-a457-af3ffe2ca6a2@99.199.73.53:6068?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
+vless://92473ade-0166-49fc-dfd3-44a65e8346e2@99.199.73.53:6464?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.73.53
+vless://b8dacd2a-cb02-4451-f430-a519e8fa2f13@prod2-hge-cloud01-hybrid-t01.cyberscaler.com:18616?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.83.62
+vless://60d955c2-c8b5-492c-a457-af3ffe2ca6a2@prod6-cloud03-net03.cyberscaler.com:6068?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - TELUS Communications ┇ 99.199.83.62
+trojan://fk40t3ya-2h1a-55v5-p1h4-a1hyo9rrq4d7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

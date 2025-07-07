@@ -1,8 +1,10 @@
-trojan://6wl6rt4b-01ea-wttu-hgfe-vguj20puhb6y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://pvz6dfqc-85t0-nmdi-ht17-55f5cek85l7i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://sgd6i632-3f99-dqo4-5gtg-p5r2h8md6d54@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e09jw57p-yydl-du4s-xst7-c184upuc5vl6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://efr03h7q-19pk-3prm-668t-gs8gxe9xyfjl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://eubh87dw-9dw5-ujan-t9n2-w4j97wj0m7j8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9kagmcne-t3jr-aj5p-n98u-yjipxp11xix3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://i8w5biys-20q3-eqm8-qh8c-3mp8chpcgfz0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://fecbc1dd-e932-40e4-b8ab-32babeea4aef@45.147.7.209:20001?type=ws&security=tls&path=/?ed=2560&sni=mikuyo.bpd67081tsq.ddns-ip.net&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - 24fire GmbH ┇ 45.147.7.209
-vless://fde86c85-6d4d-420b-bfde-47687763517e@night.dl.darinips.com:443?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY#DE 🇩🇪 ┇ VLESS-TCP-RLT - 24fire GmbH ┇ 45.147.7.116
 vless://Reality1-Hqv2rayNG@hqmobin.ir:443?type=tcp&security=reality&sni=refersion.com&fp=safari&flow=xtls-rprx-vision&pbk=FtDr_UhjnVUI0icGx9L4isHVQTNOl_cGsFEDSWigM28&sid=7c4ea43b6c6f#DE 🇩🇪 ┇ VLESS-TCP-RLT - 24fire GmbH ┇ 194.117.224.20
-trojan://esk0w22y-o0ft-7q3s-dkmj-hhc0zq3wc4z3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://id-Hqv2rayNG@hqmobin.ir:2087?type=tcp&security=reality&sni=refersion.com&fp=safari&flow=xtls-rprx-vision&pbk=z0Di-2ywYXzOdsNidu-6XSbSkCoAsHUbU05kbTPVzAQ&sid=69a916d351#DE 🇩🇪 ┇ VLESS-TCP-RLT - 24fire GmbH ┇ 194.117.224.20
+vless://fde86c85-6d4d-420b-bfde-47687763517e@night.dl.darinips.com:443?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY#DE 🇩🇪 ┇ VLESS-TCP-RLT - 24fire GmbH ┇ 45.147.7.116
+vless://dff6aeff-54dd-4d04-ad68-c79fbf89f9f0@sv39.utsteam2.top:39443?type=tcp&security=reality&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&pbk=Fvm8Nk9_xIHnKlrqywijuK6FDWP7zSyNV_ap8qH__EQ&sid=cc024cc0b79b6bad#DE 🇩🇪 ┇ VLESS-TCP-RLT - 24fire GmbH ┇ 194.117.224.20
+trojan://6xy24s1m-wqe2-4qls-5sxs-3fpltodz9ob1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

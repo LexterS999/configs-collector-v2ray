@@ -1,7 +1,7 @@
-trojan://rsoomnp6-ljco-je1z-1tx1-gxwwoeog0mah@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://7tgp4lzy-8yk7-x8zw-l0w7-uuann50x19nj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wmpni22n-if17-jqtv-vozl-uabdvt68n8r5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vb60dcnu-t278-6ws9-h2ex-20ug1e6bxh8g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0oqowxne-z0eo-kx80-1cap-vbu0smlnkapl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://d790c92p-hve6-1rx7-h11g-xbn9jr2ep5ip@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://azdpqbwf-2y09-re95-yrqn-4xl9cqtaij39@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rsjpedu9-9pqa-uka0-ed51-9ojq7x0gx55j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@46.232.54.100:443?type=ws&security=tls&path=/?ed&sni=edfgk.aimercc.filegear-sg.me#JP 🇯🇵 ┇ VLESS-WS-TLS - Sakura Link Limited ┇ 46.232.54.100
 vless://ddb25cbe-e6da-4562-886f-853e4fe657f0@46.3.100.3:443?type=grpc&security=reality&sni=www.yahoo.co.jp&fp=safari&pbk=rjw62ORAKn8uTo2rgH1iZFbvxhT5ZzH9zAph5ChSgl4&sid=9987b56cdf4c0681#JP 🇯🇵 ┇ VLESS-GRPC-RLT - Sakura Link Limited ┇ 46.3.100.3
-trojan://pbqaftmf-zhuz-ld2b-289f-ucw5sm3o40xc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://on4v20au-q4pc-8lt0-7crr-o1yo8k07saoq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

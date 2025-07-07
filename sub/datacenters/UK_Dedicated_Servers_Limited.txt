@@ -1,7 +1,7 @@
-trojan://ymoi0wcu-zvfi-5d79-yp52-vdjv1jidie67@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://vtnnq1ax-2cpq-4tph-8mcu-61sjr1sph42p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://g1u75pgy-6gvk-pikk-ejvv-oiks4719lxz5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ppn23vwu-pskl-153p-ayd0-9viq16joyacp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://z7070o48-gk6g-b8vm-i3pb-y0giu44bucwn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://07tbn5ws-va73-kmut-1pbt-8owmrrrlb28p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qh3bcqlu-wfqu-h5js-x0h4-cyfi6utksd4v@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://y3u23zzt-qnj5-53l4-b2l1-k8gcfkv1rc8u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://29ee1647-2393-48ea-a8bc-af66587d0841@78.157.214.115:8504?type=ws&security=tls&path=/?ed=2560&sni=mot.morisi.ggff.net&fp=random#GB 🇬🇧 ┇ VLESS-WS-TLS - UK Dedicated Servers Limited ┇ 78.157.214.115
 vless://2a7e7613-d490-425c-a9f1-c7e503143b8f@96.9.215.198:80?type=xhttp&security=reality&path=/v2raybluecrystal&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=V0yu6BQhNI5cO2600tllGbF2D5AJcT7o6Xq7AiBKxBE&sid=4d#US 🇺🇸 ┇ VLESS-XHTTP-RLT - UK Dedicated Servers Limited ┇ 96.9.215.198
-trojan://luqo81zv-ehg7-zx32-sspi-so393n861szj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://6jbq4vqs-a1a2-2rww-g381-kvkyuz8r6ryk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

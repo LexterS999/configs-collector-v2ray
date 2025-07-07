@@ -1,7 +1,7 @@
-trojan://4z17s6rt-1iuf-gcsm-bexe-okd0joqkc7sn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://2rhyfwhl-9rz2-6gdm-9tmj-95z55lqx4wir@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://m38ws7l5-nqne-t8mq-hp8b-i2kqc4j4r1k0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0cbod4am-8cpz-w7oh-gm9d-6gjc3kzlxnhl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bs0f8uyb-tezh-c630-nclt-dzfjlpvmob3n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://tvvehob0-15vl-60s2-wmqg-t3qkkv79cxo3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://n748y1h4-kkoy-ba0t-hmsb-lv6eppo7tj13@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://915fzcpf-fwrj-ynd1-y14v-uysdvw9zn9jr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA VEESP ┇ 216.173.70.187
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@195.135.254.75:443?type=ws&security=tls&path=/?ed=2560&sni=happy.mianfeicf.lol#LV 🇱🇻 ┇ VLESS-WS-TLS - SIA VEESP ┇ 195.135.254.75
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@77.73.71.103:443?type=ws&security=tls&path=/&sni=happy.mianfeicf.lol#LV 🇱🇻 ┇ VLESS-WS-TLS - SIA VEESP ┇ 77.73.71.103
@@ -16,9 +16,9 @@ vless://504fa227-6493-4c4b-983c-4661c96a0e11@188.253.25.181:443?type=ws&security
 vless://504fa227-6493-4c4b-983c-4661c96a0e11@188.253.26.253:443?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=vv.cscfwoker.fun#NL 🇳🇱 ┇ VLESS-WS-TLS - SIA VEESP ┇ 188.253.26.253
 vless://504fa227-6493-4c4b-983c-4661c96a0e11@188.253.27.250:443?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=vv.cscfwoker.fun#NL 🇳🇱 ┇ VLESS-WS-TLS - SIA VEESP ┇ 188.253.27.250
 vless://f93a6388-c998-4864-8eb7-c61de4754aca@82.115.6.168:21000?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - SIA VEESP ┇ 82.115.6.168
-vless://77aa0a1d-d027-4cee-b563-916f9f84a7f4@82.115.6.120:13397?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=85zDbAyTtEZB6DEhCvzIo8okIjjQfLXM9q4mLwTvmic&sid=f3#NL 🇳🇱 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 82.115.6.120
 vless://a84263bb-49ab-43dc-a352-c464414e8a62@188.253.26.127:443?type=tcp&security=reality&sni=netherlands.secretvibe.ru&fp=chrome&flow=xtls-rprx-vision&pbk=IFgSZ6-4ceD0tPigCvDBPHtrb6YUNPfxf1EVGUfAwBA&sid=df9038e40a9b#NL 🇳🇱 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 188.253.26.127
 vless://nothing_88147cqsru@188.253.26.39:442?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0&sid=6ac998b514#NL 🇳🇱 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 188.253.26.39
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@82.115.4.168:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#NL 🇳🇱 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 82.115.4.168
+vless://77aa0a1d-d027-4cee-b563-916f9f84a7f4@82.115.6.120:13397?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=85zDbAyTtEZB6DEhCvzIo8okIjjQfLXM9q4mLwTvmic&sid=f3#NL 🇳🇱 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 82.115.6.120
 vless://b1c801ec-1c5e-4d12-8b53-8da11c64a21b@94.242.58.133:443?type=tcp&security=reality&sni=video.intfreed.ru&fp=chrome&flow=xtls-rprx-vision&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&sid=7755e972daf8eec8#SE 🇸🇪 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 94.242.58.133
-trojan://t5wolhvv-nw5o-czc2-h0rs-vfh3slwc6ood@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3kik86gx-jva6-f39g-7506-l12ixwbw5ijc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

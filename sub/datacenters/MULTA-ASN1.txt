@@ -1,8 +1,8 @@
-trojan://99htjhhy-vkkw-bpjk-7i2d-bb4gzuuhuzgg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://5li9abn4-i548-51ix-1tvg-7f962ij6s2gp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kp5i40gv-ck1a-z5hx-h3aj-j2zbd98pj3qi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://sk52nlae-16bw-jbjx-2tt3-dup8i25sc2as@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1z2ertw9-tm1k-b2t2-btlz-33dqeavigkjm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://monctttk-80v3-ulpm-es9p-n0z02g3i1k32@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://udpkslso-tjiv-dvzu-4onr-pxz4024jzfhs@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mta7udki-ok9k-4ib9-56fe-8ebib69h1x07@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5ddb70da-5498-498d-916c-dbddbe9315f5@154.81.182.74:32040?type=tcp&security=none&path=/#US 🇺🇸 ┇ VLESS-TCP-NTLS - MULTA-ASN1 ┇ 154.81.182.74
 vless://51d22c42-5342-4715-a927-1b76226dd4cf@156.229.48.66:8443?type=grpc&security=tls&sni=join-telegram-channel-vipv2rey.mamare.ir#US 🇺🇸 ┇ VLESS-GRPC-TLS - MULTA-ASN1 ┇ 156.229.48.66
 vless://ca75e000-ff1a-4117-a4f1-1d5ebe66e2cf@154.81.182.233:443?type=xhttp&security=reality&path=/&sni=myket.ir&fp=chrome&pbk=328tJfiuSwrDEPPIpsiT7C4BUUZNGVxdo2DKam7RmBI&sid=2cecca7813d0c575#US 🇺🇸 ┇ VLESS-XHTTP-RLT - MULTA-ASN1 ┇ 154.81.182.233
-trojan://kfdpiw5b-mxsx-sosg-yl4z-y53givyd1wfn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://e5rys6ur-l8l8-fesn-6ry6-ok0xi4wso1hw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

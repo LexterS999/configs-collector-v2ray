@@ -1,8 +1,8 @@
-trojan://0o37ph08-3dtq-dh24-vnqk-mcyh3kio0y36@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://p7a88n3k-8mk3-710k-pr3g-nim9shz14oe1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gcys99tg-8tlz-2sy2-p7jw-rcc1298fue6d@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vt5s7eqi-69z0-zh56-ls3a-ucr1rpc4v4ca@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bq39h652-l4v1-9mel-rrvh-ph543tf9cwhc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://esbz20re-6k7q-6sru-so9n-8jt56ilhb5m0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://udjfohcg-h5hd-40tg-tm3u-ahdkrm8mia5b@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yb433alf-p1r0-bro8-84cg-gpfqjs7p9901@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://26a94d94-3495-4e5e-92ba-2adbfbdebadc@mail.ryzen9.ir:5630?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 45.252.183.214
 vless://b3a0f19f-b0f9-4a96-95de-49c5c5a725e0@abdzgg.teemazad.com:37062?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 45.93.171.171
-vless://275be41c-e16c-4214-ac4f-3e8eaff8e928@crm.xpersian.com:8443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=eUzR83jhnC_Mq_tOuIHKW4sPa_D2jjYSeyrunYS-Zm4&sid=33c48970a3f211ed#NL 🇳🇱 ┇ VLESS-TCP-RLT - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 45.93.169.254
-trojan://39frsi2e-pbwf-t2w9-nls6-l8jaj4jsmkz1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://275be41c-e16c-4214-ac4f-3e8eaff8e928@crm.xpersian.com:8443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi ┇ 45.93.169.254
+trojan://iwqojt3k-4nl1-s3jx-y4l0-jholfbozxmex@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

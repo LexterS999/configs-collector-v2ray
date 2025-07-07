@@ -1,6 +1,6 @@
-trojan://yjq7mjom-2wi8-xk9t-lijx-ipzhlikvwep7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://boek2b08-cujx-5pli-4wy1-ubravcw1ibpt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tmgs48eo-3zik-hm2y-fkep-549jd0fkoo7r@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://cit1tgr8-odeu-lo1y-b5e8-cyon41kt7wyc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://hiajqh31-ddxh-cmh1-q6il-j5o65kcqqosf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://t09s5xtf-guah-cjgi-3173-28pslwzjrplo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://llqzij8f-xwo5-47s1-pp4e-vrw8mjcg0yzk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hwkrjxo3-w5nh-rf0t-o1et-o4ptxznnnqc4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5d4aed0c-2551-11f0-88bd-cb7477d1def2@220.158.233.184:10004?type=ws&security=none&path=/vpnjantit#KH 🇰🇭 ┇ VLESS-WS-NTLS - ISPIXP IN CAMBODIA WITH THE BEST VERVICE IN THERE. ┇ 220.158.233.184
-trojan://xrrsguan-v9jp-ozeq-bj08-4f06g7um1wld@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://mjw1rkl8-4zh8-mklk-i233-ylg4lucqp12t@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

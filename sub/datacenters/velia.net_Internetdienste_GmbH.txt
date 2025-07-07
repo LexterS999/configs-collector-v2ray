@@ -1,7 +1,7 @@
-trojan://vvhwik1g-qbhi-uktb-nb9s-url6jsjbjm8p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://yi6pdcus-g5wt-ozx3-86rt-5uhl9by01f90@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9q7mrb8y-bu9h-p9ru-6hjc-9g5f6i4lrwv4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://814gibf1-hvf2-xh1c-laiq-zdvw2qif628k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://h496hch5-m9l0-nbhc-894b-ssuxau5jwdih@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://tq1vzu3r-vh5f-b8mt-3r82-rd75g7q8lm0y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://auchi3iw-63y0-r1pi-s4cl-jtpthgvu82sp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yurdo67m-w15j-727o-ra3w-voq4pfxi6lnm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@193.42.62.215:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=random#FR 🇫🇷 ┇ VLESS-WS-TLS - velia.net Internetdienste GmbH ┇ 193.42.62.215
 vless://8e6a6ac9-6736-403e-a75d-5c073ebba7aa@45.95.172.82:443?type=grpc&security=tls&sni=www.speedtest.net&fp=random#FR 🇫🇷 ┇ VLESS-GRPC-TLS - velia.net Internetdienste GmbH ┇ 45.95.172.82
-trojan://b93b6pvf-wv3n-ueod-tqj3-jep9waotli6l@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://6qhh2i05-hib5-6tsn-j4i0-p9syjjt57zt6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

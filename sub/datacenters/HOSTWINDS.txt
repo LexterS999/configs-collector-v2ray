@@ -1,8 +1,8 @@
-trojan://ve8baods-hdbk-ympt-dl50-f2i7voe88px4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://nz02pflz-u4xv-lbap-p9x7-i1ln4p29yvp1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://527w2gvk-ojes-36vr-taol-v60aj3oc4oir@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vughlyyd-i0tc-1kx6-bgov-obty3ggkajdx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://fbt4eljb-2zb2-2ude-lgnf-6b9z7kobdsm9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://cyh2zsj6-2qmd-o2xd-bi3x-qbsudztxxbz3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4ag12ncf-xnd4-i3db-xlzz-et1nf7nyw5rw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8l084ajt-wz3a-iwjm-nskq-ng5g1p6hp93h@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.236.249.102:443?type=ws&security=tls&path=/blue&sni=cp.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HOSTWINDS ┇ 192.236.249.102
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.236.249.109:443?type=ws&security=tls&path=/blue&sni=dc.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HOSTWINDS ┇ 192.236.249.109
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.236.249.96:443?type=ws&security=tls&path=/?ed=2560&sni=cg.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - HOSTWINDS ┇ 192.236.249.96
-trojan://l6jnxh0j-fte4-n6hh-kx3k-1sdpcuh3wt48@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://9djkjh8m-mb7z-a5aw-0dmo-uhgvrt7q0zy3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

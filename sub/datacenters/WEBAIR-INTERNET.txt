@@ -1,6 +1,6 @@
-trojan://g7yensak-7d2p-wehb-pzme-85svyyh86rsi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://0u0zbec8-16nq-xhuy-4lv4-canue4kqabyp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qz4izlly-m8zn-8zss-evgv-izmu69utlhqq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0bcdo1km-12s9-flv1-eabl-uiimsvs778bq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://gmtbc2xu-1y0t-oe0c-pyir-fzgxoojvp77r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://tae0750q-oo53-ijzn-6q6d-4k2zpiusp37l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dxo5rf2a-21rc-0087-000c-b9c3c4twprsu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://np2jw5xa-szla-pc7g-g9t0-krh2o2mj9z8k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9dac67dc-e6d5-4d1f-b2dd-6356e8b56b39@173.239.5.6:443?type=ws&security=tls&path=/&sni=ntsafe.pages.dev#US 🇺🇸 ┇ VLESS-WS-TLS - WEBAIR-INTERNET ┇ 173.239.5.6
-trojan://pfqfdelk-rmcm-00lc-1rv4-bb2dlvx4jgmj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://m62djc9d-lhkz-zg6p-i2eb-yqo9sh2ytdya@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,8 +1,8 @@
-trojan://pqijsmvi-55r3-4jih-6b9l-9vxvo5un67ab@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://p78utkl1-tvr7-lto9-dh31-5a91fct7cbog@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ybhqccvq-1ffw-mmg7-ioqt-md7s0dn81gy5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://h8uoym6t-ywro-ix3e-n2r3-1qe8bqzf58vg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://szuyfocw-i1l3-xnin-7ss8-hrfrsioyx1ck@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://50gncl9g-klba-14w2-qjic-91ra59vyerxo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://80efa75p-72sq-hodw-orcu-70u515y31tsc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://b3yqdr83-un8d-y857-x08c-mxil1oqyarkx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://60920c6d-3a18-420c-b780-162e937d1a0b@goblin.beastlexicon.xyz:11490?type=xhttp&security=none&path=/#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - ROUTERHOSTING ┇ 172.86.69.200
 vless://437366ae-26aa-4428-8bf5-e81a05f9b2e6@107.189.27.252:8080?type=tcp&security=reality&sni=web.whatsapp.com&fp=chrome&pbk=MEO1DBjLKb2pDFHA-LMhPIu4G1yccgo-pYU8nLfST2c&sid=18b983#NL 🇳🇱 ┇ VLESS-TCP-RLT - ROUTERHOSTING ┇ 107.189.27.252
 vless://017fdd18-62c2-4d06-af8a-13499959d735@144.172.103.131:35552?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - ROUTERHOSTING ┇ 144.172.103.131
-trojan://fu2ftrvh-q43k-dpjs-gyn2-0tiuok349e3f@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qovc31cx-4n5h-f1cp-0m72-1sorfvw7h7ym@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

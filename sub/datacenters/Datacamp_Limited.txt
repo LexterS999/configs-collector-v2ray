@@ -1,13 +1,14 @@
-trojan://xdwhxml9-u7n8-3i1j-x6kq-svjrvc261v56@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://tddfjryf-8184-q9ym-8euh-miqba15dyn2v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cag6vywh-x4j1-nctb-bjog-8i3fe8j0e8fn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://m4zuuo1c-seu6-rlna-d133-app9sr4w5om4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jih06pxc-funl-utlt-nnmm-i3ahm11f66ff@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://tufn3c95-5i11-j2m7-cdqq-smovfojllbvb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://kha50xxw-td0s-txnv-68a5-0jl4tkj61mj2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qfgxnjl7-zthi-7qfv-9fu6-kakpornuisea@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://7f7eccdd-8e38-51bb-9490-d059dd7944b3@181.215.18.119:443?type=ws&security=tls&path=/vlessfp=chrome&sni=zula.ir#AE 🇦🇪 ┇ VLESS-WS-TLS - Datacamp Limited ┇ 181.215.18.119
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.224.12:8443?type=tcp&security=tls&sni=bru-be-01.fromblancwithlove.com#BE 🇧🇪 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 79.127.224.12
 vless://5c91dbf9-56fa-4dde-ae28-0792a69409e0@185.111.111.158:80?type=xhttp&security=none&path=/XhTtP#DE 🇩🇪 ┇ VLESS-XHTTP-NTLS - Datacamp Limited ┇ 185.111.111.158
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.175.176:8443?type=tcp&security=tls&sni=de1.fromblancwithlove.com#DE 🇩🇪 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 195.181.175.176
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:8443?type=tcp&security=tls&sni=vkvd127.mycdn.me&fp=chrome#DE 🇩🇪 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 89.187.169.71
 vless://9974e899-f131-40fe-ae82-4cdc39d8944b@109.61.80.236:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=fNJIVjRaZgVD0UmjEqsCkU4cfaM0G4wEa7lSvLaX3W8&sid=ddf07dc7#DE 🇩🇪 ┇ VLESS-TCP-RLT - Datacamp Limited ┇ 109.61.80.236
+vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&sid=01b200e90e250221#DE 🇩🇪 ┇ VLESS-TCP-RLT - Datacamp Limited ┇ 89.187.169.71
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@138.199.27.206:8443?type=tcp&security=tls&sni=cdg-1.fromblancwithlove.com#FR 🇫🇷 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 138.199.27.206
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@109.61.95.21:8080?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg#GB 🇬🇧 ┇ VLESS-WS-TLS - Datacamp Limited ┇ 109.61.95.21
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.165.134:8443?type=tcp&security=tls&sni=uk1.fromblancwithlove.com#GB 🇬🇧 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 195.181.165.134
@@ -43,4 +44,5 @@ vless://93867bc3-273b-4fd0-bbb1-2bed051ad215@89.187.187.18:443?type=splithttp&se
 vless://93867bc3-273b-4fd0-bbb1-2bed051ad215@89.187.187.19:443?type=splithttp&security=tls&path=/?ed=2560&sni=www.spcdn.org&fp=chrome#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Datacamp Limited ┇ 89.187.187.19
 vless://93867bc3-273b-4fd0-bbb1-2bed051ad215@89.187.187.4:443?type=splithttp&security=tls&path=/?ed=2560&sni=www.spcdn.org&fp=chrome#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Datacamp Limited ┇ 89.187.187.4
 vless://93867bc3-273b-4fd0-bbb1-2bed051ad215@89.187.187.6:443?type=splithttp&security=tls&path=/?ed=2560&sni=www.spcdn.org&fp=chrome#US 🇺🇸 ┇ VLESS-SPLITHTTP-TLS - Datacamp Limited ┇ 89.187.187.6
-trojan://3iwjmay1-spq9-zyex-ltff-pd0oawghx6y0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://594e62b9-bb88-4264-b3fe-57f66202a96d@148.135.195.96:44356?type=grpc&security=reality&sni=github.com&fp=chrome&pbk=hoyeyIygWaTAIdW2Cw42wBdeXfRkQCWoKq278YyyuU8&sid=67dea0af00c9d222#US 🇺🇸 ┇ VLESS-GRPC-RLT - Datacamp Limited ┇ 148.135.195.96
+trojan://sd4o8vmc-kn4h-06hl-1gdx-h7y6s4i2wui6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

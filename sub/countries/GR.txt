@@ -1,7 +1,7 @@
-trojan://7jm8xong-lx5i-n1me-tc9g-kamnyei5qtnc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://ekfwscj1-svtk-7z9s-5xkg-jeu17esnia6x@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://46gj0a1e-r234-qncz-0tmk-ib0hrs5ae4zu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2q2wifoz-htqb-kpeq-z7e6-je2kvyifx99m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ohizxcle-kmhc-q330-lzi6-r6kkj329wc63@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://a8l5ndz5-om8h-hqn2-n2nk-kkrt297h3om4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7dgorj5n-2562-vqw3-le0i-9ekjfd71tg24@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://d7n5y2bl-d0gx-2msb-mk4k-cyd4rde12ogu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://e79c9267-846d-46e2-ad6d-b99a5f899e01@46.20.109.108:14961?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=wbQjriu3XACnc8brsd6FoVP1Jva3B4dn0GWXU9Cyqg4&sid=1b2462f9#GR 🇬🇷 ┇ VLESS-TCP-RLT - Nearoute Limited. ┇ 46.20.109.108
 vless://25af5a1a-d708-4e95-b2fd-ad43b0650335@94.131.8.32:80?type=ws&security=none&path=/vless#GR 🇬🇷 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 94.131.8.32
-trojan://if7m7sw4-ssin-cs97-26ng-s1y0i26ex6ng@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://rc95oxdz-vmu9-5qf2-5q1k-xv7yav5m06m9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

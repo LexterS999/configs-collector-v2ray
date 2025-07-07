@@ -1,7 +1,7 @@
-trojan://m2iw6amb-x5qn-oyan-wz2h-jlu1d2tsj212@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://or8t4331-mmja-reod-pbpw-m6215wl6j4cx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kvhrf5ky-q36v-ugpu-79ul-0hjur4pobtmk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ifk10ve4-h8ue-6qua-o63d-p128lhtfiioj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://f8vlj2qz-se6f-ks8e-i0tm-7e1r1ubxgvzn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://zcldva0f-df06-znrq-tuoa-xjkpf9q1rn0o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hkze8hhd-qwrw-4mml-0pbf-geojnkob52ya@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://gzilmbpm-s81k-eu23-9tsl-2byx2ab13yhq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://9a1e5469-35e9-4d98-b831-28bc6073f685@45.194.11.176:443?type=grpc&security=tls&sni=de.outberlin.online&fp=chrome#MU 🇲🇺 ┇ VLESS-GRPC-TLS - CLOUDFLARENET ┇ 45.194.11.176
 vless://42111477-885f-4d6a-b51e-cbd24c0607fd@ip.v2masters.ru:443?type=ws&security=tls&path=/investors.spotify.com?ed=2560&sni=tr.ps4link.ru&fp=chrome#MU 🇲🇺 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 45.194.11.7
-trojan://07as6ofa-6zm1-kooo-mhiw-5bhm8xryvixq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://zo6ogsao-u5pp-233y-29y6-aezte58lhwmq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

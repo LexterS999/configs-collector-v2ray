@@ -1,7 +1,7 @@
-trojan://qymxlkf0-i9wq-m0t8-vzoq-c5tzl8zcjc70@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://qp5ymbxn-78rj-30r4-plmd-uta223slh3ld@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8kzyduls-4kvi-h0id-7afk-itato7sam6fx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://l06k0wma-7rnq-bsxb-mry8-dh9gzi6nsh23@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1b2yfwcp-gni5-c5e7-mxg5-pzcj1vsmmdjg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://vlanusmq-vlo8-43vz-lvwb-3xfrc2fhxjat@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tntlxsyb-cedn-jn9s-k98m-ho9uymhtxtk2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kwanecst-dri8-c9j8-blwc-9f2kqey1vyk0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://e7adaa99-8363-3ec4-b849-307c99005405@114.43.16.130:21082?type=tcp&security=tls&sni=learn.microsoft.com&fp=random&flow=xtls-rprx-vision-udp443#TW 🇹🇼 ┇ VLESS-TCP-TLS - Data Communication Business Group ┇ 114.43.16.130
 vless://e7adaa99-8363-3ec4-b849-307c99005405@114.43.4.42:21082?type=tcp&security=tls&sni=learn.microsoft.com&fp=chrome&flow=xtls-rprx-vision-udp443#TW 🇹🇼 ┇ VLESS-TCP-TLS - Data Communication Business Group ┇ 114.43.4.42
 vless://0eb8618b-69d5-482a-b701-0b3be31870eb@118.163.37.32:81?type=ws&security=tls&path=/vl&sni=interior-xenia-vz-ee01649f.koyeb.app#TW 🇹🇼 ┇ VLESS-WS-TLS - Data Communication Business Group ┇ 118.163.37.32
@@ -19,4 +19,4 @@ vless://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw06.352343.cc:8443?type=tcp&securi
 vless://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw07.352343.cc:8443?type=tcp&security=reality&sni=www.python.org&fp=chrome&flow=xtls-rprx-vision&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#TW 🇹🇼 ┇ VLESS-TCP-RLT - Data Communication Business Group ┇ 36.231.93.56
 vless://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw1.344233.cc:8443?type=tcp&security=reality&sni=www.python.org&fp=chrome&flow=xtls-rprx-vision&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#TW 🇹🇼 ┇ VLESS-TCP-RLT - Data Communication Business Group ┇ 111.250.99.127
 vless://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw11.352343.cc:8443?type=tcp&security=reality&sni=www.python.org&fp=chrome&flow=xtls-rprx-vision&pbk=2a0ONLRiBeHJdr9qCruq5tPVf8_3c4fmZsg7YQorFSE&sid=04d59340#TW 🇹🇼 ┇ VLESS-TCP-RLT - Data Communication Business Group ┇ 36.231.72.153
-trojan://7nn78lyi-kucp-5tch-1u9w-nntesyt1ivuc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://e3kwswtf-ot9s-19t3-gcgw-54awnrchtj11@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

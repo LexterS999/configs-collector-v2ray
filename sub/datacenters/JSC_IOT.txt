@@ -1,7 +1,7 @@
-trojan://ao5imb83-40kq-bwm0-k48g-elr29poosjmm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://r128j615-k37g-oc9d-wqlq-oec0sbet0uqs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jyudf3y0-f4wb-7zei-tvuj-7k08nkq38jod@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://edvr5joy-os00-edq7-nni0-budb2d3vqp24@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ykif8g1n-0yrz-h1ml-1z34-cwtoj7x9eth8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://uhl8cw2c-omxr-fslj-q5eq-0y7xa66yfot3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zrcozo3s-snta-n7l3-2r00-6hcv1dwta86n@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2brc00k6-nzmc-8f1c-ih0x-rf0rlcvxa2d2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw@82.146.45.100:20#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - JSC IOT ┇ 82.146.45.100
 ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw@92.63.193.252:20#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - JSC IOT ┇ 92.63.193.252
-trojan://q4v91jbg-w6hq-xp3z-kdj9-t87pdxe34ilp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://jnb9imwk-wanc-cm0b-73t8-zx69we14hqgr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

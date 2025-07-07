@@ -1,11 +1,12 @@
-trojan://dm6njwcp-kwca-p9es-j9u9-qgdridqxviz8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://e9sk1ev3-rag7-wr83-vxkx-vcceq553ceni@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://dzw9dv55-pfwq-1s4r-1qlz-55je54n4qibg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://77vt74rs-7k78-h86e-08np-auy0oo5xvql4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://spma2hu6-bhjy-2aaa-nk8r-qt69suzxsq7p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://zqizfi6b-5z05-ksp0-1dsk-s3l8xa3vsenn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://f360t86z-inp1-6yyv-8vjo-airbw9z6iq3m@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3cl891g4-szb3-06yd-nq00-7kzza2v2az4a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a0bc2ee2-a772-415c-a620-fbabaa4ff3d3@103.71.21.243:13886?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - First Server Limited ┇ 103.71.21.243
+vless://f817ad2c-bb2c-4214-b040-99171dedd292@103.71.21.243:49110?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - First Server Limited ┇ 103.71.21.243
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.232.170.240:443?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed&sni=0926.qiang2000.link#BG 🇧🇬 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.232.170.240
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.103.253.35:443?type=ws&security=tls&path=/?ed=2560&sni=lp.ylks.us.kg#DE 🇩🇪 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.103.253.35
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@185.114.72.31:2053?type=ws&security=tls&path=/Telegram@V2ray_Alpha&sni=0926.qiang2000.link&fp=chrome#ES 🇪🇸 ┇ VLESS-WS-TLS - First Server Limited ┇ 185.114.72.31
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@80.76.34.13:443?type=ws&security=tls&path=/?ed=2560&sni=ly.ylka.us.kg#NL 🇳🇱 ┇ VLESS-WS-TLS - First Server Limited ┇ 80.76.34.13
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@87.239.250.142:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#NL 🇳🇱 ┇ VLESS-WS-NTLS - First Server Limited ┇ 87.239.250.142
-trojan://4n2ubmc8-6evq-xyiw-gg0y-8p5ls2gfflfz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://mu6ba5ya-qfym-1hw4-ky7r-x1sm1zb1v9sc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,14 +1,21 @@
-trojan://vnsf76v3-vrol-fdo8-amhs-96gnnwkg8c1a@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://tywppm37-8vmf-byxg-tg1a-7eqsxppt31re@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o0day1ok-9fzi-pdco-z9ca-egyu4k8lmzi9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g07xvtw1-1v9a-jf7i-akoz-zmwjg89wb69b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8nbv04o9-u1lq-vb31-fvjm-k17z4jlnyp4n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://b1skc65u-ge8u-ihn8-3gpv-hqbxqvf35uul@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wbwum0bc-l03k-bjl6-giv2-vzt6aizui1uv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ocxwrsj5-vuqd-ojk1-yw11-gfxpm85hvnq4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExlYXNld2ViIERldXRzY2hsYW5kIEdtYkggXHUyNTA3IDc4LjE1OS4xMTEuMjYiLCJhZGQiOiJhbG1hbmlhbi5oYW1pbWVsZWN0cm9uaWMuaXIiLCJwb3J0Ijo4MDkwLCJpZCI6IjU0OTA0NzEzLWI2MTEtNGU4ZS1iZTc3LWEwMWQ4MjBiOWMxYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vless://504fa227-6493-4c4b-983c-4661c96a0e11@5.61.35.27:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#DE 🇩🇪 ┇ VLESS-WS-NTLS - Leaseweb Deutschland GmbH ┇ 5.61.35.27
-vless://02fca887-2b9a-4867-8f13-9968ffb5b337@dev.loadbalance.iranstars-shop.ir:9520?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&sid=b6c24852f86067a6#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Leaseweb Deutschland GmbH ┇ 178.162.244.20
 vless://57b546e2-a2b0-4a85-be4c-04ec38439d1b@212.95.33.206:11045?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&sid=20db1be5e1ab118a#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Leaseweb Deutschland GmbH ┇ 212.95.33.206
+vless://5fa18a48-1fee-40a8-9bf4-f6c2756f5aa3@212.95.33.206:26528?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Leaseweb Deutschland GmbH ┇ 212.95.33.206
+vless://e792ea19-00ba-43e0-be65-737b62352896@212.95.33.206:39439?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=axLa2Yb5VegTFNy2v8chJvX6ShWl5v9jPgyGeFpTMwA&sid=1f#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Leaseweb Deutschland GmbH ┇ 212.95.33.206
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@212.95.40.109:7594?type=grpc&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Leaseweb Deutschland GmbH ┇ 212.95.40.109
 vless://480c8bfd-e7b2-4114-8d6c-e9843718fc94@38.180.166.164:443?type=tcp&security=reality&sni=ya.ru&fp=chrome&flow=xtls-rprx-vision&pbk=S-LV2wzftmq1CTD6fCQy_RGdFoEr7QGSfMPbTFjuLHo&sid=ff#DE 🇩🇪 ┇ VLESS-TCP-RLT - Leaseweb Deutschland GmbH ┇ 38.180.166.164
 vless://166e6f53-96a9-4aa4-aaa5-102cc4926381@5.61.37.215:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Leaseweb Deutschland GmbH ┇ 5.61.37.215
 vless://77e064b2-ff24-4794-9aa0-910bd831c6f1@de.carefreemob2.com:3661?type=tcp&security=reality&sni=icloud.com&fp=chrome&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&sid=67a1a8bb9ff0ed21#DE 🇩🇪 ┇ VLESS-TCP-RLT - Leaseweb Deutschland GmbH ┇ 78.159.110.144
+vless://bd41a471-ee04-4f88-85d0-83fa3de57253@dev.loadbalance.iranstars-shop.ir:2689?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-RLT - Leaseweb Deutschland GmbH ┇ 178.162.244.20
+vless://8680adf5-d651-4a40-b1d0-ae1515183321@dev.loadbalance.iranstars-shop.ir:5629?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-RLT - Leaseweb Deutschland GmbH ┇ 178.162.244.20
+vless://02fca887-2b9a-4867-8f13-9968ffb5b337@dev.loadbalance.iranstars-shop.ir:9520?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&sid=b6c24852f86067a6#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Leaseweb Deutschland GmbH ┇ 178.162.244.20
 vless://f1ad7194-3347-4976-a121-10cbaed5de23@fgdg.gpty999qed.ir:11045?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&sid=20db1be5e1ab118a#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Leaseweb Deutschland GmbH ┇ 212.95.34.99
-trojan://bjkrh8iw-ciww-4ts8-na7r-dmpu5hlzw8j6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://694a7541-3855-4819-bf23-328e7b86e71e@fgdg.gpty999qed.ir:39439?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=axLa2Yb5VegTFNy2v8chJvX6ShWl5v9jPgyGeFpTMwA&sid=1f#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Leaseweb Deutschland GmbH ┇ 212.95.34.99
+vless://e76ff182-f086-47e8-beab-ee76ce0b3120@nl.carefreemob2.com:1001?type=tcp&security=reality&sni=icloud.com&fp=chrome&pbk=83cuHx8QxPIi94KS07ziYZ9rS9PVics_GY24udlJ6ic&sid=fe5b904892721c36#DE 🇩🇪 ┇ VLESS-TCP-RLT - Leaseweb Deutschland GmbH ┇ 78.159.110.144
+vless://d352424c-7d1d-4b68-ba23-b6cfbe0e1b6f@u.gpty999qed.ir:26528?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=2FrbyUtv6Ajh0Ufmst5Tw0ch_aeF3tXw0kDcfOrvGTk&sid=8f9d4d9a#DE 🇩🇪 ┇ VLESS-GRPC-RLT - Leaseweb Deutschland GmbH ┇ 212.95.34.99
+trojan://28t45oib-ee1m-5bob-yjzh-8zckskukkzfj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

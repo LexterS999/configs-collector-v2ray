@@ -1,6 +1,7 @@
-trojan://unecsc9j-7xth-bxv7-rrht-sgwpf1a8a8hm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://7oflwc68-bocq-plpb-sili-sh00u4eqd1pi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nxn56191-7uy2-wir7-axqc-keezeku5796m@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://izozknqb-k4d2-pi1k-zsux-roh8pcee83kr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mcetxtb2-ct11-vlvz-u4tj-a7p24mn3g9ie@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://k2b6c6cn-2g3y-jqkm-b2dq-9w54y97nn688@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://673np4hn-qlg9-39tl-3y1u-2rdo6qcdmscp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2eaz4n1x-6n8k-1xer-gnip-3vzro5mrhx56@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5d8e2454-617d-4e77-a165-1832ed1231ba@157.254.154.74:25777?type=tcp&security=reality&sni=www.samsung.com&fp=firefox&flow=xtls-rprx-vision&pbk=Md6PoLS8ZgYxc-mOoMkLSRMksQzNTTPW0Psmo0y2c3E&sid=9c5b5b672053fc#HK 🇭🇰 ┇ VLESS-TCP-RLT - Miku Network Technology Limited ┇ 157.254.154.74
-trojan://39ag46w8-xg8q-2xmv-u0xt-46936fmogfll@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://6b76a8d6-37b1-4ff8-94cb-65d47e1a9bb3@157.254.154.74:25888?type=tcp&security=reality&sni=www.samsung.com&fp=edge&flow=xtls-rprx-vision&pbk=Md6PoLS8ZgYxc-mOoMkLSRMksQzNTTPW0Psmo0y2c3E&sid=9c5b5b672053fc#HK 🇭🇰 ┇ VLESS-TCP-RLT - Miku Network Technology Limited ┇ 157.254.154.74
+trojan://89s5hnqb-xgj6-vrec-49bs-prq1o2xes0qz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

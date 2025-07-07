@@ -1,6 +1,6 @@
-trojan://h29idooa-d479-v6cg-sbdi-3i1et40qsm6h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://zp57rj0k-0udx-94i5-gtzb-pzmxivu42ujg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mkm6ymg7-40du-buum-ad8w-6awpeuzbp9ag@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kz3ezcnj-ieam-wi3y-lfml-jw6y3be43vp2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://5nl9xpxr-eyl4-7q6b-nuoh-6644qsl0ivg8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://659gk5xb-qcru-zmr5-fkfw-v4e6yt4hs8cu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zjvuo371-gfiw-qfow-mt2f-9nf8p2btrzop@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6dsnlpy4-k5ir-zyjv-itjl-r2vi5q3j1khb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.82.80.96:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=hz.ylks.xyz#SE 🇸🇪 ┇ VLESS-WS-TLS - Internetport Sweden AB ┇ 45.82.80.96
-trojan://w84fbg87-btvg-e4bg-jq22-62czmwvokrdf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://kmufwfmd-7io1-86r1-5e9a-c504pk3tw7up@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

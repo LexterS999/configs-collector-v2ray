@@ -1,7 +1,7 @@
-trojan://p14yixd9-3arp-44wt-asbo-ng29d9li00g6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://tdrfhteh-axpr-zgqy-19gv-amtdc6rg8r6m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nhj3lh73-l534-tnoa-rlbt-c3z6emg4c815@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fjzhk0m4-u1iz-xgkp-xtvb-i4na2e2ahce8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://t5r7rojc-4zh7-losj-p5cs-pw2e2i6gu59k@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://v5lvvh94-6nqg-yakk-dq4h-5y922f3pqtgq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lzs9bq84-g3no-6042-6h8s-01acm4uwrh2l@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0fhuq6gr-bs9w-w9dv-8b94-0pp48i9nc8nz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://302e5ece-2eff-429d-a44e-4b3e93cf3898@31.58.144.130:443?type=xhttp&security=reality&path=/api/stream&sni=tgju.org&fp=firefox&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8#AE 🇦🇪 ┇ VLESS-XHTTP-RLT - dataforest GmbH ┇ 31.58.144.130
 vless://28f8ae56-3e67-417c-827a-de55d90225b4@31.58.144.164:32545?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=V2udjJMegh27OhXkN__N4H7CPPbyVJ2HKBLV4q47HXk&sid=0e#AE 🇦🇪 ┇ VLESS-GRPC-RLT - dataforest GmbH ┇ 31.58.144.164
 vless://52201103-6d69-4577-a65d-ced254d8c9d2@31.58.144.203:443?type=tcp&security=reality&sni=khanacademy.org&flow=xtls-rprx-vision&pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&sid=6acf3ba5790e4324#AE 🇦🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 31.58.144.203
@@ -14,12 +14,15 @@ vless://telegram-ArV2ray@193.46.81.82:80?type=ws&security=none&path=/telegram-Ar
 vless://telegram-id-ArV2ray@193.46.81.83:443?type=ws&security=tls&path=/-ArV2ray@ArV2ray-TEL--@ArV2ray-TEL--@ArV2ray-TEL--@ArV2ray-JOIN-@ArV2ray-TEL--@ArV2ray-JOIN-@ArV2ray-TEL-@ArV2ray-TEL--@ArV2ray-JOIN-@ArV2ray-TEL--@ArV2ray-ArV2ray?ed=2048&sni=cd.mashti.icu&fp=firefox#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 193.46.81.83
 vless://3d93a26b-4b85-49fc-9818-8bb80a76d04a@2.59.134.242:2002?type=ws&security=tls&path=/?ed=2560&sni=miku.mikuru.ip-ddns.com&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 2.59.134.242
 vless://3d93a26b-4b85-49fc-9818-8bb80a76d04a@2.59.134.70:8203?type=ws&security=tls&path=/?ed=2560&sni=miku.mikuru.ip-ddns.com&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - dataforest GmbH ┇ 2.59.134.70
-vless://651de6cb-df22-45cd-8842-438fdbef87fb@2.59.135.137:7022?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4#DE 🇩🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 2.59.135.137
+vless://telegram-id-ArV2ray4@193.46.81.67:3567?type=grpc&security=reality&sni=maps.google.com&fp=chrome&pbk=_5Hw5RRcDyCnW7H3Ubmp9UnqNiQUaKfB5rPTDqI_kAA&sid=c14b9292de5a8d6f#DE 🇩🇪 ┇ VLESS-GRPC-RLT - dataforest GmbH ┇ 193.46.81.67
+vless://telegram-id-ArV2ray2@193.46.81.83:3567?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 193.46.81.83
 vless://telegram-id-ArV2ray@193.46.81.91:2041?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&sid=688c#DE 🇩🇪 ┇ VLESS-GRPC-RLT - dataforest GmbH ┇ 193.46.81.91
+vless://telegram-id-ArV2ray@193.46.81.91:443?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&sid=688c#DE 🇩🇪 ┇ VLESS-GRPC-RLT - dataforest GmbH ┇ 193.46.81.91
+vless://651de6cb-df22-45cd-8842-438fdbef87fb@2.59.135.137:7022?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4#DE 🇩🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 2.59.135.137
 vless://Tel--ZEDMODEON@2a0d:5940:102:2:::25365?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 2a0d:5940:102:2::
 vless://9d6a71e4-9d6a-4562-b7bd-546499c31cf6@2a0d:5940:38:1c:::25365?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 2a0d:5940:38:1c::
 vless://join--ZEDMODEON@2a0d:5940:47:31:::25365?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 2a0d:5940:47:31::
 vless://651de6cb-df22-45cd-8842-438fdbef87fb@45.145.43.219:7022?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 45.145.43.219
 vless://8a197f79-29be-4241-a4e7-5c60bb9b0ecb@de.gomeow.online:18888?type=tcp&security=reality&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&pbk=Y1J5jznG7vDc0hDNHTlJT246KvG3ZJZ1mTTnXkqd5Bk&sid=null#DE 🇩🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 77.90.22.235
 vless://f3fa5d86-2460-48eb-b422-a2e8ecf15c02@156.226.174.40:40002?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-NTLS - dataforest GmbH ┇ 156.226.174.40
-trojan://ynx6thvb-mfqi-gz44-qp3e-s2yivj05bhif@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://rnix2s7a-khej-cszc-qn8o-jr23diw441iv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

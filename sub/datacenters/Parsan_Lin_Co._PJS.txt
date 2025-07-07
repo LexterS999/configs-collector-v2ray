@@ -1,7 +1,7 @@
-trojan://7lq8jnxj-pr4r-gvbc-3pmb-pzv5qn3ks3vp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://l307nhdp-ivyw-4j9w-4ys4-aisk41zr1fn4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9jzs29ib-9v5t-c7yn-jymn-hx5w0hbkdevp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://21rez4js-mmyp-dtus-7vhj-eulz8kk02f5u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://m1tgx1jx-c69i-j4hd-vz9g-6k3oamcyuwt3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://h2n4ylps-hyp1-aqgk-0jp1-uz36cuvkb8bj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5f336hbe-ql36-ebpt-if3v-v9c85a0uxb3r@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zse4vt8x-kln2-6x8b-61l8-ik4ftr3999bo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://bc11baa2-da7c-11ef-957d-7538374f230f@31.214.174.43:29850?type=ws&security=tls&sni=nimz179.nimzrayen23.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Parsan Lin Co. PJS ┇ 31.214.174.43
 vless://04d533ee-51ba-47cc-a703-6336470898ad@31.214.251.222:443?type=ws&security=tls&path=/8Ku2BGY685PUNtppXQIC9t&sni=mhsang2c3.afsharidempire.uk&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Parsan Lin Co. PJS ┇ 31.214.251.222
-trojan://umqub7pc-dyza-z5s1-g8pq-lvv4gj5sdds4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://eisdl9fb-mzmf-1fhp-5hbu-zki4onbwci6u@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

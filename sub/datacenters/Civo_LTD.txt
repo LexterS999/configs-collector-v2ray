@@ -1,7 +1,7 @@
-trojan://w77p2nvb-xkcl-dkzx-kix9-iov54nvktyfv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://pmzvgcjt-9jkf-lrde-1xo2-b3rasqe9j4hf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://x0mn8fze-0vxh-ded3-i3ps-o2vf88wpofde@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tru2fei6-e1na-bzhw-40if-789xcpkd73e5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1q5jkrpu-5nhf-fd61-tw5s-yzdxc4ezg8wu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://av3vim82-pfg6-s78q-5ay9-1rh3zfb2i9r5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2rv6w607-6bfs-dvrx-hc6r-gunk449w3jk5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kms5hvf3-vr4a-j2lv-8hkh-y3928cfcg73j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ad5e479a-d0f6-4809-902c-e74f5404336c@74.220.23.227:2030?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#GB 🇬🇧 ┇ VLESS-GRPC-RLT - Civo LTD ┇ 74.220.23.227
 vless://60630c28-378d-45f3-9917-ee181f12faaf@dl1.farshekashani.ir:2040?type=grpc&security=reality&sni=wordpress.org&fp=chrome&pbk=UrQ4Dr8Nc2GS67rkuGLu3wgZVDjtafKQ0fcP9Kd-2kM&sid=c8c412da04c9d171#GB 🇬🇧 ┇ VLESS-GRPC-RLT - Civo LTD ┇ 74.220.28.225
-trojan://y7h6nn6o-gyzq-3ar1-ztkd-vk0oobjrmijk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://n4j2cfqt-8wui-vzks-bw6y-yfxfyh7kthrx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

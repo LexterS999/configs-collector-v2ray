@@ -1,8 +1,9 @@
-trojan://d1bz9mbl-qn15-7xzv-nzw0-xqxv59zrvthb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://mhdggiz3-vh58-n6hl-k4xi-nwlqlqsxrpnu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://t9al55f8-ac4x-bz4n-8jjy-k0q56mbrq2eg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mp0kxs57-kp6b-ke49-uvmv-d3qmqyzq6phv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xgm67vem-xn7h-2bb9-wnrd-4jncjpgacsvc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://prd3cl41-hywy-qod7-pg7o-8ahoq998l1l3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hd1bigl5-izpi-d8hx-k36e-io5emvewcjvq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://14zry7x7-res7-nueh-ijwa-k0cdpbxcj2ci@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.11.86.94:18333?type=ws&security=none&sni=edmq.aimercc.filegear-sg.me#TW 🇹🇼 ┇ VLESS-WS-NTLS - AKILE LTD ┇ 141.11.86.94
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.11.86.94:45888?type=ws&security=none#TW 🇹🇼 ┇ VLESS-WS-NTLS - AKILE LTD ┇ 141.11.86.94
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@141.11.86.24:50126?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#TW 🇹🇼 ┇ VLESS-TCP-RLT - AKILE LTD ┇ 141.11.86.24
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@188.253.6.210:443?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me#TW 🇹🇼 ┇ VLESS-WS-TLS - Akari Networks ┇ 188.253.6.210
 vless://e7adaa99-8363-3ec4-b849-307c99005405@114.43.16.130:21082?type=tcp&security=tls&sni=learn.microsoft.com&fp=random&flow=xtls-rprx-vision-udp443#TW 🇹🇼 ┇ VLESS-TCP-TLS - Data Communication Business Group ┇ 114.43.16.130
@@ -27,4 +28,4 @@ vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@35.234.3.153:443?type=ws&security=t
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.137.247.92:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#TW 🇹🇼 ┇ VLESS-TCP-RLT - Pittqiao Network Information Co.,Ltd. ┇ 103.137.247.92
 vless://2add6241-8fe8-3922-8347-da25e8ced601@103.137.62.229:443?type=tcp&security=reality&sni=tesla.com&fp=random&flow=xtls-rprx-vision&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM#TW 🇹🇼 ┇ VLESS-TCP-RLT - Pittqiao Network Information Co.,Ltd. ┇ 103.137.62.229
 vless://948f6596-66f9-4707-aa92-3107a214ce53@61.63.235.53:25957?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#TW 🇹🇼 ┇ VLESS-WS-TLS - SaveCom Internation Inc. ┇ 61.63.235.53
-trojan://08cry632-741e-2wnh-ptlo-cqcxeikezws7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qdxd21ej-afq1-t9ml-b5mj-ey160pbu2ir3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

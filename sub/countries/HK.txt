@@ -1,7 +1,7 @@
-trojan://x0uehffc-xe4a-295s-uq3c-wvrb7888rs46@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://b0kscfwx-smds-b51w-iv9w-pcs35h5bgcsy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bbwpxl7l-f6mk-ukn6-ruis-xo0unmf3w894@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qqyh8i0v-euj3-q6f2-0561-63l71vz22ofz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://uq8ixhsf-rqsa-7hc0-ooys-4l4gb3gt7d5e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://dc1c4bc5-8fau-xyyg-nqj6-cu56dtxwwt9a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://df5hjws0-2t60-4kbm-jx7t-debmjzwkohvz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jvladh2i-9j8u-40er-v9p2-ny70tpfvgz2c@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@103.127.248.51:443?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed&sni=0926.qiang2000.link#HK 🇭🇰 ┇ VLESS-WS-TLS - ADC GROUP CO.,LIMITED ┇ 103.127.248.51
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.11.148.60:8080?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edmk.ambercc.filegear-sg.me#HK 🇭🇰 ┇ VLESS-WS-TLS - AKILE LTD ┇ 141.11.148.60
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@141.11.78.77:8080?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - AKILE LTD ┇ 141.11.78.77
@@ -47,6 +47,7 @@ vless://948f6596-66f9-4707-aa92-3107a214ce53@47.57.245.232:443?type=ws&security=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.75.101.0:3443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#HK 🇭🇰 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 47.75.101.0
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@47.76.218.163:443?type=tcp&security=none&path=/Telegram#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.76.218.163
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.76.37.57:2087?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#HK 🇭🇰 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 47.76.37.57
+vless://4d5903dd-5d8a-4879-9e0d-cf12b8404b8e@47.76.81.217:40830?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.76.81.217
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.210.119.191:81?type=ws&security=tls&path=TG@ZDYZ2&sni=cfed.tgzdyz2.top&fp=random#HK 🇭🇰 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.210.119.191
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.210.21.65:2096?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#HK 🇭🇰 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.210.21.65
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.210.213.159:587?type=ws&security=tls&path=/?ed=2560&sni=edccz.aimercc.filegear-sg.me#HK 🇭🇰 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.210.213.159
@@ -60,13 +61,14 @@ vless://88ff07e9-51f0-4608-8c5f-ba2fa8a6b18a@8.218.103.198:39237?type=ws&securit
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@8.218.135.92:443?type=ws&security=tls&path=/?ed&sni=mmdserver.us.kg#HK 🇭🇰 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.218.135.92
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@8.218.194.79:59882?type=ws&security=none&path=/Telegram🇨🇳&sni=steep.skyfigure.top#HK 🇭🇰 ┇ VLESS-WS-NTLS - Alibaba US Technology Co., Ltd. ┇ 8.218.194.79
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@8.218.26.21:443?type=ws&security=none&sni=mmdserver.us.kg#HK 🇭🇰 ┇ VLESS-WS-NTLS - Alibaba US Technology Co., Ltd. ┇ 8.218.26.21
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@bestproxy.onecf.eu.org:80?type=ws&security=none&path=/blue&sni=hk033.ylks.link#HK 🇭🇰 ┇ VLESS-WS-NTLS - Alibaba US Technology Co., Ltd. ┇ 8.212.41.98
 vless://f18d9e84-6988-442d-b3f2-885740a6e775@to01.34gpg.shop:443?type=ws&security=tls&path=/f18d9e84-6988-442d-b3f2-885740a6e775&sni=to01.34gpg.shop#HK 🇭🇰 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 47.76.112.75
+vless://f2d09fb7-ac3d-4b62-b359-e2c35a5be126@8.218.114.184:443?type=tcp&security=reality&sni=www.ebay.com&fp=chrome&flow=xtls-rprx-vision&pbk=z3dsRlZdhVuCHIaU6d5nNePmRmNG_-KGdLpu-m0Jz0M&sid=35f29e450ad773a3#HK 🇭🇰 ┇ VLESS-TCP-RLT - Alibaba US Technology Co., Ltd. ┇ 8.218.114.184
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.238.40.144:443?type=tcp&security=reality&sni=cdn77.api.userway.org&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2#HK 🇭🇰 ┇ VLESS-TCP-RLT - Alibaba US Technology Co., Ltd. ┇ 47.238.40.144
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.239.205.13:443?type=tcp&security=reality&sni=cdn.userway.org&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw#HK 🇭🇰 ┇ VLESS-TCP-RLT - Alibaba US Technology Co., Ltd. ┇ 47.239.205.13
 vless://0e0bc531-b3f6-4aa9-a96c-1ae06f6b52a5@47.243.163.4:23232?type=tcp&security=reality&sni=python.org&fp=chrome&flow=xtls-rprx-vision&pbk=OLypQHKPj6qxZf89ByjX-6_0Xh4mcMLwbuJ7grxaNk8&sid=c20d67f3#HK 🇭🇰 ┇ VLESS-TCP-RLT - Alibaba US Technology Co., Ltd. ┇ 47.243.163.4
-vless://f2d09fb7-ac3d-4b62-b359-e2c35a5be126@8.218.114.184:443?type=tcp&security=reality&sni=www.ebay.com&fp=chrome&flow=xtls-rprx-vision&pbk=z3dsRlZdhVuCHIaU6d5nNePmRmNG_-KGdLpu-m0Jz0M&sid=35f29e450ad773a3#HK 🇭🇰 ┇ VLESS-TCP-RLT - Alibaba US Technology Co., Ltd. ┇ 8.218.114.184
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.222.213:8880?type=ws&security=none&path=/&sni=jp.laoyoutiao.link#HK 🇭🇰 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 45.192.222.213
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.192.222.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 45.192.222.177
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.222.213:8880?type=ws&security=none&path=/&sni=jp.laoyoutiao.link#HK 🇭🇰 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 45.192.222.213
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.192.222.247:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=ex.sue.x10.mx#HK 🇭🇰 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 45.192.222.247
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@45.192.222.251:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#HK 🇭🇰 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 45.192.222.251
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.192.222.254:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#HK 🇭🇰 ┇ VLESS-WS-NTLS - CLOUDFLARENET ┇ 45.192.222.254
@@ -99,6 +101,9 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.197.92.114:5010?type=ws&securit
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.217.139.120:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#HK 🇭🇰 ┇ VLESS-WS-TLS - CNSERVERS ┇ 91.217.139.120
 vless://7c4ba50c-b313-42df-bf33-0121082a4d0b@103.103.245.218:37730?type=tcp&security=reality&sni=759dvhk.wudiovv.mom&fp=firefox&flow=xtls-rprx-vision&pbk=fpchgOvR77dN7cNU2xBiJGk1LKsF_3o5JbTXr_EjLEo&sid=78624e43199a#HK 🇭🇰 ┇ VLESS-TCP-RLT - CNSERVERS ┇ 103.103.245.218
 vless://d80b9af5-5351-4d37-8ba5-c9a7fca650f6@45.38.42.220:2085?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.42.220
+vless://d80b9af5-5351-4d37-8ba5-c9a7fca650f6@45.38.42.220:2087?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.42.220
+vless://d80b9af5-5351-4d37-8ba5-c9a7fca650f6@45.38.42.220:8443?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.42.220
+vless://d80b9af5-5351-4d37-8ba5-c9a7fca650f6@45.38.42.220:8880?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.38.42.220
 vless://94fadaf3-ccd8-4734-b372-8772c9bfd147@162.247.5.91:443?type=ws&security=tls&path=/bing&sni=tw.qhahd.shop#HK 🇭🇰 ┇ VLESS-WS-TLS - China Unicom Global ┇ 162.247.5.91
 vless://adad57ce-8a4d-4272-bb71-b297ca370165@162.247.5.96:443?type=ws&security=none#HK 🇭🇰 ┇ VLESS-WS-NTLS - China Unicom Global ┇ 162.247.5.96
 vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@154.218.15.104:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#HK 🇭🇰 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 154.218.15.104
@@ -133,6 +138,8 @@ vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@154.218.15.77:8880?type=ws&security
 vless://99727208-0086-43f9-f0ad-9e30f546b822@154.218.15.88:8880?type=httpupgrade&security=none&path=//telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER#HK 🇭🇰 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 154.218.15.88
 vless://293dbd19-eaec-43f0-dcde-2944af021dd4@154.218.15.92:8880?type=httpupgrade&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=1024#HK 🇭🇰 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 154.218.15.92
 vless://e96810a3-dedb-415d-9e22-3a8bfc215edf@203.32.121.53:2087?type=ws&security=tls&path=/&sni=tee.sa.akbaru.top#HK 🇭🇰 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 203.32.121.53
+vless://b907aea0-cf1a-489f-aef7-b55a1ac04f34@203.32.121.53:8080?type=ws&security=none&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080#HK 🇭🇰 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 203.32.121.53
+vless://7f64eeb1-b5f1-40a0-d80e-e6c718f6bd6a@mtn.ircf.space:2096?type=tcp&security=none#HK 🇭🇰 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 203.32.121.53
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@202.181.27.218:14526?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edccr.ambercc.filegear-sg.me#HK 🇭🇰 ┇ VLESS-WS-TLS - Cloudie Limited ┇ 202.181.27.218
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@156.255.90.175:8443?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me#HK 🇭🇰 ┇ VLESS-WS-TLS - DATAWING LIMITED ┇ 156.255.90.175
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.3.37.27:9004?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#HK 🇭🇰 ┇ VLESS-WS-TLS - DMIT ┇ 154.3.37.27
@@ -145,8 +152,6 @@ vless://fe422413-ef38-4455-8afa-0128e08e8e4e@34.150.13.222:443?type=ws&security=
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@223.16.138.113:12457?type=ws&security=tls&path=/?ed&sni=zz.bgm2024.us.kg&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - HGC Global Communications Limited ┇ 223.16.138.113
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSEtUIExpbWl0ZWQgXHUyNTA3IDEuNjUuMjAzLjc3IiwiYWRkIjoiODRhNjYzZmEtc3VuejQwLXN3aHg1eS0xcTNkbS5oay5wNXB2LmNvbSIsInBvcnQiOjgwLCJpZCI6ImMxNzg1ZGUwLTIxMmYtMTFlZi05MmFhLWYyM2M5MTY0Y2E1ZCIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSEtUIExpbWl0ZWQgXHUyNTA3IDEuNjUuMTk2LjIwNCIsImFkZCI6IjQzYjVhNjE2LXN3MDRnMC1zd2FzdjMtbHV3ZS5oZ2MxLnRjcGJici5uZXQiLCJwb3J0Ijo4MDgwLCJpZCI6ImEyYjBmZDJiLTcxNmYtMGRmOC1kNGUyLTAzYTFjMDBlNWYxYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@3bd9.55dca.e048.f63-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfhk2.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#HK 🇭🇰 ┇ VLESS-TCP-TLS - HKT Limited ┇ 219.76.131.135
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@3bd9.55dca.e048.f64-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfhk2.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#HK 🇭🇰 ┇ VLESS-TCP-TLS - HKT Limited ┇ 219.76.131.137
 vless://2d317da5-47c5-4db4-933f-16d1094668db@116.49.239.219:20550?type=tcp&security=tls&sni=www.paypal.com&fp=chrome&flow=xtls-rprx-vision-udp443#HK 🇭🇰 ┇ VLESS-TCP-TLS - HKT Limited ┇ 116.49.239.219
 vless://bdbfd26c-725b-4922-b970-e7dfb46afb7b@219.76.13.166:443?type=ws&security=tls&path=/socks5://admin:admin@206.237.13.40:1080&sni=edge.ekt.me#HK 🇭🇰 ┇ VLESS-WS-TLS - HKT Limited ┇ 219.76.13.166
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@219.76.13.169:443?type=ws&security=tls&path=/?ed=2560&sni=lp.ylks.us.kg#HK 🇭🇰 ┇ VLESS-WS-TLS - HKT Limited ┇ 219.76.13.169
@@ -154,6 +159,8 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@219.77.65.212:23555?type=ws&securit
 vless://2d317da5-47c5-4db4-933f-16d1094668db@219.79.166.214:20550?type=tcp&security=tls&sni=www.paypal.com&fp=chrome&flow=xtls-rprx-vision-udp443#HK 🇭🇰 ┇ VLESS-TCP-TLS - HKT Limited ┇ 219.79.166.214
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f61-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfhk1.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#HK 🇭🇰 ┇ VLESS-TCP-TLS - HKT Limited ┇ 112.120.48.14
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f62-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfhk1.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#HK 🇭🇰 ┇ VLESS-TCP-TLS - HKT Limited ┇ 219.76.131.133
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f63-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfhk2.xn--4gq62f52gppi29k.com&fp=firefox&flow=xtls-rprx-vision#HK 🇭🇰 ┇ VLESS-TCP-TLS - HKT Limited ┇ 219.76.131.135
+vless://627712cf-d0e1-4545-81fb-241e7fda0284@3bd9.55dca.e048.f64-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfhk2.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision#HK 🇭🇰 ┇ VLESS-TCP-TLS - HKT Limited ┇ 219.76.131.137
 vless://2d317da5-47c5-4db4-933f-16d1094668db@42.2.54.195:20550?type=tcp&security=tls&sni=www.paypal.com&fp=chrome&flow=xtls-rprx-vision-udp443#HK 🇭🇰 ┇ VLESS-TCP-TLS - HKT Limited ┇ 42.2.54.195
 vless://2d317da5-47c5-4db4-933f-16d1094668db@42.2.54.55:20550?type=tcp&security=tls&sni=www.paypal.com&fp=chrome&flow=xtls-rprx-vision-udp443#HK 🇭🇰 ┇ VLESS-TCP-TLS - HKT Limited ┇ 42.2.54.55
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@42.200.111.106:12351?type=ws&security=tls&path=/?ed=2560&sni=agedgj.ambercc.filegear-sg.me#HK 🇭🇰 ┇ VLESS-WS-TLS - HKT Limited ┇ 42.200.111.106
@@ -182,6 +189,7 @@ vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.189.104.97:443?type=ws&security=
 vless://88ff07e9-51f0-4608-8c5f-ba2fa8a6b18a@40.83.122.22:2053?type=ws&security=tls&path=/?ed=2048&sni=sub.putata.eu.org&fp=randomized#HK 🇭🇰 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 40.83.122.22
 vless://ee317e25-4c44-4b3f-81fd-93420678bd34@45.87.102.244:21851?type=tcp&security=reality#HK 🇭🇰 ┇ VLESS-TCP-RLT - MOEDOVE-N2 ┇ 45.87.102.244
 vless://5d8e2454-617d-4e77-a165-1832ed1231ba@157.254.154.74:25777?type=tcp&security=reality&sni=www.samsung.com&fp=firefox&flow=xtls-rprx-vision&pbk=Md6PoLS8ZgYxc-mOoMkLSRMksQzNTTPW0Psmo0y2c3E&sid=9c5b5b672053fc#HK 🇭🇰 ┇ VLESS-TCP-RLT - Miku Network Technology Limited ┇ 157.254.154.74
+vless://6b76a8d6-37b1-4ff8-94cb-65d47e1a9bb3@157.254.154.74:25888?type=tcp&security=reality&sni=www.samsung.com&fp=edge&flow=xtls-rprx-vision&pbk=Md6PoLS8ZgYxc-mOoMkLSRMksQzNTTPW0Psmo0y2c3E&sid=9c5b5b672053fc#HK 🇭🇰 ┇ VLESS-TCP-RLT - Miku Network Technology Limited ┇ 157.254.154.74
 vless://461558c5-425f-49de-9dad-5a9184e092f9@38.246.249.90:60589?type=tcp&security=reality&sni=www.cisco.com&fp=chrome&flow=xtls-rprx-vision&pbk=g_56k7ui9UrIxf6FL4bc5JJ4tYQ0wwENzddsybcRNHo&sid=11aa857ce52a1392#HK 🇭🇰 ┇ VLESS-TCP-RLT - NETLAB-SDN ┇ 38.246.249.90
 vless://4a3dc64b-17e1-4ae7-a9a4-851f9794d4c6@38.225.100.135:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=ios&flow=xtls-rprx-vision&pbk=ORXZoe3pY5Cu4_E_VZ0Uqnb6aVfpqidC30-B8AfUpys&sid=eb0325a469#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.100.135
 vless://3e33f29c-44aa-49aa-94f7-fac8fd018b9e@38.225.101.77:43000?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=ios&flow=xtls-rprx-vision&pbk=fpW2C8i9N9DM6kVILbCOhxxCgRUhZikdM8sGT1Nb8iw&sid=9cb783#HK 🇭🇰 ┇ VLESS-TCP-RLT - NewMedia Express Pte Ltd ┇ 38.225.101.77
@@ -196,6 +204,7 @@ vless://3beed68e-0ec8-4acf-b6a7-ea5d3224de30@95.135.153.17:41078?type=tcp&securi
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@116.204.210.10:443?type=ws&security=tls&path=TelegramTW_@WangCai2/?ed=2560&sni=photosair.ir#HK 🇭🇰 ┇ VLESS-WS-TLS - TOPWAY GLOBAL LIMITED ┇ 116.204.210.10
 vless://ce798927-d5ca-4379-b1c8-0da243c0380d@103.253.43.210:443?type=tcp&security=tls&sni=free-hk.vpnkey.dev&fp=chrome&flow=xtls-rprx-vision#HK 🇭🇰 ┇ VLESS-TCP-TLS - Tele Asia Limited ┇ 103.253.43.210
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@101.32.15.176:16831?type=ws&security=none&sni=ngedo.ambercc.filegear-sg.me#HK 🇭🇰 ┇ VLESS-WS-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 101.32.15.176
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@101.32.15.176:26657?type=ws&security=none#HK 🇭🇰 ┇ VLESS-WS-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 101.32.15.176
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@101.32.40.116:8888?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 101.32.40.116
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@124.156.129.206:6666?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 124.156.129.206
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@43.128.26.74:443?type=ws&security=none#HK 🇭🇰 ┇ VLESS-WS-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 43.128.26.74
@@ -216,4 +225,4 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@206.237.5.206:443?type=ws&security=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.227.139.137:443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#HK 🇭🇰 ┇ VLESS-WS-TLS - ZEN-ECN ┇ 129.227.139.137
 vless://b41f3d0c-3e2f-4f57-9995-c6bdf2b3204d@156.59.125.66:443?type=ws&security=none&sni=hk.mehun.me#HK 🇭🇰 ┇ VLESS-WS-NTLS - ZEN-ECN ┇ 156.59.125.66
 vless://fe422413-ef38-4455-8afa-0128e08e8e4e@45.40.59.248:443?type=ws&security=tls&path=/bing&sni=vn.qhahd.shop#HK 🇭🇰 ┇ VLESS-WS-TLS - ZEN-ECN ┇ 45.40.59.248
-trojan://757lahay-ush3-uavr-1cvz-ycw7rqupgg7b@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://fduucas6-irfr-xqae-zpnj-r88fxi003pcr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

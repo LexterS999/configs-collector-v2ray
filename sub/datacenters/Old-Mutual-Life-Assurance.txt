@@ -1,7 +1,7 @@
-trojan://tju859u6-v4pc-pkjp-8u84-ijg5sp6pxp6i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://9wgkrmlb-mdi6-cv1f-ohv4-baeel71c6i0l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ujx8cvdl-belb-xlyn-5vav-q9u9zkw9dun5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1gyxi5zg-6ytf-c4kv-iz4p-kaliioojgrr5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://9qpbx3n1-std9-cvdj-ty41-nmky4mkygzpe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://h3lpz355-1ihg-b4jb-1qnm-s77481fyxk34@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://audy1uft-a3pf-6zeg-gdkr-8yyddbt682qo@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://37lh2dft-mnlm-t8mu-vmzh-e770iju7amyg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.130:443?type=ws&security=none&sni=hl.ylka.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Old-Mutual-Life-Assurance ┇ 160.123.255.130
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.131:443?type=ws&security=none&sni=vv.ylka.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Old-Mutual-Life-Assurance ┇ 160.123.255.131
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.141:443?type=ws&security=none&sni=lx.ylks0033.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Old-Mutual-Life-Assurance ┇ 160.123.255.141
@@ -34,4 +34,4 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.70:443?type=ws&security
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.76:443?type=ws&security=none&sni=vx.ylks0033.dpdns.org#ZA 🇿🇦 ┇ VLESS-WS-NTLS - Old-Mutual-Life-Assurance ┇ 160.123.255.76
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@160.123.255.79:443?type=ws&security=tls&path=/3b2dg5zv2kftsfko?ed=2560&sni=vz.ylks.xyz#ZA 🇿🇦 ┇ VLESS-WS-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.79
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.85:443?type=ws&security=tls&path=/?ed=2560&sni=uxb.vs2024.us.kg#ZA 🇿🇦 ┇ VLESS-WS-TLS - Old-Mutual-Life-Assurance ┇ 160.123.255.85
-trojan://q0s9v1c6-3ooy-91ej-5fs5-oea55dq48bea@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://vh6gtk9a-10xp-l137-by09-7t0q3n8gdq51@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

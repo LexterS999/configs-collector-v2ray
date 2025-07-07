@@ -1,7 +1,7 @@
-trojan://rhx50dxe-dtfu-6nui-v9bh-73lqa0dmuka6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://4fquvetj-w27l-v6v3-2gnx-dlbvt7jgtgjf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ai7af19l-3a7r-2drd-7w76-3nyvisjpcdlz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0t0vlxt9-5ett-ni1h-2lmc-kbuzncetqsr0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://l2i6943a-uzln-d912-rfch-gfxjt8h02adu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://qbq8uthv-7dfl-4rzo-rs9q-nys9jg4t6ta8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://s3thfq0o-idzz-pdim-2y6j-keiwgb3pm6mg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://11spc6jt-apx8-ybw4-as9s-spgnb8un1vry@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExlYXNlV2ViIE5ldGhlcmxhbmRzIEIuVi4gXHUyNTA3IDYyLjIxMi43MC4xMTAiLCJhZGQiOiJhbG9ub2FuZGZmZi5hc2JhYmJhemlnb2xhbWkuaXIiLCJwb3J0Ijo4MDgxLCJpZCI6IjU0OTA0NzEzLWI2MTEtNGU4ZS1iZTc3LWEwMWQ4MjBiOWMxYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExlYXNlV2ViIE5ldGhlcmxhbmRzIEIuVi4gXHUyNTA3IDk1LjIxMS4yNy4xODgiLCJhZGQiOiI5NS4yMTEuMjcuMTg4IiwicG9ydCI6MTM0NTYsImlkIjoiNDY5MjRjZDktYTI0NC00YjlhLTk5OWMtZjVlNTFkYmU4MzdmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExlYXNlV2ViIE5ldGhlcmxhbmRzIEIuVi4gXHUyNTA3IDYyLjIxMi43MC4xMDciLCJhZGQiOiJhc3dlZG9ua2UuYmx1ZXRvb3RobW91c2UuaXIiLCJwb3J0Ijo4MDkwLCJpZCI6IjBjYTE0NWM2LWQyNDEtNGQ0Yi04ODU4LTY1OTVkZWExNWFhMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
@@ -16,13 +16,17 @@ vless://8651f7f1-e535-4f06-8073-c1e006409ccd@178.162.164.235:10251?type=tcp&secu
 vless://7b3efda3-1892-4094-93fd-58796b745f48@178.162.165.202:39324?type=tcp&security=none&path=/B84th4r5fb#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 178.162.165.202
 vless://d330b788-4621-432c-d96b-2a1cf343d4ba@178.162.165.203:46919?type=tcp&security=none&path=/Bfth56htf#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 178.162.165.203
 vless://af65bb96-b303-4c51-e345-e9f425ef3e58@45.89.220.54:32240?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.89.220.54
+vless://37872a7a-022c-4e1c-dfd2-42115412a36c@45.89.220.54:53851?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.89.220.54
+vless://b13e686d-ba69-4597-953c-cac8fe7b30eb@45.89.220.54:8060?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 45.89.220.54
 vless://dc58f214-4227-4f58-8090-cbcedf1adeba@62.212.70.108:52928?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 62.212.70.108
 vless://4e88cac9-6cc4-445b-818c-8aabb2c1f2e9@85.17.40.111:46927?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.40.111
 vless://07fd7d30-81a9-4ac5-d2e9-adbc16b0182a@85.17.5.150:45340?type=ws&security=none&path=/Nadfd56t#NL 🇳🇱 ┇ VLESS-WS-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.5.150
 vless://aa188240-cf10-4df6-9543-5223800891be@85.17.67.13:8880?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 85.17.67.13
+vless://2558c819-1363-4859-8fb9-f8cb104d49d2@95.211.27.188:39948?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - LeaseWeb Netherlands B.V. ┇ 95.211.27.188
 vless://804385b5-c39b-4070-9f6d-33ffc6cefda9@netherland.zone-server-irani.ir:3993?type=ws&security=tls&path=/&sni=marzban.negintel.xyz#NL 🇳🇱 ┇ VLESS-WS-TLS - LeaseWeb Netherlands B.V. ┇ 85.17.61.31
-vless://71b1411d-f242-4e84-83f6-a4d3ca912844@62.212.70.94:2025?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=B6w7zRowM6YMjWfoo93HdAwngS7SxXa-K1msMet_P3U&sid=e9#NL 🇳🇱 ┇ VLESS-TCP-RLT - LeaseWeb Netherlands B.V. ┇ 62.212.70.94
 vless://b3ca250a-3cfe-4f8d-867a-5d125af7d3bc@109.70.73.141:2054?type=grpc&security=reality&sni=speedtest.net&fp=chrome&pbk=4BLG9NktVsRqNND_ls8P-PQVwQOQlj8FTrHrOWKzHCA&sid=c5cbe074400d4b8e#NL 🇳🇱 ┇ VLESS-GRPC-RLT - LeaseWeb Netherlands B.V. ┇ 109.70.73.141
+vless://71b1411d-f242-4e84-83f6-a4d3ca912844@62.212.70.94:2025?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-RLT - LeaseWeb Netherlands B.V. ┇ 62.212.70.94
+vless://770d49ff-d8d1-456a-a009-6a4833718c98@62.212.70.94:2060?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=B6w7zRowM6YMjWfoo93HdAwngS7SxXa-K1msMet_P3U&sid=e9#NL 🇳🇱 ┇ VLESS-TCP-RLT - LeaseWeb Netherlands B.V. ┇ 62.212.70.94
 vless://a229a57d-d1d2-c3d0-73fa-3b1061688ccd@95.211.27.205:2010?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#NL 🇳🇱 ┇ VLESS-TCP-RLT - LeaseWeb Netherlands B.V. ┇ 95.211.27.205
 vless://00dfdd9e-c793-44b7-f15d-f37b53f52ce8@95.211.62.200:80?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=yYv9vuo4k2scMcm85us3qCADcfhGl9EEB2PjG1MNE10#NL 🇳🇱 ┇ VLESS-TCP-RLT - LeaseWeb Netherlands B.V. ┇ 95.211.62.200
-trojan://xhby6k5c-m6f5-vuu6-gdp6-0lij7b0ok2l0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3bgaznea-54ks-lt3i-6rs0-pn3scvphmr5u@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,9 +1,9 @@
-trojan://jq7bgy14-bnc8-q11t-3wdq-tvxioxbwy458@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://1w9b66oe-8bfx-ne6p-okqi-ntd6zaxsu0f5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://f3f62u68-qkvm-crbq-5lds-8pvuiki0kk60@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://q5v4dh14-467v-z29n-wcs9-ifh8xhmvilqq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://kbxnw3qw-tq64-nyeg-agyu-rcno31yr3x38@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://2h6a8bf2-xvt8-2v8x-nl7i-dbwr0uiam8si@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://iageq16w-xp5j-6mkx-81ym-y0wgtlk5cqm1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2uoteeb1-xfac-czrw-t4er-b2art18flb3b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@103.148.73.170:443?type=tcp&security=reality&sni=github.githubassets.com&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2#HK 🇭🇰 ┇ VLESS-TCP-RLT - Pittqiao Network Information Co.,Ltd. ┇ 103.148.73.170
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@103.148.73.177:443?type=tcp&security=reality&sni=cdn77.api.userway.org&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2#HK 🇭🇰 ┇ VLESS-TCP-RLT - Pittqiao Network Information Co.,Ltd. ┇ 103.148.73.177
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.137.247.92:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#TW 🇹🇼 ┇ VLESS-TCP-RLT - Pittqiao Network Information Co.,Ltd. ┇ 103.137.247.92
 vless://2add6241-8fe8-3922-8347-da25e8ced601@103.137.62.229:443?type=tcp&security=reality&sni=tesla.com&fp=random&flow=xtls-rprx-vision&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM#TW 🇹🇼 ┇ VLESS-TCP-RLT - Pittqiao Network Information Co.,Ltd. ┇ 103.137.62.229
-trojan://cgoy413e-amt6-c34q-b0ct-5rmg2h8512el@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://14nou95o-frxu-ct6d-90h7-rqxlnz8869mj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

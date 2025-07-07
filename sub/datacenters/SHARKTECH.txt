@@ -1,6 +1,6 @@
-trojan://ace7vxy6-3q02-8y3v-4uat-s0epzhgmbub1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://819fx2ob-3zrs-oh9o-luip-whepbtp9lsej@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vfpuckri-4xdq-j9px-vyld-9saulswwlr00@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://76rwx613-mylt-xt6t-an9m-88xywy27sxa9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://luwtfey4-635p-0jmd-i0s2-1nrprdskaed1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://hdk9g5tf-ecaq-ul14-zlzj-7pxmgpaove2g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://r5rkhb89-t5j7-2y66-xmkt-lq66xcdkary7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ouhr0ona-dprm-qsu9-llh0-ajku07qse3rr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@170.178.183.18:443?type=ws&security=tls&path=/kos_madar_publisher&sni=cndb9wjin2i7vab5vvcg.khodavakili.top#US 🇺🇸 ┇ VLESS-WS-TLS - SHARKTECH ┇ 170.178.183.18
-trojan://6reijwra-ogd8-h1x5-x8c7-s42sh0hhykiw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qvvysgqk-azup-uhxq-xx48-fhorcdxbp67w@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

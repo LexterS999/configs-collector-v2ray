@@ -1,6 +1,6 @@
-trojan://jwbxeu22-358g-jnjp-a1ib-0uqmjovg7vq3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://zpaty64x-i545-g3ox-yfqf-ui3jtgmpisyv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9hocr424-8cx1-td9n-e0wo-nig215hwvkkr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7trg9wh2-nflu-u12b-l83m-ccrl2w6zpgzl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xnnivwoy-lvs5-5m0z-xpex-1jqrp4ukrsz7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://m4eck0a4-jjwo-q5nw-8cnh-9qt5p058pp4j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qo3r2gz9-q8va-ht0y-ne4d-zz7ibtgohodq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5lhfeqnc-c1qw-zc33-g4oz-wesyjt0zpnv5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2d7385cc-a954-4b4e-f441-f75bb3dcb879@hmahdi11.varzesh3.ru:18648?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - JSC RTComm.RU ┇ 81.177.22.153
-trojan://3x864r7o-dob6-l0jl-k42y-d089mw0af2fy@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://71jleuv3-g4bl-orcw-3vib-ugwpc4zcigvt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

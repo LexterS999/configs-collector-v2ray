@@ -1,7 +1,7 @@
-trojan://hgkxd0tp-htgl-prmb-7trj-oisbcyx8bvom@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://35f0sqx2-sw3s-o60p-6g3j-k8x6lnaabi8r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1h5b4uml-z8lv-ttqq-fxzf-0f4rnnv0mrwi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kvlpuyex-ay4f-v23h-f7bk-c7j9knxyf8bl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://txlyflfq-h35n-u2eh-damj-lvo75waiecpn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://2ls9i01i-4ga8-qegk-f60e-ws39lz2lrdp7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gsadsebk-otce-ec83-che5-3vibb611h2x6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5mgyqpab-hqo3-hwoq-lse8-xa1digalku71@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://36977f8b-97b3-4b69-bc67-4c63a5a88e42@194.87.240.190:59842?type=tcp&security=none#BE 🇧🇪 ┇ VLESS-TCP-NTLS - ASNET ┇ 194.87.240.190
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.224.12:8443?type=tcp&security=tls&sni=bru-be-01.fromblancwithlove.com#BE 🇧🇪 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 79.127.224.12
 vless://3601647a-7934-4238-b989-194243e3ead8@151.101.10.133:80?type=ws&security=none&path=/TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray,TELEGRAM-@mainv2-ray?ed=2048#BE 🇧🇪 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.10.133
@@ -13,4 +13,4 @@ vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@141.98.233.103:3045?type=tcp&securi
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@95.164.62.152:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=v033.ylkszy.eu.org#BE 🇧🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.62.152
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@95.164.62.196:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=kz.ylks.xyz#BE 🇧🇪 ┇ VLESS-WS-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.62.196
 vless://2a2b5866-9f43-4506-98c0-32fc33dea21a@45.83.20.76:10088?type=tcp&security=reality&sni=learn.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=2RiVd3l0ofPW-qMOnDXDltcJ6eNP8hWR4xuKBMoY4Bo&sid=e555559bf185992c#BE 🇧🇪 ┇ VLESS-TCP-RLT - Pq Hosting Plus S.r.l. ┇ 45.83.20.76
-trojan://j6ey0igc-r65a-wg4p-ecy2-efs5rrymkk12@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://w7j0jxrb-esi8-79ou-lzqd-u1kl7a6rkiai@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

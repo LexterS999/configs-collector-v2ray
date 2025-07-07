@@ -1,7 +1,7 @@
-trojan://kthq5g4r-xxnd-8c9b-j4kt-c95rr0m17egg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://mbqgve1q-65xt-fdjo-wsal-x3v886uipbs5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://453aebgn-x4n1-sgg6-iki2-4c2fb05ynhsi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://achof9st-sn01-vz96-uj8j-rzwltbuc82w3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://n5kvploa-4g59-b7yq-27dh-t2hhesmaabeq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://kintg1pb-rzwb-nrla-liuy-3r9qe9k0imkc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pofa6beh-cgth-1yod-fwbg-khvohh2ueunr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8unkwr1y-dqer-bhsb-m8si-1irbwcecok4j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c54dd620-fa5f-46de-82c2-9d1492ee74e4@103.98.215.248:443?type=tcp&security=tls&sni=tor2.jarviskit.com&flow=xtls-rprx-vision#CA 🇨🇦 ┇ VLESS-TCP-TLS - CLOUDWEBMANAGE-CANADA ┇ 103.98.215.248
 vless://turboo-server@canada.turboo-server.com:10538?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-RLT - CLOUDWEBMANAGE-CANADA ┇ 103.54.59.67
-trojan://u7f8qi7e-ko48-d7k2-10k3-l5kgb39dll2g@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ifqxo105-cnq4-defq-rxdf-5msqmwgjldp8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

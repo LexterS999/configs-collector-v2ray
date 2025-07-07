@@ -1,7 +1,7 @@
-trojan://xu2kdy66-daeo-13dg-ojdg-rce1dbqzg2o2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://tlzp4nq8-9n79-f5wn-ev2g-apshs97d9i5y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xlztuc05-dkls-cacm-r28v-c56bi7okl9tj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pl2x01lo-ucfw-0ve6-y8w4-w3il6modwz12@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://l1dlzoqo-ifvd-zns1-n215-qqg6cau0x1tu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://i0btcyac-wfyu-mh19-fpy3-f836p4993tr9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0xsevh69-tnk9-3s73-nsth-frh8gme3c004@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://09gy5liv-fblr-27k7-kasr-8eclumcez64i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.46.8.17:8000?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#RU 🇷🇺 ┇ VLESS-WS-TLS - Domain names registrar REG.RU, Ltd ┇ 185.46.8.17
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@89.111.172.106:2053?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - Domain names registrar REG.RU, Ltd ┇ 89.111.172.106
-trojan://qklhy1xj-8xve-mzkh-q4c6-xphd21arwjex@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://41pnlmvo-udqn-yosf-xbgd-bl865upi0loh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

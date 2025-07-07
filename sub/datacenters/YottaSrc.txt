@@ -1,8 +1,9 @@
-trojan://rtr2vsw2-433g-s4xw-hnhk-forcm0sf97zs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://vg15395h-32w5-5j9a-e12w-s4m07cni4uxs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://mmf554kc-1nwt-q8p4-k58x-y48sx6lohjk9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3xn90khk-l9rd-eefo-sa57-2qtb11yhkjga@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://zbis5l73-r8bb-j1n5-m58p-mcno8qog2rbp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://9km1q2w0-y7ks-lzlx-mkh3-3l7hqrpmuce6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hymzouq0-a324-gkiw-z48t-trmb9gnp6kj0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7uyrluns-915s-fouh-y6y8-fjc89gc48h8w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://840dc994-d232-4b71-b133-4f36a874c867@45.13.226.18:29570?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=lOuhgB0K7paehmJFBxd0GxSY2Ax00niQGkpH3-8jKz4&sid=37#DE 🇩🇪 ┇ VLESS-XHTTP-RLT - YottaSrc ┇ 45.13.226.18
 vless://8dad61e6-7255-49d7-8b24-993a1623dbfd@45.67.139.72:28431?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=xVeT2uiWn3oBH9mn9a9_Lovyf8np6lNPQKbJiIc_FEg&sid=1d609bb99e7bfc06#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - YottaSrc ┇ 45.67.139.72
+vless://94255b48-b47a-4808-a3b8-bdc70ae617a9@45.67.139.72:52673?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=iWLIaumraWdtBKE2FeK96VOx73dnI_FIqH4likU5ylI&sid=0a6891#FR 🇫🇷 ┇ VLESS-XHTTP-RLT - YottaSrc ┇ 45.67.139.72
 vless://45e91c56-0dbd-41a5-a654-287a53fc0ea4@185.117.0.180:8448?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - YottaSrc ┇ 185.117.0.180
-trojan://dsvu6wrx-vesq-ku8i-2s3q-o480iyl03eoc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://fiosdqdv-egq2-nivi-3gyn-lxu7dp21xngs@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

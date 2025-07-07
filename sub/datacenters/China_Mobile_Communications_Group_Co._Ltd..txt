@@ -1,12 +1,17 @@
-trojan://6fqvbyey-yom7-pmi2-sw5m-svnaf5t9sa3t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://lczxjtvo-g7oo-zq3v-7uog-ewowva569el2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7yfbpmst-oc1c-do0u-u2qg-6kss3a81j0h1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2l2arad8-17rs-6t4j-imh0-ft6npdxrlrnh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ptluhyjl-w1ux-o6fq-ano4-uz9pz759mr6i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://n7xwft8o-c2y4-n6d3-msug-b89bkbp9ym5m@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wrwz8nho-dczm-1syo-5t06-vyq8ih08nrhp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mqpyyx00-mce0-72ku-gjzj-ghpf6lvy1pqw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@111.47.212.213:24318?type=tcp&security=tls&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision-udp443#CN 🇨🇳 ┇ VLESS-TCP-TLS - China Mobile Communications Group Co., Ltd. ┇ 111.47.212.213
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@111.47.212.213:35853?type=tcp&security=tls&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision-udp443#CN 🇨🇳 ┇ VLESS-TCP-TLS - China Mobile Communications Group Co., Ltd. ┇ 111.47.212.213
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@111.47.212.213:45883?type=tcp&security=tls&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision-udp443#CN 🇨🇳 ┇ VLESS-TCP-TLS - China Mobile Communications Group Co., Ltd. ┇ 111.47.212.213
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@112.49.49.154:443?type=ws&security=tls&path=/?ed=2560&sni=vlee.amclubs.nyc.mn&fp=randomized#CN 🇨🇳 ┇ VLESS-WS-TLS - China Mobile Communications Group Co., Ltd. ┇ 112.49.49.154
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@120.198.100.58:14548?type=tcp&security=tls&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision-udp443#CN 🇨🇳 ┇ VLESS-TCP-TLS - China Mobile Communications Group Co., Ltd. ┇ 120.198.100.58
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@120.198.100.58:23301?type=tcp&security=tls&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision-udp443#CN 🇨🇳 ┇ VLESS-TCP-TLS - China Mobile Communications Group Co., Ltd. ┇ 120.198.100.58
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@218.204.179.53:50394?type=ws&security=tls&path=TG@ZDYZ2&sni=cfed.tgzdyz2.top&fp=random#CN 🇨🇳 ┇ VLESS-WS-TLS - China Mobile Communications Group Co., Ltd. ┇ 218.204.179.53
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@36.147.48.122:443?type=ws&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#CN 🇨🇳 ┇ VLESS-WS-TLS - China Mobile Communications Group Co., Ltd. ┇ 36.147.48.122
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@visa.cn:443?type=ws&security=tls&path=/?ed=2560&sni=vlee.amclubs.nyc.mn&fp=randomized#CN 🇨🇳 ┇ VLESS-WS-TLS - China Mobile Communications Group Co., Ltd. ┇ 218.207.1.76
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@visa.cn:443?type=ws&security=tls&path=/?ed=2560&sni=vlee.amclubs.nyc.mn&fp=randomized#CN 🇨🇳 ┇ VLESS-WS-TLS - China Mobile Communications Group Co., Ltd. ┇ 36.136.94.14
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@visa.cn:8443?type=ws&security=tls&path=/?ed=2560&sni=wd.vovo.pp.ua&fp=random#CN 🇨🇳 ┇ VLESS-WS-TLS - China Mobile Communications Group Co., Ltd. ┇ 36.136.94.14
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gy01.hunheiydd.xyz:23657?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#CN 🇨🇳 ┇ VLESS-TCP-RLT - China Mobile Communications Group Co., Ltd. ┇ 120.232.204.71
-trojan://bakeocmn-0az7-lzfj-hinm-ovohsceeq163@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gy01.hunheiydd.xyz:45883?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#CN 🇨🇳 ┇ VLESS-TCP-RLT - China Mobile Communications Group Co., Ltd. ┇ 120.232.204.71
+trojan://erbo4sfg-05t6-46kt-cqkz-2xqs1gqbwmzi@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

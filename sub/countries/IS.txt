@@ -1,8 +1,8 @@
-trojan://vb3ig50v-e5t0-hkvc-a41v-5uuhos6hlt7o@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://u0z5km60-xa5s-kzra-z82p-jr9w68qj06ws@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3abdnye6-yx19-5fa5-y2yx-11v4j0115iwv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://67q3aknh-hjzu-foh1-ihnk-p7nohtzyhmm8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ahsbo284-7uiq-j2wk-2nxl-sfs022ouc3jj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://1o3o8r79-ql28-63i2-m386-paua6xih3b73@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://t28754vs-1kda-0blm-l1eq-7tjof0w26c59@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://tiv2z139-i6kx-mxa3-wkhv-zg3gy1lqfj9m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://I_Love__SSHMax_d97dcef@0:0:0:0:0:ffff:59dd:e00b:443?type=grpc&security=tls&sni=zula.ir#IS 🇮🇸 ┇ VLESS-GRPC-TLS - Pq Hosting Plus S.r.l. ┇ 0:0:0:0:0:ffff:59dd:e00b
 vless://e04fd6e4-d570-4bf0-9bd7-c7f7f830e521@91.194.161.15:80?type=ws&security=none&path=/vless#IS 🇮🇸 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 91.194.161.15
 vless://0a917cea-1caa-455f-bccc-8e5eed80d677@91.194.161.69:80?type=grpc&security=none#IS 🇮🇸 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 91.194.161.69
-trojan://7j6tr8xy-hdon-y0sm-fmhp-aklw4nx8q73t@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://xv7th12c-ru0p-gfga-q434-nju03e38ax7k@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

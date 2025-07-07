@@ -1,7 +1,7 @@
-trojan://yjwgiar2-szyq-9udc-bcqr-yeiqktukvgvd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://9fahwd4e-s8ia-39sb-r1gp-kmhv0p0pl73j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kibxp544-goen-x78f-jwgo-wiksmm5i28ln@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e94kcjjd-ol0b-3wly-kr2g-gtr6t4b737if@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xnf3czfq-f10l-xabx-ctft-w86pij6zm97g@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://rj6j5jcl-88p5-7cz0-jz32-8yfk3m91qjrd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1d7vifgx-uhx9-69e2-6ysy-ozdh0v0fv7vm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2c3nz8w1-7xwx-0eal-5pxc-r4ty6h3vs5su@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1SQVctTlRMUyAtIENISU5BIFVOSUNPTSBDaGluYTE2OSBCYWNrYm9uZSBcdTI1MDcgMTEyLjEzMi4yMTUuMzQiLCJhZGQiOiIxMTIuMTMyLjIxNS4zNCIsInBvcnQiOjUwMDA3LCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ0hJTkEgVU5JQ09NIENoaW5hMTY5IEJhY2tib25lIFx1MjUwNyA2MS4yNDIuMTkwLjEzIiwiYWRkIjoiNS5tYW1hbWFqZC5zaXRlIiwicG9ydCI6MjM2MDUsImlkIjoiYzU1Y2ZiZmMtYjkzNi0zNTNhLWIyYjctMTM2NmI4NmM1ZmRlIiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@101.69.122.102:443?type=ws&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#CN 🇨🇳 ┇ VLESS-WS-TLS - CHINA UNICOM China169 Backbone ┇ 101.69.122.102
@@ -9,4 +9,4 @@ vless://d6b8011a-c725-435a-9fec-bf6d3530392c@116.162.25.43:443?type=ws&security=
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#CN 🇨🇳 ┇ VLESS-WS-TLS - CHINA UNICOM China169 Backbone ┇ 123.138.202.49
 vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?type=tcp&security=tls&sni=www.zitian.cn&fp=chrome#CN 🇨🇳 ┇ VLESS-TCP-TLS - CHINA UNICOM China169 Backbone ┇ 42.236.73.72
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@60.9.5.126:443?type=ws&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#CN 🇨🇳 ┇ VLESS-WS-TLS - CHINA UNICOM China169 Backbone ┇ 60.9.5.126
-trojan://emm8ash8-f0on-qwgr-vvrx-npjuuk1h8kwl@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://2l186yeq-azxs-dyrd-3gj0-9r4ky9uhb01b@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://qhm5vvqw-21jq-ixto-7hwh-yqgi3ko0s652@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://i1bcmfa7-0w1o-o58e-zuzp-16j48aa7jdfz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5ucxppbq-1qho-wlk3-3yee-60gnsdvuegx2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://chtec96p-qeso-h9rt-fmeo-imfuh2yol5r4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8ocmjqdi-da5d-hnac-3res-dftf2gqkoafv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://45pt4cld-0n1t-yftw-f0g6-dx3u5fptg1hi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xlv4kz8r-09e4-vpk0-bbtf-copetq18cova@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dkarc4i2-8a1u-jzjh-mweo-wto6uokgn141@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0e0bc531-b3f6-4aa9-a96c-1ae06f6b52a5@205.198.64.111:23232?type=tcp&security=reality&sni=python.org&fp=chrome&flow=xtls-rprx-vision&pbk=OLypQHKPj6qxZf89ByjX-6_0Xh4mcMLwbuJ7grxaNk8&sid=c20d67f3#HK 🇭🇰 ┇ VLESS-TCP-RLT - Eons Data Communications Limited ┇ 205.198.64.111
 vless://0e0bc531-b3f6-4aa9-a96c-1ae06f6b52a5@205.198.68.10:23232?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - Eons Data Communications Limited ┇ 205.198.68.10
-trojan://z1jqxe3b-p1s1-gvpl-ufoq-k2h0rgdgl0pn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://3fig7eft-t6dl-3y59-9n7e-wc4evjwtjswn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

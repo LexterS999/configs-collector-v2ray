@@ -1,6 +1,6 @@
-trojan://8vi0dapd-yjur-zk3w-azfz-cvnh8hxkktdm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://6hzs0isk-zs3o-z9sx-a17l-i68u6wv6vfhs@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://008plwft-clim-mmgn-p1al-1kwjvowyoqej@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fgise46d-tcgf-4j0v-jb7d-u9la1p3zr4wq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://5rtglujv-gogi-ghmo-tgx7-9c442qj9nk5x@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://4jaueibh-ptjm-bqb8-lvsu-74epph78gs9s@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://el44ucug-rb9y-n0bi-mzsy-eljqu0l8dq0p@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9c0ke6ms-1e37-pd3h-7xzr-nsiknisbcssr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@202.37.33.80:443?type=ws&security=tls&path=/?ed=2560&sni=il.ylkszy.eu.org#NZ 🇳🇿 ┇ VLESS-WS-TLS - Ministry of Education ┇ 202.37.33.80
-trojan://36wnnniz-pv4h-5dht-tts1-a4yz56ld95dl@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://2tzv58zd-wwc1-waef-a6v1-dj8s2b09ymqk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

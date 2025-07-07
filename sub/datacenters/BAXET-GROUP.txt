@@ -1,6 +1,6 @@
-trojan://62gk912o-cf47-9qvl-1nnu-wlkf150dtef2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://izrl2mi5-xth7-yjy8-bub1-xg4uba7g64ko@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://iph0133a-ybfl-myqz-upvg-ipuw3dhwcxsj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wzbyg7un-vvro-eocw-9bkq-orwk6v1sm60j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jojf0fpm-hcyv-edww-m2qf-knleb08izfle@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://606m7xnl-4onf-aae2-2z9e-00bxlnuzkkwh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4sm93fum-xc5c-13d8-8c3y-8r8qk9cvspjx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xa03gxyz-scmz-nqwg-o837-30eujdc570ws@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@104.166.125.210:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=v033.ylkszy.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - BAXET-GROUP ┇ 104.166.125.210
-trojan://l8n7a9zw-fcm2-106c-up4s-obi6llap4b8d@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://80scmv7z-kukp-m814-6hbu-7hg7451p3rik@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

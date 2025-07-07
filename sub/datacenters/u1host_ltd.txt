@@ -1,6 +1,6 @@
-trojan://alou8l5z-9ezs-5tza-58r6-lsmp5ujbhtqr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://0xdw51fe-i53i-ye65-ng15-qx6myss1a5o9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wu58ocy5-f6x3-u5r1-t7z9-e0e8w6quvpnc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mwz0rwax-sila-54p6-c7hu-2mc83mtpqfmz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sfyrcgd7-vhxd-3vtf-nv9n-fmsz4xdyjlo1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://ux04xkqs-foc5-lfgk-3dur-o05l0n5caj5t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mrg1co4o-r8e8-2pc2-yubb-3oo8fn8dfk90@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lnhiunh8-2s1s-blo2-2o6f-2vpj0tcp7930@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://524ef193-d0ee-4f6b-bf0b-1ab15a76cc9a@64.188.97.173:443?type=ws&security=tls&path=/getupdates&sni=europeless.duckdns.org#NL 🇳🇱 ┇ VLESS-WS-TLS - u1host ltd ┇ 64.188.97.173
-trojan://z0b9yjzb-r6rn-9vzn-11hp-l2yfncxggxgd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://kdf8lk3n-i2gs-21cg-0fpi-jcxalm620qos@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

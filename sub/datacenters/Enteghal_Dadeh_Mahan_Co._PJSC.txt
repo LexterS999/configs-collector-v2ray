@@ -1,10 +1,11 @@
-trojan://vreqovnf-ejya-3v7y-pi44-ukf86zz233t3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://alrgic9v-bik3-iqc1-7io3-prdye7x2gepn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qk5iq65g-jurx-l1dw-6izb-0uom6ipo0nl0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://snyih40w-le5w-5jdx-5qf2-v1fk4zycrzyz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://zznfq17m-b7gm-c52g-a2du-axin0hapg5ar@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://mvuojz7k-cqy6-udrb-ou77-pckf1xsbqf6r@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wlsv0hz6-ui78-kdcd-276y-h9d93jp63wf3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7aztsnme-40ri-hlp4-8rkl-2gf6uh1da93d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://21b7ccd3-23e4-49a3-a5f7-dd510c9b06fc@mcc.kangavar20.info:26842?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.49
-vless://d5be095e-4ec4-491a-aeb1-0f25d3cfab03@5.202.75.56:27956?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.75.56
-vless://d9f79589-723d-4694-9cc1-ef0e84adef50@45.142.189.78:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 45.142.189.78
 vless://2a891f1d-8727-46e2-b7b4-a8f56c43fd4b@213.176.2.16:2099?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.2.16
+vless://d9f79589-723d-4694-9cc1-ef0e84adef50@45.142.189.78:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 45.142.189.78
 vless://e971e939-c844-4209-8720-e93db30210e3@5.202.75.201:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.75.201
-trojan://tgum41e8-pbz3-jkul-wed7-zfaaruho1l3w@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://d5be095e-4ec4-491a-aeb1-0f25d3cfab03@5.202.75.56:27956?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.75.56
+vless://3178c081-8819-4e2f-88db-7236ff25c88e@5.202.75.56:18688?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-RLT - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.75.56
+trojan://1ph3tcdk-byee-c2ap-65f0-9yy013cf7r2c@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

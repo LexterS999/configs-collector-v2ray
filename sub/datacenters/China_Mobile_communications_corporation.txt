@@ -1,14 +1,20 @@
-trojan://xjzguuun-8xju-zb07-jup5-xsas40xqeydn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://b5jvnw59-p23l-s3d3-jz1x-jrfybwhnlkzm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zo2fik1r-6orf-qtkr-977p-ajdfrnwsdj2r@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://s1vmekfr-bljx-6zsd-abjw-cyef0np976zw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://nobmenud-cctw-e5r0-i0as-mb06km4edzhf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://qhj4aohv-7f2k-cxap-r3tt-ewf2u89erv16@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://b6okepzz-qnyw-3x6j-k242-003m8upjkjbw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://z9a9easi-b50i-7rii-asdj-bgjb5dxa9pxy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hIE1vYmlsZSBjb21tdW5pY2F0aW9ucyBjb3Jwb3JhdGlvbiBcdTI1MDcgMzYuMTM5LjYuMjE4IiwiYWRkIjoiNTAwMTIuYmFpZHUtY2RuLnRvcCIsInBvcnQiOjUwMDEyLCJpZCI6ImNkYjQ5YTliLTZlMjMtNGQ5MC1iMmE4LTVjMTU4YjQzN2NmMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENoaW5hIE1vYmlsZSBjb21tdW5pY2F0aW9ucyBjb3Jwb3JhdGlvbiBcdTI1MDcgMzYuMTM5LjcuMTg0IiwiYWRkIjoieXd0d2VwY253bG91LnhuLS1maXFzOHNqejJidWxsLmNvbSIsInBvcnQiOjYwNzE3LCJpZCI6ImE1MWVkMjVkLWQ4NzgtNDcyYi04YTVjLTRmMmY1M2RkYzJhYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@221.131.165.9:10860?type=tcp&security=tls&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision-udp443#CN 🇨🇳 ┇ VLESS-TCP-TLS - China Mobile communications corporation ┇ 221.131.165.9
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@221.131.165.9:11555?type=tcp&security=tls&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision-udp443#CN 🇨🇳 ┇ VLESS-TCP-TLS - China Mobile communications corporation ┇ 221.131.165.9
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@36.153.95.129:443?type=ws&security=tls&path=/?ed=2560&sni=vlee.amclubs.nyc.mn&fp=randomized#CN 🇨🇳 ┇ VLESS-WS-TLS - China Mobile communications corporation ┇ 36.153.95.129
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@120.238.53.237:34313?type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#CN 🇨🇳 ┇ VLESS-TCP-RLT - China Mobile communications corporation ┇ 120.238.53.237
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:31800?type=tcp&security=none#CN 🇨🇳 ┇ VLESS-TCP-RLT - China Mobile communications corporation ┇ 120.233.87.139
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:56127?type=tcp&security=none#CN 🇨🇳 ┇ VLESS-TCP-RLT - China Mobile communications corporation ┇ 120.233.87.139
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:40387?type=tcp&security=none#CN 🇨🇳 ┇ VLESS-TCP-RLT - China Mobile communications corporation ┇ 120.241.144.204
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@bsuqian01.dynu.net:47531?type=tcp&security=none#CN 🇨🇳 ┇ VLESS-TCP-RLT - China Mobile communications corporation ┇ 120.241.144.204
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:41279?type=tcp&security=none#CN 🇨🇳 ┇ VLESS-TCP-RLT - China Mobile communications corporation ┇ 120.233.87.80
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@gysz0000.dynu.net:23657?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#CN 🇨🇳 ┇ VLESS-TCP-RLT - China Mobile communications corporation ┇ 120.232.218.119
-trojan://381bdm5y-mvti-1j3y-qbml-d4zm2myiu6wu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:34313?type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#CN 🇨🇳 ┇ VLESS-TCP-RLT - China Mobile communications corporation ┇ 120.232.218.119
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou02.mysynology.net:62157?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#CN 🇨🇳 ┇ VLESS-TCP-RLT - China Mobile communications corporation ┇ 120.232.218.119
+vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@shenzhou05.mysynology.net:17278?type=tcp&security=none#CN 🇨🇳 ┇ VLESS-TCP-RLT - China Mobile communications corporation ┇ 120.232.218.119
+trojan://vnnvxqgx-y3d2-uxb4-q8b6-qgrbatwvv6m9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

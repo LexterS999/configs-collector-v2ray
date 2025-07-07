@@ -1,8 +1,9 @@
-trojan://gpvfr03q-g8ex-k80s-nc0w-yl48x6hiutft@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://wnm7ryl8-pthz-8zp9-pkf9-1jaoj0dsea4w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3volu6py-5f0y-9b50-go7b-7t556s492olk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://q2cd5nc9-wddi-ycbs-3oyf-izgebtvjov36@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8rla1zh3-6we4-z7z5-mcic-s0xxeqoj6zdn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://6hc62wu5-8owi-bevu-uptg-doy01r52kb4u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ucvhl2sa-vb0c-tbdu-1yhp-y97hi1dyf4ip@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ipmn8uxn-glzg-bwpv-lwu4-yx4h91440yr2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ecee63a4-a4a9-4c77-a589-5142c4cddeae@94.156.203.153:29880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Cloudsigma Ag ┇ 94.156.203.153
 vless://96b8efd8-8a0d-4194-a311-10168edf2071@94.156.203.224:24501?type=ws&security=none&path=/Free#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudsigma Ag ┇ 94.156.203.224
+vless://80224ec3-8289-43a4-8de1-dce19bd6c439@94.156.203.224:26626?type=tcp&security=reality&sni=Soft98.ir&fp=chrome&flow=xtls-rprx-vision&pbk=rwpQdRKmL3gnGph-hm3zEsMhv48CPpgiGn-FNrHiNmY&sid=ed84644a#CH 🇨🇭 ┇ VLESS-TCP-RLT - Cloudsigma Ag ┇ 94.156.203.224
 vless://1eece044-ce02-484d-b3f2-609e78403690@45.88.24.94:55269?type=tcp&security=reality&sni=Soft98.ir&fp=chrome&flow=xtls-rprx-vision&pbk=j6u7Lnap55eCAwN4m2is0Sn7udaxr_l7Dp3rfV6mkXE&sid=1de4d26b#US 🇺🇸 ┇ VLESS-TCP-RLT - Cloudsigma Ag ┇ 45.88.24.94
-trojan://an7lzn65-my6w-r7zk-s02j-l20p73h2ymxe@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ymt8rfty-xy3n-dciz-1l17-diasfoaxcjyr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

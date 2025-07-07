@@ -1,7 +1,7 @@
-trojan://6bdf85eg-yenv-taku-wcs0-i1baatt6olxk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://wtf2dwxl-6sy3-ck3f-3tif-ibjiu2a4yyw7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2f3o2md0-d5ab-nexo-q7jd-4zgk3jtsa0d6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xswh1vl1-hujc-72r8-mpwq-vol69m5kmmad@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://d1am6byy-a9lb-0q8v-vduw-gv0b1uzqeegm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://s22vxx8i-fn0v-8os7-owx7-pxgyal4g3sbl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ixrzh3ub-7xbr-b65n-bnyq-a8xufwzkkbr2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kz9pyo0d-ah6a-lx3l-mcyg-t3zgipio8rhb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#AE 🇦🇪 ┇ SHADOWSOCKS-TCP-NTLS ┇ 89.35.119.87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXJQSVJYekVxbXhwbWpBeE9nY2VZ@45.150.32.13:14628#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 45.150.32.13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Aeza International Ltd ┇ 138.124.115.157
@@ -18,17 +18,18 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 4.158.124.20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 74.177.202.58
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ID 🇮🇩 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.159.100
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 134.209.147.198
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 103.111.114.29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphSnJZMjI1WU00RkQ4U09YbFJqbklB@USA.tiny1.cloud:1080#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Web Dadeh Paydar Co (Ltd) ┇ 91.207.18.89
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456#KZ 🇰🇿 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 38.107.234.38
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjU3MjdkZi0xNWVhLTQ1M2MtYTAwNi0xM2ZlOThmZWUxZDI@141.164.63.32:30936#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AS-VULTR ┇ 141.164.63.32
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - Greenhost BV ┇ 45.87.175.171
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.199:8080#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - Greenhost BV ┇ 45.87.175.199
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - SIA VEESP ┇ 216.173.70.187
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 164.92.156.41
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MnY4bzFuTnRLSWtRZEY4Q0lGYlh3@178.208.91.118:19805#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Iron Hosting Centre LTD ┇ 178.208.91.118
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMWhqaVVtU2d1Y2d6WVlKMFd0cXdX@77.246.102.112:60117#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 77.246.102.112
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RzBPRGZOd0NVR1IwS0VmM1ZQUUxo@77.238.229.244:12369#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Servers Tech Fzco ┇ 77.238.229.244
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU@23.27.24.181:40030#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Evoxt Enterprise ┇ 23.27.24.181
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@2.59.163.106:2222#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 2.59.163.106
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@2.59.163.101:2222#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 2.59.163.101
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@2.59.163.104:2222#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 2.59.163.104
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@2.59.163.105:2222#PL 🇵🇱 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 2.59.163.105
@@ -38,5 +39,6 @@ ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw@82.146.45.100:20#RU 🇷🇺
 ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw@92.63.193.252:20#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - JSC IOT ┇ 92.63.193.252
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Kviktel LLC ┇ 45.139.24.24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 62.133.63.212
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.128:2222#TR 🇹🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 83.217.9.128
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Newserverlife LLC ┇ 104.167.197.25
-trojan://0i0512ey-6sqw-5ju7-hlmr-is6a1stvaxs4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://roc3xnl5-y46m-zo2e-nlsa-l1afy51v7a8p@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

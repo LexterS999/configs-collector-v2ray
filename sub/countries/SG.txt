@@ -1,11 +1,9 @@
-trojan://t9t5psck-0gs3-unjm-y40w-9frukg6s351p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://47gvqkow-ygp1-2gha-sr3a-vonj4ogkstzf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://y3vk48uf-3ths-95uw-hlfu-bfy640dzu2pf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://624mn7zp-z0jq-e35w-mazd-slkl740meo3q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://scv0swvx-ke6x-hk7x-v76m-vuxxvuu5wxs6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://grw1aamq-21de-kakp-q141-kif8bqjfttyu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://24r541us-3a5b-g8op-3wuh-36tugyh9vuq8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://shm734f5-22ac-9bzd-u6fh-ve4ttmybhc6q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c2d0a8c0-20fb-44c6-8111-1c50019b5c6d@77.221.149.42:2053?type=tcp&security=none&path=/#SG 🇸🇬 ┇ VLESS-TCP-NTLS ┇ 77.221.149.42
 vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@104.234.233.57:35911?type=ws&security=tls&path=/?ed&sni=agedy.ambercc.filegear-sg.me#SG 🇸🇬 ┇ VLESS-WS-TLS - AKILE LTD ┇ 104.234.233.57
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@3bd9.55dca.e048.f8-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 54.255.139.254
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@3bd9.55dca.e048.f9-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 3.0.101.89
 vless://cdb63ff9-1767-4a35-97e5-900048e4feb2@13.215.252.170:443?type=tcp&security=tls&sni=cdn-sg02.download.pikoport.com&fp=chrome&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 13.215.252.170
 vless://70c2e363-a934-4ea5-9e29-7cadd817194c@13.228.142.218:443?type=ws&security=tls&path=/?ed=2560&sni=v2-3h5.pages.dev&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 13.228.142.218
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@13.228.155.72:443?type=ws&security=none&sni=miku.mikuru.ip-ddns.com#SG 🇸🇬 ┇ VLESS-WS-NTLS - AMAZON-02 ┇ 13.228.155.72
@@ -16,11 +14,13 @@ vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@18.140.1.71:20230?type=grpc&securit
 vless://b543c066-2189-4aa4-8afb-445ac8ee28d4@18.142.229.20:443?type=tcp&security=tls&sni=buylite.tv.apple.com&fp=chrome&flow=xtls-rprx-vision-udp443#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 18.142.229.20
 vless://4ee1809a-4a35-4601-99b3-51ce05fb4585@18.143.64.158:60002?type=ws&security=tls&path=/?ed=2560&sni=oty.myto.ip-ddns.com&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.143.64.158
 vless://3d93a26b-4b85-49fc-9818-8bb80a76d04a@18.143.93.7:13242?type=ws&security=tls&path=/?ed=2560&sni=miku.mikuru.ip-ddns.com&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 18.143.93.7
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3.0.101.89:443?type=tcp&security=tls&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=chrome&flow=xtls-rprx-vision-udp443#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 3.0.101.89
 vless://f4522b1a-7cc2-4d4b-84c5-357242e052bb@3.0.39.179:443?type=ws&security=tls&path=/&sni=jd.chenchuanjin.sbs#SG 🇸🇬 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.0.39.179
 vless://f4522b1a-7cc2-4d4b-84c5-357242e052bb@3.0.39.180:443?type=ws&security=tls&path=/&sni=jd.chenchuanjin.sbs#SG 🇸🇬 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.0.39.180
 vless://f2b3219c-215f-4b7e-96d8-25b751d79988@3.1.94.232:443?type=ws&security=tls&path=/Telegram🇨🇳 @WangCai2 /&sni=edgetunnel.xiaomayi.nyc.mn#SG 🇸🇬 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 3.1.94.232
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f10-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=ios&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 54.179.186.107
 vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f7-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=b295-23ap29-6bh.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 54.179.89.113
+vless://6bc29783-3ff6-4379-8650-611a7095307b@3bd9.55dca.e048.f8-fef1f.yfjcs.com:443?type=tcp&security=tls&sni=yfsg-1.xn--4gq62f52gppi29k.com&fp=firefox&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 54.255.139.254
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.128.164.52:9999?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#SG 🇸🇬 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 47.128.164.52
 vless://e752cca9-18aa-4eaf-a6f6-79c375eee55d@47.129.154.91:443?type=tcp&security=tls&sni=android.google.com&fp=chrome#SG 🇸🇬 ┇ VLESS-TCP-TLS - AMAZON-02 ┇ 47.129.154.91
 vless://f08d6a6b-a0b3-410e-a0ba-eae71b521904@47.129.30.173:20230?type=grpc&security=tls&path=/&sni=sg001.421421.xyz#SG 🇸🇬 ┇ VLESS-GRPC-TLS - AMAZON-02 ┇ 47.129.30.173
@@ -42,6 +42,7 @@ vless://3fdf5dbc-d3e8-4ae9-aeef-dd83278ea4af@13.229.122.251:443?type=tcp&securit
 vless://3fdf5dbc-d3e8-4ae9-aeef-dd83278ea4af@18.141.158.36:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=xjWkdgeetCnB1-kHqwVnAaSUqg4qK9TFWQlamW8FSRI&sid=e2e15173#SG 🇸🇬 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.141.158.36
 vless://a89fd399-8e64-4084-b363-c9bed3ebb524@18.142.231.20:443?type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=LNCmkXw_XXSJ5uWuabVN6PAYGEW9Yef6C3kc9jqoXBI&sid=b1aa86bb600f9a1d#SG 🇸🇬 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.142.231.20
 vless://be0b1c5d-e2f4-4828-a527-f4e0f2eaea1a@aws-link9.liangxin1.xyz:23587?type=tcp&security=reality&sni=iosapps.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=H66PLLf6HkZwHk4oFqisfTawIvw2cxkEwk8Ue8sHZgA&sid=19b580ae#SG 🇸🇬 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.143.64.184
+vless://98bd7253-05c5-47e0-b507-f4f4465fd4c2@aws-link9.liangxin1.xyz:443?type=tcp&security=reality&sni=www.lamer.com.sg&fp=chrome&flow=xtls-rprx-vision&pbk=WwOadVLgJs-cjvdtcBs6HAFX9J64F7_P4-8YioR2dXY&sid=140a4f72#SG 🇸🇬 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.143.64.184
 vless://7300363f-c18f-4bcf-a5a9-2ad35220505e@pq.aws63.yydjc.top:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=2fXYSD6vZyrb38UGOzeqjhQCj4N9kImoIjopb6tSii4&sid=9cbb1611#SG 🇸🇬 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.136.196.137
 vless://7300363f-c18f-4bcf-a5a9-2ad35220505e@pq.aws65.yydjc.top:443?type=tcp&security=reality&sni=iosapps.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=Lc4jxP7X3dDG6LYEciBN9gBGu8SuarmXDiQfIFhLdyI&sid=f2759a18#SG 🇸🇬 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 54.251.188.53
 vless://telegram-id-qeshmserver@139.180.146.164:2020?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 139.180.146.164
@@ -54,21 +55,26 @@ vless://b94af725-c3d2-464b-a048-1c74f3b9cde7@172.104.61.201:443?type=tcp&securit
 vless://e82d795d-9848-40f4-a3ac-aa3da140794a@172.236.150.194:443?type=ws&security=tls&path=/bing&sni=sgp.cayuo.me#SG 🇸🇬 ┇ VLESS-WS-TLS - Akamai Connected Cloud ┇ 172.236.150.194
 vless://fdfc88b6-d0af-47ca-acbc-a875c81c35ac@45.118.133.29:2321?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 45.118.133.29
 vless://c49fda18-023b-4886-8ef5-71e1ddafa3c3@onlyfans.crazyhearthacker.shop:443?type=tcp&security=tls&sni=i.ytimg.com&fp=chrome&flow=none#SG 🇸🇬 ┇ VLESS-TCP-TLS - Akamai Connected Cloud ┇ 172.237.80.149
-vless://0bf2a58b-fc26-47c4-88f4-55281702d36e@sg2.interld123456789.com:56702?type=tcp&security=tls&path=/&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#SG 🇸🇬 ┇ VLESS-TCP-TLS - Akamai Connected Cloud ┇ 172.104.52.26
-vless://829d6c36-fac5-4dc1-bea4-c1814cdddd68@sg3.interld123456789.com:56702?type=tcp&security=tls&path=/&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#SG 🇸🇬 ┇ VLESS-TCP-TLS - Akamai Connected Cloud ┇ 172.104.52.247
+vless://0bf2a58b-fc26-47c4-88f4-55281702d36e@sg2.interld123456789.com:56702?type=tcp&security=tls&path=/&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#SG 🇸🇬 ┇ VLESS-TCP-TLS - Akamai Connected Cloud ┇ 172.104.60.114
+vless://829d6c36-fac5-4dc1-bea4-c1814cdddd68@sg3.interld123456789.com:56702?type=tcp&security=tls&path=/&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#SG 🇸🇬 ┇ VLESS-TCP-TLS - Akamai Connected Cloud ┇ 172.104.61.150
 vless://3b4e2588-a84c-41e5-a02e-3063d9ef4d80@us3do.interld123456789.com:56702?type=tcp&security=tls&path=/&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#SG 🇸🇬 ┇ VLESS-TCP-TLS - Akamai Connected Cloud ┇ 172.104.39.145
 vless://73d48776-0224-49a0-8f0d-779c596517f4@192.46.224.79:37063?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=kvk7jE-00JtLrjoH6qR7ysIy-TZE46OHfN9sLD50nxs&sid=3061e843#SG 🇸🇬 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 192.46.224.79
+vless://374e925e-7f93-4d82-8d03-fd713bebfa24@sg2.interld123456789.com:10002?type=tcp&security=reality&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=xnzUvDQZ4B45lUi40lFKOLWiJdPQW8LzhGsGandvvlc&sid=ad081079#SG 🇸🇬 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.104.60.114
+vless://374e925e-7f93-4d82-8d03-fd713bebfa24@us3do.interld123456789.com:10002?type=tcp&security=reality&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=xnzUvDQZ4B45lUi40lFKOLWiJdPQW8LzhGsGandvvlc&sid=ad081079#SG 🇸🇬 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.104.39.145
 vless://9db6acf4-d3d3-4176-f704-0da5f6da6165@185.248.187.69:10297?type=tcp&security=reality&sni=www.sega.com&fp=chrome&flow=xtls-rprx-vision&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM#SG 🇸🇬 ┇ VLESS-TCP-RLT - Akari Networks ┇ 185.248.187.69
-vless://badbc35d-a86b-412d-ac05-29ab54643c80@8.219.126.137:491?type=ws&security=tls&path=/?ed=2560&sni=mot.majusti.dpdns.org#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.219.126.137
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.165.25:2083?type=ws&security=tls&path=/blue&sni=hk033.ylks.link#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 47.236.165.25
 vless://5c87a3a5-d2c4-4cd9-878e-07e307b386d6@47.236.181.185:8443?type=ws&security=tls&sni=mot.majusti.dpdns.org&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 47.236.181.185
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.254.120:2083?type=ws&security=tls&path=/proxyip=proxyip.sg.fxxk.dedyn.io&sni=kk033.ylks.link#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 47.236.254.120
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.254.120:2087?type=ws&security=tls&path=/blue&sni=zdy033.kpcloud.eu.org#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 47.236.254.120
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.254.120:2096?type=ws&security=tls&path=/proxyip=proxyip.sg.fxxk.dedyn.io&sni=v033.ylkszy.eu.org#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 47.236.254.120
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.254.120:8443?type=ws&security=tls&path=/proxyip=proxyip.sg.fxxk.dedyn.io&sni=v033.ylkszy.eu.org#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 47.236.254.120
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.245.91.113:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 47.245.91.113
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.245.95.160:1443?type=ws&security=none#SG 🇸🇬 ┇ VLESS-WS-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.245.95.160
 vless://0d0782a3-2c62-4936-b893-5790188778ea@8.219.1.169:443?type=ws&security=tls&path=/&sni=XbU10cS9vT.gIgA1.oRg#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.219.1.169
 vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.219.103.101:443?type=ws&security=tls&path=/wss&sni=news1.testsnew.com#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.219.103.101
 vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.219.122.88:443?type=ws&security=tls&path=/wss&sni=news1.testsnew.com#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.219.122.88
 vless://279ba6d3-173d-41ab-b5b6-48b5a12e2f93@8.219.125.8:14445?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Alibaba US Technology Co., Ltd. ┇ 8.219.125.8
+vless://badbc35d-a86b-412d-ac05-29ab54643c80@8.219.126.137:491?type=ws&security=tls&path=/?ed=2560&sni=mot.majusti.dpdns.org#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.219.126.137
 vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.219.146.89:443?type=ws&security=tls&path=/wss&sni=news1.testsnew.com#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.219.146.89
 vless://e4e80428-c1e2-44b5-a8ce-7b868d41b49b@8.219.151.193:80?type=ws&security=none&path=/#SG 🇸🇬 ┇ VLESS-WS-NTLS - Alibaba US Technology Co., Ltd. ┇ 8.219.151.193
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.219.170.57:8000?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.219.170.57
@@ -84,13 +90,14 @@ vless://65fa5d79-efca-44dd-941e-8aa8014a780f@8.219.97.179:2095?type=ws&security=
 vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.222.128.71:443?type=ws&security=tls&path=/wss&sni=news1.testsnew.com#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.222.128.71
 vless://0783b1b9-5d8b-4d03-adc3-b050acc71a29@8.222.131.225:443?type=ws&security=tls&path=/bing&sni=sgp.rtot.me#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.222.131.225
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.222.159.134:12314?type=ws&security=tls&path=/blue&sni=cp.ylks.xyz#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.222.159.134
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@8.222.159.134:12483?type=ws&security=tls&path=/blue&sni=ap.ylks.xyz#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.222.159.134
 vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.222.160.112:443?type=ws&security=tls&path=/wss&sni=news1.testsnew.com#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.222.160.112
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.222.178.214:6666?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.222.178.214
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@8.222.213.91:587?type=ws&security=tls&sni=miku.mikuru.ip-ddns.com#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.222.213.91
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@8.222.243.73:26385?type=ws&security=tls&path=Telegram🇨🇳 @pgkj666 /?ed=2560&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.222.243.73
 vless://8e3230a4-2867-4087-9b4b-27e54ef7cb10@8.222.245.218:443?type=ws&security=tls&path=/wss&sni=news1.testsnew.com#SG 🇸🇬 ┇ VLESS-WS-TLS - Alibaba US Technology Co., Ltd. ┇ 8.222.245.218
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@8.222.199.43:443?type=tcp&security=reality&sni=api.digital-help-prd.autodesk.com&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2#SG 🇸🇬 ┇ VLESS-TCP-RLT - Alibaba US Technology Co., Ltd. ┇ 8.222.199.43
-vless://5f9ad25f-76c8-48d1-9c8c-c38effd52526@91.242.241.45:443?type=tcp&security=tls&sni=sin5.vpntype.dev&fp=chr...&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - BlueVPS OU ┇ 91.242.241.45
+vless://0644e8af-5ca7-4f63-b0e3-6f9c8917290a@free-sg.vpnkey.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - BlueVPS OU ┇ 91.242.241.45
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@164.52.2.100:443?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-NTLS - CDSC-AS1 ┇ 164.52.2.100
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@164.52.2.99:443?type=ws&security=none&sni=0926.qiang2000.link#SG 🇸🇬 ┇ VLESS-WS-NTLS - CDSC-AS1 ┇ 164.52.2.99
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@27.50.48.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#SG 🇸🇬 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 27.50.48.77
@@ -176,13 +183,17 @@ vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@92.243.74.247:8880?type=ws&security
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@92.243.74.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#SG 🇸🇬 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 92.243.74.251
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.243.74.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#SG 🇸🇬 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 92.243.74.29
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@92.243.74.2:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shorekeeper.cloudns.org&fp=randomized#SG 🇸🇬 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 92.243.74.2
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@92.243.74.2:8443?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2048&sni=123.drmIng.bUzz#SG 🇸🇬 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 92.243.74.2
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@92.243.74.3:443?type=ws&security=tls&sni=carlotta.shorekeeper.cloudns.org&fp=randomized#SG 🇸🇬 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 92.243.74.3
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.3:8443?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edccj.ambercc.filegear-sg.me&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 92.243.74.3
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@92.243.74.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#SG 🇸🇬 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 92.243.74.3
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.243.74.5:8880?type=httpupgrade&security=none&path=/#SG 🇸🇬 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 92.243.74.5
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.243.74.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#SG 🇸🇬 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 92.243.74.63
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@92.243.74.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#SG 🇸🇬 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 92.243.74.77
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.243.75.121:8880?type=httpupgrade&security=none&path=/#SG 🇸🇬 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 92.243.75.121
 vless://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.136:443?type=grpc&security=tls&sni=iryiccyne.wwtraveler.com&fp=chrome#SG 🇸🇬 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 92.243.75.136
 vless://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.13:443?type=grpc&security=tls&sni=iryiccyne.wwtraveler.com&fp=chrome#SG 🇸🇬 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 92.243.75.13
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@92.243.75.13:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#SG 🇸🇬 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 92.243.75.13
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.243.75.161:8880?type=httpupgrade&security=none&path=/#SG 🇸🇬 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 92.243.75.161
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.243.75.162:8880?type=httpupgrade&security=none&path=/#SG 🇸🇬 ┇ VLESS-HTTPUPGRADE-NTLS - Cloudflare London, LLC ┇ 92.243.75.162
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.243.75.168:8880?type=ws&security=none&path=Telegram@WangCai2/?ed=2560&sni=kjgx.laoyoutiao.link#SG 🇸🇬 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 92.243.75.168
@@ -241,6 +252,7 @@ vless://7447d4b9-0063-42f0-abb6-25a24afd2287@152.42.215.141:23528?type=tcp&secur
 vless://93457282-8035-4fd3-9be0-dea9fe286a06@152.42.218.140:443?type=ws&security=tls&path=/shalana&sni=aka.ms&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - DIGITALOCEAN-ASN ┇ 152.42.218.140
 vless://2d9798a1-6f27-4d8c-8f89-0d4147ae7cd2@152.42.218.33:443?type=ws&security=tls&path=/&sni=fonts.googleapis.com#SG 🇸🇬 ┇ VLESS-WS-TLS - DIGITALOCEAN-ASN ┇ 152.42.218.33
 vless://5463817d-30ea-4bef-805e-ae714070fb30@152.42.227.39:443?type=tcp&security=tls&sni=fxtwitter.com&fp=chrome#SG 🇸🇬 ┇ VLESS-TCP-TLS - DIGITALOCEAN-ASN ┇ 152.42.227.39
+vless://510ff552-5a13-46f1-9054-1ac82e6239ff@152.42.227.39:51695?type=ws&security=none&path=/&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-NTLS - DIGITALOCEAN-ASN ┇ 152.42.227.39
 vless://64fbeeb0-95df-4d36-ba2c-1dad26d6926f@152.42.229.225:80?type=ws&security=none&path=/FREE by Tharuwa (0767597317)#SG 🇸🇬 ┇ VLESS-WS-NTLS - DIGITALOCEAN-ASN ┇ 152.42.229.225
 vless://1f003a74-64b6-47e8-8e31-6ac4433ac39d@152.42.237.244:443?type=tcp&security=tls&sni=api.zoom.us&fp=chrome#SG 🇸🇬 ┇ VLESS-TCP-TLS - DIGITALOCEAN-ASN ┇ 152.42.237.244
 vless://dc23d6df-4a97-4da7-81a1-f67a4bedc6d8@152.42.238.214:80?type=tcp&security=none&path=/FREE#SG 🇸🇬 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 152.42.238.214
@@ -267,27 +279,27 @@ vless://eb9ac797-4a77-4f3f-bd60-0baa69b47e92@opensignal.awsglobalaccelerator.onl
 vless://854e7b3e-f5a4-4f75-8421-781d479509d9@paid.sahanwickramasinghe.shop:443?type=tcp&security=tls&sni=www.netflix.com&fp=chrome#SG 🇸🇬 ┇ VLESS-TCP-TLS - DIGITALOCEAN-ASN ┇ 104.248.157.116
 vless://355d36aa-9ac0-4865-9f51-df2a0a506e64@premium.vkehi.shop:443?type=tcp&security=tls&fp=chrome&flow=none#SG 🇸🇬 ┇ VLESS-TCP-TLS - DIGITALOCEAN-ASN ┇ 139.59.107.19
 vless://79e8180b-b928-45b1-8c1c-f703eae5dbf1@senula.xcasper.ggff.net:443?type=tcp&security=tls&sni=store.cloudflare.steamstatic.com&fp=chrome#SG 🇸🇬 ┇ VLESS-TCP-TLS - DIGITALOCEAN-ASN ┇ 157.245.55.252
-vless://6cd00887-9b1e-4e26-9745-98006ae20f76@ultra-vpn.bestprovider.site:443?type=tcp&security=tls&sni=m.netflix.com&fp=chrome&flow=none#SG 🇸🇬 ┇ VLESS-TCP-TLS - DIGITALOCEAN-ASN ┇ 152.42.215.243
 vless://23642cad-92e7-428c-9f88-127f3a2645de@xraylk.pramuditha.shop:443?type=tcp&security=tls&sni=aka.ms&fp=chrome#SG 🇸🇬 ┇ VLESS-TCP-TLS - DIGITALOCEAN-ASN ┇ 159.89.200.39
 vless://291c27a5-34d2-4081-83cc-2196cd208148@xrr.rtxconfigz.xyz:443?type=ws&security=tls&sni=aka.ms&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - DIGITALOCEAN-ASN ┇ 152.42.180.101
 vless://5419c4db-9964-4461-9a16-5da7579ad8a4@146.190.107.100:443?type=tcp&security=reality&sni=music.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=IMRUYqTjjaqgC6JO_Y7S1I_jxUAP721ajl3IlhhiBB0&sid=35437d72#SG 🇸🇬 ┇ VLESS-TCP-RLT - DIGITALOCEAN-ASN ┇ 146.190.107.100
 vless://010ae067-425f-4492-8c30-5ee318bb18a6@152.42.236.142:443?type=tcp&security=reality&sni=music.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=IMRUYqTjjaqgC6JO_Y7S1I_jxUAP721ajl3IlhhiBB0&sid=35437d72#SG 🇸🇬 ┇ VLESS-TCP-RLT - DIGITALOCEAN-ASN ┇ 152.42.236.142
 vless://e83bb713-fff2-4e6f-888c-7728ba42b719@info90001.novintec99.ir:21337?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=bGfBNbN30La6XWb4Cakg4y7kRCiveT2LpWYhK8r3-BI&sid=866c9d6a17a0ae44#SG 🇸🇬 ┇ VLESS-TCP-RLT - DIGITALOCEAN-ASN ┇ 167.71.221.210
 vless://acd867f1-a71b-4a17-a473-2b57930d8678@webhook-receiver.4b3a.com:8443?type=tcp&security=reality&sni=cDn.cloUdfLare.com.&fp=chrome&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=6ba85179e30d4fc2#SG 🇸🇬 ┇ VLESS-TCP-RLT - DIGITALOCEAN-ASN ┇ 146.190.201.223
-vless://3f43aa52-8958-467c-897c-488cb0bcfb47@199.232.13.32:80?type=ws&security=none&path=EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420?ed=2048#SG 🇸🇬 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.13.32
-vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?type=ws&security=none&path=/?ed=2048#SG 🇸🇬 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.13.59
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@146.75.44.14:443?type=ws&security=tls&path=/kptMTT8pTmxLWsoJ?ed=2560&sni=aliii.ir&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - FASTLY ┇ 146.75.44.14
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.2:443?type=ws&security=tls&path=/H?ed=2560&sni=Sanjeshp.Ir&fp=randomized#SG 🇸🇬 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.12.2
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.41:443?type=ws&security=tls&path=/H?ed=2560&sni=mefa.ir&fp=randomized#SG 🇸🇬 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.12.41
+vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@199.232.13.32:443?type=ws&security=tls&path=/?ed=2560&sni=Channel-ELiV2RAY--ELiV2RAY.nET#SG 🇸🇬 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.13.32
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.13.32:80?type=ws&security=none&path=/Channel-ELiV2RAY---ELiV2RAY?ed=2048#SG 🇸🇬 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.13.32
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@199.232.13.4:443?type=ws&security=tls&path=/?ed=2560&sni=Channel-ELiV2RAY-ELiV2RAY.nET#SG 🇸🇬 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.13.4
+vless://d41d2d38-8d13-4458-b9cf-1dfc8b0fe2b7@199.232.13.59:80?type=ws&security=none&path=/?ed=2048#SG 🇸🇬 ┇ VLESS-WS-NTLS - FASTLY ┇ 199.232.13.59
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.15.13:443?type=ws&security=tls&path=/H?ed=2560&sni=Sanjeshp.Ir&fp=randomized#SG 🇸🇬 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.15.13
 vless://263497fb-9ae2-4f7b-94c6-b0179e480448@199.232.15.225:443?type=ws&security=tls&path=/YFeRT11KL9V669C0?ed=2560&sni=www.speedtest.net&fp=randomized#SG 🇸🇬 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.15.225
 vless://267b19e0-8849-41c2-aa3c-50ccd4478b31@199.232.15.239:443?type=ws&security=tls&path=/VLESS?-ELiV2rAY-ELiV2rAY&sni=FullHD.4K.ELiV2RaY.ai&fp=edge#SG 🇸🇬 ┇ VLESS-WS-TLS - FASTLY ┇ 199.232.15.239
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@35.240.184.147:8092?type=ws&security=tls&path=TG@ZDYZ2&sni=cfed.tgzdyz2.top&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - GOOGLE-CLOUD-PLATFORM ┇ 35.240.184.147
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.180.161.123:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - HONG KONG Megalayer Technology Co.,Limited ┇ 103.180.161.123
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.180.161.69:587?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg#SG 🇸🇬 ┇ VLESS-WS-TLS - HONG KONG Megalayer Technology Co.,Limited ┇ 103.180.161.69
-vless://379e0540-16f2-4221-9717-b409a0dd5799@5.223.55.159:443?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 5.223.55.159
 vless://ae96b87b-bc2c-4133-90a3-1366b1c57d2e@5.223.41.62:48851?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 5.223.41.62
+vless://379e0540-16f2-4221-9717-b409a0dd5799@5.223.55.159:443?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 5.223.55.159
 vless://379e0540-16f2-4221-9717-b409a0dd5799@5.223.60.162:443?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 5.223.60.162
 vless://696137b8-2580-477c-94e4-c4fb4692cd4a@nimit.itbt.ir:12627?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Hetzner Online GmbH ┇ 5.223.59.209
 vless://71ad99e4-04a6-40fa-a935-bf64a0911da7@assets.media.static.cloud.cdn.sync.node.sg1.singapore.region01.network.resources.files.content.server.accesspoint.main.moaidownloader.info:5070?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=xY35YNLF8ZcwuN-lL4Sku3yDB0M-vu1QX6i20MsrTmI#SG 🇸🇬 ┇ VLESS-TCP-RLT - Hetzner Online GmbH ┇ 5.223.45.118
@@ -327,6 +339,7 @@ vless://661ea549-3367-4c37-b307-253cfe8d2ee6@217.142.191.140:18443?type=tcp&secu
 vless://b19c4375-d847-4c40-9824-4767c88b5f38@sg-a1.oci.ee:10084?type=tcp&security=reality&sni=www.amazon.com&fp=firefox&pbk=s2Lr_deTRNuRBKQ15Rsx04KFcujYRFImLNVLAoGFTl8&sid=a81cba9c#SG 🇸🇬 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 213.35.119.90
 vless://f1e7149e-a10a-4f57-b7f9-0a32de7d7bb8@xjp3vl.xiao666666.site:46350?type=tcp&security=reality&sni=www.bing.com&fp=safari&flow=xtls-rprx-vision&pbk=1Chz-KxnZ6wuUwc-FdkxJkzSn7Qt_7hFO2_JDCfRpX8&sid=547f4d0f#SG 🇸🇬 ┇ VLESS-TCP-RLT - ORACLE-BMC-31898 ┇ 138.2.95.90
 vless://046feb77-8a56-48f1-8932-d977c713689c@15.235.186.127:443?type=tcp&security=tls&sni=cf886aaa31d7.j.cloudfront.hls.ttvnw.net&fp=chrome#SG 🇸🇬 ┇ VLESS-TCP-TLS - OVH SAS ┇ 15.235.186.127
+vless://74bcfbf9-2596-4243-8c0f-1042e4725ae7@15.235.186.127:80?type=ws&security=none&path=/ws1#SG 🇸🇬 ┇ VLESS-WS-NTLS - OVH SAS ┇ 15.235.186.127
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@15.235.211.28:30411?type=ws&security=none&path=/00026cc2#SG 🇸🇬 ┇ VLESS-WS-NTLS - OVH SAS ┇ 15.235.211.28
 vless://f70bf5d2-9866-463a-a700-15f4ea70aafa@51.79.157.223:80?type=ws&security=none&path=/vless#SG 🇸🇬 ┇ VLESS-WS-NTLS - OVH SAS ┇ 51.79.157.223
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@51.79.254.182:443?type=ws&security=tls&path=/?ed=2560&sni=v033.ylkszy.eu.org#SG 🇸🇬 ┇ VLESS-WS-TLS - OVH SAS ┇ 51.79.254.182
@@ -359,6 +372,7 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@206.238.236.240:443?type=ws&securit
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@206.238.236.29:2087?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.236.29
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.43:80?type=ws&security=none&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed#SG 🇸🇬 ┇ VLESS-WS-NTLS - TERAEXCH ┇ 206.238.236.43
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@206.238.236.46:443?type=ws&security=tls&path=/?proxyip=proxyip.sg.fxxk.dedyn.io&sni=xz.ylks.xyz#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.236.46
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@206.238.236.46:8880?type=ws&security=none&path=/TM%4...#SG 🇸🇬 ┇ VLESS-WS-NTLS - TERAEXCH ┇ 206.238.236.46
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.53:80?type=ws&security=none&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed#SG 🇸🇬 ┇ VLESS-WS-NTLS - TERAEXCH ┇ 206.238.236.53
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@206.238.236.65:443?type=ws&security=tls&path=/?proxyip=proxyip.sg.fxxk.dedyn.io&sni=vz.ylkszy.eu.org#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.236.65
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.236.83:443?type=ws&security=tls&path=/blue&sni=ld.ylks01.eu.org#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.236.83
@@ -368,6 +382,7 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@206.238.237.106:443?type=ws&securit
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@206.238.237.118:8443?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.237.118
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.119:443?type=ws&security=tls&path=/blue&sni=zdy033.kpcloud.eu.org#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.237.119
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.133:443?type=ws&security=tls&path=/blue&sni=cp.ylks.xyz#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.237.133
+vless://9a4bc15d-a7d4-4181-9485-405629c36894@206.238.237.133:8443?type=ws&security=tls&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560&sni=king-ae1.pages.dev#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.237.133
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.150:443?type=ws&security=tls&path=/blue&sni=zz.linghang.buzz&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.237.150
 vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@206.238.237.162:2083?type=ws&security=tls&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2048&sni=nicorobin.eula.cloudns.org#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.237.162
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.182:443?type=ws&security=tls&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io&sni=dy.ylks.xyz#SG 🇸🇬 ┇ VLESS-WS-TLS - TERAEXCH ┇ 206.238.237.182
@@ -400,7 +415,8 @@ vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@43.156.116.194:443?type=ws&security
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@43.156.153.48:443?type=ws&security=tls&path=telegramtw_@wangcai2/?ed&sni=photosair.ir#SG 🇸🇬 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.156.153.48
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@43.156.181.203:443?type=ws&security=tls&sni=edccy.aimercc.filegear-sg.me#SG 🇸🇬 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.156.181.203
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@43.156.205.36:7777?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.156.205.36
+vless://14192eda-b74e-4095-ada9-c5da625bf49c@43.156.217.68:2096?type=tcp&security=tls&path=/&sni=catalog.s.download.windowsupdate.com&fp=firefox&pbk=-m4hp0ft_Yb-C1WGH1qSBws4UxEx-RMsASVxXg3_MgY&sid=9cacb10d#SG 🇸🇬 ┇ VLESS-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.156.217.68
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@43.156.253.94:443?type=ws&security=tls&path=/?ed&sni=edcce.ambercc.filegear-sg.me#SG 🇸🇬 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.156.253.94
 vless://f2146d13-aa93-4210-9500-50fd3fed7bc8@43.156.52.238:28443?type=ws&security=tls&path=/?ed=2560&sni=oty.myto.ip-ddns.com&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.156.52.238
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@43.160.193.138:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#SG 🇸🇬 ┇ VLESS-TCP-RLT - Tencent Building, Kejizhongyi Avenue ┇ 43.160.193.138
-trojan://x6fj8jte-8y45-y2re-7jeq-848hwuhftw0o@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qyknkywi-n8h8-9ev4-9scz-jbt3cvhb3zad@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

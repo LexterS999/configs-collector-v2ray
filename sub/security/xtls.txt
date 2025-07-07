@@ -1,7 +1,7 @@
-trojan://ds6omftj-3kcv-ur52-0wi9-1f5i54vapdm5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://0i9cqenc-dif3-2m1r-kgef-ucn24pi5fiut@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://gcbnbhpa-50wl-ugd1-oxh1-9iaulmfpewtv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://q3twdkbf-azgb-iv52-w5t3-efiu4nfw7x6j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://gg4jgirm-drtk-hkcc-n5z9-5xqopkye00n8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://6rbh4zi6-0yuh-9g8c-vc4a-jlw5y2ukcsnl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://h7sqvl0m-tdup-bd5i-mmdu-95o6s493el0a@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://zwrvhgq9-8l6a-9ii0-x2ii-noa8h2zmzndz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b7793807-b6bb-4827-aaec-d41a8817110a@51.38.99.96:443?type=tcp&security=xtls&sni=BMI.ir&flow=xtls-rprx-direct#FR 🇫🇷 ┇ VLESS-TCP-XTLS - OVH SAS ┇ 51.38.99.96
 vless://n3o4y8vz-07s5-4751-ys70-t8t8q1227t59@xray.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Mizban Dade Shetaban Co. (Ltd) ┇ 185.130.50.10
 vless://m2n3x7uy-96r4-3640-xr69-s7s7p0116s48@hope.ir:443?type=tcp&security=xtls&sni=www.cloudflare.com#IR 🇮🇷 ┇ VLESS-TCP-XTLS - Netmihan Communication Company Ltd ┇ 89.39.208.132
@@ -13,4 +13,4 @@ vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr1.g2ray.com:443?type=tcp&securi
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr2.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlnl.g2ray.com:443?type=tcp&security=xtls&flow=xtls-rprx-direct#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
 vless://d1478689-439c-4590-b7ce-36e786a02dc3@youtube-bai-piao-wang-zhe-usa.98848.xyz:443?type=tcp&security=xtls&sni=youtube-bai-piao-wang-zhe-usa.98848.xyz&flow=xtls-rprx-splice#XX 🏳️ ┇ VLESS-TCP-XTLS ┇ None
-trojan://b5jpxg9z-3llf-s0eo-27c7-dpn71a5cqyd8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://pymi74w6-oeg4-llyg-zktm-lhzw9h7bj7hc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

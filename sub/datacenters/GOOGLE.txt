@@ -1,7 +1,7 @@
-trojan://5lhv7wb4-gayn-ncqr-s6io-34c3qhis5epw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://tx6czqyx-yny5-lhom-oq2i-dsjdphjkfzcf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fl3lz7vt-bpn0-jk3l-f2c6-wvvmp36o2rbs@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xlgc2wik-wra4-74ih-uwm7-x3las7p5fs9z@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://hqfaqkrm-xzsc-0xvt-c2vt-djcke0d6cpia@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://1cu5a9ez-0ce7-e2v5-dntg-zhrtcv5u3kwy@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g264wtmy-wf5x-y9ln-k8ia-pfgijr0suecg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fairoqxl-iwpg-zp84-q9je-oediea0qnx53@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@34.1.15.24:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=v033.ylkszy.eu.org#FR 🇫🇷 ┇ VLESS-WS-TLS - GOOGLE ┇ 34.1.15.24
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.114.100:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.250.114.100
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@142.250.114.101:443?type=ws&security=tls&path=/rWUMkmNJBTurxq6Hlt8D6ftJ8qP7&sni=google.com&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 142.250.114.101
@@ -62,4 +62,4 @@ vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.32.21:443?type=ws&security=
 vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.34.21:443?type=ws&security=tls&path=/ms138/&sni=gcdn.freenet-rd.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 216.239.34.21
 vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.36.21:443?type=ws&security=tls&path=/ms138/&sni=gcdn.freenet-rd.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 216.239.36.21
 vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@216.239.38.21:443?type=ws&security=tls&path=/ms138/&sni=gcdn.freenet-rd.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 216.239.38.21
-trojan://mcjalp8b-1tzr-84zq-2no7-mno8zlykdhxd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://w1vbnn6l-gs1w-b8gy-sqkr-0wsdc39q42af@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

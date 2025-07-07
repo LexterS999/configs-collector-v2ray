@@ -1,7 +1,7 @@
-trojan://ede1lksx-7ddq-txjl-mcbt-dizt69pie6om@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://ut82t3n2-fuf2-jgjf-ufl6-cmxsoop7k5k2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5uktg4tz-isaf-ay8q-hqa6-aykahp6h828v@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://n9srxqtf-228g-4oqg-4q3u-015gfkpzd3vp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3wg5f9y3-1cbt-3ri8-awja-0tuifauxdfw4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://bjdsg2p2-ilxm-vz7r-oxln-jsmezbkqzevq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3rm2r66t-kqpn-ftj5-tabc-bd5tbzzya7k0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vyjozeko-7rqu-v9sg-by7v-gjaflm4ybyb4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d6cbf3e4-b7ca-a4b2-0b04-eacbdc28bc5a@188.132.184.148:8443?type=tcp&security=reality&sni=greenpepper.ir&fp=firefox&flow=xtls-rprx-vision&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede#TR 🇹🇷 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 188.132.184.148
 vless://0d26383d-21f7-4159-986a-a7ecac87e072@nld.kitten-tube.com:443?type=tcp&security=reality&sni=google.com&fp=firefox&flow=xtls-rprx-vision&pbk=uxOwFKgVP_ZvMf0sfTkPuI2YFdSvQ3Xwq21VyQ7paVM&sid=7903D9CA#ZA 🇿🇦 ┇ VLESS-TCP-RLT - Ultahost, Inc. ┇ 192.142.18.253
-trojan://4s2lminm-sxv3-wl67-9g8d-5tmyyj5zc0ov@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ux4bzih7-7ve1-y21g-mrjy-wbqm9xeetuhl@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

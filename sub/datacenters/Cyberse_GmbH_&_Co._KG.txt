@@ -1,6 +1,6 @@
-trojan://vgmvzejz-9rgr-z7kl-s0uy-0hwryjahcr85@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://eg72ve9y-qt4v-rwrf-3q29-2xwo9ig37wcj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cmtecox1-8vjn-5zlq-f2e7-ephcj4a75x1v@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lritl1jo-3zq0-bjk6-3c5z-5ga7tjcbg7qx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cdpe56qf-rxzs-6fab-hdnf-cafdorlhu8ta@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://425zh402-pg2o-yxzi-kcaz-898317ttjvpq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://d4bijb0v-2407-rn0w-jdzc-oy701szoh9ru@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://40i2bacb-8b8n-fumh-nzwb-rqk1wz1mjnsj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://mahsa-amini2@185.230.163.62:80?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-RLT - Cyberse GmbH & Co. KG ┇ 185.230.163.62
-trojan://jh7doj4l-5kid-zxm5-jh1j-b4pvdwfgsyyr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://fjfscu6t-ean2-276w-1g6g-kgirws5stuaj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

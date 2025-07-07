@@ -1,6 +1,6 @@
-trojan://f6d8yjn4-5v7m-9ogs-uiyd-vjjm4hziab9i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://v2rq2wes-zawv-y05x-69qa-cgem66j7zt3z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ec1adces-zwn2-y2pp-q9gx-3m9gy3q0buvy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ei4w78mu-vudv-27jy-sg7e-htbtnoeyd36t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6odufkfr-2fmu-ox55-74xd-a58fu4zy7j3d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://dlrfkoru-1qim-qnj9-xznz-inao4knhvjd4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://epus7q4i-nqm0-fkkf-lb52-ere3u1uial1a@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pzm47cdr-8k3b-8kk5-2n6a-lyt0le2nnyuz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://fa5f0428-00d4-45dd-8539-69c16b4c741c@iranhost.com:2052?type=ws&security=none&path=@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Roshangar Rayaneh Tehran Co. Ltd. ┇ 185.10.72.20
-trojan://tvofzqg2-13kd-abwz-ez8k-1tf37qfe2p11@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://giozfkb7-43s1-hc2s-ydlp-uf650jb6qoug@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

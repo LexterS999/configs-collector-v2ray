@@ -1,7 +1,7 @@
-trojan://yw5p5zao-mdd2-pko6-mgco-am3bs7aecsya@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://dtfi0h8e-uopb-qps2-l95x-ruxqbqyt4vrk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://28ws4otz-s7os-o3p4-qi7h-yjtws1ysw79n@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://8q36qsxb-idkv-bo86-p069-s6kie22yx3hr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6d1uflxu-pcpg-zjnn-kr9o-zvidbtefg2gi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://hg4kgamr-jklh-85r2-otsj-95s2admr0w36@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pz3l0s98-7bdc-io6e-xnsi-pz9jyamuhy30@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8ua9t32m-s0rt-w5if-pr5h-bqaoh0z08apg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://be784c9e-a372-4b69-ae81-1f3364a01508@178.18.240.254:53067?type=ws&security=none&path=/#DE 🇩🇪 ┇ VLESS-WS-NTLS - Contabo GmbH ┇ 178.18.240.254
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@31.220.87.74:80?type=ws&security=none&path=/telegram-mitivpn#DE 🇩🇪 ┇ VLESS-WS-NTLS - Contabo GmbH ┇ 31.220.87.74
 vless://73ef5ea7-6452-4c44-88f5-d088aad4ba4a@38.242.196.10:25574?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Contabo GmbH ┇ 38.242.196.10
@@ -16,4 +16,4 @@ vless://4a617961-06bb-405d-b1d8-28abaaaf18e7@157.173.127.235:443?type=tcp&securi
 vless://571b311b-4a34-4792-93f9-a5c0cfa66f66@157.173.127.238:443?type=raw&security=reality&sni=analytics.google.com&fp=chrome&pbk=p2iqEmOs4u682Jz5S-E-s7k8AbsNZbc-mitgU89PRi4&sid=db06#DE 🇩🇪 ┇ VLESS-RAW-RLT - Contabo GmbH ┇ 157.173.127.238
 vless://667b5dfa-7ec4-45d7-ba9c-6957eed8cfbb@157.173.127.239:443?type=tcp&security=reality&sni=analytics.google.com&fp=chrome&pbk=c5VJpRsIyrxNp0eS3Lz5EMQH6jWBsvSTK7hNZQ77bl4&sid=4fd4ad#DE 🇩🇪 ┇ VLESS-TCP-RLT - Contabo GmbH ┇ 157.173.127.239
 vless://bd39598b-b9a9-40b2-a8dd-ab1df5627dc5@158.220.94.91:3000?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=zzbexZUufjA8hDluJTujyHRAxTEpljvFytrMO_6AKWw&sid=c0fae980#GB 🇬🇧 ┇ VLESS-TCP-RLT - Contabo GmbH ┇ 158.220.94.91
-trojan://4anizw1k-bgar-jhxc-avoe-hrnyv6nll2zx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://h0yend16-6w5v-6erk-799s-8123nu9p95y5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

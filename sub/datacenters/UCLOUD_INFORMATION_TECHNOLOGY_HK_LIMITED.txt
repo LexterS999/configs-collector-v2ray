@@ -1,11 +1,11 @@
-trojan://e189yvo3-050q-suc6-q0ou-5exsnax4l7xh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://ta0gstsr-7l76-b5pn-256z-inxgjlv0t20t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://czwqy7hh-a09p-nwp4-ey4x-6fs44mj558ct@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yz1inqwm-jipz-3z2t-grgx-za8qrirnuh4y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ilymatkx-030s-7eib-gduz-v1t90xqoxnbw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://5w95pwn8-r1uv-6lo2-bak4-vbrjvz211cuu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://zu5e5xgz-btz7-u9ng-e00m-ofsvrzwtl6n9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xg7o1t0o-txxm-xkbm-t6k6-6bsh38xkgddv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@101.36.112.49:587?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 101.36.112.49
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@101.36.118.159:9988?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#HK 🇭🇰 ┇ VLESS-WS-TLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 101.36.118.159
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.32.129.97:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg#HK 🇭🇰 ┇ VLESS-WS-TLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 152.32.129.97
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@118.193.77.95:587?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 118.193.77.95
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@165.154.134.125:587?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=vless.ifx.us.kg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 165.154.134.125
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@165.154.163.236:587?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - UCLOUD INFORMATION TECHNOLOGY HK LIMITED ┇ 165.154.163.236
-trojan://1lz6uu6k-0uhu-szjt-qrcn-xclwghy0d5jj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://29t03i5y-4g6e-c8ba-vb53-iym0rw3hc161@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

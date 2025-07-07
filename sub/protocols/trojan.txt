@@ -1,7 +1,7 @@
-trojan://di524jqz-nxfj-rh7u-7tjs-0ikccl9btkob@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://gxcy82q7-00l8-1c38-kggi-k9kb9kthuazz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pj154qut-k7ei-99mu-3o77-izgtqxpwm297@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mfdh4iyc-kyfh-5vuf-vxs9-yz15t9ldo5xx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3f57or9t-2wh7-jits-ir99-ah9rk4znaiox@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://q4iw1b7t-7jug-xfv5-ulfj-7svyn8xq77px@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ilv6mrfm-rjta-3prx-ejox-084ut0oasgub@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://kuxm7bb0-l48w-bty2-e9vx-zgdw3nic1i8u@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://mZMgM1vKw5@85.255.9.247:1935?sni=x1-czech-aruba-v2.devefun.org&peer=x1-czech-aruba-v2.devefun.org&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - INTERNET CZ, a.s. ┇ 85.255.9.247
 trojan://telegram-id-privatevpns@3.76.173.190:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.76.173.190
 trojan://telegram-id-privatevpns@3.74.20.115:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.74.20.115
@@ -11,24 +11,44 @@ trojan://telegram-id-privatevpns@3.121.254.201:22222?sni=trojan.burgerip.co.uk&p
 trojan://telegram-id-privatevpns@18.157.144.163:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.157.144.163
 trojan://telegram-id-privatevpns@63.178.31.204:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 63.178.31.204
 trojan://telegram-id-privatevpns@18.194.185.25:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.194.185.25
+trojan://telegram-id-directvpn@3.68.63.67:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.68.63.67
+trojan://telegram-id-directvpn@18.153.187.134:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.153.187.134
+trojan://telegram-id-directvpn@3.121.254.201:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.121.254.201
+trojan://telegram-id-directvpn@18.157.144.163:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.157.144.163
+trojan://telegram-id-directvpn@63.178.31.204:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 63.178.31.204
+trojan://telegram-id-directvpn@3.76.173.190:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.76.173.190
+trojan://telegram-id-directvpn@3.74.20.115:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 3.74.20.115
+trojan://telegram-id-directvpn@18.194.185.25:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.194.185.25
 trojan://6gZh2JbfhQ@104.248.18.1:1935?sni=x1-germany-digitalocean-v2.devefun.org&peer=x1-germany-digitalocean-v2.devefun.org&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 104.248.18.1
+trojan://OmqcThZWp1@91.107.163.173:27596?security=none#DE 🇩🇪 ┇ TROJAN-TCP-NTLS - Hetzner Online GmbH ┇ 91.107.163.173
 trojan://telegram-id-privatevpns@15.236.126.225:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.236.126.225
 trojan://telegram-id-directvpn@35.181.146.19:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.181.146.19
 trojan://telegram-id-directvpn@51.44.102.57:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.44.102.57
+trojan://telegram-id-directvpn@15.236.126.225:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.236.126.225
 trojan://telegram-id-directvpn@13.36.44.43:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.36.44.43
+trojan://telegram-id-privatevpns@51.44.102.57:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.44.102.57
+trojan://telegram-id-privatevpns@13.36.44.43:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.36.44.43
 trojan://telegram-id-privatevpns@35.181.47.121:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.181.47.121
 trojan://telegram-id-privatevpns@13.39.154.143:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.39.154.143
 trojan://telegram-id-privatevpns@15.236.33.94:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.236.33.94
 trojan://telegram-id-privatevpns@51.44.138.7:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.44.138.7
+trojan://telegram-id-privatevpns@35.181.146.19:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.181.146.19
+trojan://telegram-id-directvpn@35.181.47.121:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.181.47.121
+trojan://telegram-id-directvpn@13.39.154.143:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.39.154.143
+trojan://telegram-id-directvpn@15.236.33.94:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 15.236.33.94
+trojan://telegram-id-directvpn@51.44.138.7:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 51.44.138.7
 trojan://ttfang@13.233.5.49:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.233.5.49
 trojan://Aimer@119.196.34.173:50000?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 119.196.34.173
 trojan://Aimer@45.80.209.25:81?sni=epmk.ambercc.filegear-sg.me&peer=epmk.ambercc.filegear-sg.me&security=tls#LU 🇱🇺 ┇ TROJAN-TCP-TLS - G-Core Labs S.A. ┇ 45.80.209.25
 trojan://d0d07c22-d97e-4877-9702-f164af5990fc@45.85.118.88:443?sni=cdir-0227.wlfvip.shop#@VMESSIRAN سرور ۱۳ اسفندvless://93fdc115-22d3-49cb-d98d-0c5de0484d17@qw.mojavadd.space:14626?path=/chacha&peer=cdir-0227.wlfvip.shop#@VMESSIRAN سرور ۱۳ اسفندvless://93fdc115-22d3-49cb-d98d-0c5de0484d17@qw.mojavadd.space:14626?path=/chacha&security=tls#RO 🇷🇴 ┇ TROJAN-TCP-TLS - Cloudflare London, LLC ┇ 45.85.118.88
 trojan://vpn@45.82.14.144:2025?security=none#RU 🇷🇺 ┇ TROJAN-TCP-NTLS - Jsc timeweb ┇ 45.82.14.144
 trojan://3723507166611775488@35.155.4.93:443?sni=usable-toad.treefrog761.one&peer=usable-toad.treefrog761.one&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 35.155.4.93
-trojan://baccaba-acab-baca-dcba-caacabbcbabc@127.0.0.1:8080?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ 127.0.0.1
+trojan://acbcbaa-caba-baac-adbc-baaccabacbbc@127.0.0.1:8080?security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS ┇ 127.0.0.1
 trojan://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@172.67.187.28:443?sni=dddDdDdDDFfFf.iran2035.dPdNS.ORG&peer=dddDdDdDDFfFf.iran2035.dPdNS.ORG&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.187.28
 trojan://4174b95d-115e-4d39-add6-1f8db95bb860@172.67.153.179:443?sni=qqqqqqqqqqa.www890604.dpdns.org&peer=qqqqqqqqqqa.www890604.dpdns.org&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 172.67.153.179
 trojan://vip@104.18.42.163:443?sni=heihu880.pages.dev&peer=heihu880.pages.dev&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.18.42.163
 trojan://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@104.21.84.58:443?sni=gGgGGGGGGgGgHHHHhhhHhj.iRaN2035.dpdNS.oRg&peer=gGgGGGGGGgGgHHHHhhhHhj.iRaN2035.dpdNS.oRg&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.84.58
-trojan://f4z34iqz-a2v3-r0qe-b9ix-u6d9zn4qecmf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://bce0c7cb-08d1-46a7-b77b-7bff8b46252f@104.21.91.180:443?sni=XXXXxxXxXc.666461.xyZ&peer=XXXXxxXxXc.666461.xyZ&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.91.180
+trojan://2e65577e-8fdb-4bb1-a495-96f3122099a7@104.21.68.76:443?sni=zzzZZZZz.222769.XYZ&peer=zzzZZZZz.222769.XYZ&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.68.76
+trojan://4174b95d-115e-4d39-add6-1f8db95bb860@104.21.23.162:443?sni=dddccvvgbnhju.131.pp.ua&peer=dddccvvgbnhju.131.pp.ua&security=tls#XX 🏳️ ┇ TROJAN-TCP-TLS - CLOUDFLARENET ┇ 104.21.23.162
+trojan://5rhxych9-p0ej-worm-7xg6-0u545cv8vcg9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

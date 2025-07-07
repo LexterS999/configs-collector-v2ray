@@ -1,6 +1,6 @@
-trojan://nwqg43pp-p34h-f0wg-v5ed-jsxm6pixl7nc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://61kckb2q-7s28-05a5-i0k5-w9pzjual476v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://89tl49dr-590b-73vx-wn5n-yif8grixbfxs@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://btibygfy-th8l-r7yf-b0zv-we2g9czo42rp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://mnsyumx2-81xp-5vv5-mgqh-4nb2rv6lt82c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://yi174qtm-yhe0-l8l8-qg10-jkvdz83wz3l1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://imb3915n-ipu8-dm6n-rdxo-9iiq4ob1lsjb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://n4tu4e0g-rhna-66k6-g2q5-lnmxstibqb21@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://65d2c27d-0957-415d-b67a-b915cd857723@account.zula.ir:8880?type=tcp&security=none&path=/Telegram:@UnlimitedDev?ed=2048#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sourena Pardazesh Arya Software co. LLC ┇ 194.50.216.44
-trojan://x29axrkl-dzkw-tynb-upul-yzkuf0lv3pdc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://wlw2tjj7-tulh-e9z5-a2uh-sym47y9q56ah@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

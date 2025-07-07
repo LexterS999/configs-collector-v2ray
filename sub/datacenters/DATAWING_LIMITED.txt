@@ -1,6 +1,6 @@
-trojan://3dx83m6w-kh5n-9a1e-xo0q-bralt0348u1t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://ngzyyjdf-03oj-z3tc-gxcw-7ldiygrb0vvz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qv3ytcfq-gcqg-nhvk-oiep-qfkuxqmmyq02@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vybc3s73-scv1-lobu-ta2f-ejdbn9qyhbiv@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://wky5kl8y-06qz-5bn8-fk8e-cybvfgvnx0oe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://1x13mtoc-r7ml-yod4-hjiv-vmip3fkvpac5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3vj2e0mx-lklp-4945-rb4g-qsgfdv773vrl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8xejp6to-xfhe-cr51-8auj-5e1ob73kvs7v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@156.255.90.175:8443?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me#HK 🇭🇰 ┇ VLESS-WS-TLS - DATAWING LIMITED ┇ 156.255.90.175
-trojan://o0csbd43-aib4-3g8d-lwno-7nd6suu2re5i@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://n2lew56l-8nnu-ziho-5lei-rwgugllih8q8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

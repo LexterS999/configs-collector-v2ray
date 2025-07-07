@@ -1,6 +1,8 @@
-trojan://kl42spny-xtbs-nm9u-mp7d-t9m2ksyicy5w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://gdg2iysr-grq6-hrmh-uvi2-f3cgxucca0mb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://owt0nyon-7ud8-rmlm-23kn-krqfkliju9t7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rrf8761c-updq-y1w7-tsjk-6nd7y816mn84@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://l89sl7h6-izcb-r87x-nw02-2qqdinsaohbu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://63kmcqr0-puff-nlrk-dcnt-w8q11n8bjmpv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://s77dqs7v-19ly-yp0l-nkz7-gu6w8w8dufrk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4dqvcgam-p9s4-higj-7ryl-hdt83qej6eml@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://995c0161-7504-4775-b08a-a0d20ec8ff6a@mm.dns-dynamic.net:2096?type=ws&security=tls&path=/telegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01?ed=2048&sni=mm.dns-dynamic.net&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Public Cloud Ltd. ┇ 185.206.180.182
-trojan://ebnknh75-bg2m-rchd-3q9s-4d2ic8you98b@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://995c0161-7504-4775-b08a-a0d20ec8ff6a@mm.dns-dynamic.net:8880?type=ws&security=tls&path=/telegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01?ed=2048&sni=mm.dns-dynamic.net&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Public Cloud Ltd. ┇ 185.206.180.182
+vless://2d21ab5d-de48-455e-bf58-f802f51eb86f@ur.mm.dns-dynamic.net:2095?type=ws&security=tls&path=/telegram----------------v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---------------v2ryNG01---v2ryNG01--v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01v2ryNG01----v2ryNG01----v2ryNG01---v2ryNG01---v2ryNG01---v2ryNG01?ed=2048&sni=ur.mm.dns-dynamic.net&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-TLS - Public Cloud Ltd. ┇ 185.206.180.182
+trojan://63qcgix4-lyjc-jtv0-foeb-40n0scp8k8ey@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

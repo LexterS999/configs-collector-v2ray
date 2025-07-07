@@ -1,7 +1,7 @@
-trojan://n255hhpu-7ofa-pesq-hao3-ybiy7dofnitn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://1ghpjsy6-mns6-pvql-9od9-wy1uf0z01yff@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://p5glj55u-pxrz-lhh0-chmq-52oq8n3ccv1y@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gen8my3f-gzjz-dqkz-498a-c0omk65wrg24@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://lpjay96o-393b-dzde-2v5v-xagx4svfkmgx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://kna6w2sh-r7ku-24od-m7gb-vki54uqn423i@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://to3yjk3m-jdjx-q1bm-vwnj-mio28eitlqpi@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cqd6tui6-vwhz-elkp-m58h-nvpyoh6pzmz4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3d2061d3-73b1-4a09-a878-2e4a196ef320@107.175.59.147:52012?type=tcp&security=reality&sni=addons.mozilla.org&fp=random&flow=xtls-rprx-vision&pbk=a9uk_ZJLsVC_MY4CIa-d1aP5bagweyHUPR6O932-dC8&sid=24b05fcf3723e6af#IE 🇮🇪 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 107.175.59.147
 vless://bf9b316d-31ac-42ee-b8a5-8dc795118917@192.210.183.136:36678?type=tcp&security=reality&sni=swdist.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=rrGm0NemTtGQ8Vrd2AzB7pSoW_kYtqYvhRxsx_MtwG0&sid=5d20#IE 🇮🇪 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 192.210.183.136
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1SQVctTlRMUyAtIEFTLUNPTE9DUk9TU0lORyBcdTI1MDcgMTA3LjE3Mi45Ni4yMjciLCJhZGQiOiIxMDcuMTcyLjk2LjIyNyIsInBvcnQiOjIwOTUsImlkIjoiNzE4ZTQyYzctNzU5MS00MTc2LWUyZWQtNGIzZGQyMzRmNWIyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUifQ
@@ -10,6 +10,7 @@ vless://68784c05-f074-44f0-9037-28a9bdb87810@104.168.9.118:32529?type=ws&securit
 vless://819664e1-26f2-49db-8025-b18adee8fd2c@107.172.157.148:30944?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-COLOCROSSING ┇ 107.172.157.148
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@107.174.39.112:443?type=ws&security=tls&path=/1bd7yey9071nu9bu/mtuyljy3ljiznc40oq==?ed=2560&sni=bpB005.paGeS.DEv#US 🇺🇸 ┇ VLESS-WS-TLS - AS-COLOCROSSING ┇ 107.174.39.112
 vless://55520747-311e-4015-83ce-be46e2060ce3@108.174.61.161:38712?type=ws&security=tls&path=/?ed=2560&sni=nv.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - AS-COLOCROSSING ┇ 108.174.61.161
+vless://55520747-311e-4015-83ce-be46e2060ce3@108.174.61.161:59581?type=ws&security=tls&path=/?ed=2560&sni=nv.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - AS-COLOCROSSING ┇ 108.174.61.161
 vless://9410f23e-84b3-4c66-cc06-b018c855a27a@172.245.156.147:14681?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - AS-COLOCROSSING ┇ 172.245.156.147
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.245.205.226:6666?type=ws&security=tls&path=/?ed=2560&sni=rt.ylks0033.dpdns.org&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - AS-COLOCROSSING ┇ 172.245.205.226
 vless://c75bf7f7-ed5f-4fb0-8725-62852d25a384@192.3.1.161:30003?type=kcp&security=none&fp=chrome#US 🇺🇸 ┇ VLESS-KCP-NTLS - AS-COLOCROSSING ┇ 192.3.1.161
@@ -31,7 +32,10 @@ vless://fefba36d-5142-42f1-b14d-db5249511d93@107.172.132.248:443?type=tcp&securi
 vless://e8cfc69c-f9a4-40ed-b48d-d5da257f5c7c@107.172.57.21:443?type=tcp&security=reality&sni=osxapps.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=f12r3TyZUUckM-XWQ7w63kcF19eZVvWdgZqqk4ry3Ss&sid=5b6fd34e#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 107.172.57.21
 vless://a31662df-9ef2-43f9-981f-6cb2d0341c17@107.173.37.43:56701?type=tcp&security=reality&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 107.173.37.43
 vless://220dc1a9-26c9-4410-95e2-62e761b4cbfc@107.175.212.252:13434?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=cwlAbAMR6GEylhSv_TCgOoRxneoDX9dlhmznVSVKMyE&sid=fefe9a#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 107.175.212.252
+vless://4c151163-e7ed-49a9-a4cb-8f3e2fdbf1aa@107.175.212.252:40717?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=HXoqyAoUccY1ea0TMe04rkaTNEXjQSkoCVCwYS2zuig&sid=e4359ba1#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 107.175.212.252
+vless://7285ff92-0504-4022-a236-64e87d79d2f7@107.175.212.252:443?type=tcp&security=reality&sni=www.rahavardjournal.org&fp=chrome&flow=xtls-rprx-vision&pbk=MhUJaan_hRlq783UkzcjmPwodoxOdkErG1uofe4Bwwc&sid=5af2181bf46945#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 107.175.212.252
 vless://5f19c5b8-086b-4f19-ba1a-1c0aa164bd0f@23.94.253.108:443?type=tcp&security=reality&sni=www.kavehmadani.com&fp=chrome&flow=xtls-rprx-vision&pbk=GrqeWHrjMwZLsqHW7L66dWgVuo4Yhk33VZ-xPLR6mR0&sid=03#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 23.94.253.108
 vless://d0cf4930-7dbf-4607-b930-dc05eda72901@23.94.48.229:6326?type=tcp&security=reality&sni=www.pcmag.com&fp=chrome&flow=xtls-rprx-vision&pbk=C5Ot4nQBJMxk2DKCe3JTSqcithC9IHVSnixotp4VUVk#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 23.94.48.229
 vless://f1be85f0-0a86-3840-aa3d-c4301fbfffb7@23.95.190.183:7999?type=tcp&security=reality&sni=learn.microsoft.com&fp=random&flow=xtls-rprx-vision&pbk=8lMtuVgIXCpIfO5exBZG89rdVuF04askud2pwu2VzmE&sid=e86584257bf05a4b#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 23.95.190.183
-trojan://kid9gg2y-rmpo-jen6-uzxh-oe6m308ka5ou@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://e53e7799-cdc3-4435-9455-e88b59f256aa@fr.serverclouding.zone.id:20215?type=tcp&security=reality&sni=10to8.com&fp=chrome&pbk=mcmTFX7FZusyfjr186a8MKpguS0TJv74HmwhpTJdRyM&sid=2db4066ee057b92f#US 🇺🇸 ┇ VLESS-TCP-RLT - AS-COLOCROSSING ┇ 107.174.11.44
+trojan://d91tp84o-dvug-qobx-oajg-541e13015lax@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

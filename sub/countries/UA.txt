@@ -1,7 +1,7 @@
-trojan://mcvgg43s-rnsm-kbsf-85af-rxnz6fp6jor9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://sz0jovhr-ts5c-sdeb-uwh2-gl69fk2cou0f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://3zss1m7n-yvlb-ji7k-c8bx-r04bjxq51wyr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://z7932d2r-bgc2-yi56-aj4m-t5ttjw5lnhek@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://k6z48dq3-suzi-niaz-vnmu-fah8gjivmazf@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://aqkl5hqr-btad-kjo5-ikq9-q8e1wvmah79j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://g0s3u0ew-0dp2-gzww-lz73-ogfzbdqt4edh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://e5zc46ar-l1u3-upbc-0rug-z5a7yim3ortg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@46.202.30.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 46.202.30.77
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@46.202.30.177:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 46.202.30.177
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@46.202.30.213:8880?type=ws&security=none#UA 🇺🇦 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 46.202.30.213
@@ -26,9 +26,11 @@ vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?type=raw&security=tl
 vless://ca9ac6fc-7269-42c9-8e48-18d8f0449750@88.151.192.91:3037?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#UA 🇺🇦 ┇ VLESS-TCP-RLT - Global Connectivity Solutions Llp ┇ 88.151.192.91
 vless://3a26be3c-ac0c-4180-a123-1d3772f21b9f@grpc1.caseshop.website:443?type=grpc&security=none#UA 🇺🇦 ┇ VLESS-GRPC-NTLS - Hosting Ukraine LTD ┇ 91.206.200.172
 vless://e3f4a5b6-c7d8-3456-9012-23456789abcd@185.115.36.248:443?type=ws&security=tls&path=/@Filter_breaker&sni=proxy.aslivpn.ir&fp=chrome#UA 🇺🇦 ┇ VLESS-WS-TLS - KRAM Ltd ┇ 185.115.36.248
+vless://c3d4e5f6-a7b8-3456-9012-cdef01234567@185.115.36.248:8443?type=ws&security=tls&path=/@Filter_breaker&sni=vpn.aslivpn.ir&fp=chrome#UA 🇺🇦 ┇ VLESS-WS-TLS - KRAM Ltd ┇ 185.115.36.248
 vless://23f15841-0587-42a6-b3cf-dcf456fc7b56@94.154.33.216:8080?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - Moon Dc ┇ 94.154.33.216
 vless://0d242eba-af8a-5cd9-a0a7-74a4a39d32d1@185.250.150.220:8880?type=grpc&security=none&sni=vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com.vpnAndroid2.com#UA 🇺🇦 ┇ VLESS-GRPC-NTLS - Pq Hosting Plus S.r.l. ┇ 185.250.150.220
 vless://542d6d26-e374-432a-a1d4-f20d62eae00f@141.105.130.118:21109?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 141.105.130.118
 vless://chanel-v2rayfree1-com@91.231.182.187:20977?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 91.231.182.187
+vless://v2rayfree1-injas-biya@91.231.182.187:21341?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-NTLS - South Park Networks LLC ┇ 91.231.182.187
 vless://ItsLegendaryking@141.105.130.162:443?type=tcp&security=none#UA 🇺🇦 ┇ VLESS-TCP-RLT - South Park Networks LLC ┇ 141.105.130.162
-trojan://2tasb1px-fexl-nmyo-9n2a-7s9qymq343hh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://1z1mynhz-zyx4-px97-1ott-1f1a9erqd3rr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

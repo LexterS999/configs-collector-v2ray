@@ -1,9 +1,9 @@
-trojan://sqbd4laa-frjc-vv57-hdox-mh505ge2s6e8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://iiqpg8nn-xtsa-s6on-b8xt-zeiv9fy98szg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://rxv2rtem-qapb-66q5-fjd2-g68d09b1aepv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yyha5x45-zoau-olrt-kp4j-7130m9icj4uy@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://lrq0630n-220k-1rgf-6lyd-1uubmkcc4lkx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://e31wnag4-8o1i-3ngc-iyo5-g1phgfkefgsz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://137mw9uh-1glm-xca9-b4by-dhjytgl14bhu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ajljjel2-r3q8-q321-d6t9-c9pjhxqxxv1o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://543e67bb-15c6-4731-d0c9-7641517783b2@193.164.6.27:80?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 193.164.6.27
 vless://f8ce69c3-7571-4262-8d6a-c0d0c53ec791@31.57.33.106:23836?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 31.57.33.106
-vless://3315df08-e2a4-4dbd-eccc-fa0cbacf40a9@45.133.36.230:443?type=tcp&security=reality&sni=www.latimes.com&fp=chrome&pbk=aWkDnGz6ncSTu_pOZggU23ZlBP-nrq65iCo2rSbujG8#TR 🇹🇷 ┇ VLESS-TCP-RLT - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 45.133.36.230
+vless://c5477343-3db8-4486-c60f-3f7d59eda81c@45.133.36.230:443?type=tcp&security=reality&sni=www.latimes.com&fp=chrome&pbk=aWkDnGz6ncSTu_pOZggU23ZlBP-nrq65iCo2rSbujG8#TR 🇹🇷 ┇ VLESS-TCP-RLT - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 45.133.36.230
 vless://dbe17297-3c29-5348-33c6-fae3d706d9e7@94.154.34.112:443?type=tcp&security=reality&fp=firefox&pbk=Sx5gCel0sEdt1jvh7UWiQeff-jkqOAoq6yoWJvi-SSY#TR 🇹🇷 ┇ VLESS-TCP-RLT - KEYUBU Internet ve Bilisim Tic. Ltd. Sti. ┇ 94.154.34.112
-trojan://56c0q8y4-1jld-ta4g-t17l-oon6s5ttnplm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://hs07nvu3-px5f-p525-mume-zunk1gm3c36h@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

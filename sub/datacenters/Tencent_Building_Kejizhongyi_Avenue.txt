@@ -1,8 +1,9 @@
-trojan://uzbr1dxi-888b-fm0w-ahcc-fm4hgqwh97xc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://9kuvttyg-otww-01jg-75on-4vh83bgz71ps@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://axyhwrxf-vqdr-4y18-2jby-w0co1bviiaa6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hioqln7b-zos4-teeg-8q6l-ousp43940pea@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://kqhcw5sg-m4f7-ngcz-ukin-n3d84az2g59d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://iq1sqohu-9s21-ge39-dadq-geb8d4kfqnl4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8q57vrg9-70tq-roqs-k8vs-4lh8d88fbqqe@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7zghk084-30gp-xbcn-0pam-sz3nsuztjfel@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@101.32.15.176:16831?type=ws&security=none&sni=ngedo.ambercc.filegear-sg.me#HK 🇭🇰 ┇ VLESS-WS-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 101.32.15.176
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@101.32.15.176:26657?type=ws&security=none#HK 🇭🇰 ┇ VLESS-WS-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 101.32.15.176
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@101.32.40.116:8888?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 101.32.40.116
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@124.156.129.206:6666?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 124.156.129.206
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@43.128.26.74:443?type=ws&security=none#HK 🇭🇰 ┇ VLESS-WS-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 43.128.26.74
@@ -15,6 +16,7 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@43.155.71.120:448?type=ws&security=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@43.155.89.93:55527?type=ws&security=tls&path=/blue&sni=lp.ylks01.eu.org#HK 🇭🇰 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.155.89.93
 vless://948f6596-66f9-4707-aa92-3107a214ce53@43.133.10.236:33405?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.133.10.236
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@43.153.181.217:443?type=ws&security=tls&path=/proxyip=proxyip.jp.fxxk.dedyn.io&sni=xin033.ylks.link#JP 🇯🇵 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.153.181.217
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@43.153.181.217:80?type=ws&security=none&path=/blue&sni=hk033.ylks.link#JP 🇯🇵 ┇ VLESS-WS-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 43.153.181.217
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@43.165.191.25:23023?type=ws&security=tls&path=/?ed=2560&sni=vs.ylka.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.165.191.25
 vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@43.133.70.168:8443?type=ws&security=tls&path=/?ed=2560&sni=v.aivpn.filegear-sg.me&fp=random#KR 🇰🇷 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.133.70.168
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?type=tcp&security=none#SG 🇸🇬 ┇ VLESS-TCP-NTLS - Tencent Building, Kejizhongyi Avenue ┇ 43.156.217.68
@@ -33,6 +35,7 @@ vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@43.156.116.194:443?type=ws&security
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@43.156.153.48:443?type=ws&security=tls&path=telegramtw_@wangcai2/?ed&sni=photosair.ir#SG 🇸🇬 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.156.153.48
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@43.156.181.203:443?type=ws&security=tls&sni=edccy.aimercc.filegear-sg.me#SG 🇸🇬 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.156.181.203
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@43.156.205.36:7777?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#SG 🇸🇬 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.156.205.36
+vless://14192eda-b74e-4095-ada9-c5da625bf49c@43.156.217.68:2096?type=tcp&security=tls&path=/&sni=catalog.s.download.windowsupdate.com&fp=firefox&pbk=-m4hp0ft_Yb-C1WGH1qSBws4UxEx-RMsASVxXg3_MgY&sid=9cacb10d#SG 🇸🇬 ┇ VLESS-TCP-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.156.217.68
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@43.156.253.94:443?type=ws&security=tls&path=/?ed&sni=edcce.ambercc.filegear-sg.me#SG 🇸🇬 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.156.253.94
 vless://f2146d13-aa93-4210-9500-50fd3fed7bc8@43.156.52.238:28443?type=ws&security=tls&path=/?ed=2560&sni=oty.myto.ip-ddns.com&fp=random#SG 🇸🇬 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.156.52.238
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@43.160.193.138:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#SG 🇸🇬 ┇ VLESS-TCP-RLT - Tencent Building, Kejizhongyi Avenue ┇ 43.160.193.138
@@ -41,4 +44,4 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@170.106.152.78:443?type=ws&security
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@43.153.103.203:443?type=ws&security=tls&path=/blue&sni=zdy033.kpcloud.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.153.103.203
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@43.153.80.208:443?type=ws&security=tls&path=/?ed=2560&sni=lp.ylka.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - Tencent Building, Kejizhongyi Avenue ┇ 43.153.80.208
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@43.130.34.184:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#US 🇺🇸 ┇ VLESS-TCP-RLT - Tencent Building, Kejizhongyi Avenue ┇ 43.130.34.184
-trojan://bgw71hi4-axba-t5o9-o1fp-opa6f4r8jlr0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://8tyautbj-g4wl-0q9t-64ew-549xic0romc6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

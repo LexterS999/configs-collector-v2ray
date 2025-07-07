@@ -1,6 +1,6 @@
-trojan://4c8qjgg4-oj7c-4ovy-4auy-1hso1o93eiht@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://zqdav7m8-g8r2-8yyq-ctd0-gfdwp90a1okp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ikbswv36-8q7j-7vn1-gqdo-wnk7171l8yjx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://cg5jkxp2-t5u2-bobt-vbc9-m396v7sjdqye@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://idgj2qn0-3tdb-dxc9-t6np-flwzhv9aisgl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://wziale8p-avk9-00rc-fnvb-1qcicr4nxidn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://a07zj09h-njh2-kigm-4ybf-3cushppthbzf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mucya662-zck7-6h6t-etgf-156fkpz76zwt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.220.72.40:443?type=ws&security=tls&path=/blue&sni=dp.ylks.xyz#HK 🇭🇰 ┇ VLESS-WS-TLS - CN CARE NETWORK LTD ┇ 103.220.72.40
-trojan://u2ym1p5k-tysa-i40h-nost-0aczqudjlr5x@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://y60lhxsl-8bt4-p71i-yxfk-ktcg6fi8a4fz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

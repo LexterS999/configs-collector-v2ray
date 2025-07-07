@@ -1,6 +1,6 @@
-trojan://bk8cu28q-5ae9-mdx3-elbj-x8q8ec28infp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://s6v5yduf-u19j-03uk-zkjf-n9erly8tg2q3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://o4gerd1v-u83x-tpm9-1krz-82w5zg04hw3p@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://olhznvfg-cu6s-okxl-wkq0-20xvi9te0hee@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://7w8n92s9-gc0x-3zta-sth8-olovfxzrq2ba@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://uuw69htn-f9w9-i1df-code-2rj28p4mn668@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6rpnm64s-nmxn-ylqd-k2d9-8a0y31vz4dpf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ctph35vq-ode4-ncwi-5u5w-z1mhlxrhlzho@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3ba7797d-e4ed-4512-b186-330b1b9ae3bd@103.153.254.231:80?type=ws&security=none&path=/vless#VN 🇻🇳 ┇ VLESS-WS-NTLS - VIETNAM POSTS AND TELECOMMUNICATIONS GROUP ┇ 103.153.254.231
-trojan://3plog42a-oofb-uhbu-ynr1-r4vywr1zm4ue@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://abw11kct-kv8n-vim4-fpbs-qfiao4amynzh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

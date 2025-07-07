@@ -1,7 +1,7 @@
-trojan://e4fd41nb-0fle-aem6-7z8r-0tf19z7inm1i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://68k0ege2-v9sr-mdu7-ovuh-bi2omve3fqol@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://s9uxni5b-u2ag-7zsw-wham-mdzyv73gsoe2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://l09qo4ac-hhbs-w5e9-35tf-jezol855jerl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://s2phjcmm-5zj7-hujr-fq75-92h56o554x9h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://okdi0zee-dv5d-v9hj-1vq4-f9gzvpz8sbii@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wxg8fm86-lxyv-4js5-d1n6-453c7w572jzb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5uaqgfwh-4e0t-tdqc-axh5-wszqn8ppz22h@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://a0069975-5ad0-4f1c-8800-cd55a381b3b9@node-de-1-v4.soundlesss.com:2000?type=tcp&security=reality&sni=unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#DE 🇩🇪 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 45.154.207.250
 vless://c48da5b2-98a7-4ca3-9ef3-1c9b8dbd3901@37.143.130.216:4000?type=tcp&security=reality&sni=unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#ES 🇪🇸 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 37.143.130.216
 vless://a0069975-5ad0-4f1c-8800-cd55a381b3b9@node-sp-1-v4.soundlesss.com:4000?type=tcp&security=reality&sni=unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#ES 🇪🇸 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 45.154.206.54
@@ -17,4 +17,4 @@ vless://02d3ce27-70f5-4d26-ae35-6e5840d5c1a0@172.245.232.117:443?type=tcp&securi
 vless://67fbe406-ba82-4ba6-9be9-d14e91d1195e@172.245.234.211:443?type=tcp&security=reality&sni=www.apple.com.cn&fp=ios&flow=xtls-rprx-vision&pbk=f0fdocfHkO0vm0u77amLsiPslFoyU3lE4V7BIR6mS0s&sid=bf47a57e#US 🇺🇸 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 172.245.234.211
 vless://a0069975-5ad0-4f1c-8800-cd55a381b3b9@23.95.75.171:7000?type=tcp&security=reality&sni=unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#US 🇺🇸 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 23.95.75.171
 vless://a0069975-5ad0-4f1c-8800-cd55a381b3b9@node-us-1-v4.soundlesss.com:7000?type=tcp&security=reality&sni=unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#US 🇺🇸 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 23.95.75.235
-trojan://65t6t1i4-29qo-8jam-d4yd-ghteseubhi2l@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://75xl0npp-vcpc-n2dl-dthg-m9kvcr1ss4k8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

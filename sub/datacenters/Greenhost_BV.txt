@@ -1,7 +1,7 @@
-trojan://wbvhh6dp-gz1t-vjou-u5xw-gul6iws0mol1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://i4smgfs5-kn27-bcno-zejy-q5avz407scum@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tldpnqxn-n0f6-w6w3-loo3-ogocpnrat322@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fxn2i05l-q2zc-jg9s-azyi-mfy6hgg8x9y9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6ate8bpd-5hj9-c05h-it1c-l3o4ti2fwsqz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://at9ftns8-ipuv-xc0c-c69q-t7dgxl3y6e2t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://selwfal0-8vlz-d8k5-oi6l-6hausla0dtlc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3jbilkxm-6f7m-6eq7-scqf-1fpxk107tc2d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - Greenhost BV ┇ 45.87.175.171
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.199:8080#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - Greenhost BV ┇ 45.87.175.199
-trojan://rq5zh3md-41qf-o3xp-qbtn-sek409qxjuo7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://fsl8j5yl-eqj7-wwhc-bujq-zxfb5s68h15x@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

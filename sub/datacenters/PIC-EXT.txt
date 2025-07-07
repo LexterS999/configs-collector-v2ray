@@ -1,9 +1,8 @@
-trojan://mzmoabnr-l231-g16d-p1dz-zu5x45n6500u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://14404agw-i6vz-h7oc-mwf4-1b8kw69b2jmc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4hxzpvq7-ob5c-7dvx-wdzi-or7eafjfas22@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1ii3blit-9pl7-vyxb-0a8f-cso6zofzl518@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://xgr5hv10-6rdu-brih-zf6s-p3tpda85y5qe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://8r059lvg-ef0o-e834-yl20-k0zvknr0a4i6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://e7khylxh-zrhs-9pxh-1exx-9z4rfgd1uav6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6b0bxa3c-nhd1-4gra-s3nl-xgdaqopdejx1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@130.250.137.77:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.77
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@130.250.137.177:8880?type=ws&security=none&path=/Telegram🇨🇳#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.177
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.101:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - PIC-EXT ┇ 130.250.137.101
 vless://55520747-311e-4015-83ce-be46e2060ce3@130.250.137.107:443?type=ws&security=none&sni=uu.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.107
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@130.250.137.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.13
@@ -13,6 +12,7 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.160:2082?type=ws&securi
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@130.250.137.161:443?type=ws&security=none&sni=vz.bgm2024.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.161
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@130.250.137.163:443?type=ws&security=none&sni=lx.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.163
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.164:2082?type=ws&security=none&path=/blue&sni=hk033.ylks.link#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.164
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@130.250.137.177:8880?type=ws&security=none&path=/Telegram🇨🇳#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.177
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.186:2082?type=ws&security=none&path=/blue&sni=hk033.ylks.link#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.186
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@130.250.137.19:443?type=ws&security=tls&path=/?ed=2560&sni=il.ylkszy.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - PIC-EXT ┇ 130.250.137.19
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.200:2082?type=ws&security=none&path=/blue&sni=hz.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-NTLS - PIC-EXT ┇ 130.250.137.200
@@ -27,4 +27,4 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@130.250.137.63:2083?type=ws&securit
 vless://55520747-311e-4015-83ce-be46e2060ce3@130.250.137.73:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - PIC-EXT ┇ 130.250.137.73
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@130.250.137.94:443?type=ws&security=tls&path=/?proxyip&sni=vz.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - PIC-EXT ┇ 130.250.137.94
 vless://dee6e497-bf07-45bb-82a4-a988ac8c1403@cf-node-us-1.kcjb.org:443?type=ws&security=tls&path=/&sni=node-new-us-1.clashr.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - PIC-EXT ┇ 130.250.137.11
-trojan://v4e7oqx7-5j5w-u4na-m3pu-nkrqdi8lsbu3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ef4zfwob-0qdh-4ni6-gfgi-2uzbqcz5qw5j@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

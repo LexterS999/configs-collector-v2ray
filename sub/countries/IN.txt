@@ -1,10 +1,11 @@
-trojan://scd0lvsm-e98k-9jus-sr3d-cjyxz4ijm19u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://abgi0x8p-lwyp-nl1l-5k67-a990k9uep1io@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kc578uca-fnsh-ho49-wl2u-l0a82v9bkzvz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://klwfqqz3-7lk5-s7xc-femf-j5pxydscq8ec@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://0lv9cvms-pvhv-w1up-fwh6-7jas8gspfbh3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://dcithhcn-mmim-wrjn-rwd5-s1ikbpjqra4y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://yxgjbvsk-tsdo-7321-k9ev-ynl8ymzpgzvb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://l5sey8s4-ryau-qmyl-a1yg-budchzmj3b6y@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://ttfang@13.233.5.49:443?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.233.5.49
 vless://948f6596-66f9-4707-aa92-3107a214ce53@65.1.147.200:35979?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#IN 🇮🇳 ┇ VLESS-WS-TLS - AMAZON-02 ┇ 65.1.147.200
 vless://f4a5b6c7-d8e9-4567-0123-3456789abcde@172.69.178.43:2053?type=ws&security=tls&path=/VLESS@PlanAsli&sni=aslivpn.pages.dev&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 172.69.178.43
+vless://d4e5f6a7-b8c9-4567-0123-def012345678@172.69.178.43:443?type=ws&security=tls&path=/VLESS@PlanAsli&sni=aslivpn.pages.dev&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 172.69.178.43
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.245.228.0:8880?type=tcp&security=none&path=Telegram🇨🇳#IN 🇮🇳 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 103.245.228.0
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@103.245.228.13:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#IN 🇮🇳 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 103.245.228.13
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.245.228.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#IN 🇮🇳 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 103.245.228.177
@@ -25,10 +26,11 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.198.173.29:8880?type=ws&securit
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.198.173.63:8880?type=ws&security=none&path=/Telegram&sni=jp.laoyoutiao.link#IN 🇮🇳 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 154.198.173.63
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@154.198.173.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#IN 🇮🇳 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 154.198.173.77
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENvbnRhYm8gQXNpYSBQcml2YXRlIExpbWl0ZWQgXHUyNTA3IDk0LjEzNi4xODUuMjMwIiwiYWRkIjoiOTQuMTM2LjE4NS4yMzAiLCJwb3J0IjoxMDUzNCwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 134.209.147.198
 vless://cfa105a9-f127-4369-b91f-040110a391a8@206.189.129.143:25874?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 206.189.129.143
 vless://e153c6b8-d02c-4023-87e4-c5fa2643f2a8@arrow.ekala.top:38965?type=tcp&security=none#IN 🇮🇳 ┇ VLESS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 139.59.78.64
-vless://87b65c2d-e2fc-47e8-864f-01de4069c652@209.38.125.120:2053?type=grpc&security=reality&sni=speedtest.net&fp=chrome&pbk=gA6cpUl_9Ewe-hqLM3chK2Ni5ScBHqOQSme_FnLXESg&sid=15#IN 🇮🇳 ┇ VLESS-GRPC-RLT - DIGITALOCEAN-ASN ┇ 209.38.125.120
 vless://6c9f4160-0097-40bf-ba6e-be2f8594345f@165.22.214.53:443?type=tcp&security=reality&sni=inoff.qwertyuioaasdfghjkzxcvbnmdfghvqsadwqewqeqwqsxqaztghbhjntgbrfded.top&fp=chrome&pbk=eVhnwL1DHHaHfmbrlhKXTwK-TjLNWw-mn_3kmh32Tjk&sid=b0fa7500db84c4#IN 🇮🇳 ┇ VLESS-TCP-RLT - DIGITALOCEAN-ASN ┇ 165.22.214.53
+vless://87b65c2d-e2fc-47e8-864f-01de4069c652@209.38.125.120:2053?type=grpc&security=reality&sni=speedtest.net&fp=chrome&pbk=gA6cpUl_9Ewe-hqLM3chK2Ni5ScBHqOQSme_FnLXESg&sid=15#IN 🇮🇳 ┇ VLESS-GRPC-RLT - DIGITALOCEAN-ASN ┇ 209.38.125.120
 vless://0878eb75-6121-6138-8f06-1aed31aeabe0@india.saitsazs.ir:1443?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=qdfo8UQXXsXPViln7MbAIIvVgKrDnuRoFBGVTJDm134&sid=31e7200536a1ad45#IN 🇮🇳 ┇ VLESS-TCP-RLT - DIGITALOCEAN-ASN ┇ 167.71.228.79
 vless://1077c841-97d9-45a4-8663-7876e6b0f053@151.101.158.204:80?type=ws&security=none&path=/melo/ws?ed=2048#IN 🇮🇳 ┇ VLESS-WS-NTLS - FASTLY ┇ 151.101.158.204
 vless://009d69cc-4d08-4966-bd3c-75688b3c8145@157.20.172.163:443?type=ws&security=tls&sni=h2e.salehpersian.com&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - HOSTZOP CLOUD SERVICES PRIVATE LIMITED ┇ 157.20.172.163
@@ -51,4 +53,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.70.71.23:443?type=ws&security=t
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@148.113.43.228:8443?type=ws&security=tls&path=/bing&sni=photosair.ir#IN 🇮🇳 ┇ VLESS-WS-TLS - OVH SAS ┇ 148.113.43.228
 vless://df190411-7310-4cd6-bc22-546d7f584f35@148.113.46.244:2052?type=grpc&security=none&fp=chrome#IN 🇮🇳 ┇ VLESS-GRPC-NTLS - OVH SAS ┇ 148.113.46.244
 vless://55193d81-c11e-4af9-9215-c529175e3ef9@103.180.213.53:8443?type=ws&security=tls&path=/tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com.tp-freevpn.com?ed=2048&sni=api.lunarmc.ir&fp=chrome#IN 🇮🇳 ┇ VLESS-WS-TLS - WEBYNE DATA CENTRE PRIVATE LIMITED ┇ 103.180.213.53
-trojan://hsm71y8m-zpmf-mgmo-14yb-a4bvhi9sntq4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://6ohzmlke-15u8-lv7v-swfd-87a4ddc2caoe@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

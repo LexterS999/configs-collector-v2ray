@@ -1,12 +1,12 @@
-trojan://8xcu8b5l-a163-ysm7-v10l-0pducf5thh0f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://hh6hsew3-rrbj-cvf3-gsez-9wr4a7irm99y@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7qmh0var-lioi-ltnd-bl2f-5jo4st00sm3k@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://c5vquenx-pqpe-oce2-pp1k-avvch9g8los1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://c2gtm2is-sko4-5tw9-4h10-ohwvk637xzmw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://b1sws2ll-pmal-fvc2-g30o-guhtf73yy97n@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1ndudneq-hlse-iy3b-vtn5-doguuctfkpcs@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://cp6cf5cx-rz04-hmvz-e13a-hl7xcgs270fx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://588f094b-431b-422c-b80b-007945037072@usa01.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=usa01.abvpn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - LLC VK ┇ 217.16.20.85
 vless://fc319d2e-3b95-4696-85db-9bdc885960d5@109.120.189.30:443?type=tcp&security=reality&sni=maviks.eu&fp=chrome&flow=xtls-rprx-vision&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 109.120.189.30
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@212.233.94.204:443?type=tcp&security=reality&sni=maviks.eu&fp=chrome&flow=xtls-rprx-vision&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 212.233.94.204
 vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@212.233.95.52:443?type=tcp&security=reality&sni=maviks.eu&fp=chrome&flow=xtls-rprx-vision&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 212.233.95.52
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@213.219.215.89:443?type=tcp&security=reality&sni=maviks.eu&fp=chrome&flow=xtls-rprx-vision&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 213.219.215.89
 vless://5de591e3-e584-4b96-b78b-239da21286ec@a.ru.maviks.ru:443?type=tcp&security=reality&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 185.86.144.249
-vless://c8898cfd-9927-4f36-b7bc-40de76076b80@ru.maviks.eu:443?type=tcp&security=reality&sni=maviks.eu&fp=chrome&flow=xtls-rprx-vision&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 95.163.181.123
-trojan://3e0ew6yb-ak0z-qde2-iy5f-5c9iil49sjel@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@ru.maviks.eu:443?type=tcp&security=reality&sni=maviks.eu&fp=chrome&flow=xtls-rprx-vision&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 109.120.181.187
+trojan://75xwvjgm-5cni-sz8r-380b-f08d58kjdxnf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

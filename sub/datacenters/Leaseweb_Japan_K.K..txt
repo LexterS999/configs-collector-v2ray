@@ -1,6 +1,6 @@
-trojan://26ieoonu-sq38-hca4-hncv-trqauwahssqe@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://extgph3u-wc3g-4ug5-tp7w-vjjiczw1940s@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://540ibd4h-8jcb-t51r-pgbp-f8cpf53raocb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://h9m861iy-wxfe-mjwc-o2ii-echp3vdebbgc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://df3wwlv9-7qfz-jm2u-sdjv-mzhehskw20u7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://wyknv9fp-wfbo-r38q-ytb3-3iqh00fi3dbh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6ho40767-k52o-pdti-ph1d-hbluwf9hxyyq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://uvkfnmgn-a53l-j2qz-9kar-nb8xclw6qlkp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://5419c4db-9964-4461-9a16-5da7579ad8a4@142.91.104.35:443?type=tcp&security=reality&sni=music.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=fdylZcT0rIVg3-NxuFbYaYLqwiSsHVLGjPAqAK5JWSI&sid=346c049d#JP 🇯🇵 ┇ VLESS-TCP-RLT - Leaseweb Japan K.K. ┇ 142.91.104.35
-trojan://ne6ud7bf-khiu-sdkh-2hhu-txx8aipnoh0s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://089a5c2g-vcy3-3ytg-vkxo-swa36ad7szyu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,6 @@
-trojan://kdhmi680-57r6-3bk8-81ah-d7y2m1v6sfvp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://fieoi0tt-qxo0-9uza-7hda-os2ldaplt893@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nzh7pkz7-vvav-ntjh-xftb-w4lndhacvxst@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://4i7xxtre-jcni-9u5f-tgph-3qgdk12hr0ty@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://sbqvxsj2-ld9o-4tnu-8jda-lviyv3guvk9c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://fvtap5p5-x9mo-hdj2-c5kj-n2liyfgbhbm5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2t8iscq1-t6v4-wr2l-gepv-nxmcb3tdlxks@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5fjmj87s-bu3t-wwva-l7vp-1jc629niob0m@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d50f8bc7-d4d0-44cf-8744-05fa82506864@43.229.254.177:80?type=ws&security=none&path=/vless#ID 🇮🇩 ┇ VLESS-WS-NTLS - PT. Media Antar Nusa ┇ 43.229.254.177
-trojan://wu86403z-63t9-5taq-bo8f-ty2f0mlchq7q@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://0wpqu2xv-mtg1-0687-qwvm-p38jgpgw1mwg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

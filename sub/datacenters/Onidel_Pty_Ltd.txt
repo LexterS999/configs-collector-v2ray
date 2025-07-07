@@ -1,7 +1,7 @@
-trojan://qhugdlu6-6ehx-4p8g-8q69-3vbsyi0s4ra7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://cdx3s724-u6ha-p4ne-r02z-9njpz0uvrbtx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1t2cs1a8-njrx-4yy6-n5na-ktpn8dwrzugb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qw81dfeh-h3fl-k3iz-hait-za4bnuqlk2qr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://kr5akjy6-aoyt-f3yc-99g4-mkffpn0enjzq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://cdvnkq57-j9u9-6sg9-poay-ttk7cx6011sh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ky6wsxjw-hlkw-40mz-i4a0-oojloi9ptb4e@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://isj0pwbp-bd5t-qkwk-yols-whexp8qo60fn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.22.79.155:443?type=ws&security=tls&path=/Telegram🇨🇳 @pgkj666 /?ed=2560&sni=steep.skyfigure.top#SG 🇸🇬 ┇ VLESS-WS-TLS - Onidel Pty Ltd ┇ 160.22.79.155
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@160.22.79.179:443?type=ws&security=tls&path=TelegramTW_@WangCai2/?ed=2560&sni=digitalscientificresearchgroup.ir#SG 🇸🇬 ┇ VLESS-WS-TLS - Onidel Pty Ltd ┇ 160.22.79.179
-trojan://e5e5ltie-xndr-1fma-27gw-64q24darwiqh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://hvv0nlgk-hqzv-c2yl-riih-x3q1wi0a2zo4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,6 @@
-trojan://esaqyoy7-hups-rm0o-dma4-x65ex0km7yev@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://8eiq0rty-5iv5-8e30-st9f-a70jhh41skxk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bel5vmuv-h7md-8bh2-tl03-3tp3uph0j7cv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1fhr9ykw-nvfd-gxox-91lk-4w6r7xwah55v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://wlmzazii-k4os-ndz0-kpbl-d2i5eec33v8t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://sgk9tj7h-lve7-4ctj-unof-bw8g57qrqwp4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dyborrc5-zah5-sk5c-yf7o-ku7uvnjs80ul@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://b84pz9pa-n2sz-21bs-blxu-jgra5hozdqa3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://h3i4u8yw-07x5-4751-yx70-z8y8w1227z59@141.11.62.217:443?type=tcp&security=tls&sni=www.cloudflare.com#NL 🇳🇱 ┇ VLESS-TCP-TLS - Wojciech Czapkowicz ┇ 141.11.62.217
-trojan://jb0c4if6-1nwg-st0s-lccw-11ydulmf2uhd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ynzwouho-jrk1-rvk4-j2ap-6aiqvij4u273@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://k1h9kesq-esu9-i1jn-9miz-c5zawe00ufmw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://cwrsz5mi-ssy7-6pnp-u5d3-w14di261ljqp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qqmhwly2-ihuj-qloe-691n-bz0ov69b8qi4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9dhja2p3-y31u-ku7n-mq04-0wpv7mtur3uo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://e8a1uzqb-g92x-uotl-70y2-ac7ppp8wviiv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://aox51lqp-1mzx-n467-f8e0-hsej713t9j6t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://lf0s59qi-a5av-2jdk-5lcd-7zap4gas9hwk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bt90l3bf-8sbt-v8ed-v4kx-wbn6a4fxbbzz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://mZMgM1vKw5@85.255.9.247:1935?sni=x1-czech-aruba-v2.devefun.org&peer=x1-czech-aruba-v2.devefun.org&security=tls#CZ 🇨🇿 ┇ TROJAN-TCP-TLS - INTERNET CZ, a.s. ┇ 85.255.9.247
 vless://d3a608d2-f233-40c2-922e-5d278ef869c7@194.182.79.100:42438?type=tcp&security=none#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.100
 vless://62d8756d-6f8b-4ddb-96fc-a97e001642b8@194.182.79.108:50513?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 194.182.79.108
@@ -60,4 +60,5 @@ vless://aa8b969e-b90e-400e-a36b-9e3cd6722e57@81.2.233.201:23664?type=grpc&securi
 vless://6b183376-70b8-474e-bf64-f05b8dc41bf9@81.2.233.69:52679?type=grpc&security=none#CZ 🇨🇿 ┇ VLESS-GRPC-NTLS - INTERNET CZ, a.s. ┇ 81.2.233.69
 vless://d73bb99c-0375-4840-ad56-f9850eef3ef1@194.182.84.53:443?type=grpc&security=reality&sni=wordpress.org&fp=randomized&pbk=DpSW8adQoMP_hcXxdAGD6PPdrHuwYbFomzJmBmtsqxM&sid=e3f189ed#CZ 🇨🇿 ┇ VLESS-GRPC-RLT - INTERNET CZ, a.s. ┇ 194.182.84.53
 vless://turboo-server@turboo-server.aftabz.com:65000?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=paXwzQ6qDGHFfMlpY1vX6-lZrkI2gUzP3nXg91ZrBQw&sid=0efa0583a943#CZ 🇨🇿 ┇ VLESS-TCP-RLT - INTERNET CZ, a.s. ┇ 194.182.84.136
-trojan://kdfiu9cd-u690-3jkb-5gt8-tiys9n9q390e@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://turboo-server@turboo-server.aftabz.com:65001?type=tcp&security=reality#CZ 🇨🇿 ┇ VLESS-TCP-RLT - INTERNET CZ, a.s. ┇ 194.182.84.136
+trojan://9382jcxd-exfg-w6qv-66oh-o0yywkp7v1ky@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

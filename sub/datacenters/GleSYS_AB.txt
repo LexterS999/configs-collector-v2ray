@@ -1,6 +1,6 @@
-trojan://sk15pgqt-mx6v-qfem-nlvg-2s3gcocu7ryo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://1m1tyhxi-xflp-saqf-cr7b-tipadimq34i3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://w65zacua-g1wd-9lb0-gw5l-1xi7gfnklbxj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qcu4bpq5-wdm0-a9y2-dd7z-89u161050ubh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://d8d6pqsv-7xoc-75ko-ucyl-3c9ohfdgyu52@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://n2f5tfdd-h5i6-pv2c-ogpd-xem9fy27bq0g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://a864nuir-uvm4-rijx-vthi-f7vwpl3cdr4b@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ce3qidnn-8kdi-d0d9-mtya-muem88ipvj9p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c369d666-7942-44be-b24c-3ffa0972e169@46.246.98.130:443?type=tcp&security=tls&sni=sto5.vpntype.dev&fp=chrome&flow=xtls-rprx-vision#SE 🇸🇪 ┇ VLESS-TCP-TLS - GleSYS AB ┇ 46.246.98.130
-trojan://w3gg1zqs-m16c-kaj3-b3k0-b66x8lm1rt8p@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://fgp77z89-tjqc-p66p-c7lt-gpi8z0fsbja7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

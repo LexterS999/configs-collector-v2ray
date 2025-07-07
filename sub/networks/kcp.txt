@@ -1,14 +1,16 @@
-trojan://bdch6ep6-y423-f5xp-e1qe-6pl9npbbzcwu@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://ezw4sept-40jq-6xi8-n2c8-dti9qrdyxxrx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://msvdf0ws-soyn-qmj9-tb2r-1o0lrd63h5bx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5aypa6il-7byo-lrbb-uxxk-nzcxxa89k0p7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://uvnfav7q-b5ph-bxlw-nndk-u43ove7ty7y6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://aby7h4q2-0h14-mouh-f0rm-87xhzeysivip@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://y25ns2si-0qsh-7su9-tvco-o9b3tp6sepgf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3d583n45-69zm-72ej-zr4q-19ccic9bq567@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQ0EgXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIE9WSCBTQVMgXHUyNTA3IDo6ZmZmZjo5NDcxOmNmZTAiLCJhZGQiOiI6OmZmZmY6OTQ3MTpjZmUwIiwicG9ydCI6MzAwMSwiaWQiOiJjZDlmZGVlNi04OTA1LTRkYTktOWVlZi1hMWExOGIyOThhNjUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoid2lyZWd1YXJkIiwicGF0aCI6IjNiYTkwZTUxLWJjZmQtNDY3MS05ZGMwLTI2MmFjNjNjN2Q4YSJ9
 vless://0256d165-b058-4b50-9798-05459ca2669f@91.107.181.191:2086?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.181.191
 vless://229a1287-a53a-4ece-e0e0-c05434f1e557@91.107.187.162:18555?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.187.162
+vless://91e7361d-dde1-4208-f412-75ee9f71d86c@91.107.187.162:2086?type=kcp&security=none#DE 🇩🇪 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 91.107.187.162
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1LQ1AtTlRMUyAtIE9WSCBTQVMgXHUyNTA3IDo6ZmZmZjozM2MzOjY1ZGUiLCJhZGQiOiI6OmZmZmY6MzNjMzo2NWRlIiwicG9ydCI6MzAwMSwiaWQiOiJhN2MyNjRiZC1hMmM1LTQzZGItOGE1Yi1hMmMzYmQxOWI5YWUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJrY3AiLCJ0eXBlIjoid2lyZWd1YXJkIiwicGF0aCI6IjNiYmY0YzA1LTFjYmUtNGEwNy05MmIwLTllZTk0OTE2ZjhjOCJ9
 vless://b96416ac-60f9-4136-9eac-9f55ae9960b0@65.109.196.223:8880?type=kcp&security=none#FI 🇫🇮 ┇ VLESS-KCP-NTLS - Hetzner Online GmbH ┇ 65.109.196.223
-vless://04f59fbe-08e5-4683-b5d4-bde3327be774@api.digi-asa.ir:12854?type=kcp&security=none#TR 🇹🇷 ┇ VLESS-KCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.203
+vless://f07bf2eb-332a-4cc8-b8fa-cfb6b3b9d987@46.226.162.83:8880?type=kcp&security=none#GB 🇬🇧 ┇ VLESS-KCP-NTLS - Aeza International Ltd ┇ 46.226.162.83
 vless://b96416ac-60f9-4136-9eac-9f55ae9960b0@213.156.152.238:8880?type=kcp&security=none#TR 🇹🇷 ┇ VLESS-KCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.238
+vless://04f59fbe-08e5-4683-b5d4-bde3327be774@api.digi-asa.ir:12854?type=kcp&security=none#TR 🇹🇷 ┇ VLESS-KCP-NTLS - G-Core Labs S.A. ┇ 213.156.152.203
 vless://c75bf7f7-ed5f-4fb0-8725-62852d25a384@192.3.1.161:30003?type=kcp&security=none&fp=chrome#US 🇺🇸 ┇ VLESS-KCP-NTLS - AS-COLOCROSSING ┇ 192.3.1.161
 vless://7cff09d4-8329-4e81-91b3-f0338949cb02@207.148.14.79:29556?type=kcp&security=none#US 🇺🇸 ┇ VLESS-KCP-NTLS - AS-VULTR ┇ 207.148.14.79
 vless://e5e7f142-aaab-40fe-c451-4cd2aaba79d6@143.198.64.218:49510?type=kcp&security=none#US 🇺🇸 ┇ VLESS-KCP-NTLS - DIGITALOCEAN-ASN ┇ 143.198.64.218
@@ -16,4 +18,6 @@ vless://0b1721b5-13d2-40fa-9e65-2db4776fa809@185.228.1.236:53186?type=kcp&securi
 vless://f00b3d28-a4d2-4122-8a11-1f0e1ca13413@api.digimobile.top:46830?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ None
 vless://cb9b1410-a29c-4533-dd58-e2d8de4d0f2d@app.digimobile.top:33120?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS ┇ None
 vless://e9dd7934-4da6-4da6-8de3-5f3d88f93b9a@trojan.wefuckgfw.ga:2586?type=kcp&security=tls#XX 🏳️ ┇ VLESS-KCP-TLS ┇ None
-trojan://ic1aj9pe-20co-u728-5c9m-5enz2lm18ps0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://f07bf2eb-332a-4cc8-b8fa-cfb6b3b9d987@104.21.1.12:8880?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS - CLOUDFLARENET ┇ 104.21.1.12
+vless://f07bf2eb-332a-4cc8-b8fa-cfb6b3b9d987@172.67.151.188:8880?type=kcp&security=none#XX 🏳️ ┇ VLESS-KCP-NTLS - CLOUDFLARENET ┇ 172.67.151.188
+trojan://gay6icy8-58el-isp4-8nex-k8d5y57z4g1n@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://u8yz3pqf-5dkt-gp29-77lx-dfaht0ptm3r7@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://rllj02qt-b21k-zmui-nhbw-jdx3b55l4zux@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zx3kywtr-1syy-vr4j-9ces-orbjjft4a64q@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://t7cos886-2cev-17zh-c2sf-vud3ga5tuwp5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qcr03ksk-k40r-p093-3q64-su31qh7p9i7w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://m6z6cvv7-n4df-zj8e-krpb-3il25531zjx8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qcuidmet-cthd-s51z-0343-eyevk388k8r9@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xpeivt93-ojwn-8kkx-b0gy-k3k28ajyy7m3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://cb4bc081-0670-471c-a264-30e9e726ea46@5.199.136.93:38853?type=tcp&security=tls&sni=ea.com#DE 🇩🇪 ┇ VLESS-TCP-TLS - WIIT AG ┇ 5.199.136.93
 vless://b5818506-2de2-44e3-8c23-bd8406816ff8@a.mgtoken.net:9000?type=ws&security=tls&path=/&sni=a.mgtoken.net&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - WIIT AG ┇ 78.31.64.157
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@02020.sbs:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 85.114.138.122
@@ -17,4 +17,4 @@ vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@81.30.156.91:8443?type=tcp&security
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@89.163.214.14:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 89.163.214.14
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@89.163.221.152:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 89.163.221.152
 vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@89.163.221.198:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#DE 🇩🇪 ┇ VLESS-TCP-RLT - WIIT AG ┇ 89.163.221.198
-trojan://1jfgfq11-r7n5-z6s1-cioe-du3f8mb1wgam@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qxfvxx1g-hbos-nnfq-nse5-x3xyi1vfz6cy@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

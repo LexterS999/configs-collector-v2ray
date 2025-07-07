@@ -1,8 +1,7 @@
-trojan://5wwm5not-dkq4-e693-praz-eqbn69fp0cjk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://lpciwzkf-uute-ewcn-fhkr-80dzihqsclpm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pkt9wxpd-4ptg-l30s-xsp1-skahstsrk98j@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zitluku7-hz5z-wwwa-qq1q-e8qypytbe0jr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.165:443?type=ws&security=none&sni=hl.ylka.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.165
+trojan://3swcm26b-jjvz-d478-a5b8-1i3zfmyjn6vp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://mqztiaj5-dn50-a06x-wdb3-2th7tn0mbt57@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://31bhmknu-o37c-wu00-ri0d-wujah8nqn8ol@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://v1qnlmwl-61mw-k8vt-qdhw-1govf33sb96h@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.0:443?type=ws&security=tls&path=/uxs.vs2024.us.kg&sni=re.vs2024.us.kg&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.0
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.67.215.101:443?type=ws&security=tls&path=/3b2dg5zv2kftsfko?ed=2560&sni=vz.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.101
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.102:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=jz.ylks01.eu.org#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.102
@@ -16,11 +15,13 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.143:443?type=ws&security=
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.146:443?type=ws&security=none&sni=sl.ylka.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.146
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.154:443?type=ws&security=tls&path=/blue&sni=ap.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.154
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.161:443?type=ws&security=tls&path=/blue&sni=ad.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.161
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.165:443?type=ws&security=none&sni=hl.ylka.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.165
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.167:443?type=ws&security=none&sni=hj.ylka.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.167
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@45.67.215.168:443?type=ws&security=none&sni=0229.patterdeng.pp.ua#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.168
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.172:443?type=ws&security=tls&path=/blue&sni=dd.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.172
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.174:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.174
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.67.215.177:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=vz.ylkszy.eu.org#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.177
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.67.215.177:8880?type=tcp&security=none&path=/Telegram🇨🇳#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Zaymer PJSC ┇ 45.67.215.177
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.67.215.185:443?type=ws&security=tls&path=/3b2dg5zv2kftsfko?ed=2560&sni=vz.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.185
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.19:443?type=ws&security=tls&path=/blue&sni=ad.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.19
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.208:443?type=ws&security=none&path=/bluesecurity=tls&sni=aw.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.208
@@ -52,4 +53,4 @@ vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.92:443?type=ws&security=t
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.95:443?type=ws&security=tls&path=/blue&sni=dp.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.95
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.98:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.98
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.99:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=hz.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.99
-trojan://xs8iixq0-0j6s-ow50-itn6-hqnzxzhjbbhb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://95kla0zj-8jg6-uppd-7qgv-hirhpiqxuez7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

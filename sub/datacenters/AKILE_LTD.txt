@@ -1,7 +1,7 @@
-trojan://06t32h4g-wjqg-hsrt-a8jb-u75ymwmdm44q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://tln7fqw8-47rc-q83a-uwpw-26gsys40iauo@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://lh7zh65u-9s58-9uiq-i15w-vou4vlnsntrf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://671282bm-nxv0-8tk3-f3oa-sbqj7juy3irf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1wracqv5-swuo-kif0-san1-u2h80gptywrq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://lpdb2e2h-uui0-hr5h-52ru-0rreggb9uphi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z18jwd0i-ltan-en68-2ox9-6wbe5ykcizco@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7lnfjl4v-mph9-695y-i1i5-gd136bzdgs4n@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.11.148.60:8080?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edmk.ambercc.filegear-sg.me#HK 🇭🇰 ┇ VLESS-WS-TLS - AKILE LTD ┇ 141.11.148.60
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@141.11.78.77:8080?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#HK 🇭🇰 ┇ VLESS-WS-TLS - AKILE LTD ┇ 141.11.78.77
 vless://70c2e363-a934-4ea5-9e29-7cadd817194c@154.16.10.34:8080?type=ws&security=tls&path=/?ed=2560&sni=v2-3h5.pages.dev&fp=random#HK 🇭🇰 ┇ VLESS-WS-TLS - AKILE LTD ┇ 154.16.10.34
@@ -18,6 +18,7 @@ vless://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443?type=tcp&security=
 vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?type=tcp&security=none#SC 🇸🇨 ┇ VLESS-TCP-RLT - AKILE LTD ┇ 154.85.18.233
 vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@104.234.233.57:35911?type=ws&security=tls&path=/?ed&sni=agedy.ambercc.filegear-sg.me#SG 🇸🇬 ┇ VLESS-WS-TLS - AKILE LTD ┇ 104.234.233.57
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.11.86.94:18333?type=ws&security=none&sni=edmq.aimercc.filegear-sg.me#TW 🇹🇼 ┇ VLESS-WS-NTLS - AKILE LTD ┇ 141.11.86.94
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@141.11.86.94:45888?type=ws&security=none#TW 🇹🇼 ┇ VLESS-WS-NTLS - AKILE LTD ┇ 141.11.86.94
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@141.11.86.24:50126?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY#TW 🇹🇼 ┇ VLESS-TCP-RLT - AKILE LTD ┇ 141.11.86.24
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@45.39.198.43:8080?type=ws&security=tls&path=/?ed=2560&sni=edccx.aimercc.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-TLS - AKILE LTD ┇ 45.39.198.43
-trojan://skd4efjx-1qib-qll8-12cn-vlepzo4yq8on@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://qkvlnbvu-uu2j-cbcb-px6j-5k9qsp735dby@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

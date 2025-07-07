@@ -1,6 +1,7 @@
-trojan://5n7l7lcp-sruv-0g9l-gtmw-ijts5cxryoni@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://x8zs4lqs-bo7x-5iu4-aex6-yu14qy6scp0u@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nzx2bdwn-iyc5-a2xq-ubln-e2nzpvlucbh1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://wm209flt-szpz-2794-l6wc-3gf1ydoibclj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://0061760a-93aa-4a7d-a6a4-23db73aea99e@p1.3dfigures.ir:80?type=xhttp&security=reality&path=/v2raybluecrystal&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=c3skAokcLEgTyB4A2qEidFSBNvvlJB6AUSH1RAvUc2s&sid=9fd097cb4d#US 🇺🇸 ┇ VLESS-XHTTP-RLT - NEXEON ┇ 64.44.158.121
-trojan://11abv3oy-gfto-qedc-ehi4-f2dqlgjxwb6q@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://mf04g1gy-l05s-gc0g-o99p-i5bz7t8qc9cg@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://oswtwtfr-1ps6-1li5-sx24-li5d3ae1t8wh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0ycr5kdd-yyck-kxmk-sy8x-kul8q99x94pn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://y4b3u6ut-edck-ltk3-58g3-3jt7gmf3c2nd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://4a163a6f-1811-4697-ae10-732dfe9589ba@64.44.158.121:36800?type=xhttp&security=reality&path=/v2raybluecrystal&sni=www.microsoft.com&fp=chrome&pbk=NmvXICZbgkr6rRIFHW3btC48PS4WPqI1WMI0zMypRzs&sid=9fd097cb4d#US 🇺🇸 ┇ VLESS-XHTTP-RLT - NEXEON ┇ 64.44.158.121
+vless://0061760a-93aa-4a7d-a6a4-23db73aea99e@64.44.158.121:80?type=xhttp&security=reality&path=/v2raybluecrystal&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=c3skAokcLEgTyB4A2qEidFSBNvvlJB6AUSH1RAvUc2s&sid=9fd097cb4d#US 🇺🇸 ┇ VLESS-XHTTP-RLT - NEXEON ┇ 64.44.158.121
+trojan://3sryqbyg-1did-snzl-gp7e-ps0ybmk8deig@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

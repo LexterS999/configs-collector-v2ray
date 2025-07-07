@@ -1,6 +1,6 @@
-trojan://sik1uj29-ash3-qgr4-1hm8-8mne7mnv699h@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://2ncq8ccz-qlqz-upxw-vgbl-g89yp0jgbd57@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zbc8y4wf-fe2i-y66b-l89u-bt36dtjj3g4w@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tqupo266-v2fu-k1e4-bgfs-gp5gxum3agzi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://vpmo3hdw-huwk-yhai-tnqz-0se1trj2jmiv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://m9cmggbd-z1ie-9zqe-8t1i-rcl41xfmunqu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ats6y6so-9pe4-53qo-8owp-3lt2t7vxasmd@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://r602jdjw-leh2-vdye-cs3m-5h8z9c2u258s@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.232.214.11:8443?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#HK 🇭🇰 ┇ VLESS-WS-TLS - STACKSINC-BACKBONE ┇ 103.232.214.11
-trojan://ygvgdpvg-pfqw-emnb-6sde-air6hpw9hv5i@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://asrg4eg7-p7u2-n48m-c3em-gvki7mkbjbyu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

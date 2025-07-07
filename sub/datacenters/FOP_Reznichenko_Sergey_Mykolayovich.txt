@@ -1,6 +1,6 @@
-trojan://50xrl4q7-mx8l-99e2-v3vg-q6evfqbgsh9l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://xjzqgb4d-vb7d-dvnx-jvl6-ivqvfw3vx3ko@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://neqo3nge-chcd-vj59-6b7y-b0flbdb8olut@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://81qs1g90-gl8d-2xe8-dcd2-hrrchpyzsdj5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://n6n7n63x-5g6w-bmmn-9h0a-us58k0qazzyj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://z8apv7g8-pbfx-px6w-rsrr-l8dbv16slca2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://f6vjtulc-crsj-1ctk-xd0v-zj9ieb42u4px@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fz44fm8u-w43m-h4f5-8y9g-rll8igh8mffd@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://708fd02b-5138-4198-980d-79819b3875fd@141.11.252.64:32785?type=ws&security=none&path=/708fd02b#UA 🇺🇦 ┇ VLESS-WS-NTLS - FOP Reznichenko Sergey Mykolayovich ┇ 141.11.252.64
-trojan://skmwvfwc-qysh-53m6-u90e-pp5a6lurkrfh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://d4zdsl1l-cmly-3f4i-nws8-u8blq3nnyqjm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

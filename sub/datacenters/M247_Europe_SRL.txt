@@ -1,7 +1,7 @@
-trojan://xn1sx5tg-m5q3-iet4-huik-mac2qej21oma@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://ayezrcmk-jw4x-oxrf-c9il-cnyriowqs7zx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://c8s6ywxo-pkm1-jlak-brhs-ukxukulzn9um@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9jb2d2tb-rpr5-quzn-0py7-oijmkauupds4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://suyqi9qs-4xot-z6ue-48oo-akwgf2yotkrv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://nrhrgz1u-y5ka-0kpi-de3v-6k4sy9j7eecd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5d2od3uu-54z3-ncdc-eewo-ljjhr7nsgqwf@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fmfvxt6y-b69s-q5sa-pavc-wxj0ugk6pcnw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@176.97.67.209:443?type=ws&security=tls&path=/?ed=2560&sni=happy.mianfeicf.lol#AE 🇦🇪 ┇ VLESS-WS-TLS - M247 Europe SRL ┇ 176.97.67.209
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@38.180.78.255:80?type=ws&security=none&path=Telegram🇨🇳#BR 🇧🇷 ┇ VLESS-WS-NTLS - M247 Europe SRL ┇ 38.180.78.255
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@38.180.79.9:80?type=ws&security=none&path=Telegram🇨🇳#BR 🇧🇷 ┇ VLESS-WS-NTLS - M247 Europe SRL ┇ 38.180.79.9
@@ -15,8 +15,9 @@ vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.18.176:444?type=tcp&securit
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@38.180.29.115:443?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#JP 🇯🇵 ┇ VLESS-WS-TLS - M247 Europe SRL ┇ 38.180.29.115
 vless://7fa0ed5f-4c53-4fa9-af42-46fb2ca1279a@146.70.175.125:443?type=ws&security=tls&path=/&sni=65qPXvw0.youthinkyoucanstopmefyoudpi.site#NL 🇳🇱 ┇ VLESS-WS-TLS - M247 Europe SRL ┇ 146.70.175.125
 vless://e4f694e3-8299-4942-bbeb-227d41435edf@86.106.20.145:18730?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - M247 Europe SRL ┇ 86.106.20.145
+vless://899cff3d-15b9-4a88-a73f-5f252dc50e09@86.106.20.145:57027?type=tcp&security=none&path=/#NL 🇳🇱 ┇ VLESS-TCP-NTLS - M247 Europe SRL ┇ 86.106.20.145
 vless://84618aee-4b08-477c-80ef-6e3aa174c1cf@radical8c.rcltech.org:443?type=tcp&security=reality&sni=daisyui.com&fp=chrome&flow=xtls-rprx-vision-udp443&pbk=qLJaIb4fZlW-kDb6aAvviF3ksDf_YG7-b8q-arXedFs&sid=8bc5926441d5#NL 🇳🇱 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 37.120.239.180
 vless://80e79dc0-ad8f-4008-a221-996252a6f15f@45.136.199.77:443?type=ws&security=tls&path=/?ed=2560&sni=20241205.666888.lol&fp=random#RO 🇷🇴 ┇ VLESS-WS-TLS - M247 Europe SRL ┇ 45.136.199.77
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@38.180.100.80:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=vz.ylks.xyz#RS 🇷🇸 ┇ VLESS-WS-TLS - M247 Europe SRL ┇ 38.180.100.80
 vless://7e38fa80-6cf3-4013-b576-5b3be737fb43@38.180.61.83:25529?type=xhttp&security=reality&path=/&sni=vultr.com&fp=chrome&pbk=0grZUQjpy-Y2iQ_QaKJm2MTgJANaxew0iOSQMBffGiU&sid=c4bf2058763803b1#US 🇺🇸 ┇ VLESS-XHTTP-RLT - M247 Europe SRL ┇ 38.180.61.83
-trojan://4lthrtn4-88lc-y9l3-kj8h-69woxug6oh28@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://6zlah6k9-sgbo-12j6-7asu-w64woiqkw702@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,7 +1,7 @@
-trojan://wxa20lte-10vi-pdd3-sdsr-btjgabzszejl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://ffpveq8z-j1ef-mzax-8y0l-01v4qmt10syu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ddvsjme5-j3zj-ouiz-jz4k-v90bbrdn6mei@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pnertuf2-lpu5-3sq2-3xtv-15hw19xcbk7e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://f095muvj-rs3n-obvo-nwqd-v3ycdrh13skk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://chi37gbm-rv5y-59nc-dv4s-40soxl3wfw8o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xpxlvys3-kmvg-h74h-9gal-w398yyol4sc5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://fj3x692r-ymz3-ss3p-e8ht-tnwqfe6ki63i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.10:80?type=ws&security=none&path=/Telegram🇨🇳@@pgkj666/?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.64.10
 vless://149e1f3d-b2e0-4879-8d9c-7a13d01c32ed@135.84.64.208:443?type=ws&security=tls&path=/?ed=2560&sni=mc1.777999.lol&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 135.84.64.208
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.64.239:80?type=ws&security=none&sni=23-lsjfjwiposkfls.hc2021.cfd#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.64.239
@@ -15,14 +15,28 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.67.29:8880?type=ws&security=
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@135.84.67.33:80?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=23-lsjfjwiposkfls.hc2021.cfd#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.67.33
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@135.84.67.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=sg.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.67.63
 vless://0412c9be-73e7-4a46-82b8-6c48edbca61e@135.84.67.74:2083?type=ws&security=tls&path=/&sni=elite.vip-morteza.xyz&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 135.84.67.74
+vless://15868173-1378-4984-a4e2-07d51591b237@135.84.67.74:8880?type=httpupgrade&security=none&path=/?ed=2048#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - ULTISOFTASN ┇ 135.84.67.74
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@135.84.67.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 135.84.67.77
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.178:2083?type=ws&security=tls&path=/urenftuu3z1kqryb/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgeS.dEv#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.178
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@208.86.168.210:2096?type=ws&security=tls&path=/&sni=D6rVkPfEgS.aAaZzZaAa-8129.CoM#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.210
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@208.86.168.210:443?type=ws&security=tls&path=/?ed=2048-@ShaowProxy66&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.210
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.210:8443?type=ws&security=tls&path=/bdbeqy5r01xte4fl/mtu4ljewms4ymdmumti3?ed=2560&sni=sB-1U6.PAgeS.deV#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.210
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.45:2083?type=ws&security=tls&path=/urenftuu3z1kqryb/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgeS.dEv#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.45
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.45:2087?type=ws&security=tls&path=/pc0cypuups4meoks/mtu4ljewms4ymdmumti3?ed=2560&sni=Sb-1u6.paGEs.dEv#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.45
+vless://d32e19c3-9928-4811-b3b5-b1ce6b3792ea@208.86.168.45:2096?type=ws&security=tls&path=/2096/@VRayyNGvpn&sni=bEAt.MIRaclETaxbiTS.Top.#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.45
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@208.86.168.45:443?type=ws&security=tls&path=/Telegram@V2ray_Alpha&sni=digitalscientificresearchgroup.ir#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.45
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.74:2083?type=ws&security=tls&path=/urenftuu3z1kqryb/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgeS.dEv#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.74
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.74:2087?type=ws&security=tls&path=/pc0cypuups4meoks/mtu4ljewms4ymdmumti3?ed=2560&sni=Sb-1u6.paGEs.dEv#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.74
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.74:8443?type=ws&security=tls&path=/bdbeqy5r01xte4fl/mtu4ljewms4ymdmumti3?ed=2560&sni=sB-1U6.PAgeS.deV#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 208.86.168.74
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.208.227.150:2083?type=ws&security=tls&path=/urenftuu3z1kqryb/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgeS.dEv#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.150
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@209.208.227.150:2096?type=ws&security=tls&path=/&sni=DrOt0Ai1Oq.DeRaKhT.iNfO#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.150
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.208.227.150:443?type=ws&security=tls&path=/hnzodogqct9yjjex/mtu4ljewms4ymdmumti3?ed=2560&sni=sB-1u6.PagEs.dEv#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.150
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.208.227.218:2083?type=ws&security=tls&path=/urenftuu3z1kqryb/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgeS.dEv#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.218
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.208.227.218:443?type=ws&security=tls&path=/o56edk55jth9andd/mtu4ljewms4ymdmumti3?ed=2560&sni=sb-1u6.pageS.Dev#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.218
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@209.208.227.218:8443?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - ULTISOFTASN ┇ 209.208.227.218
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@209.208.227.229:2096?type=ws&security=tls&sni=LgUoZjGr14.hAmEcHiRuHaVaSt.cOm&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.229
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@209.208.227.229:443?type=ws&security=tls&sni=digitalscientificresearchgroup.ir#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.229
 vless://d6a1143b-cdf0-41f8-a646-bd8f11663786@209.208.227.239:443?type=ws&security=tls&sni=cr77.medicalhistory.ir#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.239
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.208.227.61:2053?type=ws&security=tls&path=/fltcxoo6grqvat6v/mtu4ljewms4ymdmumti3?ed=2560&sni=SB-1U6.PAgEs.dev#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.61
-trojan://ris4xpiq-4upw-jjp0-81zc-p1rk0j8qqnnw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@209.208.227.61:2096?type=ws&security=tls&path=/&sni=D6rVkPfEgS.aAaZzZaAa-8129.CoM#US 🇺🇸 ┇ VLESS-WS-TLS - ULTISOFTASN ┇ 209.208.227.61
+trojan://5tol0cfv-ergx-uiac-1ask-h21wzwh1fwfl@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

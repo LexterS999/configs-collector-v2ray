@@ -1,10 +1,10 @@
-trojan://ufkebp3c-z9wn-9grj-loe7-5qyg4yj2pet6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://r5s2xz9e-5dp8-90ge-euc4-9qozonjl0yz0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8swdc6tk-vzr8-h6ia-q53x-x1b9aotjl6ns@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://3u9o5zqo-r4gg-cqn6-ztfv-b14kux57sfvp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://f9781036-3695-4f6e-a247-5dbf0538c42c@5.61.29.226:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.226
+trojan://l33xln4t-ukdo-o20k-mqnn-ded8iywvx00w@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://l65pb0mf-52i1-uz7e-x03a-m5dpljhqollh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1f46xjjc-ucwo-zy76-r00z-h53m8uy95dyy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://f2s0wrxc-6cmy-vln9-0hy8-pqkchiqt1yna@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://bb86bee3-a627-4312-b038-9261c2972315@185.73.114.139:17048?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 185.73.114.139
 vless://6530be69-28a5-4507-f5fc-51cfb7994317@5.61.24.228:20732?type=ws&security=none&path=/drgpu#IR 🇮🇷 ┇ VLESS-WS-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.24.228
 vless://bcb71050-ca19-4b71-aa21-e80ec0ee0bda@5.61.29.175:45326?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.175
+vless://f9781036-3695-4f6e-a247-5dbf0538c42c@5.61.29.226:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.226
 vless://cf1d29a2-926d-40eb-972e-6e11f7f28d57@my.aparatco.co.uk:2525?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.24.49
-trojan://vgwu1n8u-wk9k-e631-c5hq-ic33rm204n7y@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://w3r3h9t4-hhsk-fx35-m4xj-rok8w401e0do@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

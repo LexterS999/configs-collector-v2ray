@@ -1,7 +1,7 @@
-trojan://b1iykihx-fgqi-vf3n-w76o-vieypovyy77s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://epe9kai0-uwvi-ft74-lltt-kvp6yats9ttl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://fj2t1h10-sjrg-kop7-92u9-ugbmkhvz6u6i@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://59zsn1fa-jz77-ltn9-duje-37kqcykkc9xi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://c7m0im56-vecy-spqz-34z9-sit4hp9ficlj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://3yjanzkj-j3rr-zkmo-71rf-bid62r0o5whx@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://007iyw2x-4uvh-0x7b-e1u4-tpxyx65qxbp2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://a1qbqkc6-g3bb-jdae-1wjc-nus5fhj5wy03@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.227.99.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=sg.laoyoutiao.link#MT 🇲🇹 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 193.227.99.63
 vless://bb29c155-d55e-4c07-8403-0581e384f7a2@193.227.99.0:2087?type=grpc&security=tls&sni=a2.flcode.ir#MT 🇲🇹 ┇ VLESS-GRPC-TLS - Cloudflare London, LLC ┇ 193.227.99.0
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@193.227.99.168:8880?type=ws&security=none&path=Telegram@WangCai2/?ed=2560&sni=kjgx.laoyoutiao.link#MT 🇲🇹 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 193.227.99.168
@@ -21,4 +21,4 @@ vless://bb29c155-d55e-4c07-8403-0581e384f7a2@193.227.99.51:2087?type=grpc&securi
 vless://2321a662-adbb-49b6-9c3d-51fcef59c70d@193.227.99.66:8443?type=tcp&security=none#MT 🇲🇹 ┇ VLESS-TCP-NTLS - Cloudflare London, LLC ┇ 193.227.99.66
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@193.227.99.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#MT 🇲🇹 ┇ VLESS-WS-NTLS - Cloudflare London, LLC ┇ 193.227.99.77
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@193.227.99.88:443?type=ws&security=tls&path=/&sni=Wv2NhB0hVh.SoLiJoNiTo.CoM&fp=chrome#MT 🇲🇹 ┇ VLESS-WS-TLS - Cloudflare London, LLC ┇ 193.227.99.88
-trojan://m3j3s5o6-lskh-tghg-qsj0-wutbjipk0r3s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://b38n33g2-1s01-hram-ulin-wkfo14xhuqfj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

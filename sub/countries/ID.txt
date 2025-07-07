@@ -1,7 +1,7 @@
-trojan://1b05b8n5-65bj-el36-vs68-2bna1mcs0e1u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:34 ]
-trojan://qpx4inkc-0dzk-5cic-1cda-4q6a3bfjrmqm@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://d0hmuko9-u2t2-c3uo-w7vm-7sl93xsqvjws@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://m227j1f7-gccy-0t8a-kdgh-u8e0t5c67l8j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://fp0s6hgw-8imx-gvnk-mchp-v5lqjckcw1lw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 10:47 ]
+trojan://n75uo0sf-6ddh-e27z-ule4-ri1i6hm0mpet@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://q065f1gr-6dyx-l53v-818k-sto6d64ipof2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ngil5hgd-vwte-nue3-09py-cyrgmuv09nta@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?type=tcp&security=none#ID 🇮🇩 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.232.248.242
 vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?type=tcp&security=none#ID 🇮🇩 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.232.237.24
 vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?type=tcp&security=none#ID 🇮🇩 ┇ VLESS-TCP-NTLS - Akamai Connected Cloud ┇ 172.235.251.52
@@ -9,4 +9,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#ID
 vless://15325faa-ecb3-44c6-817d-fb8853b2b175@160.19.167.184:443?type=ws&security=tls&path=/vless&sni=id.lanexa.my.id#ID 🇮🇩 ┇ VLESS-WS-TLS - PT Deneva ┇ 160.19.167.184
 vless://30448f9f-3ec8-5bd9-a8db-601e9014786b@103.189.164.171:2052?type=ws&security=none&path=/vless&pbk=@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL,@V2RAY_SPATIAL#ID 🇮🇩 ┇ VLESS-WS-NTLS - PT Warna Data Multimedia ┇ 103.189.164.171
 vless://d50f8bc7-d4d0-44cf-8744-05fa82506864@43.229.254.177:80?type=ws&security=none&path=/vless#ID 🇮🇩 ┇ VLESS-WS-NTLS - PT. Media Antar Nusa ┇ 43.229.254.177
-trojan://ma2etra5-9tr2-g0le-iblq-mnlwzrhew13v@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://32g7gcjt-qd1t-4p6x-vogu-hoh8v2z5kgz8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
