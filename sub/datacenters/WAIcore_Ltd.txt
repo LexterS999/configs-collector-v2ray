@@ -1,8 +1,8 @@
-trojan://1ocj324j-6tl5-q89p-6hv3-h3crr5fl6799@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://s9tyuqvn-vb9o-4q5u-pvnb-3p67w8gc0fey@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://roe1xdtd-sdr2-jp0g-wi4c-ekx6upoxdmzw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://f3amrczo-4oj3-em4r-2xpp-wjwnv2qweokh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZXZpblphMjA0Nw@178.236.254.188:443#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - WAIcore Ltd ┇ 178.236.254.188
+trojan://uitkuyxw-pvoy-1b1v-u7p2-0sxkf7syihuq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://9uj78m1n-tvor-0fw0-2lfa-20pfbyzud9xt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://8tx870jr-zlw7-bf5m-iyzq-x1x53vmt3ecc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rhkhm825-s4dp-bb4f-ppks-o55kicbk4t4j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://j0k1v5sw-74p2-1428-fp47-q5q5n8994q26@178.236.254.188:443?type=tcp&security=tls&sni=www.cloudflare.com#DE 🇩🇪 ┇ VLESS-TCP-TLS - WAIcore Ltd ┇ 178.236.254.188
+vless://ba26f084-9124-4524-add4-53fcfb928161@94.141.123.233:443?type=tcp&security=tls&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - WAIcore Ltd ┇ 94.141.123.233
 vless://ba26f084-9124-4524-add4-53fcfb928161@194.87.29.240:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 194.87.29.240
-vless://ba26f084-9124-4524-add4-53fcfb928161@94.141.123.233:443?type=tcp&security=reality&sni=cdnjs.com&fp=chrome&flow=xtls-rprx-vision&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#DE 🇩🇪 ┇ VLESS-TCP-RLT - WAIcore Ltd ┇ 94.141.123.233
-trojan://ox1deohn-okb3-4n8w-oz2c-u1lnhjffm3xg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://l9j60baf-4hlm-cv46-zzfn-txtdzvmwkj4v@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

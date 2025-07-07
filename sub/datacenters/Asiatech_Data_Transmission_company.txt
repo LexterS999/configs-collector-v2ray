@@ -1,76 +1,64 @@
-trojan://wi0p5ql0-qm39-iieq-b4pm-5zw1ux257xsn@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://5zeg78l8-4jr7-scuz-ppp2-27qa9hn6ghoa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://uir6rp0e-s6tw-nr5e-gop8-ebv9bhkcszt8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ni1ns2u1-iqoa-xzhc-e4qz-0qlv9sf94b15@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTEyOC1nY206T09TV0RZWFRTUldNVEFFSUo4WFVDRDI3UjJGMzg0T0RLVEhYRjQxWUxSVjQ@79.127.69.118:31792#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.69.118
-ss://YWVzLTEyOC1nY206T09TV0RZWFRTUldNVEFFSUo4WFVDRDI3UjJGMzg0T0RLVEhYRjQxWUxSVjQ@185.112.32.244:31792#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Asiatech Data Transmission company ┇ 185.112.32.244
-ss://YWVzLTEyOC1nY206T09TV0RZWFRTUldNVEFFSUo4WFVDRDI3UjJGMzg0T0RLVEhYRjQxWUxSVjQ@vip-iran.interservervip.xyz:31792#IR 🇮🇷 ┇ SHADOWSOCKS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.122.21
-trojan://ec94daf9-442f-4a6b-9633-70c90006dfdd@79.127.70.123:2083?security=none#IR 🇮🇷 ┇ TROJAN-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.123
+trojan://9e7b9iad-bepz-iq5b-31rq-83293a6x9i67@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://vlhgeq31-3ba8-95t3-spew-3ax2yl6cgp9k@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0n0aah2x-531i-22et-1y53-v5bgaqldwdd0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://w7hagsos-in0q-eul3-wu8e-zvzjslhqvlp0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://yu7AvNL9rW@212.33.206.111:80?security=tls#IR 🇮🇷 ┇ TROJAN-TCP-TLS - Asiatech Data Transmission company ┇ 212.33.206.111
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzaWF0ZWNoIERhdGEgVHJhbnNtaXNzaW9uIGNvbXBhbnkgXHUyNTA3IDE3OC4yMi4xMjEuOTgiLCJhZGQiOiIxNzguMjIuMTIxLjk4IiwicG9ydCI6MTA5MSwiaWQiOiI2ZWYzYjQzMy1lZWE3LTRlNWQtOTVhNS1jNWY3NDJjZTJmYjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBc2lhdGVjaCBEYXRhIFRyYW5zbWlzc2lvbiBjb21wYW55IFx1MjUwNyAwMDAwOjAwMDA6MDAwMDowMDAwOjAwMDA6ZmZmZjo0ZjdmOjM2NDQiLCJhZGQiOiIwMDAwOjAwMDA6MDAwMDowMDAwOjAwMDA6ZmZmZjo0ZjdmOjM2NDQiLCJwb3J0Ijo0NDMsImlkIjoidnBud2xmQHZwbndsZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLz9lZD0yMDQ4IiwidGxzIjoidGxzIn0
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzaWF0ZWNoIERhdGEgVHJhbnNtaXNzaW9uIGNvbXBhbnkgXHUyNTA3IDE4NS4xMjkuMTE4LjIyMiIsImFkZCI6IjE4NS4xMjkuMTE4LjIyMiIsInBvcnQiOjIwODcsImlkIjoiMDQzM2RiYjQtMGU5MC00Njk1LWEwMGUtNDY1YjdlNjViZDY2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzaWF0ZWNoIERhdGEgVHJhbnNtaXNzaW9uIGNvbXBhbnkgXHUyNTA3IDQ2LjI0NS42Ni40OSIsImFkZCI6InRuZXRoLm5ldG11ZC5jbGljayIsInBvcnQiOjU0MzAsImlkIjoiYmY0MzllMjItYmE4MC00NmU4LThkOTUtZGQzZjRhZDkyNmIwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzaWF0ZWNoIERhdGEgVHJhbnNtaXNzaW9uIGNvbXBhbnkgXHUyNTA3IDQ2LjI0NS45OC4xMTIiLCJhZGQiOiJ0MTAubWVsb25ldC5jbGljayIsInBvcnQiOjU0MzQsImlkIjoiYmY0MzllMjItYmE4MC00NmU4LThkOTUtZGQzZjRhZDkyNmIwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXNpYXRlY2ggRGF0YSBUcmFuc21pc3Npb24gY29tcGFueSBcdTI1MDcgNDYuMjQ1LjY1LjEwMSIsImFkZCI6IjQ2LjI0NS42NS4xMDEiLCJwb3J0IjoyMDAwMywiaWQiOiI3MThlMWMyOC0yZDQxLTQyYzktOTE0My0xOWZhOGY1YzllZjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXNpYXRlY2ggRGF0YSBUcmFuc21pc3Npb24gY29tcGFueSBcdTI1MDcgNDYuMjQ1LjY1Ljk2IiwiYWRkIjoiNDYuMjQ1LjY1Ljk2IiwicG9ydCI6MjAwMDMsImlkIjoiNzE4ZTFjMjgtMmQ0MS00MmM5LTkxNDMtMTlmYThmNWM5ZWY0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXNpYXRlY2ggRGF0YSBUcmFuc21pc3Npb24gY29tcGFueSBcdTI1MDcgNDYuMjQ1LjY1Ljk5IiwiYWRkIjoiNDYuMjQ1LjY1Ljk5IiwicG9ydCI6MjAwMDMsImlkIjoiNzE4ZTFjMjgtMmQ0MS00MmM5LTkxNDMtMTlmYThmNWM5ZWY0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXNpYXRlY2ggRGF0YSBUcmFuc21pc3Npb24gY29tcGFueSBcdTI1MDcgNDYuMjQ1LjY1Ljk4IiwiYWRkIjoiNDYuMjQ1LjY1Ljk4IiwicG9ydCI6MTAwMjAsImlkIjoiZWU4MGE4OTUtZmRlYS00MDBmLWI3YzktNmVmMmI4MjQ1ZDIzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXNpYXRlY2ggRGF0YSBUcmFuc21pc3Npb24gY29tcGFueSBcdTI1MDcgNDYuMjQ1LjY1Ljk3IiwiYWRkIjoiNDYuMjQ1LjY1Ljk3IiwicG9ydCI6MjAwMDMsImlkIjoiNzE4ZTFjMjgtMmQ0MS00MmM5LTkxNDMtMTlmYThmNWM5ZWY0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vless://%54%65l%65g%72%61m-%40G%72%65%65n_WPN-%40%56%69j%72%61_d%65%76@212.33.206.204:8443?type=ws&security=none&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asiatech Data Transmission company ┇ 212.33.206.204
-vless://6bb8cb48-c5d7-4016-b671-4367a56e299a@srv5.raykaservers.com:10215?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asiatech Data Transmission company ┇ 46.245.76.249
-vless://44976536-309c-4f52-bc5b-cb7909c75399@tunnel.dearagon.sbs:60619?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.66.114
-vless://a53a102f-ec6e-4f6d-a8ac-03bc6cef468d@79.127.70.83:4100?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.83
-vless://3e3df585-56e6-4355-ac64-422c6b56bb96@79.127.70.78:3228?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.78
-vless://451def43-cf9b-41c4-a01a-744ace385a29@212.33.206.253:19?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.206.253
-vless://cfaaa473-21d5-433c-a82a-3814d2c024fe@178.239.155.56:28643?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 178.239.155.56
-vless://d5455ee6-6f9b-41d0-9043-ce160bff5e13@79.127.70.66:1501?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.66
-vless://8773d9db-2fa5-411c-b80c-5b59d861e9ea@79.127.70.79:4100?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.79
-vless://167d9962-124b-4b12-8a8d-8dd32c774fd9@185.112.34.194:800?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 185.112.34.194
-vless://04240a7f-cd2d-493a-b820-d7f0f7d32995@d73bav.de11.spacerwork.pro:617?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.76
-vless://0f4af021-a22a-41f4-8d9d-08e486a923c2@ping.amirhossein.info:8443?type=ws&security=none&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asiatech Data Transmission company ┇ 46.245.64.44
-vless://112435f2-9343-490c-a420-2e990f7f349f@212.33.206.94:32882?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.206.94
-vless://1dff9598-083e-4bc2-8c91-d33df6481b3d@tunnel.aghamehdi52.ir:2000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.66.84
-vless://1e47ea68-7988-4def-8853-17a025761699@46.245.67.94:59822?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.67.94
-vless://2d0439e2-5bc7-4b5f-bf1c-3cbc0c59d5ab@46.245.66.38:8080?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asiatech Data Transmission company ┇ 46.245.66.38
-vless://58251b29-1e57-4e84-b48f-c7f8e755dcab@turk2.foxinonet.ir:443?type=ws&security=tls&path=/lw&sni=turk2.foxinonet.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Asiatech Data Transmission company ┇ 31.7.70.235
-vless://7cc88852-6c8c-4ddc-9211-5628824b223d@79.127.70.106:45147?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.106
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.187:2054?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.201.187
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2054?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.201.222
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.231:2054?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.201.231
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@31.7.78.132:2054?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 31.7.78.132
-vless://ec046325-2c60-4baf-9b1e-d0e20768478d@vip.zoohall.ir:20255?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.67.77
-vless://0b59c7bb-bdb7-414d-b381-c4bad413be0d@ivecls.de2.bbbbbbbbbbbb9.biz:9480?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.92
-vless://70cd1feb-8479-4e68-8b1f-a504238c688d@magbaazi.ir:2082?type=httpupgrade&security=none&path=/@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN?ed=2048#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Asiatech Data Transmission company ┇ 79.127.126.246
-vless://1832eec8-870a-4f33-b4d5-393a92066c20@1bdfyq.de4.bbbbbbbbbbbb9.biz:4002?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.94
-vless://fe1de076-c9a8-4e62-b9d1-e834cdc7f25f@v7.vixsm.ir:5785?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.68
-vless://f5da3cc4-c81c-418e-a836-fbb53b841caa@v6.vixsm.ir:4268?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.67
-vless://46cb3ca5-1626-11f0-b2ee-52540017d97b@t2.vixsm.ir:4814?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.74
-vless://9d6f25dd-0445-4efc-bca1-69615e408975@178.239.155.42:51377?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asiatech Data Transmission company ┇ 178.239.155.42
-vless://0a32cad0-8752-4309-af82-22aae4c83aa7@zf197a.de3.bbbbbbbbbbbb9.biz:10196?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.93
-vless://d04a1292-7bff-485d-8440-fca1c0606ec9@72prin.de1.bbbbbbbbbbbb9.biz:1628?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.91
-vless://72ca20e3-0a4a-4484-82d7-c9ba670621bb@rvyt2f.de16.spacerwork.pro:444?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.81
-vless://fdb39481-9ed0-4958-bb26-260f00368e6e@xga7nh.de12.spacerwork.pro:4166?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.77
-vless://c6f9e7ee-068e-4d2b-acbf-00ae42f6cc24@jsudhhshesh.mobile.a.arsinoo.com:8444?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Asiatech Data Transmission company ┇ 193.134.100.103
-vless://4c183cd1-0079-45ce-9204-4360a643601c@185.129.119.224:2052?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asiatech Data Transmission company ┇ 185.129.119.224
-vless://568db334-5c96-4771-89ea-3f72761c73ef@31.7.70.170:2131?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 31.7.70.170
-vless://2f57aa65-1603-4438-9daa-5e24b3a6fc32@dot.digitall-tm.ir:6812?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 194.36.174.114
-vless://9dd40bc0-ea6a-4522-b961-02d0cec4c4fa@79.127.70.122:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.122
-vless://c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.82
-vless://3080f4e4-a258-4ca7-933e-c330b176bd83@79.127.70.114:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.114
-vless://76c554ee-0626-4c76-827d-40432957a01e@79.127.70.87:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.87
-vless://0a37cef9-f64e-453a-b4d1-3ab2257276fa@178.239.155.115:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 178.239.155.115
+vless://43e0a050-51a3-46cc-aa0e-ab417cc50cb9@0gb4m5.de3.bbbbbbbbbbbb9.biz:10240?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.93
 vless://b8cc874e-1aa6-46c3-b163-0302e478a642@178.239.155.107:10080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asiatech Data Transmission company ┇ 178.239.155.107
+vless://b8cc874e-1aa6-46c3-b163-0302e478a642@178.239.155.115:2095?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 178.239.155.115
+vless://9d6f25dd-0445-4efc-bca1-69615e408975@178.239.155.42:51377?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asiatech Data Transmission company ┇ 178.239.155.42
+vless://cf09b553-f72c-4b1d-81c1-bdf097506988@185.112.32.244:17920?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 185.112.32.244
+vless://4c183cd1-0079-45ce-9204-4360a643601c@185.129.119.224:2052?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asiatech Data Transmission company ┇ 185.129.119.224
 vless://afa3cd54-f05d-4e0b-a4d6-9f046f5d1c05@193.111.234.46:6666?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 193.111.234.46
+vless://2f57aa65-1603-4438-9daa-5e24b3a6fc32@194.36.174.114:6812?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 194.36.174.114
+vless://1832eec8-870a-4f33-b4d5-393a92066c20@1bdfyq.de4.bbbbbbbbbbbb9.biz:4002?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.94
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.187:2051?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.201.187
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.201.222
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.231:2051?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.201.231
 vless://ab102656-e612-4b73-89bf-ab4c66a06507@212.33.206.110:38597?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.206.110
+vless://0f4af021-a22a-41f4-8d9d-08e486a923c2@212.33.206.204:8443?type=tcp&security=none&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.206.204
+vless://45a1ffa2-ddc7-428c-9e25-9ab62e9496b3@212.33.206.253:6001?type=ws&security=none&path=/&sni=fast.com#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asiatech Data Transmission company ┇ 212.33.206.253
+vless://112435f2-9343-490c-a420-2e990f7f349f@212.33.206.94:32882?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.206.94
+vless://e199e387-2fc2-4864-8709-ae53ed55f48f@27ca3x.de1.bbbbbbbbbbbb9.biz:1689?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.91
+vless://81cee1c3-09c3-4980-8d37-fa3e71740448@2n6fwk.de2.bbbbbbbbbbbb9.biz:9669?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.92
 vless://b73d5952-539b-4afc-bd68-ac0b2dd9ee01@31.7.70.135:49203?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 31.7.70.135
+vless://568db334-5c96-4771-89ea-3f72761c73ef@31.7.70.170:2131?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 31.7.70.170
 vless://5562b859-cd73-9cd2-98ec-c3f308ce63a2@31.7.70.200:1231?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 31.7.70.200
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@31.7.78.132:2051?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 31.7.78.132
 vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@31.7.78.80:46036?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 31.7.78.80
 vless://112435f2-9343-490c-a420-2e990f7f349f@46.245.64.129:32050?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.64.129
 vless://28a85654-ed88-44c8-9b0f-9bbde8348020@46.245.66.31:23236?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asiatech Data Transmission company ┇ 46.245.66.31
+vless://2d0439e2-5bc7-4b5f-bf1c-3cbc0c59d5ab@46.245.66.38:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.66.38
+vless://e4e54189-80ab-4e73-90af-b05bf52d0581@46.245.67.77:20255?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.67.77
+vless://1e47ea68-7988-4def-8853-17a025761699@46.245.67.94:59822?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.67.94
+vless://6bb8cb48-c5d7-4016-b671-4367a56e299a@46.245.76.249:10215?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.76.249
+vless://6e30bc3d-0e3a-4399-9a02-c2d943e8d108@79.127.69.118:2344?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.69.118
 vless://cf09b553-f72c-4b1d-81c1-bdf097506988@79.127.69.121:17920?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.69.121
+vless://7cc88852-6c8c-4ddc-9211-5628824b223d@79.127.70.106:45147?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.106
+vless://3080f4e4-a258-4ca7-933e-c330b176bd83@79.127.70.114:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.114
 vless://49b8ce15-60c9-4ad4-85b8-3c6841ed6c19@79.127.70.121:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.121
+vless://9dd40bc0-ea6a-4522-b961-02d0cec4c4fa@79.127.70.122:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.122
+vless://ec94daf9-442f-4a6b-9633-70c90006dfdd@79.127.70.123:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.123
+vless://f5da3cc4-c81c-418e-a836-fbb53b841caa@79.127.70.67:4268?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.67
+vless://fe1de076-c9a8-4e62-b9d1-e834cdc7f25f@79.127.70.68:5785?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.68
+vless://8773d9db-2fa5-411c-b80c-5b59d861e9ea@79.127.70.79:4100?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.79
+vless://c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.82
 vless://86c08638-1eaa-42ff-a71e-704d1a2bf27f@79.127.70.84:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.84
+vless://76c554ee-0626-4c76-827d-40432957a01e@79.127.70.87:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.87
+vless://04240a7f-cd2d-493a-b820-d7f0f7d32995@d73bav.de11.spacerwork.pro:617?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.76
+vless://a53a102f-ec6e-4f6d-a8ac-03bc6cef468d@fr1mrz2.red-charge.site:4100?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.83
+vless://c6f9e7ee-068e-4d2b-acbf-00ae42f6cc24@jsudhhshesh.mobile.a.arsinoo.com:8444?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Asiatech Data Transmission company ┇ 193.134.100.103
+vless://719f7320-8057-408d-a081-0f377a8c22ff@magbaazi.ir:2082?type=httpupgrade&security=none&path=/@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN------@ACADEMI_VPN?ed=2048#IR 🇮🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Asiatech Data Transmission company ┇ 79.127.126.246
 vless://405f0726-89dc-6729-5bd6-a1464e61b6ea@one-theme.ir:8880?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 212.33.195.93
+vless://d5455ee6-6f9b-41d0-9043-ce160bff5e13@onhold.hamrahconfig.ir:1501?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.66
+vless://8c7cb39c-16b7-46fb-886e-689c7dc34bda@ping.amirhossein.info:51690?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.64.44
+vless://72ca20e3-0a4a-4484-82d7-c9ba670621bb@rvyt2f.de16.spacerwork.pro:444?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.81
+vless://46cb49c9-1626-11f0-b2ee-52540017d97b@t1.vixsm.ir:4810?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.78
+vless://46cb3ca5-1626-11f0-b2ee-52540017d97b@t2.vixsm.ir:4814?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 79.127.70.74
+vless://1dff9598-083e-4bc2-8c91-d33df6481b3d@tunnel.aghamehdi52.ir:2000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.66.84
+vless://44976536-309c-4f52-bc5b-cb7909c75399@tunnel.dearagon.sbs:60619?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.66.114
+vless://58251b29-1e57-4e84-b48f-c7f8e755dcab@turk2.foxinonet.ir:443?type=ws&security=tls&path=/lw&sni=turk2.foxinonet.ir#IR 🇮🇷 ┇ VLESS-WS-TLS - Asiatech Data Transmission company ┇ 31.7.70.235
+vless://fdb39481-9ed0-4958-bb26-260f00368e6e@xga7nh.de12.spacerwork.pro:4166?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asiatech Data Transmission company ┇ 46.245.120.77
+vless://48dc7372-97a3-4e67-ed0d-b8507d852814@31.7.70.251:23313?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asiatech Data Transmission company ┇ 31.7.70.251
 vless://c3d4e5f6-a7b8-9012-cdef-3456789abcde@185.112.33.245:2053?type=tcp&security=reality&sni=fast.com&fp=firefox&pbk=ABC9876543210fedcba9876543210fed#IR 🇮🇷 ┇ VLESS-TCP-RLT - Asiatech Data Transmission company ┇ 185.112.33.245
-trojan://ljaj5co7-v46s-56u2-bgvr-ygn3ozx9b9bn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://1dng8eed-1sd7-wctq-369q-52dqswoj3wbp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

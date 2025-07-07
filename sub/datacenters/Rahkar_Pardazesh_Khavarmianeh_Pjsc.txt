@@ -1,6 +1,6 @@
-trojan://s6i8ge0v-uh0t-5x9e-vemd-w8rxcedvceoc@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://bn7idls9-xkss-qvx5-unre-8h9vqd21nlms@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://b2razdd0-omiz-ywvn-ankj-sbakrh7bz29t@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7narl5v1-5sf5-pgxx-f06b-djh0sci5q69r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://b56bw1fo-ayf7-dp5x-jci5-hfp3y3xcxuur@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://339ivb3a-6aiq-5013-nr9o-8nckhw5l290h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qt4uo4sa-36rs-6q9s-orys-5knpaf7omccb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://chxhq6uy-yle4-yr54-vgkj-gnyviql5wz6e@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://71b8eecb-b12b-4c98-84c3-219188ccaebf@87.107.172.70:56823?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Rahkar Pardazesh Khavarmianeh Pjsc ┇ 87.107.172.70
-trojan://qu5w8t5a-hwha-ah6h-tzv4-m3jipb5ajdbj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://h9ej9agw-ydy9-nrgo-e5ke-ow075g9rl319@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

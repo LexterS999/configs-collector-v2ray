@@ -1,35 +1,35 @@
-trojan://0zgnor3y-zd2m-dnty-st28-j5lu2p5w3u78@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://ve450b76-j9q2-0x5a-lptn-di7ld7j5qxko@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ulqzfxwz-vpbw-7q3u-n1r3-holzqjyic919@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://e65ok2e4-6qlf-f795-7dl4-by1ukl78dh0q@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bb7ukx4n-lopl-9bk4-z69j-sfqt6qem5nme@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://y80b2bel-8ofd-nig6-bhq4-v1lka5v907a2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hr0t8y4c-ha1j-h0mk-9qwq-bek1fl83ty1z@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qtift0nc-u6z8-7mzr-ot88-q41xfagz90v2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.16.110.113:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#FR 🇫🇷 ┇ TROJAN-TCP-TLS - Bjt Partners SAS ┇ 185.16.110.113
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.16.110.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=sg.laoyoutiao.link#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.63
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.16.110.168:8880?type=ws&security=false&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-FALSE - Bjt Partners SAS ┇ 185.16.110.168
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.16.110.29:8880?type=ws&security=false&path=/TelegramU0001F1E8U0001F1F3&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-FALSE - Bjt Partners SAS ┇ 185.16.110.29
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.16.110.251:8880?type=ws&security=false&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-FALSE - Bjt Partners SAS ┇ 185.16.110.251
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.16.110.20:8880?type=ws&security=false&path=/&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-FALSE - Bjt Partners SAS ┇ 185.16.110.20
-vless://7aa8944c-4f5a-47dd-a2a6-5210b2aeba60@185.16.110.156:443?type=ws&security=tls&sni=network.speedyping.com&fp=randomized#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.156
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.16.110.249:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.249
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.111:443?type=ws&security=tls&path=/?ed=2560&sni=vb.ylks0033.dpdns.org#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.111
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.200:443?type=ws&security=tls&path=/?ed=2560&sni=rz.ylks0033.dpdns.org#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.200
-vless://4004aaa2-5de8-4cdd-fa4f-5c1bb835942c@185.16.110.19:2096?type=ws&security=tls&path=/&sni=ramtin-dfsfds-fdsfdsfdsfs.gameha7.ir#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.19
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.16.110.213:8880?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.213
-vless://5fdd5a95-61e1-4c6f-b48a-efccc1156350@185.16.110.2:443?type=tcp&security=tls&sni=nxginix.pages.dev#FR 🇫🇷 ┇ VLESS-TCP-TLS - Bjt Partners SAS ┇ 185.16.110.2
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.16.110.254:8880?type=ws&security=none&path=/Telegram🇨🇳#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.254
-vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@185.16.110.49:2087?type=ws&security=tls&path=/?ed=2560&sni=a.xiazitong.zone.id#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.49
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.16.110.70:443?type=ws&security=tls&path=/?ed=2560security=tls&sni=0229.patterdeng.pp.ua#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.70
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.107:443?type=ws&security=tls&path=/?ed=2560&sni=in.youlingkais.filegear-sg.me#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.107
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.16.110.91:443?type=ws&security=none&sni=uu.vs2024.us.kg#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.91
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.0:443?type=ws&security=tls&path=/?ed=2560&sni=cv.dong2025.cfd#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.0
-vless://ef5f8625-a997-4e9c-a79c-7b95f565d675@185.16.110.222:80?type=httpupgrade&security=none#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Bjt Partners SAS ┇ 185.16.110.222
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.16.110.177:8880?type=ws&security=none&path=/Telegram🇨🇦&sni=Telegram-channel-WangCai2#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.177
-vless://acfc67e1-69a2-4e56-bbb2-87513cf7f7d7@185.16.110.1:443?type=splithttp&security=tls&path=/eaglexw&sni=nxginix.pages.dev&fp=random#FR 🇫🇷 ┇ VLESS-SPLITHTTP-TLS - Bjt Partners SAS ┇ 185.16.110.1
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.16.110.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.77
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.0:443?type=ws&security=tls&path=/?ed&sni=nc.dbbn2024.us.kg#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.0
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.103:443?type=ws&security=tls&path=/?ed&sni=nc.dbbn2024.us.kg#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.103
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.16.110.13:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.13
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.107:443?type=ws&security=tls&path=/?ed&sni=nc.dbbn2024.us.kg#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.107
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.111:443?type=ws&security=tls&path=/?ed=2560&sni=vb.ylks0033.dpdns.org#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.111
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.16.110.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.13
+vless://7aa8944c-4f5a-47dd-a2a6-5210b2aeba60@185.16.110.156:443?type=ws&security=tls&sni=network.speedyping.com&fp=randomized#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.156
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.16.110.168:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=kjgx.laoyoutiao.link#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.168
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.16.110.177:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.177
 vless://8161b03d-ab2f-45ce-8f15-9b0061044f70@185.16.110.185:8443?type=ws&security=tls&path=/DoctorPing_Bot&sni=iran.dr-ping.ir&fp=chrome#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.185
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.16.110.247:8880?type=ws&security=none&path=/Telegram&sni=ex.sue.x10.mx#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.247
+vless://4004aaa2-5de8-4cdd-fa4f-5c1bb835942c@185.16.110.19:2096?type=ws&security=tls&path=/&sni=ramtin-dfsfds-fdsfdsfdsfs.gameha7.ir#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.19
+vless://acfc67e1-69a2-4e56-bbb2-87513cf7f7d7@185.16.110.1:443?type=splithttp&security=tls&path=/eaglexw&sni=nxginix.pages.dev&fp=random#FR 🇫🇷 ┇ VLESS-SPLITHTTP-TLS - Bjt Partners SAS ┇ 185.16.110.1
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.200:443?type=ws&security=tls&path=/?ed=2560&sni=rz.ylks0033.dpdns.org#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.200
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.16.110.20:8880?type=ws&security=none&sni=reedfree8mahsang2.redorg.ir#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.20
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.16.110.213:8880?type=ws&security=none#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.213
+vless://ef5f8625-a997-4e9c-a79c-7b95f565d675@185.16.110.222:2053?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Bjt Partners SAS ┇ 185.16.110.222
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.16.110.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.247
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.16.110.249:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.249
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.16.110.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.251
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.16.110.254:8880?type=ws&security=none&path=/#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.254
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.16.110.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.29
+vless://5fdd5a95-61e1-4c6f-b48a-efccc1156350@185.16.110.2:443?type=tcp&security=tls&sni=nxginix.pages.dev#FR 🇫🇷 ┇ VLESS-TCP-TLS - Bjt Partners SAS ┇ 185.16.110.2
 vless://0f0897cf-469f-421b-9018-b739fb47b721@185.16.110.30:2052?type=httpupgrade&security=none#FR 🇫🇷 ┇ VLESS-HTTPUPGRADE-NTLS - Bjt Partners SAS ┇ 185.16.110.30
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@185.16.110.3:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.3
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@185.16.110.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.3
 vless://d1aca49a-e5bc-48b2-870a-d590004099b0@185.16.110.44:2096?type=ws&security=tls&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&sni=J0in-te1egram-EiiiM.danesh-bonyan.Store#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.44
-trojan://gdjhfnd9-6wcr-dk0q-h3tk-9jhk4xgcuoe9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@185.16.110.49:2087?type=ws&security=tls&path=/?ed=2560&sni=a.xiazitong.zone.id#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.49
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.16.110.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=sg.laoyoutiao.link#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.63
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@185.16.110.70:443?type=ws&security=tls&path=/?ed=2560security=tls&sni=0229.patterdeng.pp.ua#FR 🇫🇷 ┇ VLESS-WS-TLS - Bjt Partners SAS ┇ 185.16.110.70
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.16.110.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.77
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.16.110.91:443?type=ws&security=none&sni=uu.vs2024.us.kg#FR 🇫🇷 ┇ VLESS-WS-NTLS - Bjt Partners SAS ┇ 185.16.110.91
+trojan://mtsfd8mp-31pi-jfx9-ihxy-xxslftyyprof@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

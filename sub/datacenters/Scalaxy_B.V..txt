@@ -1,33 +1,25 @@
-trojan://hwnv93gq-dx1c-mqr0-l0mz-lbbjtlemgbb4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://qffoczml-5316-ajek-ynal-26ke0031d999@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pltpjwh4-vrnu-46hq-ke28-2sfof79tzouy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://iw9lpuhb-bd3a-pmgx-iixf-jb8fxxyx52mr@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiQVIgXHVmZmZkXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGF4eSBCLlYuIFx1MjUwNyAzOC4xODAuMTg1LjEyNSIsImFkZCI6ImFnMDEtY2RuLm15bjFkZXMuY29tIiwicG9ydCI6MjA4NiwiaWQiOiI4N2Q5ZGE4Zi03ODM5LTM3ZjgtYjdmMi1hN2JlMjJhZTM4MzMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiQ1ogXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy0tTlRMUyAtIFNjYWxheHkgQi5WLiBcdTI1MDcgMTk0Ljg3LjE2OS44IiwiYWRkIjoiMTk0Ljg3LjE2OS44IiwicG9ydCI6NjU1MTQsImlkIjoiZDAzY2NjZmMtOWJlNi00M2I0LTg4ZDItMzAyMzg3MmJkNDNiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@38.244.136.218:2222#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 38.244.136.218
+trojan://tls764h4-f6jb-8g4v-2hgo-zmjh3abbo0et@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://303vyi6c-nk12-qdh1-4fwr-xqnn6wjbn6e8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://uk7u6ysu-n0yb-kupl-lmz4-kxlw2u52gcul@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://73a9t20v-0wfa-go4p-an9b-7v9644k1s7jb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@38.244.136.250:2222#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 38.244.136.250
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@38.244.136.19:2222#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 38.244.136.19
-vmess://eyJ2IjoiMiIsInBzIjoiRkkgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGF4eSBCLlYuIFx1MjUwNyAxODUuMTA5LjIxLjE3NSIsImFkZCI6IjE4NS4xMDkuMjEuMTc1IiwicG9ydCI6ODg4MCwiaWQiOiJjMTFkZGUwNC0zZGZhLTQ4ZTktODU4MC03YjIwNGIzMjUzNzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@38.244.136.218:2222#FI 🇫🇮 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 38.244.136.218
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.109.21.19:443?type=ws&security=tls&path=/tg@zdyz2security=tls&sni=cfed.tgzdyz2.top#FI 🇫🇮 ┇ VLESS-WS-TLS - Scalaxy B.V. ┇ 185.109.21.19
 vless://fc95f0a9-52a3-4c12-82a9-a43ca2267a18@38.244.137.191:2053?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#FI 🇫🇮 ┇ VLESS-GRPC-RLT - Scalaxy B.V. ┇ 38.244.137.191
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@85.90.208.235:2222#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 85.90.208.235
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@85.90.208.34:2222#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 85.90.208.34
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@85.90.208.162:2222#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 85.90.208.162
-vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGF4eSBCLlYuIFx1MjUwNyA0NS4xMi44MC4xNDEiLCJhZGQiOiI0NS4xMi44MC4xNDEiLCJwb3J0Ijo4MCwiaWQiOiJlZWU4MGFlZS03MzhjLTQyNTUtOWE0ZS05ZmVmMDc2YjI0NWEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGF4eSBCLlYuIFx1MjUwNyA0NS4xMi44MC4xMiIsImFkZCI6IjQ1LjEyLjgwLjEyIiwicG9ydCI6ODAsImlkIjoiNTM3Y2NhYWMtZmRmYy00NTIwLWU1ZjEtNzVhOTk2ZjljZmU2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@85.90.208.34:2222#GB 🇬🇧 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 85.90.208.34
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmWUhBZ0FIQjhKYnRYR3M0ZmZ6c2NB@38.180.158.38:5555#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 38.180.158.38
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqd3VBYk9TMFRFWGhoYm12MFFLT01Q@38.180.168.115:49499#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 38.180.168.115
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGF4eSBCLlYuIFx1MjUwNyAxOTUuNTQuMTc0LjE4IiwiYWRkIjoiMTk1LjU0LjE3NC4xOCIsInBvcnQiOjgwLCJpZCI6IjZkNmY0MTNmLTNkYzItNGQwMi04ZDM1LThiNDVlMzlmZWI3MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGF4eSBCLlYuIFx1MjUwNyAxOTUuNTQuMTc0LjE4IiwiYWRkIjoiMTk1LjU0LjE3NC4xOCIsInBvcnQiOjgwLCJpZCI6IjZkNmY0MTNmLTNkYzItNGQwMi04ZDM1LThiNDVlMzlmZWI3MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGF4eSBCLlYuIFx1MjUwNyA1LjQ1Ljk0LjI4IiwiYWRkIjoiNS40NS45NC4yOCIsInBvcnQiOjgwLCJpZCI6ImJkM2Q4MWM2LTlkNDAtNGU3NS04YTIzLTdjNTVkNjliZjgwMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoiNS40NS45NC4yOCIsInBhdGgiOiIvdm1lc3MiLCJzbmkiOiI1LjQ1Ljk0LjI4In0
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU2NhbGF4eSBCLlYuIFx1MjUwNyAzOC4xODAuOTguMjE1IiwiYWRkIjoiMzguMTgwLjk4LjIxNSIsInBvcnQiOjgwODAsImlkIjoiNzczYWM2MGQtMzZkNy00NWI1LWM5OWUtYTBlMzkwM2UyZTNhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@37.1.203.41:80?type=ws&security=false&path=Telegram🇨🇳 @WangCai2 /?ed=2560&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-FALSE - Scalaxy B.V. ┇ 37.1.203.41
-vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@5.61.57.62:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - Scalaxy B.V. ┇ 5.61.57.62
-vless://01df4e25-76fd-4376-a8ee-971a3db61147@38.180.168.253:443?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Scalaxy B.V. ┇ 38.180.168.253
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@37.1.207.228:443?type=ws&security=tls&path=/?ed=2560&sni=lx.ylks.us.kg#NL 🇳🇱 ┇ VLESS-WS-TLS - Scalaxy B.V. ┇ 37.1.207.228
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@37.1.203.41:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#NL 🇳🇱 ┇ VLESS-WS-NTLS - Scalaxy B.V. ┇ 37.1.203.41
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@37.1.206.30:443?type=ws&security=tls&sni=vkk.wxgqlfx.cn#NL 🇳🇱 ┇ VLESS-WS-TLS - Scalaxy B.V. ┇ 37.1.206.30
-trojan://84GgbiDa5XWQsdrmz4zi6w@38.180.172.43:2083?sni=a28f8e2935f418dc.metric.gstatic.com&peer=a28f8e2935f418dc.metric.gstatic.com&security=tls#TR 🇹🇷 ┇ TROJAN-TCP-TLS - Scalaxy B.V. ┇ 38.180.172.43
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@37.1.207.228:443?type=ws&security=tls&path=/blue&sni=dp.ylks.xyz#NL 🇳🇱 ┇ VLESS-WS-TLS - Scalaxy B.V. ┇ 37.1.207.228
+vless://01df4e25-76fd-4376-a8ee-971a3db61147@38.180.168.253:443?type=ws&security=none&path=/#NL 🇳🇱 ┇ VLESS-WS-NTLS - Scalaxy B.V. ┇ 38.180.168.253
+vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@5.61.57.62:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vkk.wxgqlfx.cn&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - Scalaxy B.V. ┇ 5.61.57.62
 vless://62237966-b2c6-4bf9-a269-3717e1773c99@38.180.105.218:9091?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Scalaxy B.V. ┇ 38.180.105.218
 vless://838e226d-c328-4107-af74-88a071869d59@38.180.105.106:80?type=xhttp&security=reality&path=/fgvb&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=jv-iGCfpmBqc85L6LIL5fVP9Tx6-I_SKDCQYaXF9Sj4&sid=a506e8582e#TR 🇹🇷 ┇ VLESS-XHTTP-RLT - Scalaxy B.V. ┇ 38.180.105.106
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbEZtblAydTZxWjRkR2tncTZuYkZV@38.180.146.42:22135#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 38.180.146.42
-ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@102.165.47.134:47121#ZA 🇿🇦 ┇ SHADOWSOCKS-TCP-NTLS - Scalaxy B.V. ┇ 102.165.47.134
-trojan://m0ynt9e1-0nef-v7zb-mrj0-i12em42n7d8v@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://b1z0z77g-ophn-o6am-dbka-077aphcxyx9q@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

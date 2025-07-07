@@ -1,63 +1,63 @@
-trojan://ki2tc8vq-35p7-jkdb-uekc-vhwulsdhepny@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://6t543f89-j5h4-zoh8-trcl-hb0rx40uk3ji@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://f56j1lg0-1zbt-j49f-nghy-eyw34ki4xizj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qyfqr2vo-42nm-h0uk-nxlf-nc3dcfh5jn6a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Aimer@45.67.215.217:2087?sni=epmk.ambercc.filegear-sg.me&peer=epmk.ambercc.filegear-sg.me&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.217
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.196:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.196
+trojan://6b7daf54-4p7d-ngo7-v44r-hgv6qg84q3zj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://8wogkv27-v08z-os4n-wjh3-3pafy2itvwxd@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://tajhppmj-z896-1liz-c1qq-6moheffpls5c@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://idxgg7y5-18bp-a3dn-vt7c-3544epkbc3qq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://tg-fq521free@45.67.215.95:443?sni=torjan.xn--xhq44j.eu.org&peer=torjan.xn--xhq44j.eu.org&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.95
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.234:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.234
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.5:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.5
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.218:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.218
-trojan://Aimer@45.67.215.250:2096?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.250
-trojan://Aimer@45.67.215.148:443?sni=epmq.ambercc.filegear-sg.me&peer=epmq.ambercc.filegear-sg.me&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.148
+trojan://Aimer@45.67.215.217:2087?sni=epml.ambercc.filegear-sg.me&peer=epml.ambercc.filegear-sg.me&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.217
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.153:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.153
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaYXltZXIgUEpTQyBcdTI1MDcgNDUuNjcuMjE1LjExOSIsImFkZCI6IjQ1LjY3LjIxNS4xMTkiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.118:443?type=ws&security=none&sni=uu.vs2024.us.kg#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.118
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.218:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.218
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.234:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.234
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.196:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.196
+trojan://Aimer@45.67.215.148:443?sni=epmq.ambercc.filegear-sg.me&peer=epmq.ambercc.filegear-sg.me&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.148
+trojan://Aimer@45.67.215.250:2096?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.250
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.5:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - Zaymer PJSC ┇ 45.67.215.5
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBaYXltZXIgUEpTQyBcdTI1MDcgNDUuNjcuMjE1LjExOSIsImFkZCI6IjQ1LjY3LjIxNS4xMTkiLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZTEzMDkxN2MtMWI1OC00MTM2LWIyZDktNzZkYzkyMGUwYWRkLmFkZDk3ZWU4LTBmMTQtNDhhMy1iMmNkLTk3OWM1Njc0MmU2NC5sb3NleW91cmlwLmNvbSIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiZTEzMDkxN2MtMWI1OC00MTM2LWIyZDktNzZkYzkyMGUwYWRkLmFkZDk3ZWU4LTBmMTQtNDhhMy1iMmNkLTk3OWM1Njc0MmU2NC5sb3NleW91cmlwLmNvbSJ9
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.0:443?type=ws&security=tls&path=/uxs.vs2024.us.kg&sni=uu.vs2024.us.kg&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.0
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.67.215.213:8880?type=ws&security=false&path=/&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-FALSE - Zaymer PJSC ┇ 45.67.215.213
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.67.215.29:8880?type=ws&security=false&path=/&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-FALSE - Zaymer PJSC ┇ 45.67.215.29
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.67.215.63:8880?type=ws&security=false&path=/Telegram&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-FALSE - Zaymer PJSC ┇ 45.67.215.63
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.67.215.247:8880?type=ws&security=false&path=/Telegram&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-FALSE - Zaymer PJSC ┇ 45.67.215.247
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.67.215.20:8880?type=ws&security=false&path=/?ed=2560&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-FALSE - Zaymer PJSC ┇ 45.67.215.20
-vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.209:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.209
-vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.92:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.92
-vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.117:443?type=ws&security=tls&path=/ss.vs2024.us.kg&sni=ls.bgm2024.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.117
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.114:443?type=ws&security=none&sni=bn.ylks0033.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.114
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.165:443?type=ws&security=none&sni=hl.ylka.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.165
-vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.98:443?type=ws&security=none&sni=uu.vs2024.us.kg#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.98
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@45.67.215.168:443?type=ws&security=tls&path=/&sni=0229.patterdeng.pp.ua#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.168
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.67.215.254:8880?type=ws&security=none&path=/#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.254
-vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.242:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.242
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.53:443?type=ws&security=tls&path=/?ed=2560&sni=lx.ylks.us.kg#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.53
-vless://3df56fd0-d1b7-4793-b877-acd356d960f3@45.67.215.4:443?type=ws&security=tls&path=/?ed=2048&sni=pages.dev&fp=randomized#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.4
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.167:443?type=ws&security=tls&path=/blue&sni=ad.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.167
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.42:443?type=ws&security=tls&path=/?ed=2560&sni=lw.ylks.us.kg#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.42
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.161:443?type=ws&security=tls&path=/blue&sni=ad.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.161
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.99:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=ad.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.99
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.208:443?type=ws&security=tls&path=/blue&sni=aw.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.208
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.172:443?type=ws&security=tls&path=/blue&sni=dd.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.172
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.154:443?type=ws&security=tls&path=/blue&sni=ad.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.154
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.19:443?type=ws&security=tls&path=/blue&sni=ad.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.19
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@45.67.215.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.77
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.6:443?type=ws&security=tls&path=/blue&sni=dp.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.6
-vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.212:443?type=ws&security=none&sni=uu.vs2024.us.kg#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.212
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.67.215.101:443?type=ws&security=tls&path=/3b2dg5zv2kftsfko?ed=2560&sni=vz.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.101
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.102:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=jz.ylks01.eu.org#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.102
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.109:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.109
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.114:443?type=ws&security=none&sni=bn.ylks0033.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.114
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.117:443?type=ws&security=tls&path=/ss.vs2024.us.kg&sni=ls.bgm2024.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.117
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.118:443?type=ws&security=none&sni=uu.vs2024.us.kg#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.118
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.122:443?type=ws&security=none&sni=nn.ylks0033.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.122
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@45.67.215.13:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.13
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@45.67.215.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.13
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.143:443?type=ws&security=none&sni=sl.ylka.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.143
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.146:443?type=ws&security=none&sni=sl.ylka.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.146
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.154:443?type=ws&security=tls&path=/blue&sni=ap.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.154
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.161:443?type=ws&security=tls&path=/blue&sni=ad.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.161
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.165:443?type=ws&security=none&sni=hl.ylka.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.165
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.167:443?type=ws&security=none&sni=hj.ylka.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.167
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@45.67.215.168:443?type=ws&security=none&sni=0229.patterdeng.pp.ua#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.168
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.172:443?type=ws&security=tls&path=/blue&sni=dd.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.172
 vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.174:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.174
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.67.215.177:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=vz.ylkszy.eu.org#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.177
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.67.215.185:443?type=ws&security=tls&path=/3b2dg5zv2kftsfko?ed=2560&sni=vz.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.185
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.19:443?type=ws&security=tls&path=/blue&sni=ad.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.19
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.208:443?type=ws&security=none&path=/bluesecurity=tls&sni=aw.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.208
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.209:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.209
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.67.215.20:8880?type=ws&security=none&path=/?ed=2560#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.20
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.212:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.212
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.67.215.213:8880?type=ws&security=none#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.213
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.67.215.220:443?type=ws&security=tls&path=/&sni=vz.ylks.xyz&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.220
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.22:443?type=ws&security=tls&path=/blue&sni=jz.ylks01.eu.org#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.22
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.242:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.242
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.67.215.247:8880?type=ws&security=none&path=/Telegram&sni=ex.sue.x10.mx#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.247
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.67.215.254:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.254
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.67.215.29:8880?type=ws&security=none&path=/#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.29
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.39:443?type=ws&security=tls&path=/&sni=xz.ylks.xyz&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.39
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.41:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=xz.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.41
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.42:443?type=ws&security=tls&path=/?ed=2560&sni=lw.ylks.us.kg#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.42
 vless://7438db48-7fc0-479f-a93d-f3634d219279@45.67.215.43:2096?type=ws&security=tls&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&sni=J0in-te1egram-EiiiM.danesh-bonyan.Store#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.43
 vless://4337e327-c77e-4ae3-a376-0374fb82eca1@45.67.215.44:2096?type=ws&security=tls&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&sni=Join-Channel-Te1egram-EiiiM.danesh-bonyan.Store#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.44
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.67.215.4:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=vz.ylkszy.eu.org#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.4
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.53:443?type=ws&security=none&path=/?ed=2560security=tls&sni=lx.ylks.us.kg#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.53
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.56:443?type=ws&security=none&sni=nl.ylka.dpdns.org#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.56
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.67.215.63:8880?type=ws&security=none&path=/Telegram&sni=sg.laoyoutiao.link#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.63
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.6:443?type=ws&security=tls&path=/blue&sni=dp.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.6
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.73:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=hz.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.73
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@45.67.215.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.77
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.67.215.81:443?type=ws&security=tls&path=/&sni=vz.ylkszy.eu.org&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.81
-trojan://wqe6i6h6-j0vf-58p7-p4g7-gguh49lfq9ta@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.92:443?type=ws&security=tls&path=/?ed=2560&sni=dv.bgm2024.dpdns.org&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.92
+vless://55520747-311e-4015-83ce-be46e2060ce3@45.67.215.98:443?type=ws&security=none&sni=uu.vs2024.us.kg#RU 🇷🇺 ┇ VLESS-WS-NTLS - Zaymer PJSC ┇ 45.67.215.98
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.99:443?type=ws&security=tls&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&sni=hz.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - Zaymer PJSC ┇ 45.67.215.99
+trojan://m7hmveax-s0bj-co5u-uamn-544pgrfpbtun@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

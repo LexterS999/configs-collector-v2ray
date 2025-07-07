@@ -1,11 +1,11 @@
-trojan://q4ude1hu-e0w5-pg1c-h689-m8wj0oz3txiv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://788xnpo1-l5fr-y5ra-mk79-y976t9bah9x3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4vfefmh0-17l5-jhc9-3uv0-sou6mj39l9j4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lx82z42o-mvqd-bgm9-vsu6-yhczwos91fo7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://71ffp6u3-ywnn-v8wj-y8nl-8zxlany436ri@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://ujbg8i06-oaez-ep2j-7jv1-zkcgdkcjngf9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wbmwi063-8en9-iq1q-nkuh-lkif0tqynigm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7otewy3c-lc47-pdsa-bgh2-rvcncvko0w63@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://7c598d05-6b60-4ba4-b326-52cca83adc95@217.60.240.209:3095?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Seyed Ali Moosavi ┇ 217.60.240.209
 vless://7c598d05-6b60-4ba4-b326-52cca83adc95@pre-de.hmray.pro:3092?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Seyed Ali Moosavi ┇ 217.60.240.210
 vless://7c598d05-6b60-4ba4-b326-52cca83adc95@pre-eng.hmray.pro:3092?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Seyed Ali Moosavi ┇ 217.60.240.206
-vless://7c598d05-6b60-4ba4-b326-52cca83adc95@pre-nl.hmray.pro:2087?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Seyed Ali Moosavi ┇ 217.60.240.207
-vless://7c598d05-6b60-4ba4-b326-52cca83adc95@pre-us.hmray.pro:3095?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Seyed Ali Moosavi ┇ 217.60.240.209
-vless://7c598d05-6b60-4ba4-b326-52cca83adc95@pre-tr.hmray.pro:2092?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Seyed Ali Moosavi ┇ 217.60.240.208
 vless://7c598d05-6b60-4ba4-b326-52cca83adc95@pre-fr.hmray.pro:2092?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Seyed Ali Moosavi ┇ 217.60.240.205
-trojan://21n529p1-1zwo-esvv-dl5o-k4y0hlc8kqxt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://7c598d05-6b60-4ba4-b326-52cca83adc95@pre-nl.hmray.pro:2087?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Seyed Ali Moosavi ┇ 217.60.240.207
+vless://7c598d05-6b60-4ba4-b326-52cca83adc95@pre-tr.hmray.pro:2092?type=ws&security=none&path=/#AE 🇦🇪 ┇ VLESS-WS-NTLS - Seyed Ali Moosavi ┇ 217.60.240.208
+trojan://cde5suca-pi3c-7xme-dy4y-a4nkvhgkh3i5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

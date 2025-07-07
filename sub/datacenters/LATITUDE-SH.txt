@@ -1,12 +1,9 @@
-trojan://7x6dv0tn-6ecy-xww4-f54t-trgqnltrvbde@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://0bbjqciu-3s2o-e6jl-josi-k2h6l8l6qy35@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://cgtgc7va-gsp6-s471-0k32-rjenjpdlq72u@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://l9flgbex-a239-51bz-kslx-w94p7drik3ge@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://kbp0mxaq-d61k-v7s0-y1zf-lekq2x9ygw23@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://nxqhr8zh-m0u0-x4v5-yos0-cwlpi2z3leas@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://q4s0cero-y5i8-sy4w-towj-chbve9opbdzg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://v7r85jc6-6iqi-v1tm-u456-ix3iftovp8lu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppejhrMnhyckg4bVJhWDFNRW90cHVk@140.99.164.11:41540#BR 🇧🇷 ┇ SHADOWSOCKS-TCP-NTLS - LATITUDE-SH ┇ 140.99.164.11
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTEFUSVRVREUtU0ggXHUyNTA3IDE3Mi4xMTEuMTQ2LjY0IiwiYWRkIjoidWwtamFwYW4xLjA5dnBuLmNvbSIsInBvcnQiOjgwLCJpZCI6IjE4NjU5YTMxLWFkZDktNGI5Zi1hZjU3LTc3ZmZhZjAzOTZjOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvdm1lc3MvIyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTEFUSVRVREUtU0ggXHUyNTA3IDg5LjE4Ny4yOC4xMjYiLCJhZGQiOiI4OS4xODcuMjguMTI2IiwicG9ydCI6ODAsImlkIjoiMTg2NTlhMzEtYWRkOS00YjlmLWFmNTctNzdmZmFmMDM5NmM5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii92bWVzcy8jQGFscGhhX3YycmF5X2ZhemF5aSxAYWxwaGFfdjJyYXlfZmF6YXlpLEBhbHBoYV92MnJheV9mYXpheWksQGFscGhhX3YycmF5X2ZhemF5aSxAYWxwaGFfdjJyYXlfZmF6YXlpLEBhbHBoYV92MnJheV9mYXpheWkifQ
+vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?type=ws&security=none&path=/vless/#JP 🇯🇵 ┇ VLESS-WS-NTLS - LATITUDE-SH ┇ 172.111.146.64
 vless://948f6596-66f9-4707-aa92-3107a214ce53@185.18.222.208:2053?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - LATITUDE-SH ┇ 185.18.222.208
-vmess://eyJ2IjoiMiIsInBzIjoiTVggXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBMQVRJVFVERS1TSCBcdTI1MDcgNDUuMTM0LjkuOTgiLCJhZGQiOiJteDEuY29ubmVjdG9uLnN1cmYiLCJwb3J0Ijo0NDMsImlkIjoiZjYxZmI0OTQtNTIzMy00MTllLTg0M2QtMTU2MGY0ZWFjNjY3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoibXgxLmNvbm5lY3Rvbi5zdXJmIiwicGF0aCI6InZtZXNzIiwidGxzIjoidGxzIiwic25pIjoibXgxLmNvbm5lY3Rvbi5zdXJmIn0
 vless://65d2dfe6-e2f9-5880-a799-ac6664053e25@45.134.9.188:443?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#MX 🇲🇽 ┇ VLESS-WS-TLS - LATITUDE-SH ┇ 45.134.9.188
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTEFUSVRVREUtU0ggXHUyNTA3IDIxNi4xMDcuMTM5LjE5MSIsImFkZCI6IjIxNi4xMDcuMTM5LjE5MSIsInBvcnQiOjgwLCJpZCI6ImUxNzYwMTlhLWRmMjItNDg5NS1mYmQ1LTU1NTZiMDkwZTRlNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-trojan://nn4lopzj-9mp7-yfp9-5np7-wrbn3dcf5dw6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://58ofdjet-3kcl-8tuw-i6tj-xg6jsc7cw47e@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

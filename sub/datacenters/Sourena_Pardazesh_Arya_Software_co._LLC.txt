@@ -1,7 +1,6 @@
-trojan://atljqm6r-es1d-57bp-ajjx-8y2u5xo6jfju@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://vmi1s9fz-i1wb-pesq-bv9i-3b4gc4kk80zb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://qk3mlul5-fj1s-ok22-x5it-vmb3ds3k313f@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2m5l585a-sahr-lqtb-uh2w-9tvzx0y63ejh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gU291cmVuYSBQYXJkYXplc2ggQXJ5YSBTb2Z0d2FyZSBjby4gTExDIFx1MjUwNyAxOTQuNTAuMjE2LjQ0IiwiYWRkIjoiYWNjb3VudC5adWxhLmlyIiwicG9ydCI6ODAsImlkIjoiOGZhMjYxYzAtYWU4ZC00YWVlLThmOGItMTYwNGI2Zjc4ZjRhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RyaGRnZGZ2ZyJ9
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@194.50.216.61:443?type=ws&security=tls&path=/@Rayan_Config&sni=rayan-12.leila.dpdns.org&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Sourena Pardazesh Arya Software co. LLC ┇ 194.50.216.61
-trojan://9vypwvfr-jbio-4sh2-jawr-co1ttat6ddap@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://yktltpjj-gum1-zl5g-l5bo-vybvm4hbh2n6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://sxb4gyy3-r8me-bmww-vvch-m3cjydkkcn40@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://88ymq1h1-dgum-nx0z-dkc3-85kw47yo89qg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ptczd4ho-dcmh-wclz-e197-t7jtx95rogvi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://65d2c27d-0957-415d-b67a-b915cd857723@account.zula.ir:8880?type=tcp&security=none&path=/Telegram:@UnlimitedDev?ed=2048#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Sourena Pardazesh Arya Software co. LLC ┇ 194.50.216.44
+trojan://s6btdj51-wj3s-eqzl-rxae-f2k4r7hnqk6y@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

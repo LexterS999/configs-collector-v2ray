@@ -1,6 +1,6 @@
-trojan://lzpls7z8-ixma-t4e5-vz0y-7kcid8sui6ai@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://xkmdnn2h-hqc4-hs97-jltz-jv5rofl8fhw0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://jfxwjw16-4b9p-qn11-a3lm-aoimx1pdy77y@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pdbe2x1b-fh5f-2u1e-4cxr-40jmmpgs6ffz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://050tfybc-py58-biwe-ldnc-eli8jnxgln38@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://e4ixmwco-zgp5-duth-goyo-rubvxk1zpv7l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7azww0v1-wg23-hrm3-zoku-d6g7dzvoirkd@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dzqno8kz-0xh1-ve28-5w0u-2m13lvz3kw1b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://4088e698-69fd-4d15-98bc-f1fe4c071642@116.204.210.10:443?type=ws&security=tls&path=TelegramTW_@WangCai2/?ed=2560&sni=photosair.ir#HK 🇭🇰 ┇ VLESS-WS-TLS - TOPWAY GLOBAL LIMITED ┇ 116.204.210.10
-trojan://vluqm9mo-5yyz-acff-ba45-u6bx5j6r4b6k@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://6b29g7ee-7ogi-hrgo-uhd5-alye4b6newaz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

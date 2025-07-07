@@ -1,13 +1,11 @@
-trojan://p915je7n-jwgb-jbo2-sd54-10t7lnrckjtt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://od9ar91a-prbr-c6cw-uwvu-kxjw8s0zcipq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://65vkpqjs-39cl-ebwl-3bzm-tr3ysk17qp26@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xps2wj2d-1eei-d5e3-y0b3-0hmagxkjftid@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://fng1s113-zb2n-egdw-nh5d-sgrnrah58djl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://4d78wjgm-1ge3-i9py-aq3i-wsutcx5cdby7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z6yzdpxy-ha7q-hwcf-1ths-yszqa972wgas@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://0uitaya6-idsc-hoes-gkjk-7iz0qtrv3aul@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Global Internet Solutions LLC ┇ 45.151.62.54
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozM0xwb1U4WC94SG5DRCtjYk5lKzdwMHBLL0puZ0RMTSs1K1JJTHJ4eWZWRlJXL25pS3o1RXUwcld5VmNEaG89@45.151.62.238:2024#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Global Internet Solutions LLC ┇ 45.151.62.238
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ@ru.fastsoonlink.com:40031#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Global Internet Solutions LLC ┇ 45.151.62.109
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYWtteDluSERHdkJtYldRdGVlSVhn@89.23.113.166:1080#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Global Internet Solutions LLC ┇ 89.23.113.166
-vless://22f12f46-7952-4336-b054-6702e3875465@212.192.14.50:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Global Internet Solutions LLC ┇ 212.192.14.50
-vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@russiaaa.mehrdadsadaf.com:7594?type=grpc&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Global Internet Solutions LLC ┇ 2.59.161.90
 vless://285c92f6-8496-4c7f-8336-d9004bfb623b@212.192.14.48:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Global Internet Solutions LLC ┇ 212.192.14.48
+vless://22f12f46-7952-4336-b054-6702e3875465@212.192.14.50:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#RU 🇷🇺 ┇ VLESS-TCP-RLT - Global Internet Solutions LLC ┇ 212.192.14.50
 vless://aea847f1-500c-449a-b338-d19940d1a45a@45.151.62.156:4444?type=xhttp&security=reality&sni=ftp.debian.org&fp=chrome&pbk=YKxZl7HV4cByZum7_z_P390ITLIACiMhJY-AVKKAcVs#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Global Internet Solutions LLC ┇ 45.151.62.156
-trojan://fb9578v6-bern-b9hf-3u7f-x1qa5r4nl4e3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@russiaaa.mehrdadsadaf.com:7594?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-RLT - Global Internet Solutions LLC ┇ 2.59.161.90
+trojan://uw5jegoi-v3od-ujdk-n2ux-6hsz67my71si@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

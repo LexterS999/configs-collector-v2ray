@@ -1,8 +1,7 @@
-trojan://o4sbmixd-auvz-6gcs-znfj-xzyf5wodazz5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://9ecpnhph-jfhj-qnai-gfa4-wqrlsojjoqoq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://axd9jpow-hfzl-b9qc-v2x8-8mejp6y48fr7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tcil56y8-vbjo-1nct-c0c9-40x7wq30byfs@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://067drw5j-fww2-puck-1gux-bkude97sntji@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://yyonii66-ztj4-gb7a-fyzn-7hzwroq3iqk4@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://2uwvncby-sdwn-qggi-aa71-c3jlj2obd6ed@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://az5h87bu-6jyu-95o7-6h46-rj5r8qov7ox0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@83.229.123.36:8443?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - LUCIDACLOUD LIMITED ┇ 83.229.123.36
 trojan://Aimer@149.104.29.121:443?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - LUCIDACLOUD LIMITED ┇ 149.104.29.121
-trojan://Aimer@38.38.251.220:443?sni=agepa.ambercc.filegear-sg.me&peer=agepa.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LUCIDACLOUD LIMITED ┇ 38.38.251.220
-trojan://un3houu5-hivp-t6f7-71rs-f2y0zkf65etc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://mcyqtc9n-90if-v7iz-ze25-a974ar3n64ma@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

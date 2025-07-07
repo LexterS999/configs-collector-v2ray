@@ -1,8 +1,6 @@
-trojan://7mwn85nx-oatp-a6u4-5xjh-2xqwuaak0o89@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://ghqq4thb-bio8-3e3u-08jh-t4kpgwaz4y2h@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xp5g8de7-sea9-rh9n-rhty-4ypq3tyg7k68@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://uh14xsho-7c3v-kv4y-h9e2-w7nv3atohpei@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://6brz6yj9-b46o-6atc-ha24-qv3cl7xfyne5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://cric0y3u-29f5-4pvt-j3uh-wzv2zewxnvns@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xc0rauwi-opg3-gxf9-nkmt-ca7ju243a8vs@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://t0cgyxa8-sogh-svr4-k28t-2iz1zoy0cjj1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 192.71.166.102
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.100:989#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 192.71.166.100
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@151.236.29.225:990#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 151.236.29.225
-trojan://afg3rxnm-ryya-ydmx-udvw-r60wy7obykbb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://31jxs82l-o1ga-n301-8yds-8y08u5pmegtp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

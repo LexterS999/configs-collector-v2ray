@@ -1,8 +1,7 @@
-trojan://ggg788nk-f8p3-m3f0-d562-505zua3elb68@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://4bgnn1tv-ihb2-q699-3wgq-7ysgxnnn0prh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://meobzzwd-m8x3-lyay-acp3-s6l3v3htz9d6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://0bnqvt4u-4pea-k5o6-gfw8-ebiy7qf3q3he@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBGYXJoYW5nIEF6bWEgQ29tbXVuaWNhdGlvbnMgQ29tcGFueSBMVEQgXHUyNTA3IDIxMi44MC4yLjgiLCJhZGQiOiIyMTIuODAuMi44IiwicG9ydCI6NTMxMTIsImlkIjoiZmQ5NTllODYtZTdiMC00NTdhLWUyOWUtZjg2YjcxNmRiYmMyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZhcmhhbmcgQXptYSBDb21tdW5pY2F0aW9ucyBDb21wYW55IExURCBcdTI1MDcgMjEyLjE2LjY4Ljg5IiwiYWRkIjoiczExLnNoZXRhYjIxLnNpdGUiLCJwb3J0IjoyMDUxMiwiaWQiOiIzNzczN2UxMi1jNjM3LTQ1ZGItYjI4ZS00ZjFmMDBkNDRiYzIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+trojan://u6wtplyp-rbnj-edqy-rn85-c2hcr8oi23c4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://8ie6ipzu-zw2o-75vc-1p14-lvqqxie8527a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vbcjh3gc-gvy0-h0rg-bgtf-id492qcjdr88@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://3opdg7ol-c3vb-zxaw-ccmh-4cdzbehh85wc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://85bc1120-3cb3-45ff-a12f-9e7d94f40634@212.16.68.63:1003?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Farhang Azma Communications Company LTD ┇ 212.16.68.63
-trojan://ms90k0a3-avbg-hl6j-dst4-87kxzzfsm26m@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://1b986907-0ca2-4618-e62e-abd45abb19fd@212.80.2.8:21412?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Farhang Azma Communications Company LTD ┇ 212.80.2.8
+trojan://xwqypub0-ip06-ex45-0hoq-y45n63xz7lro@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

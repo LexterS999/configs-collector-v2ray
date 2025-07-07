@@ -1,9 +1,8 @@
-trojan://86jx7rrk-ntm4-tadl-7lwe-c7ls227y0doa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://g6305im8-ub0p-0rnb-kty8-1u5cgxcme1r3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://u18d8wbo-5qko-go4a-hu07-eagc43ah1sdt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://96wm8az7-kw74-0ik6-ctkl-1qhdb3y898yj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://acfd7e81-54ba-46ba-a3fb-0095470453ce@homee.oops.wtf:8866?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 79.110.50.154
-vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZpYmEgQ2xvdWQgT3BlcmF0aW9uIENvbXBhbnksIExMQyBcdTI1MDcgMjE2LjkuMjI1LjYxIiwiYWRkIjoiMjE2LjkuMjI1LjYxIiwicG9ydCI6MzM5ODQsImlkIjoiOTU2YWU4YzItZTJiYy00NzlkLWRjNDUtN2VkMjFkZTVlOGUyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+trojan://dy2pb8hi-vk45-qfd0-fo6f-6pphzci0kxpy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://dzhu65zt-e6my-ird9-8678-e61cpbfny0ol@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://mvsujqno-xrfu-l75c-il49-fyajd8g5zgdl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rukklyim-xsex-wbtp-fpik-2qsbpsh1gwcq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://b722886c-e0aa-4720-9812-0f8ccf7a24aa@homee.oops.wtf:8866?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Fiba Cloud Operation Company, LLC ┇ 79.110.50.154
 vless://d7f40691-ef51-45ce-9a2c-051e2a1b0750@216.9.225.159:8000?type=tcp&security=tls&sni=tr-1.claudify.org&fp=randomized&flow=xtls-rprx-vision#TR 🇹🇷 ┇ VLESS-TCP-TLS - Fiba Cloud Operation Company, LLC ┇ 216.9.225.159
 vless://885a03bb-4797-3fd8-5446-c770066cb87e@216.9.225.51:4111?type=tcp&security=reality&sni=serverdlt1.goodshoes.ir&fp=chrome&flow=xtls-rprx-vision&pbk=SLaKJrXI_5q7tPsYGffScpC1MEl75kMp-Z6M5KnvZwc&sid=cc30318af8ce0970#TR 🇹🇷 ┇ VLESS-TCP-RLT - Fiba Cloud Operation Company, LLC ┇ 216.9.225.51
-trojan://1kw97gdj-uftu-mtmo-xaop-uqufjxff08c8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://miwt6bg9-u7u2-uu8z-kbex-r1k0eh0dr7nw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

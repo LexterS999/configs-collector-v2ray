@@ -1,8 +1,8 @@
-trojan://2oz82844-544r-au7p-7k4o-6u150lwdk6vx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://57hx8hv2-i37b-hctj-6w0y-90oja8cqswy3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nfqb7cqm-ad4e-ht5r-jd1t-fs76b79z7s0d@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://v2rbkxu1-7tz1-k347-ybe8-fam9tph4rphq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://prfgj2ll-7c1z-leps-sdkv-iukcznryjxto@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://kwpmv1gf-fgqa-t733-npxi-8om39k64eoay@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://6mgmlwre-qc2n-wtcm-rqu9-j0a6ukltp8tm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://nsa310wj-itk8-aqbv-31at-h0dabx3khyig@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRS1Nb25leSBOZXQgRGV2ZWxvcGVycyAyNCBDb21wYW55IFByaXZhdGUgSm9pbnQgU3RvY2sgXHUyNTA3IDE4NS4yNC4yNTUuMjQiLCJhZGQiOiIxODUuMjQuMjU1LjI0IiwicG9ydCI6ODAsImlkIjoiODBhYmI5MDMtMjRlMC00ZGJkLTljMmYtYTU3ZTlhMjY3NTU1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3MifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRS1Nb25leSBOZXQgRGV2ZWxvcGVycyAyNCBDb21wYW55IFByaXZhdGUgSm9pbnQgU3RvY2sgXHUyNTA3IDE4NS4yNC4yNTUuNzEiLCJhZGQiOiIxODUuMjQuMjU1LjcxIiwicG9ydCI6ODAsImlkIjoiMWY2NzM0YzEtZmM0NC00Yzg2LWI4ZDgtOGUwMzQzZjUwZjYzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
 vless://4436b3aa-3e69-473b-b8c4-ad962d9ea66e@5.145.119.39:2086?type=tcp&security=none&path=/OceanNetworks#IR 🇮🇷 ┇ VLESS-TCP-NTLS - E-Money Net Developers 24 Company Private Joint Stock ┇ 5.145.119.39
-trojan://tbxcbumm-5ms8-ly3r-5qjh-txa8u3vsqmci@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://860ad2ac-18b7-4940-8213-1a98c6ab4272@5.145.113.58:1916?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - E-Money Net Developers 24 Company Private Joint Stock ┇ 5.145.113.58
+trojan://i98n0ilw-vili-0ltb-dnli-7rp8v2hsj299@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

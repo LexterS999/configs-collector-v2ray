@@ -1,11 +1,6 @@
-trojan://oa6bt0ry-o5v2-5ilh-u854-ryc6eu74cxkj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://idk40pxp-m5a6-55ia-h5ny-4mf17cpded1a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ghih3etw-mvuu-ej56-hcv9-bt3rykwgwgbe@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hvas72z8-g3h8-3p8t-sdp5-rozoszhcx7rz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://c25w66md-cie0-8mq8-jqyf-2hxgo63qy2g3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://i2qyo2dp-f28m-dxoa-39hj-t13ahiqklmam@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0qj2y5jt-h4os-2wo3-56ju-6zfzmszjva16@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jcqgi33w-5c65-7pwp-mw0u-9vl4acsmg3bk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://e79c9267-846d-46e2-ad6d-b99a5f899e01@46.20.109.108:14961?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=wbQjriu3XACnc8brsd6FoVP1Jva3B4dn0GWXU9Cyqg4&sid=1b2462f9#GR 🇬🇷 ┇ VLESS-TCP-RLT - Nearoute Limited. ┇ 46.20.109.108
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTg1Mzg1ZS0yNzdlLTRhZjItOWUzMi1kMDQwMjg1OWRmMDg@file.gengsang.me:50037#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - Nearoute Limited. ┇ 45.146.232.146
-trojan://0979046d-90cc-4f58-9595-75ba19550d1c@45.146.232.172:42881?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Nearoute Limited. ┇ 45.146.232.172
-trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:46668?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Nearoute Limited. ┇ 45.146.232.173
-trojan://0597af27-0972-45de-a32f-d320348cb765@45.146.232.171:43591?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Nearoute Limited. ┇ 45.146.232.171
-trojan://28bdfb42-f7ae-4a1f-9c85-dbc7f6b6cc95@45.146.232.170:46927?sni=q08m.vgraxiw73s.hasyaf.cn&peer=q08m.vgraxiw73s.hasyaf.cn&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - Nearoute Limited. ┇ 45.146.232.170
-trojan://64o1oayb-i9o2-lpy2-jd15-rwtjfpvv3l9n@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://k5u8orrr-slat-xi9j-ywb0-3n1t406rl8mw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

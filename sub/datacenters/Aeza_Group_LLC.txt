@@ -1,23 +1,16 @@
-trojan://5k4lnqa4-ho7e-rgwd-e3li-ypyibywy5ijy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://a7eurxpz-np2q-hcgn-m42a-99x2hqexh0uv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ldt76wiy-lvnv-cg8w-k6ne-lo3t8ytaeke0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://usa64t50-nz4t-c4w2-pu6a-wf0tfkcawfu1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsckpWWUhDaVpBM1ZkUmNrRVdRblNn@109.107.189.185:17397#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 109.107.189.185
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3dlA2bEJFaW0wUHFpeWp6ZmVLMlpv@109.107.189.5:53064#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 109.107.189.5
-ss://Y2hhY2hhMjAtcG9seTEzMDU6UU1lS1d1cTJ0WGJaT25PTGlHL1dBUFNoWW5JQWZxRkw5bE1jUkFMRytzUT0@185.112.83.224:27315#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - Aeza Group LLC ┇ 185.112.83.224
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFlemEgR3JvdXAgTExDIFx1MjUwNyA3OS4xMzcuMTkyLjIwMSIsImFkZCI6ImJ3LmczLmc0LnBvd2VyYWRhcHRvci5pbmZvIiwicG9ydCI6MzU4MDgsImlkIjoiZmI1M2JjOWMtOThiOC00Njk2LTkyZmUtNjk1MzkyZDQ5MGJmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtVExTIC0gQWV6YSBHcm91cCBMTEMgXHUyNTA3IDE4NS4xMTIuODMuMjEzIiwiYWRkIjoiMTg1LjExMi44My4yMTMiLCJwb3J0IjoyMTEzNiwiaWQiOiIyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtVFJVRSAtIEFlemEgR3JvdXAgTExDIFx1MjUwNyA0NS4xNDIuMTIyLjI0MiIsImFkZCI6IjQ1LjE0Mi4xMjIuMjQyIiwicG9ydCI6Mzg3NzYsImlkIjoiNUFEREFERjQtRTA1Qi02NUU2LUE0MDktRTA4Q0VBODgyNkRGIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0cnVlIn0
-vless://72f8ab4b-d82c-4caa-b51a-0b0606898483@srv10.amazon-osishop.ir:8880?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 45.134.12.125
-vless://6a13aa20-f011-4474-8da0-e7228b11aff2@85.192.56.170:43856?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Aeza Group LLC ┇ 85.192.56.170
+trojan://x9bs13ek-n25z-ch12-1tzb-81crtq4kgei3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://5rasnu70-nmzq-35e9-9tqk-boyo7hr7r9kh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://i9r8xiq0-yaok-614j-sjwt-kwhprjoikni8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lnzrbnfo-28gy-ww7x-6rkv-yr7f03kpvwwj@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://78d0ab33-a8e4-435f-9b24-1850a8659ba8@103.71.22.160:42988?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 103.71.22.160
 vless://ef95dcd1-bee4-432f-a44f-0268c7773db0@109.107.189.31:2087?type=grpc&security=tls&sni=test.eldenmonodefense5.ir&fp=chrome#RU 🇷🇺 ┇ VLESS-GRPC-TLS - Aeza Group LLC ┇ 109.107.189.31
-vless://d273fcfe-6ffe-49c9-84c0-bf920f64b8fc@split2.parsbsd.ir:443?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 217.144.184.126
 vless://97687b31-beef-4f2e-b016-bba928a53421@77.221.151.51:10346?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 77.221.151.51
-vless://35eaae35-6a9e-4b92-aa9a-1aa0c175fbf3@0000:0000:0000:0000:0000:ffff:5275:57c8:443?type=grpc&security=reality&sni=getfirefox.com&fp=chrome&pbk=bq5qrh95GrxgBPfXUOvQsF0bTAlA0Vq4dwBJl6xx2Es&sid=f574a6e6#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Aeza Group LLC ┇ 0000:0000:0000:0000:0000:ffff:5275:57c8
-vless://84cec1f6-8312-40da-b17a-4511e11a6026@cyber.azar.ddns-ip.net:2083?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=64ZzXuN3BNiYLcliMenVVbjdSX_jCpB-yvW7MTsz2n4&sid=4d932424dbe98b#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 178.20.208.134
-vless://d80814e0-1195-486f-94fb-af2c4831a003@83.147.255.88:2083?type=grpc&security=reality&sni=oivahymy.fi&fp=chrome&pbk=KLfu08enqbDsM6_h09LNRoafJlkXnm9kV54qaKekKmM&sid=4068316141d177#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Aeza Group LLC ┇ 83.147.255.88
-vless://009cccba-c0ec-4297-9898-5115898a7246@103.71.22.3:443?type=tcp&security=reality&sni=spb33.hipay.su&fp=random&flow=xtls-rprx-vision&pbk=n3NmzivS8eutbp8V2dcDqe-UyZynD1jszNy3l-2wzkw&sid=afc6da8dd99e4b83#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 103.71.22.3
+vless://6a13aa20-f011-4474-8da0-e7228b11aff2@85.192.56.170:43856?type=grpc&security=none#RU 🇷🇺 ┇ VLESS-GRPC-NTLS - Aeza Group LLC ┇ 85.192.56.170
+vless://d273fcfe-6ffe-49c9-84c0-bf920f64b8fc@split2.parsbsd.ir:443?type=tcp&security=none&path=/#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 217.144.184.126
+vless://f4a0d694-91ca-4372-a05e-76e6b4faf080@srv10.amazon-osishop.ir:8880?type=tcp&security=none#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Aeza Group LLC ┇ 45.134.12.125
+vless://009cccba-c0ec-4297-9898-5115898a7246@103.71.22.3:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 103.71.22.3
 vless://56cc6e17-16db-4b6e-b0de-0c40bd771536@103.71.22.42:443?type=xhttp&security=reality&path=/mms/video&sni=mmg.whatsapp.net&fp=chrome&pbk=qA_eE0wQjt1xVCoATIsSReYxPhtqjcCx93TCdbV7MVM&sid=7d348dcbfbeee7#RU 🇷🇺 ┇ VLESS-XHTTP-RLT - Aeza Group LLC ┇ 103.71.22.42
+vless://84cec1f6-8312-40da-b17a-4511e11a6026@178.20.208.134:2083?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=64ZzXuN3BNiYLcliMenVVbjdSX_jCpB-yvW7MTsz2n4&sid=4d932424dbe98b#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 178.20.208.134
 vless://c9e4f683-ee36-47cf-9c30-f751f1c118b5@194.113.106.139:24984?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Aeza Group LLC ┇ 194.113.106.139
-trojan://vbbp44jc-gj1x-7pb9-fvo4-8h6ovzqlbyn6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://d80814e0-1195-486f-94fb-af2c4831a003@83.147.255.88:2083?type=grpc&security=reality&sni=oivahymy.fi&fp=chrome&pbk=KLfu08enqbDsM6_h09LNRoafJlkXnm9kV54qaKekKmM&sid=4068316141d177#RU 🇷🇺 ┇ VLESS-GRPC-RLT - Aeza Group LLC ┇ 83.147.255.88
+trojan://t0qh3g9l-68wt-kfj5-imy3-joibvpdki32p@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

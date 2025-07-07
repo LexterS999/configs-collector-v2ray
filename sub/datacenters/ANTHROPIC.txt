@@ -1,92 +1,92 @@
-trojan://nge7vlmu-ekmy-xjn3-b1sw-9tlsqjr8thot@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://66471mvq-hyv9-icpa-59h5-o7m7x6csbgob@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://a7w46kv3-ui1p-3te1-wh1x-j6pkupv8tzgj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://tiy3rfv4-3mlj-l0uc-ioqy-0jx2rzj0di3b@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Aimer@160.79.105.133:8443?sni=epcct.ambercc.filegear-sg.me&peer=epcct.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANTHROPIC ┇ 160.79.105.133
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.169:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANTHROPIC ┇ 160.79.105.169
+trojan://xnpp6e8e-0j80-nov7-b5u2-63if0neap25q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://5w7b5vua-ge6q-d3hl-wnj1-5uosx8yyio2z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://x60vvrcs-06oj-804p-6zy1-57rlmznksr65@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ijx4egpm-zghq-7cg3-5155-tybvznk2bd11@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://Aimer@160.79.105.133:8443?sni=epccc.ambercc.filegear-sg.me&peer=epccc.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANTHROPIC ┇ 160.79.105.133
+trojan://SSorg@160.79.105.80:2087?sni=ssjj.esslh.filegear-sg.me&peer=ssjj.esslh.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANTHROPIC ┇ 160.79.105.80
 trojan://Aimer@160.79.105.160:8443?sni=agepj.ambercc.filegear-sg.me&peer=agepj.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANTHROPIC ┇ 160.79.105.160
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.220:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANTHROPIC ┇ 160.79.105.220
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.169:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANTHROPIC ┇ 160.79.105.169
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.81:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANTHROPIC ┇ 160.79.105.81
 trojan://Aimer@160.79.104.131:8443?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANTHROPIC ┇ 160.79.104.131
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.220:443?sni=icecream.955850.xyz&peer=icecream.955850.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANTHROPIC ┇ 160.79.105.220
-trojan://SSorg@160.79.105.80:2087?sni=ssjj.esslh.filegear-sg.me&peer=ssjj.esslh.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - ANTHROPIC ┇ 160.79.105.80
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.98:443?type=ws&security=none&sni=uu.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.98
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.99:443?type=ws&security=none&sni=uu.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.99
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@160.79.104.177:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.177
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@160.79.104.251:8880?type=ws&security=none&path=/Telegram🇨🇳#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.251
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@160.79.105.177:8880?type=ws&security=none&path=/Telegram🇨🇳 @xixv2ray /?ed=443&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.177
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@160.79.105.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.13
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@160.79.104.254:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.254
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.121:443?type=ws&security=none&path=/?ed=2560security=tls&sni=cl.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.121
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.11:443?type=ws&security=none&path=/?ed=2560security=tls&sni=cl.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.11
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.104.29:8880?type=ws&security=false&path=/TelegramU0001F1E8U0001F1F3&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - ANTHROPIC ┇ 160.79.104.29
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@160.79.105.251:8880?type=ws&security=false&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - ANTHROPIC ┇ 160.79.105.251
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.105.213:8880?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - ANTHROPIC ┇ 160.79.105.213
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.105.29:8880?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - ANTHROPIC ┇ 160.79.105.29
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.104.213:8880?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - ANTHROPIC ┇ 160.79.104.213
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.45:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.45
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.134:443?type=ws&security=none&sni=nn.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.134
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.109:443?type=ws&security=none&sni=hl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.109
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.203:443?type=ws&security=none&sni=sv.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.203
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.108:443?type=ws&security=none&sni=cx.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.108
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.142:443?type=ws&security=none&sni=vc.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.142
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.118:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.118
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.164:443?type=ws&security=tls&path=/?ed&sni=hl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.164
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@160.79.105.254:8880?type=ws&security=none&path=/Telegram🇨🇳#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.254
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.102:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.102
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.77:443?type=ws&security=none&sni=vv.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.77
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.89:443?type=ws&security=tls&path=/?ed=2560&sni=hs.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.89
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.75:443?type=ws&security=none&sni=lx.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.75
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.66:443?type=ws&security=none&sni=vc.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.66
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.134:443?type=ws&security=none&sni=lx.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.134
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.78:443?type=ws&security=tls&path=/?ed=2560&sni=hs.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.78
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.55:443?type=ws&security=none&sni=s0.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.55
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.106:443?type=ws&security=none&sni=cz.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.106
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.76:443?type=ws&security=tls&path=/?ed=2560&sni=hs.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.76
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.155:443?type=ws&security=none&sni=vv.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.155
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@160.79.104.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.247
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.175:443?type=ws&security=tls&path=/?ed=2560&sni=rz.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.175
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.79:443?type=ws&security=tls&path=/?ed=2560&sni=fs.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.79
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.115:443?type=ws&security=tls&path=/?ed=2560&sni=hs.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.115
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.195:443?type=ws&security=none&sni=vc.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.195
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.33:443?type=ws&security=none&sni=nl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.33
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.219:443?type=ws&security=tls&path=/?ed&sni=zl.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.219
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?type=ws&security=tls&path=/?ed=2560fp=random&sni=0229.patterdeng.pp.ua#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.113
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.199:443?type=ws&security=none&sni=vc.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.199
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.72:443?type=ws&security=none&sni=vv.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.72
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.165:443?type=ws&security=none&sni=hj.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.165
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.101:443?type=ws&security=none&sni=lx.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.101
-vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.233:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.233
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@160.79.105.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.3
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.178:443?type=ws&security=tls&path=/?ed=2560&sni=ly.ylka.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.178
-vless://1890351e-af30-40f3-8595-127671bde200@160.79.104.10:2053?type=ws&security=tls&path=/vless-ws/?ed=2048&sni=vpnocean2.cdn-user.workers.dev&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.10
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@160.79.104.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.77
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.101:443?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.101
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.102:443?type=ws&security=tls&path=/?ed=2560&sni=dv.bgm2024.dpdns.org&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.102
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.103:443?type=ws&security=none&sni=uu.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.103
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.108:443?type=ws&security=none&sni=cx.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.108
+vless://1890351e-af30-40f3-8595-127671bde200@160.79.104.10:2053?type=ws&security=tls&path=/vless-ws/?ed=2048&sni=vpnocean2.cdn-user.workers.dev&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.10
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.112:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=jz.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.112
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@160.79.104.113:443?type=ws&security=tls&path=/&sni=0229.patterdeng.pp.ua#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.113
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.115:443?type=ws&security=tls&path=/?ed=2560&sni=dv.bgm2024.dpdns.org&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.115
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.116:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.116
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@160.79.104.13:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.13
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.11:443?type=ws&security=tls&path=/?ed=2560&sni=jv.bgm2024.dpdns.org&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.11
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.134:443?type=ws&security=none&sni=lx.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.134
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@160.79.104.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.13
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.162:443?type=ws&security=none&sni=vv.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.162
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.164:443?type=ws&security=tls&path=/?ed&sni=hl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.164
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.165:443?type=ws&security=none&sni=hj.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.165
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.175:443?type=ws&security=tls&path=/?ed=2560&sni=rz.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.175
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@160.79.104.177:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.177
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.178:443?type=ws&security=tls&path=/blue&sni=dp.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.178
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.181:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.181
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.182:443?type=ws&security=none&sni=lx.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.182
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.191:443?type=ws&security=tls&path=/&sni=hz.ylks.xyz&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.191
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.195:443?type=ws&security=none&sni=nl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.195
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.199:443?type=ws&security=none&sni=vc.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.199
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.19:443?type=ws&security=none&sni=uu.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.19
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.104.213:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.213
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.233:443?type=ws&security=none&sni=cl.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.233
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.234:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=hz.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.234
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.240:443?type=ws&security=tls&path=/?ed&sni=hl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.240
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@160.79.104.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.247
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@160.79.104.251:8880?type=ws&security=none&path=/Telegram🇨🇳#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.251
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.254:443?type=ws&security=tls&path=/  re.vs2024.us.kg&sni=re.vs2024.us.kg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.254
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.104.29:8880?type=ws&security=none&path=/TelegramU0001F1E8U0001F1F3&sni=hk.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.29
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.33:443?type=ws&security=none&sni=nl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.33
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.35:443?type=ws&security=tls&path=/blue&sni=jz.ylks01.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.35
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@160.79.104.3:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.3
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@160.79.104.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.3
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.54:443?type=ws&security=tls&path=/?...&sni=dsb.ylks.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.54
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.104.63:8880?type=ws&security=none&path=/Telegram&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.63
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.55:443?type=ws&security=none&sni=s0.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.55
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.104.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.63
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.104.75:443?type=ws&security=none&sni=lx.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.75
+vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@160.79.104.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.104.77
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.79:443?type=ws&security=tls&path=/?ed=2560&sni=fs.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.79
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.91:443?type=ws&security=tls&path=/blue&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.91
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.104.98:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.104.98
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.0:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=hz.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.0
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.106:443?type=ws&security=none&sni=cz.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.106
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.109:443?type=ws&security=none&sni=hl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.109
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.118:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.118
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.119:443?type=ws&security=none&sni=lx.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.119
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.121:443?type=ws&security=none&path=/?ed=2560security=tls&sni=cl.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.121
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.12:443?type=ws&security=tls&path=/?ed&sni=re.vs2024.us.kg&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.12
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.134:443?type=ws&security=none&sni=nn.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.134
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@160.79.105.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.13
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.142:443?type=ws&security=none&sni=vc.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.142
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.146:443?type=ws&security=none&sni=lx.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.146
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.155:443?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.155
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.163:443?type=ws&security=tls&path=/blue&sni=zz.linghang.buzz#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.163
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@160.79.105.177:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.177
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.190:443?type=ws&security=none&sni=hl.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.190
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@160.79.105.201:443?type=ws&security=tls&path=/?ed=2560&sni=vb.zhuk.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.201
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.203:443?type=ws&security=none&sni=sv.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.203
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.105.213:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.213
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.219:443?type=ws&security=tls&path=/?ed&sni=zl.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.219
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.233:443?type=ws&security=tls&path=/?ed=2560&sni=nn.ylks0033.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.233
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@160.79.105.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.251
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@160.79.105.254:8880?type=ws&security=none&path=/Telegram🇨🇳#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.254
+vless://e458db4b-4e43-4b26-b012-70b053b44f30@160.79.105.29:443?type=ws&security=tls&sni=0107-7z4.pages.dev#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.29
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@160.79.105.38:443?type=ws&security=tls&path=/?proxyip&sni=xinf.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.38
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@160.79.105.3:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.3
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.45:443?type=ws&security=tls&path=/?ed=2560&sni=ls.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.45
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@160.79.105.62:443?type=ws&security=tls&path=/&sni=vz.ylkszy.eu.org&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.62
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.105.63:8880?type=ws&security=none&path=/Telegram&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.63
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.105.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.63
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.66:443?type=ws&security=none&sni=vc.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.66
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.72:443?type=ws&security=none&sni=vv.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.72
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@160.79.105.74:443?type=ws&security=tls&path=/?proxyip=proxyip.us.fxxk.dedyn.io&sni=vz.ylks.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.74
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.76:443?type=ws&security=tls&path=/?ed=2560&sni=jv.bgm2024.dpdns.org&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.76
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.77:443?type=ws&security=none&sni=vv.ylka.dpdns.org#US 🇺🇸 ┇ VLESS-WS-NTLS - ANTHROPIC ┇ 160.79.105.77
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.78:443?type=ws&security=tls&path=/?ed=2560&sni=hs.bgm2024.dpdns.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.78
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.85:443?type=ws&security=tls&path=/?ed=2560&sni=uxa.vs2024.us.kg#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.85
-trojan://2dv10sp1-mzx5-yedj-0afu-7sc581l8cdcw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.89:443?type=ws&security=tls&path=/?ed=2560&sni=jv.bgm2024.dpdns.org&fp=random#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.89
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.99:443?type=ws&security=tls&path=/?ed=2560&sni=il.ylkszy.eu.org#US 🇺🇸 ┇ VLESS-WS-TLS - ANTHROPIC ┇ 160.79.105.99
+trojan://tgodq3ur-2lub-tk28-wco4-7su9rlg2gtqg@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

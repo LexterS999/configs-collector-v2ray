@@ -1,7 +1,7 @@
-trojan://ai6otuzt-gzqs-7104-9hyh-n5x0qd3o95dy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://qoc6h1pf-xfb0-offu-9brn-g8y77dzk5ieb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://vygmb33q-bp0d-czjg-iqk6-m11ah73tjo6c@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mt6cnry0-wrnz-zyqq-h3ym-9r1vufnmalvi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://1ltvtyu4-5ixa-ioh8-cywa-k8abrcv4n6ce@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://c8e6imgf-rbov-ucdl-jo3g-gej5fle75k1o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nd8p06p8-60kc-8l9m-5h2u-15bvx74tpguy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ie86kq8i-qgie-2swb-swjf-ri1yzq0glpa5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://88210b4d-b356-4eaf-f7d7-edeacbd63a11@185.45.194.29:32108?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-RLT - Host Sailor Ltd ┇ 185.45.194.29
 vless://cb87c632-4825-4b2e-8991-f3f619645fee@kci2.kci2cfjiasucdn.dpdns.org:443?type=ws&security=tls&path=/&sni=kci2.kci2cfjiasucdn.dpdns.org#NL 🇳🇱 ┇ VLESS-WS-TLS - Host Sailor Ltd ┇ 185.117.73.58
-trojan://o4gir8x9-v5iz-5o1x-9520-wdsg33x4wqby@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://u5cb6k79-a8ds-gzer-bi6l-rhcr8v3xdb9o@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

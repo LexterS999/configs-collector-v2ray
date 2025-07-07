@@ -1,8 +1,6 @@
-trojan://2vp5w2y8-5slv-26ge-wm08-y7udeclzj453@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://ien0l84o-yhn7-kcfz-ingy-666qkro3iubp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://twxyu00n-dfo6-zw5f-7jwe-698yeubgnwwy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://cxmge8sm-2y6w-zlb6-xwpw-831duisjvzwf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://2llfqqtt-0i6d-xdrx-ogvo-7br4mlmkw3b6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://g46ufiib-7kga-du2s-o0re-z249wu0peben@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://koyahwdz-fg91-1n5t-a9p4-36k78u8chyxp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8aerv3z1-lhks-dv2q-8sz0-ejr7k99mq8c1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@162.158.28.121:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#OM 🇴🇲 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 162.158.28.121
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@154.205.147.24:8080#OM 🇴🇲 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.205.147.24
-vless://8405b505-709f-4066-8f24-5337212d47d4@154.205.147.238:443?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=mu0LLDgqLrI_QQwD3Dhd_sAldyWylaspLVS5lXDEeCU&sid=e0796eb9b80f7a#OM 🇴🇲 ┇ VLESS-GRPC-RLT - Kaopu Cloud HK Limited ┇ 154.205.147.238
-trojan://a42nlkza-czx4-fysr-fnpb-yn7i219xvbj2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://rxk1lcji-79a8-yxak-urbf-jl97l3d84ho9@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

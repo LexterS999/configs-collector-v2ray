@@ -1,6 +1,6 @@
-trojan://77gn2btt-m14t-89xw-osol-35a51snv9yjm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://rocjd7dr-yp9g-6ui7-cepm-smjw01a284cj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7fese42x-n98t-3ntv-eb1s-iqzvwlxlrdpj@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://85nftjyu-e6mu-aqni-gz18-b9c8pl6my0tn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://q4lj0y6r-5yl7-371q-a7rh-ru4x9yaup5tl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://65jx8udq-qy9t-kgil-5zeh-w3dq3rg2lur6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://r8wmd2ib-awvm-0ukw-xqlf-nwtd9rl5r5co@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2xdmp9fv-c19v-ijs0-c293-cekm76lfdf1a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@156.230.12.71:443?sni=epmo.ambercc.filegear-sg.me&peer=epmo.ambercc.filegear-sg.me&security=tls#SC 🇸🇨 ┇ TROJAN-TCP-TLS - 263 Global Communications Limited ┇ 156.230.12.71
-trojan://t52ulht5-wzc7-ndmh-yp97-ao7zpq0pmfyb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://lu3j23ig-qrou-99x4-21it-eppe9s58yaz6@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

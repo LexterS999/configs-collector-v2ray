@@ -1,8 +1,8 @@
-trojan://b2239exp-eip2-ztm8-m9m5-wb77eqet531y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://j6nv647s-cirt-dept-xkeq-df99osxra4hk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://z2nqbgky-00at-khnv-xnkm-f2hcw80t9beh@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5vgzqmzl-l04u-87sv-j4r7-x1ang9s8aqrk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://32932937-b85f-40be-ae02-997ea5b0b62a@178.160.211.47:443?type=tcp&security=reality&sni=app.hubspot.com&fp=firefox&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.47
+trojan://3rm7uapg-jvb5-g3o3-yzqq-erq1ds8w17j9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://d99gl5vq-vk0v-r7uc-dd7f-gye8no8czjix@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://w095kvs5-gg9j-wc69-bg8t-5ucqt18ljetg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8g1rc14w-2wm9-xl1o-be2d-6u6a4rbttrh7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d5a35da6-ad01-4d23-89c3-0566134b2051@178.160.211.100:34443?type=tcp&security=reality#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.100
 vless://32932937-b85f-40be-ae02-997ea5b0b62a@178.160.211.223:443?type=tcp&security=reality&sni=app.hubspot.com&fp=firefox&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.223
-trojan://2d9zseno-tjer-8553-aacf-nuyhw7khr2yn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://32932937-b85f-40be-ae02-997ea5b0b62a@178.160.211.47:443?type=tcp&security=reality&sni=app.hubspot.com&fp=firefox&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#AM 🇦🇲 ┇ VLESS-TCP-RLT - Telecom Armenia OJSC ┇ 178.160.211.47
+trojan://ls6d6t5j-rx2i-zuqm-2sja-j4c7k1rnq9jh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

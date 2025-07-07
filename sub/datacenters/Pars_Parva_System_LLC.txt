@@ -1,7 +1,7 @@
-trojan://xmuwyzr8-fy6x-r567-vnys-qfoikbd2exch@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://bt1t3bpt-rm60-ix00-sci1-gaeed9t8gam8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://doabxyw8-ktoq-797g-nskb-x5icwbw7r1ke@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://skrmlygn-392c-5h6k-y3vd-gnp8db0vio9o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBhcnMgUGFydmEgU3lzdGVtIExMQyBcdTI1MDcgNDUuMTU5LjE0OS4xOTQiLCJhZGQiOiI0NS4xNTkuMTQ5LjE5NCIsInBvcnQiOjI3OTI1LCJpZCI6ImI2NzBhZjIwLWIyM2ItNGQzYy1hMzNlLTdiMDhhMGM1NWIxMiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://0e777e3e-a3ee-5b31-abd6-e9c61f657b7e@www.parspack.com:2052?type=ws&security=none&path=/Tel--@ELiV2--@ELiV2--@ELiV2-/?ed=1024#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Parva System LLC ┇ 45.139.11.243
-trojan://61ew6gzo-x87t-e4h9-gzi5-y5dsnsu3uztj@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://etywevo1-uhl0-k1z8-b7i4-kip0mlgk4srs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://d7ylstrc-rrhj-e7ng-o10d-dhc6688oeyfq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xo76hose-yrb3-mpra-l6bm-1px71utrv7x3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://exn4nfmo-z4iu-qrql-2ze2-umiwkc3egbdo@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@45.139.11.243:443?type=ws&security=tls&path=/&sni=Bia.alLhub.Ltd&fp=random#IR 🇮🇷 ┇ VLESS-WS-TLS - Pars Parva System LLC ┇ 45.139.11.243
+vless://55f98467-c726-4986-f5ca-c9335f2f6ad1@146.19.212.190:70?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Pars Parva System LLC ┇ 146.19.212.190
+trojan://lw6l8k2o-lmdu-os5g-ljvl-dhwx5wgpsdf4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

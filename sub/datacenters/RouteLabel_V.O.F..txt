@@ -1,6 +1,6 @@
-trojan://cre9lrvk-2wia-h44r-tuow-v971t52z8bra@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://fx5x79ko-5zxv-hppz-si6c-i4h1w3btv8ij@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://tfpa4zgf-64g9-wua6-uo9w-25g1ozyhugl3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://bh5o04m9-k66d-05fc-ej9f-by2t86f6dr1p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3k5o9qk2-jrqm-5ae1-u04n-q5sprxkk0gwi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://9cxkau7e-qhle-prwj-w1id-wcz1x8p697cc@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ebc7i3ew-5o0v-78bm-3uma-1iszl86u8qwz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://61wr4fiq-tyj8-5w0x-la9d-rmnjtqkjpaid@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d92c0ec6-35f9-48c9-a79a-53ad515e7d39@185.52.1.18:443?type=ws&security=tls&path=/cassiusvpn.pages.dev/?ed=2560&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&fp=random#NL 🇳🇱 ┇ VLESS-WS-TLS - RouteLabel V.O.F. ┇ 185.52.1.18
-trojan://h8zscx3h-ybqr-0e4j-0iji-iknpea7gopxd@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://4k4l1ml1-xndd-pv0s-hc4v-y6kmeekhhrzk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

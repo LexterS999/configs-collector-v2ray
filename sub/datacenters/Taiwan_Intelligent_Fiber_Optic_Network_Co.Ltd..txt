@@ -1,7 +1,7 @@
-trojan://gplinc8f-7shc-kbc2-st7b-pe3mjwhpisco@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://x0cq143c-31x4-ay00-hj1j-fgx8cncivep8@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://zt6jee2a-uwe6-0aog-wx2g-0raj8iahnnmw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://rlfcwni2-mow1-tpcl-5bdu-mwcvz8ffp787@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bl4twcj2-3t2j-90zr-tww6-5qof3k7h910f@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://dly7a7be-p0e8-50z7-bai2-07hyhtxwcuny@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://rmz2zi1x-bstv-e8km-spsa-tq5r3j73fqk5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rr9kt688-8j0i-qkad-wfx6-8p6rutidn185@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo03a.kbservice.club:443?security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Taiwan Intelligent Fiber Optic Network Co.,Ltd. ┇ 210.203.60.190
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.189:443?sni=45.32.28.232&peer=45.32.28.232&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Taiwan Intelligent Fiber Optic Network Co.,Ltd. ┇ 210.203.60.189
-trojan://kc09hqrg-i8rr-xxs9-8jej-5jp21v1awkrs@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo01a.kbservice.club:443?sni=45.32.28.232&peer=45.32.28.232&security=tls#TW 🇹🇼 ┇ TROJAN-TCP-TLS - Taiwan Intelligent Fiber Optic Network Co.,Ltd. ┇ 210.203.60.189
+trojan://6mqtthbt-f2uw-884a-wrwv-s44yzd0hu0r5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

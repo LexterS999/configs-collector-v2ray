@@ -1,8 +1,7 @@
-trojan://xk2tx3ig-cx7s-l056-zqbc-mz93ggpj7aei@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://p324ncka-fh29-yhf7-51md-tv2bv0wmwbgv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://um4cmqtw-uee4-vjzq-77zv-npzt06a3likm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1k8plvh7-6c83-mncq-rnx6-mgx1hfsqsnux@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://128d4b58-6713-4051-831e-fe79a67ccee2@77.83.254.18:443?sni=jamnews.ir&peer=jamnews.ir&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - MAJESTIC-HOSTING-01 ┇ 77.83.254.18
+trojan://nbmw8zfi-ueeh-wuk6-odqh-eii0hwweq84c@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://63not91y-0kz8-1etr-55hr-ond6bxuqzpw7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://iiep79t3-r37y-aved-h6on-8zsyziaymn6v@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ofbm4mem-xbxl-zarr-gukv-d8g4kdoyqcpl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTUFKRVNUSUMtSE9TVElORy0wMSBcdTI1MDcgMTczLjIxMS40Mi4yMjEiLCJhZGQiOiIxNzMuMjExLjQyLjIyMSIsInBvcnQiOjI5NjMzLCJpZCI6ImY4MDhmZjUzLWI0NzUtNDE1ZC04NDBhLWYwNWNiNmFmODVmMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIE1BSkVTVElDLUhPU1RJTkctMDEgXHUyNTA3IDE5Mi4xNzcuMTExLjEyIiwiYWRkIjoiMTkyLjE3Ny4xMTEuMTIiLCJwb3J0Ijo0MzMsImlkIjoiZGVmNTYyOGItZGZjNC00M2I1LTk3ZTktMWQ5OTFhYTdjNTY3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-trojan://22berasc-kthm-i0gw-asqf-a204ms7ek1z2@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTUFKRVNUSUMtSE9TVElORy0wMSBcdTI1MDcgNzcuODMuMjU0LjE4IiwiYWRkIjoiNzcuODMuMjU0LjE4IiwicG9ydCI6NTEwOTMsImlkIjoiMTZmYmQzM2EtMTE3ZC00ODZiLWIwZGYtMTFhMjc1OWYzYjE0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
+trojan://6pa49ndb-dund-mvan-c7js-8udsc6b3xi2f@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

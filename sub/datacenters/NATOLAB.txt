@@ -1,27 +1,13 @@
-trojan://g9enzlvh-q5wy-idoo-7ck2-idzawinumg15@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://896m7ie8-h4qn-exuy-8ndz-4vrqkzh3bdip@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://s0f3pluh-lzns-gy11-5c83-j708wa8zgfw5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://z4x7fxs9-z2go-1hbn-3hc2-7fkiz1r1uu4p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.167:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.167
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.159:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.159
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@134.195.101.80:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 134.195.101.80
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@134.195.101.83:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 134.195.101.83
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@134.195.101.84:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 134.195.101.84
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@134.195.101.85:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 134.195.101.85
+trojan://et8sfwm8-r5g0-nsjt-n9eb-kpsr09uhc8r5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://ipio5nzj-073u-io3b-dykn-1kolox53a6ve@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://0doewrgi-a89l-ys1j-ffa1-k71g22ao1xt0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wcut6d69-gy9f-kr2r-uso9-zr9vybgxg75j@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.158:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.158
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.160:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.160
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.161:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.161
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.159:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.159
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.162:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.162
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.164:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.164
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.165:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.165
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.166:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.166
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.64:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.64
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.67:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.67
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.68:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.68
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.72:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.72
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.73:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.73
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.74:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.74
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.76:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.76
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@23.247.137.161:2377#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - NATOLAB ┇ 23.247.137.161
 trojan://d4e41ff772c7fd45@23.247.137.70:3389?security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NATOLAB ┇ 23.247.137.70
+trojan://3c4e10af98c30972@23.247.137.64:443?sni=n2.gladns.com&peer=n2.gladns.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NATOLAB ┇ 23.247.137.64
 trojan://faf42aa0a9ad4c1e@134.195.101.32:3306?sni=n2.gladns.com&peer=n2.gladns.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - NATOLAB ┇ 134.195.101.32
-trojan://8k7vy7u1-393q-xpue-ierq-unls44ipnldf@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://xfvbx9h3-toqu-jx9z-npqy-4ykhwei6hieo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,6 @@
-trojan://muov57x7-ev11-rd0y-j12h-t5c43bkhfj41@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://97p5anz9-hhx5-wtgs-tsmx-0w51naj2qit9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://m6wwtltn-mb02-5ey5-gw12-i0wdgbf8wu9w@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jbli5mcx-l1l7-qwam-yd0c-en02yhlu4pzg@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qrrmgwps-441j-btfs-d9u1-pjsjt8kb1o6u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://tqgqf3wi-v3ii-kebg-6c7v-njn9cjdo64hk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://m54z4yz9-d0ci-o5fa-n46d-8snif9hn4fa4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://60sslt4n-aqel-l99a-l17c-aedcusz5lfut@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443?type=ws&security=tls&path=/NiREvilxXx&sni=TURKISH.NSCL.ir&fp=chrome#TR 🇹🇷 ┇ VLESS-WS-TLS - Alastyr Telekomunikasyon A.S. ┇ 185.8.129.187
-trojan://c08lx0s9-43z3-4at3-of7a-bhh7b83byidk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://v50ya18i-4sxk-nyuv-fzlx-qwo32i5rac98@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

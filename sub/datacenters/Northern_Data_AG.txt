@@ -1,6 +1,6 @@
-trojan://yjqu2xs2-0giy-6x4w-3omk-9dj69pdq94d6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://vij72ns5-jvtm-glh5-b9w9-87klf24y7krr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://9nwtjgtu-y0uk-2u6t-w1r9-0hm7uni3q25f@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://grj8z1v4-lsvg-4f0w-4uu7-um0ywu1y6vtk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://hkhnz3if-y744-uisa-2awv-h2d9vzcjmiv6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://oy57kprr-pdl8-kgpm-qqgu-q8psyrtbxz6v@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://9pfqkyts-r1fz-c1of-d7k8-17paxlkmxm1i@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://bp3obhtv-1wjs-d8sl-efj5-meo9mz6yh33p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@fv.samiion73.ir:13469?type=tcp&security=reality&sni=chatgpt.com&fp=chrome&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&sid=f49785945765b595#PT 🇵🇹 ┇ VLESS-TCP-RLT - Northern Data AG ┇ 93.119.168.32
-trojan://4iii81yb-pz1h-lp74-uk9b-8s79qkk582nu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://xvlkhtgo-oki6-w9y8-bfmv-aahy0865gbjk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

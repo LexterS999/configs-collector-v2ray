@@ -1,6 +1,6 @@
-trojan://rr5vmzoe-569x-s4y3-2f9o-y3sx17hz5r8v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://j90zkj12-qtn8-2sa9-my26-aknnst1t37d7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://387kg23m-deq9-3865-3zhx-dzq1fkcfv7nx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kwfukk8l-vpxi-ewgd-unnf-5zpman34pt11@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bt59y4ls-n69v-aymk-l9ht-u4mzsqts7s9z@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://8qkobuyv-u7cm-fr4x-jcvk-93e1cintx6y1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://c6gszc3t-g8ct-igda-i8rj-vca43j7b8ba8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://e7ojlxiy-xtn5-dqcm-qic9-g88sfgeykmp4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d390674e-0a7b-4567-ac7f-bb2e37b7ae99@31.58.85.73:443?type=httpupgrade&security=tls&path=/CWNeRzWFjgWHWZFw?ed=2560&sni=net.bonabm.ir&fp=random#DE 🇩🇪 ┇ VLESS-HTTPUPGRADE-TLS - SEBEK sp. z o.o ┇ 31.58.85.73
-trojan://3ywxt2jz-0thi-t6hj-43z5-1ru19s2ah8y5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://tovjuby9-9dcr-rr7s-e6k6-a28fvqtbolvr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

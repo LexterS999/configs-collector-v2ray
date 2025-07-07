@@ -1,7 +1,6 @@
-trojan://oypi9j7z-na2i-ciu9-y3y6-i3kxnj8skydx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://neqiz6n0-8j6z-gpne-wyjq-3zeaeqw8kpp3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://s0sywq9x-tbox-jrfl-wpvv-2409dlr7d2gw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://t55gvmu6-sik1-p4as-s9cl-flp7tpt2972w@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM@95.164.249.61:54075#GI 🇬🇮 ┇ SHADOWSOCKS-TCP-NTLS ┇ 95.164.249.61
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYS2E1RFJobnVCZGdmS2VaTlhmZjVwbzk2dTJSQzVWYUJaVVNUb0NHb0NINFpCaG9HTVpjclQ5Q1k2NDZySDNuV1JuMjRkN0ZFRXVqcjRRd1VERnVZUUZBb0hqdGZBZ04@94.131.127.239:49072#GI 🇬🇮 ┇ SHADOWSOCKS-TCP-NTLS - NetAssist LLC ┇ 94.131.127.239
-trojan://i378pu9s-1fi4-zvno-sdrr-bzq2upcegrry@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ibqp0597-9ht9-7deu-dg6k-5cdynsq0pr5e@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://s6phj4xq-9ani-6ctt-oo0p-jg0zfc017kmn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://wojeyfuc-vpuc-erzx-eyuz-ul4v2nwmhp9r@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ntjsoxam-fnap-53l3-wckr-qqvfha9u7h4g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyU0R6d25HeldhZXlZVEFqZWp5Q3FwMkw0eUZuYUVVQ3hzeDc3QmpVUVlxMlVjNWRpVWNhRllFNVU0UG80aGtSczdQSmZlMUhrVVFpaVh2NFNpNlJoZHBQZjRCRkVoS3Q@host.phonygilson.icu:49072#GI 🇬🇮 ┇ SHADOWSOCKS-TCP-NTLS - NetAssist LLC ┇ 94.131.127.239
+trojan://lplzzn4v-ejz2-hi2o-3kkb-wudbpfnqpmhu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

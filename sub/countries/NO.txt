@@ -1,28 +1,16 @@
-trojan://nafhezuk-zags-kbc7-hfbw-iayinfvcxg3l@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://bgsixozv-7t3q-4eda-crue-dx83mqqfp2dt@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0iipwodj-3p6k-40yw-9ao9-xsbx7k9gvd5o@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://9dkyjsu0-plvj-kv1m-8p4u-it8n5pvglc0d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@46.29.218.170:8118#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - Bitpro ┇ 46.29.218.170
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@46.29.218.6:2375#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - Bitpro ┇ 46.29.218.6
+trojan://20hwr4zz-pic5-xfs7-50bx-sramstn9vxwd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://a7awojm9-a2ld-tvf6-3rlr-0yop54ff3snb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://qy80catn-hg1z-pqu7-vk86-f58aj52ax433@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://5fvxkm7k-65ne-tlov-o7a7-nt82uxv3kgif@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCaXRwcm8gXHUyNTA3IDQ2LjI5LjIxOC44NCIsImFkZCI6IjQ2LjI5LjIxOC44NCIsInBvcnQiOjQ0MywiaWQiOiJmN2E0NTZkYS05ODg2LTRkZDctYjE5My00YzU5YTcyNjIxOWMiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQml0cHJvIFx1MjUwNyA0Ni4yOS4yMTguODUiLCJhZGQiOiI0Ni4yOS4yMTguODUiLCJwb3J0Ijo0NDMsImlkIjoiZjdhNDU2ZGEtOTg4Ni00ZGQ3LWIxOTMtNGM1OWE3MjYyMTljIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMjQzNTM1MzIyOTA2In0
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.213.23.226:989#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.213.23.226
+ss://YWVzLTI1Ni1nY206WUtZWVVTU0lHMTU1TlY1RQ@185.90.61.157:20034#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.90.61.157
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.90.61.153:989#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.90.61.153
-ss://YWVzLTI1Ni1nY206SlBWNkMwRUtOODhSVDM0Rg@185.90.61.157:20034#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.90.61.157
-vless://beec0c14-7d74-4d03-b79f-f5e880726c28@185.90.61.32:6000?type=tcp&security=reality&sni=www.unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#NO 🇳🇴 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 185.90.61.32
-vless://a0069975-5ad0-4f1c-8800-cd55a381b3b9@node-no-1-v4.soundlesss.com:6000?type=tcp&security=reality&sni=www.unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#NO 🇳🇴 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 185.90.61.31
+vless://c48da5b2-98a7-4ca3-9ef3-1c9b8dbd3901@185.90.61.32:6000?type=tcp&security=reality&sni=unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#NO 🇳🇴 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 185.90.61.32
+vless://a0069975-5ad0-4f1c-8800-cd55a381b3b9@node-no-1-v4.soundlesss.com:6000?type=tcp&security=reality&sni=unpkg.com&fp=firefox&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&sid=0b5922be64fc5713#NO 🇳🇴 ┇ VLESS-TCP-RLT - BrainStorm Network, Inc ┇ 185.90.61.31
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@95.173.205.70:8443?type=tcp&security=tls&sni=osl-no-01.fromblancwithlove.com#NO 🇳🇴 ┇ VLESS-TCP-TLS - Datacamp Limited ┇ 95.173.205.70
 vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?type=tcp&security=reality&sni=partner.g2.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#NO 🇳🇴 ┇ VLESS-TCP-RLT - Gigahost AS ┇ 185.125.171.13
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.68.32.29:989#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 194.68.32.29
-ss://YWVzLTI1Ni1nY206UHZ2YXc0ODY4NjdEMnc0eWN0TDJVTFRR@91.219.215.67:40282#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 91.219.215.67
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.54.170.70:989#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - M247 Europe SRL ┇ 195.54.170.70
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2UDhzbkRhdGcwOTdjMTlBM2VZUGpV@51.120.10.54:4567#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 51.120.10.54
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNN3gxbUdOT3doUGlSQjlqU3haSk55@51.13.182.236:6870#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 51.13.182.236
-vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUGFja2V0SHViIFMuQS4gXHUyNTA3IDQ1Ljg4LjIyMS4xNTIiLCJhZGQiOiI0NS44OC4yMjEuMTUyIiwicG9ydCI6MTEyMjMsImlkIjoiMTYxNDkyN2MtMThhZi00M2JlLTkxYWQtOGNjZjVjMjFhNWFmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZmlsZXN0cmVhbWluZ3NlcnZpY2UvZmlsZXMvMjBmODEzZTItMDM2YS00MmE4LTkyZTItYTNhNTVhMGIyMzliIn0
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.38.151:443?sni=copy-wifi-twins.stark-industries.solutions&peer=copy-wifi-twins.stark-industries.solutions&security=tls#NO 🇳🇴 ┇ TROJAN-TCP-TLS - Pq Hosting Plus S.r.l. ┇ 95.164.38.151
-vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBxIEhvc3RpbmcgUGx1cyBTLnIubC4gXHUyNTA3IDk1LjE2NC4zOC42IiwiYWRkIjoiOTUuMTY0LjM4LjYiLCJwb3J0IjoyMTkzOCwiaWQiOiI1ODNiZWJlZi0zZTBiLTRjODUtYmE4MC0zOWUwN2NlMzVhZDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1HUlBDLU5UTFMgLSBQcSBIb3N0aW5nIFBsdXMgUy5yLmwuIFx1MjUwNyA5NS4xNjQuMzguMjIzIiwiYWRkIjoiOTUuMTY0LjM4LjIyMyIsInBvcnQiOjQ0MywiaWQiOiJjZTljY2VlMS04YzBlLTRlYTQtOGQ5My03Yjg5NmVjNTRlMzEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJncnBjIiwidHlwZSI6Imd1biJ9
-vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBxIEhvc3RpbmcgUGx1cyBTLnIubC4gXHUyNTA3IDE3MS4yMi4xMTYuMjEiLCJhZGQiOiIxNzEuMjIuMTE2LjIxIiwicG9ydCI6NTgwODIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBxIEhvc3RpbmcgUGx1cyBTLnIubC4gXHUyNTA3IDE3MS4yMi4xMTYuNDQiLCJhZGQiOiIxNzEuMjIuMTE2LjQ0IiwicG9ydCI6NDY5MDksImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1SQVctTlRMUyAtIFBxIEhvc3RpbmcgUGx1cyBTLnIubC4gXHUyNTA3IDk1LjE2NC4zOC42IiwiYWRkIjoiOTUuMTY0LjM4LjYiLCJwb3J0IjoyMTkzOCwiaWQiOiI1ODNiZWJlZi0zZTBiLTRjODUtYmE4MC0zOWUwN2NlMzVhZDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJyYXciLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBxIEhvc3RpbmcgUGx1cyBTLnIubC4gXHUyNTA3IDE3MS4yMi4xMTYuMjIiLCJhZGQiOiIxNzEuMjIuMTE2LjIyIiwicG9ydCI6NTgwODIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-trojan://bjriounp-og1i-i013-qbs5-ntpf3lw8ytkk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://wg1qvxht-wauf-xfhk-pefs-6570gickhhbn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

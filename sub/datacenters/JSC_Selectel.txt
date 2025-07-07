@@ -1,12 +1,11 @@
-trojan://rzmosiqo-zg12-r7as-k60p-bm8zlu8plhrx@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://smvg5xky-gcw8-czb7-p6dn-0ifh6yqg1rz9@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://97jlkpm0-s0zm-7zqi-762n-nmowkio1lwim@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2sgzq12f-zclm-dtwk-bak2-63vugii1w7lz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdzZoTVhRMlo3ZXk3bWYyVXF5cg@82.202.220.242:8389#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - JSC Selectel ┇ 82.202.220.242
-trojan://Aimer@89.248.207.37:443?sni=epcci.ambercc.filegear-sg.me&peer=epcci.ambercc.filegear-sg.me&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - JSC Selectel ┇ 89.248.207.37
-trojan://Aimer@212.41.15.119:443?sni=agepy.ambercc.filegear-sg.me&peer=agepy.ambercc.filegear-sg.me&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - JSC Selectel ┇ 212.41.15.119
+trojan://vtcb0lwn-c4aq-5yfx-7q2u-zpbs6acyoj2r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://1ut4bbe2-toha-4hw8-f6g6-lrmmrq7oxouv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://7q9fdyfm-uunm-q1kp-08s8-78kjlnaqu1yg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9fnpb1mc-xyrn-w8th-d6iw-zkntsc0gu3oe@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://SSorg@89.248.207.37:443?sni=ssjj.esslh.filegear-sg.me&peer=ssjj.esslh.filegear-sg.me&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - JSC Selectel ┇ 89.248.207.37
+trojan://Aimer@212.41.15.119:443?sni=agept.ambercc.filegear-sg.me&peer=agept.ambercc.filegear-sg.me&security=tls#RU 🇷🇺 ┇ TROJAN-TCP-TLS - JSC Selectel ┇ 212.41.15.119
+vless://f184c89c-80a4-4a3a-bc67-97db43266c11@202.49.176.124:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - JSC Selectel ┇ 202.49.176.124
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@31.129.48.139:443?type=ws&security=tls&path=/proxyip=proxyip.us.fxxk.dedyn.io&sni=aa.ylks.xyz#RU 🇷🇺 ┇ VLESS-WS-TLS - JSC Selectel ┇ 31.129.48.139
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@31.129.49.103:443?type=ws&security=tls&path=/?ed=2560&sni=lp.ylks.us.kg#RU 🇷🇺 ┇ VLESS-WS-TLS - JSC Selectel ┇ 31.129.49.103
-vless://f184c89c-80a4-4a3a-bc67-97db43266c11@202.49.176.124:8443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - JSC Selectel ┇ 202.49.176.124
 vless://b06e7395-eb4e-4ebb-8dc5-2397f5da3c72@45.89.189.130:443?type=tcp&security=reality&sni=microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=3txs8T2vU1k1XIfa5T4sxkoNk9BmYN2Ce76gY2RwgFk#RU 🇷🇺 ┇ VLESS-TCP-RLT - JSC Selectel ┇ 45.89.189.130
-trojan://hiaghhp8-xtfw-zoqx-cjti-14y1iwj1l7ph@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://jw5unsc9-kc7y-s5a0-zi1w-cytjw8awzul4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

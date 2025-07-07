@@ -1,35 +1,38 @@
-trojan://8634sgdq-bao6-7an8-cm78-u7qxg6917v4r@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://75yiu1ou-lhka-qimx-knbj-3wzhj1nhlkbh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://66862z6l-115p-qx7r-c04m-nl59kbi70y2w@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://pbfpr012-3lt0-u0ly-5xeo-8alu9oordkea@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://dawp8gqa-179u-n3zm-f35n-8717qxtoyphl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://jlylk2rl-y5b6-bbup-kaiq-vrqdhtcteupa@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://20n80gl9-adnq-9n5g-l9vq-s8jie7s70yqm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ek2ls3fa-15d6-6tdf-rwpl-d9ec4z7knvay@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXIgSG9zZWluIE1hYXJlZiBcdTI1MDcgOTIuMTE0LjUwLjEyNiIsImFkZCI6Imlyc2VydmVyLmNvbHN2cG4udG9wIiwicG9ydCI6NTU3MDEsImlkIjoiOWU2ODFlZjUtNWVkZS00NmUzLTlmZDAtYWUwMGJlMTEyZjQwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXIgSG9zZWluIE1hYXJlZiBcdTI1MDcgOTIuMTE0LjUwLjIzMyIsImFkZCI6IjkyLjExNC41MC4yMzMiLCJwb3J0IjoyMzgxOSwiaWQiOiI2ZGM2ODdlYy01NjI3LTRlMDYtOGY5Ny03YzUzYTg2ZjI3M2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQW1pciBIb3NlaW4gTWFhcmVmIFx1MjUwNyAxODUuMjAxLjQ5LjY4IiwiYWRkIjoiMTg1LjIwMS40OS42OCIsInBvcnQiOjQ4MDg2LCJpZCI6ImZmZWNlMmE5LTAyOTYtNDZhOS04ZGI4LTc0MmQyOWQyNDBmZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvc3RhdGljL2Nzcy9qcXVlcnkvSkZ4UGFtSk1OQ1ltWlZ4eklrdEdZQzVyUVQwdVdTOTJYQ3M3S2wxalppa3hUVGhRUkNvbEZudHNKREo0RXpRb01qRUZHRmdWYjFzMGJCdE9FMUYyWlFvVyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQW1pciBIb3NlaW4gTWFhcmVmIFx1MjUwNyA4NS4xMzMuMjUzLjE4MyIsImFkZCI6Ijg1LjEzMy4yNTMuMTgzIiwicG9ydCI6MTQwOCwiaWQiOiJhYmIwYjA1ZC00NjgzLTQyZjEtOTgxZi1mMzUzNzAyNmFjMmQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.52
-vless://a8f7da6e-e26b-4a57-fdfe-19aea862342a@85.133.253.219:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.253.219
-vless://ecafd9fc-f592-46b7-a45a-36d188bbbb61@ios30.vaslepine.com:80?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Amir Hosein Maaref ┇ 62.60.194.209
-vless://d1da4478-ad0f-422f-a4e8-4bd033fd7fe6@tun.gambronservice.xyz:32541?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.250
-vless://d3f3fd0b-7b5c-4070-d5dc-61f96641b507@185.201.49.94:58089?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 185.201.49.94
-vless://30817656-b6c2-46f2-9975-c907aef56e0e@92.114.50.59:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.59
-vless://3418371a-17d2-4015-86d0-d20ee3fc2af9@213.176.121.166:50753?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 213.176.121.166
-vless://9d1431ab-5434-4b6f-9205-15073cffb3b4@213.176.121.53:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 213.176.121.53
-vless://5e7889c0-4397-4be6-8d91-849d07754359@92.114.50.228:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.228
-vless://2d981224-e967-4dbc-b752-73739a88df01@85.133.237.165:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.165
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFtaXIgSG9zZWluIE1hYXJlZiBcdTI1MDcgMjEzLjE3Ni4xMjEuNTgiLCJhZGQiOiJob3N0LXNwZWVkLm5ldCIsInBvcnQiOjIwODMsImlkIjoiZmVkZDQ0NjctYmJkYS00NmQ3LTg0YzUtNDYwM2UzZTdmMjlmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiaG9zdC1zcGVlZC5uZXQiLCJwYXRoIjoiLyIsInNuaSI6Imhvc3Qtc3BlZWQubmV0In0
 vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58088?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 185.201.49.30
-vless://2b4a6b04-9924-4206-b08a-9f0e81382efa@ir15.sogol98.com:54848?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.234.135
+vless://d3f3fd0b-7b5c-4070-d5dc-61f96641b507@185.201.49.94:58089?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 185.201.49.94
 vless://8a52d270-ed78-4f73-99fb-83d6e9c953a1@213.176.121.10:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 213.176.121.10
-vless://edef9de3-a257-4638-a7a8-e702d8d77ee4@mmdking.mamadking.shop:32415?type=ws&security=none&path=/?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Amir Hosein Maaref ┇ 92.114.50.136
-vless://fcc8b2f5-7be7-48b7-af2b-f79cd7c6befe@62.60.194.124:57725?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 62.60.194.124
+vless://9d1431ab-5434-4b6f-9205-15073cffb3b4@213.176.121.53:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 213.176.121.53
+vless://4c4d5d6c-4d88-4df1-9a95-048885f7415f@213.176.121.88:44032?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 213.176.121.88
 vless://9c1cd140-4770-49b0-9340-16ac9fcfcd35@62.60.194.102:4405?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 62.60.194.102
-vless://1541cc38-7be8-4271-9822-bf554d4dc75a@85.133.236.4:6163?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.236.4
+vless://fcc8b2f5-7be7-48b7-af2b-f79cd7c6befe@62.60.194.124:57725?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 62.60.194.124
 vless://ac5ef34e-eaf2-4af3-8957-ab3e391d8faf@62.60.194.98:4916?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 62.60.194.98
+vless://59c70f20-100f-4e1d-aebd-02df489451df@85.133.234.80:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.234.80
+vless://1541cc38-7be8-4271-9822-bf554d4dc75a@85.133.236.4:6163?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.236.4
+vless://2d981224-e967-4dbc-b752-73739a88df01@85.133.237.165:2083?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.165
 vless://caeb576d-bcb1-4aa8-8b97-2f3846a2968d@85.133.237.89:2087?type=ws&security=tls&path=/inboundsCWNeRzWFjgWHWZFw?ed&sni=dns.tron2tron.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Amir Hosein Maaref ┇ 85.133.237.89
 vless://4da44876-4817-4598-8752-6f1d6f077847@85.133.253.164:1043?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.253.164
-vless://278a889f-bc54-4c35-a5d8-434be04d1bb1@92.114.50.76:53882?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.76
-vless://4c4d5d6c-4d88-4df1-9a95-048885f7415f@213.176.121.88:44032?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 213.176.121.88
-vless://59c70f20-100f-4e1d-aebd-02df489451df@85.133.234.80:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.234.80
+vless://abb0b05d-4683-42f1-981f-f3537026ac2d@85.133.253.183:1411?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.253.183
+vless://a8f7da6e-e26b-4a57-fdfe-19aea862342a@85.133.253.219:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.253.219
 vless://61ae161c-5c6e-4989-8f24-758b1b0a3e13@85.133.253.7:8889?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.253.7
 vless://0780c40c-6177-494f-b477-d4e4a8d1e62b@92.114.50.51:8080?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.51
+vless://278a889f-bc54-4c35-a5d8-434be04d1bb1@92.114.50.76:53882?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.76
+vless://ecafd9fc-f592-46b7-a45a-36d188bbbb61@ios30.vaslepine.com:80?type=xhttp&security=none&path=/#IR 🇮🇷 ┇ VLESS-XHTTP-NTLS - Amir Hosein Maaref ┇ 62.60.194.209
+vless://2b4a6b04-9924-4206-b08a-9f0e81382efa@ir15.sogol98.com:54848?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.234.135
+vless://edef9de3-a257-4638-a7a8-e702d8d77ee4@mmdking.mamadking.shop:32415?type=ws&security=none&path=/?ed=2048#IR 🇮🇷 ┇ VLESS-WS-NTLS - Amir Hosein Maaref ┇ 92.114.50.136
+vless://9de5b990-f0e8-4911-98d3-9dc32f42dd51@safar44.ucpubg.org:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.59
+vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.52
+vless://d1da4478-ad0f-422f-a4e8-4bd033fd7fe6@tun.gambronservice.xyz:32541?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.250
+vless://70d53c1a-08de-4a6e-ac1b-04e2d8058d03@top.usertak.com:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 62.60.195.123
+vless://61ae161c-5c6e-4989-8f24-758b1b0a3e13@85.133.237.28:8889?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 85.133.237.28
+vless://83e7335a-5020-49d7-9df1-e954dce82cfe@92.114.50.158:3440?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Amir Hosein Maaref ┇ 92.114.50.158
 vless://6b306b75-e2d9-46f8-9d69-4df8554fb43f@62.60.194.247:4432?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=a-7fAwSHqMAIX6na4ztaaE8E44OrVpyV5ZAvap61UmM&sid=bab06753ce01fee4#IR 🇮🇷 ┇ VLESS-TCP-RLT - Amir Hosein Maaref ┇ 62.60.194.247
-trojan://q64qlaty-xj5t-3ed8-975k-y7o5u31933vk@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://e947c1b3-5eee-4007-b29e-e960c73242b3@45.81.16.118:56833?type=tcp&security=tls&sni=iro.goodratkhooda.info#US 🇺🇸 ┇ VLESS-TCP-TLS - Amir Hosein Maaref ┇ 45.81.16.118
+vless://e947c1b3-5eee-4007-b29e-e960c73242b3@45.81.16.45:56833?type=tcp&security=tls&sni=iro.goodratkhooda.info#US 🇺🇸 ┇ VLESS-TCP-TLS - Amir Hosein Maaref ┇ 45.81.16.45
+trojan://h2clem90-46xh-36dh-07vy-ofm9dv8l9063@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

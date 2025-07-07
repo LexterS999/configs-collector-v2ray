@@ -1,9 +1,9 @@
-trojan://4gf4cxeo-7vqv-docj-samx-phuc7ende2cv@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://7bj3v1jp-pvn6-cesv-muxg-owarq39djci1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ckz3hixp-221s-45ek-049p-deobg2yy4l2p@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://kwkhwn4y-ysmg-5jrg-8nwm-bqva0g02xrf6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://41467dbf-b496-4b28-93a1-425ef36084b7@37.32.43.27:5110?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.27
-vless://6b17339b-9556-4ad6-8b48-ae997271738a@2f9niv.de9.razercompany.com:407?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.107
-vless://931f53af-b32c-42bf-bff0-b43f86932471@yab4ou.de1.razercompany.com:347?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.99
-vless://7975ba8e-cdcc-49f0-8487-25570a1009a4@iy60pt.de6.razercompany.com:348?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.104
-trojan://tfqh36li-lf90-4am8-eyig-rsqtjj7nyz1e@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://wdzjpwt2-zf82-yls5-9kpn-yz2uchbg8upa@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://y2x570hn-zpap-0zw3-lhhx-kakjklfoqt1a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ctsyax70-ltrc-6dka-ld5w-axz86m9hegoz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://07ytudpn-h942-tnhp-ddcd-cgeq4xzhk0w4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://6b17339b-9556-4ad6-8b48-ae997271738a@2f9niv.de9.razercompany.com:407?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.107
+vless://6dcfd31e-6f22-4cde-bbda-7753ff360b06@35nsp8.de5.bbbbbbbbbbbb9.biz:5019?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.27
+vless://c373e833-a2f6-4a82-b599-dc6dc6e3f806@5lubd1.de1.razercompany.com:322?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.99
+vless://c4389c70-1e5a-4bd2-934f-44fb2e62ccf5@de6.razercompany.com:33200?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Nahor Hadish Design and Architecture Co., Ltd ┇ 37.32.43.104
+trojan://6rfhjoum-63yn-cl50-mxla-xu6c813sksz1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

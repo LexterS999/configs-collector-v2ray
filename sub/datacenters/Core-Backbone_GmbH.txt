@@ -1,6 +1,6 @@
-trojan://xlauj68r-5qto-bx8a-9lh5-gg9kwabfc4l0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://luoxt2m6-doam-v2mc-xdur-foih2m37n9ej@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://nbr5kute-cm3o-6gei-j214-bm2gberzewsn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://q6nnqzjo-p4o9-bfi5-2jh4-ru51kb23bbnb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8quwjb7g-ro1o-g0mx-tqms-sr36cpcq32fo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://izigu4c7-vpbq-19jg-6o0q-1t2krje2wbsv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://o4adkr4j-lqnw-lird-vx7j-y6v6tmbyzmj1@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://npir458z-jqzh-lzdm-a988-qrce614b6fl1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@81.95.4.189:443?type=ws&security=tls&path=/?ed=2560&sni=v033.ylkszy.eu.org#DE 🇩🇪 ┇ VLESS-WS-TLS - Core-Backbone GmbH ┇ 81.95.4.189
-trojan://1o311jek-ub41-y5of-7fmv-ucox7dqiuzdp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://pnolfb5z-iju4-qyqp-rcqj-tvzg0zoxh8w4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

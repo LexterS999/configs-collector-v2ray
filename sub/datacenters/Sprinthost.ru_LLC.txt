@@ -1,6 +1,6 @@
-trojan://zfbkix5x-6w3n-pn2e-qt1y-104xqif6amyk@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://x6xacktd-dv2e-rvnr-zo2b-hj51e4aubqlz@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://j5xfvq60-0bn8-9e8f-7u62-wb4gi1wv38l7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2ts7sqyn-1bbh-ll1g-c8f9-1timmz2cg9ow@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://crwzk0eu-y1ic-m8e2-ubag-z4szrltkp9w0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://zuicqbo0-p352-kkc8-rgx5-hj3zqnq93fya@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5gxa2y4w-y81l-da04-sjod-8ezyeqg1oar2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://n5in8v5j-r4x8-cgn6-woij-8r9301ch2wtu@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://3bfa9b24-6e07-4587-a1cd-5a228acbf124@45.142.44.47:8443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Sprinthost.ru LLC ┇ 45.142.44.47
-trojan://4mziydph-n878-8fbp-320r-bbc19x02k202@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://0els2om9-62sm-6sio-17dp-miev5cucn8ih@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

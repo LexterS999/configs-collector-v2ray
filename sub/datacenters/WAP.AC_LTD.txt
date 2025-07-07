@@ -1,12 +1,6 @@
-trojan://ynap9b6n-nnke-bc55-1o3t-koe278dfvs4t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://ojgt9kq1-w1u0-xuuo-le9d-qgib7vzhz2ki@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://pgg3viac-8nf3-nk5e-v7fn-1gxr0zm8ctpt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ku8wi4i7-u1cz-lkvr-qviq-8bptktbdgr77@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTEyOC1nY206MTAwOTVmMGQtNTJmNy00MTdlLThhY2YtOTM0NzgwYzVjNmNi@hkg03.dns-node.top:45580#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - WAP.AC LTD ┇ 62.72.163.136
-ss://YWVzLTEyOC1nY206OWRjY2ZmMjItMzA5ZS00OTBlLWJmNTUtNWNlZjU5OGU2NDA4@62.72.163.211:45573#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - WAP.AC LTD ┇ 62.72.163.211
-trojan://84587c21-9938-42fc-a4b0-4f72dd72b7aa@pt.mjt000.com:443?sni=pt.mjt000.com&peer=pt.mjt000.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - WAP.AC LTD ┇ 45.149.92.71
-ss://YWVzLTEyOC1nY206MzhjZDgzOGQtYmE0Zi00YTQ2LWE0NzYtZDEzMTY3MGRmOTE5@sg02.dns-node.top:45574#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - WAP.AC LTD ┇ 45.145.154.8
-trojan://86cceddb-c08a-3ffb-a7f0-cf6ab53739a7@23.94.192.19:13498?sni=freesg01.jd0001.top&peer=freesg01.jd0001.top&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - WAP.AC LTD ┇ 23.94.192.19
-trojan://73962781-6234-4212-b981-f8158bb2d300@0001.sg.genzpn.com:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - WAP.AC LTD ┇ 185.151.146.24
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gV0FQLkFDIExURCBcdTI1MDcgMjMuMTU2LjE1Mi4xMDYiLCJhZGQiOiIyMy4xNTYuMTUyLjEwNiIsInBvcnQiOjgwLCJpZCI6IjJkOWE4MWY2LWU4NmUtNDhlNi05NjQ2LWIzYjEzMjVmOGQ2MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3N5anNxL2RhdGEifQ
-trojan://970ugwlb-qw87-nmbj-a13v-5aph6h6l88lh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://olu7a6rg-xdzu-y4fp-mycm-vs0tb5hv5vdp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://yqwbamfg-wg90-asmi-0614-u0ucsbxhzgwi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1pxcx1t1-fohv-jl1c-526w-7s8pk6zbbako@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://w73hijml-4eap-t4w0-0qgi-7caau6odaynt@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://c85761bc-5d74-4ae5-b525-0d32443182fa@kp.mjt000.com:443?sni=kp.mjt000.com&peer=kp.mjt000.com&security=tls#HK 🇭🇰 ┇ TROJAN-TCP-TLS - WAP.AC LTD ┇ 45.149.92.71
+trojan://mcclhiva-7z07-q8jo-vgiz-9rza1gpeml3e@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

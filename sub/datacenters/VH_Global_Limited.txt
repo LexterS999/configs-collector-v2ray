@@ -1,6 +1,6 @@
-trojan://k24tm51n-to17-g072-hof4-8wz153moz360@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://q30ifet3-evlk-rh3q-amf5-h5mvup024p4j@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://amaj32su-kmah-7mpy-j0hn-n38cqgnzf4jc@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://hiojpywi-hatm-fs99-f4s1-1mo1bx05nth9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://njootb23-lmpo-han4-m88f-estbr5fnflpp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://vv7n9xgh-ewye-gbuw-9sg9-t6t5j0n6gpef@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://4exqkb9a-zvb7-yp2s-k1ph-puxvz18sh7ju@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pzgbxtjp-rsir-nh4n-ynq1-awdkroupmce9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.55.99.62:58916?type=ws&security=tls&path=tg@zdyz2&sni=cfed.tgzdyz2.top#US 🇺🇸 ┇ VLESS-WS-TLS - VH Global Limited ┇ 38.55.99.62
-trojan://iyksfeum-j8rt-e1qq-p233-lx7ylg9b5yk8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ybap4zha-b74b-q50b-lo9x-a9s7f65ch46s@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

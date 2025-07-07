@@ -1,9 +1,7 @@
-trojan://d2v568yq-nhy2-96un-ygif-ezxdegbm7uuo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://gk1q7a8t-uag9-h69e-j0e5-0rtj7vgjcdus@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://sz8wp1uz-ae9o-n89e-9ogr-1ocs0febwmd0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://20l8rbf2-m0cq-0p8o-42zb-839uiytkn3jk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhvc3RpbmcgRHVueWFtIEJpbGlzaW0gVGVrbm9sb2ppbGVyaSBUaWNhcmV0IExpbWl0ZWQgU2lya2V0aSBcdTI1MDcgODAuMjUzLjI0Ni4xNzkiLCJhZGQiOiI4MC4yNTMuMjQ2LjE3OSIsInBvcnQiOjgwODAsImlkIjoiNGUyYjQ0NzItN2U5OC00NDlkLTk1NGEtM2VkY2IzNDg1NTQzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiVFIgXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhvc3RpbmcgRHVueWFtIEJpbGlzaW0gVGVrbm9sb2ppbGVyaSBUaWNhcmV0IExpbWl0ZWQgU2lya2V0aSBcdTI1MDcgNDYuMzEuNzcuNCIsImFkZCI6IjQ2LjMxLjc3LjQiLCJwb3J0Ijo0OTM2NywiaWQiOiJmMDRhYjA4OS0wNzYwLTQ5M2UtYjFjZi1jNWM0MjA4Y2RkOTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+trojan://1o25n6oc-gene-ratp-b74c-p1h4xnz3d1ql@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://m3fpfv9w-yje5-19tz-eo9q-r29kz4d6plko@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://o33heej3-rqgo-h6y9-b7u3-beyplxy5hdc3@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qxi4w8j3-glre-1cnv-54kp-wnabfh38ylm2@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://1d01ba0e-9429-43b1-85ad-c113e3d2891a@92.249.61.35:50136?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 92.249.61.35
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@37.140.242.245:8443?type=grpc&security=reality&sni=rEfErSion.Com.&fp=random&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=6ba85179e30d4fc2#TR 🇹🇷 ┇ VLESS-GRPC-RLT - Hosting Dunyam Bilisim Teknolojileri Ticaret Limited Sirketi ┇ 37.140.242.245
-trojan://i59mnj9f-cow9-o5c2-i38v-6xsnqd0e91am@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://dp8uepvm-riez-smqg-fl9y-pi6wycdnvyft@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

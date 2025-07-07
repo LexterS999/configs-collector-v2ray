@@ -1,6 +1,6 @@
-trojan://u8on9fza-rsml-cq6j-wlda-w8avs2zglh67@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://33l2fv6m-zey5-mhsz-lm91-qyv732hen88g@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xvtksb4k-m6mr-xxha-klog-qzy9f838mowe@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://00uavh8d-40w7-4wy3-rhi6-3lktddktpl5i@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://4cayji1s-3hpf-1v62-d49p-b35ysh2jkbkl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://a7l99zea-urzb-z3g8-lik1-a8udqdfrhfc2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://jkhc0a5d-ppuf-7v7a-ke24-tmb6qx5zyic4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://d7ldd3kv-z1g7-gpvb-lhom-5caan13vv3iq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://opentunnel.net-sdertyuijh@69.16.230.165:443?sni=cat-1.opensvr.net&peer=cat-1.opensvr.net&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - LIQUIDWEB ┇ 69.16.230.165
-trojan://86ni5426-9k20-mlaq-qm7p-seieis0tjdzq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://jngot8js-qq02-qr75-8eh9-4akm2up5f8rm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

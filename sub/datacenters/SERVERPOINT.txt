@@ -1,6 +1,6 @@
-trojan://93a16942-u8e6-jo8j-z8ne-hdfua8l2p0n4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://fx2xhjmr-ry98-2rhf-qjk7-ijiueq8nrg99@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://bn0674df-rx3b-g132-m66l-vyftac9n6w46@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lzxlr4zm-xppr-fkpy-8njk-sntm7r24268v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://z52zsqyt-d5vp-bmaz-bnmf-nx6d19vo3rsy@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://ync1army-x2ek-2x04-avmv-wmhbgeofx1h7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bzta4ujn-cicy-nld3-qn0y-w3delhldj98w@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rp0pvcdf-fzcl-oazy-19rt-l8c5nb6ovqai@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@64.235.61.162:7000?type=ws&security=tls&path=/?ed=2560&sni=rn.ylks0033.dpdns.org#SG 🇸🇬 ┇ VLESS-WS-TLS - SERVERPOINT ┇ 64.235.61.162
-trojan://e1043e3d-o740-0xwl-8nl5-rx5dpypu5w0c@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://4eb13zb3-hl6i-p8le-08dp-j7ore6t7q4xu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

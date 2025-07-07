@@ -1,17 +1,17 @@
-trojan://halhpbxz-efib-bp7n-3urq-vusd7w1yqvm5@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://bnmzggmi-tpa4-mg5s-qt1j-82jtshie4czq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://063d8oyi-cnje-u7kk-g5pb-yukyfgzl3kuw@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://n3pvzluy-sioa-wjg1-h2vh-r49ky4bbrcxh@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://Aimer@209.94.90.87:2087?sni=epmk.ambercc.filegear-sg.me&peer=epmk.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PROTOCOL ┇ 209.94.90.87
-trojan://Aimer@209.94.90.64:443?sni=ngepx.ambercc.filegear-sg.me&peer=ngepx.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PROTOCOL ┇ 209.94.90.64
+trojan://10dn5d0u-451c-tlyq-9e5h-m38p3awk4pq0@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://0rzzrlhz-gtyu-njfn-47xv-o9tidu9qvcn2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gp2q52bg-279b-lert-4hp7-tbpiqviw5d4p@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9gc9x10v-1cl0-i9mt-f2as-y128j0qqg4z8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://Aimer@209.94.90.64:443?sni=epccu.ambercc.filegear-sg.me&peer=epccu.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PROTOCOL ┇ 209.94.90.64
+trojan://Aimer@209.94.90.87:2087?sni=agepy.ambercc.filegear-sg.me&peer=agepy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PROTOCOL ┇ 209.94.90.87
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBQUk9UT0NPTCBcdTI1MDcgMjA5Ljk0LjkwLjIwMCIsImFkZCI6IjIwOS45NC45MC4yMDAiLCJwb3J0Ijo4NDQzLCJpZCI6IjNhMWM2MjhiLTgwNmQtNDYxYi1jMjhkLTQ0YjNiZGZmNTIyMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwiaG9zdCI6Im1hc3MyLjg5MDYwMi54eXoiLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6Im1hc3MyLjg5MDYwMi54eXoifQ
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.94.90.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.63
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@209.94.90.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.3
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.94.90.213:8880?type=ws&security=false&path=/&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - PROTOCOL ┇ 209.94.90.213
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@209.94.90.247:8880?type=ws&security=false&path=/Telegram🇨🇳&fp=chrome#US 🇺🇸 ┇ VLESS-WS-FALSE - PROTOCOL ┇ 209.94.90.247
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@209.94.90.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.251
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@209.94.90.13:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.13
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@209.94.90.177:8880?type=tcp&security=none&path=/Telegram🇨🇳#US 🇺🇸 ┇ VLESS-TCP-NTLS - PROTOCOL ┇ 209.94.90.177
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.94.90.213:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.213
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@209.94.90.247:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=ex.sue.x10.mx#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.247
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@209.94.90.251:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.251
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@209.94.90.254:8880?type=ws&security=none&path=/Telegram🇨🇳#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.254
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@209.94.90.3:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.3
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.94.90.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=jp.laoyoutiao.link#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.63
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@209.94.90.77:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.77
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@209.94.90.13:8880?type=ws&security=none&path=/Telegram&sni=Telegram-channel-WangCai2#US 🇺🇸 ┇ VLESS-WS-NTLS - PROTOCOL ┇ 209.94.90.13
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@209.94.90.177:8880?type=tcp&security=none&path=/Telegram#US 🇺🇸 ┇ VLESS-TCP-NTLS - PROTOCOL ┇ 209.94.90.177
-trojan://saak147y-5omj-nqx1-tpx3-stw71r79jo5k@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://q5wqmttw-zwmx-j5k8-fk00-d1ozgort99fe@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

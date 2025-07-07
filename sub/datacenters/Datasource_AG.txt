@@ -1,6 +1,6 @@
-trojan://synltmf6-j5w1-e4f8-6ul1-j75w3j0xx4yb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://5wqtma6g-js6g-kycg-1rt9-jm64dkjs3pnk@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6lzg8g59-w6to-wcu8-e5ao-5ztmu6ur61xd@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://2zbgyjgd-lcwr-43di-2dhn-vl83c2g3s3ax@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://2lnqe44n-nq37-b7io-lqs9-47l69s4k59c8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://2w0ffvtz-lbpu-a0ye-tb81-g80cnh0j2lbl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://v6htkyjv-e0wh-s1n9-2mfg-bacqv27jtgc7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://l7ymabr2-m2n6-1dti-cxmx-muguwxh4u6d0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://f184c89c-80a4-4a3a-bc67-97db43266c11@91.192.102.55:443?type=ws&security=tls&path=/TG@wxgqlfx?ed=2560&sni=vdd.wxgqlfx.cn&fp=random#CH 🇨🇭 ┇ VLESS-WS-TLS - Datasource AG ┇ 91.192.102.55
-trojan://3bywkevv-v4nb-oeyq-55id-n9cn3hpps0yo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://eiq3p2y0-z13l-s9mm-2wk0-gljerolz52rv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

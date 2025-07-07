@@ -1,6 +1,6 @@
-trojan://1u1768a7-uvbp-q2tj-qszp-g96qky6036yl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://0um3x4xb-qpte-i7bl-3br2-wq49c5l79wx3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://f8kptzlt-mhzf-9i6g-slt1-5feihdp1r95m@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://a5zkw9a8-yo1m-itlj-5x23-e4pvo9b6j73t@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8p84c1g9-68vu-mwk5-x7fw-wzggg7hahyxb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://yut9mlof-0z3t-zp7w-4e2l-v8duvdsdolhn@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://dyp7t9hk-2wzk-9kmu-ww5t-0zr7yvo2ymn6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://svlt41oz-re13-y9va-qeld-l6hjravhhu0d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@172.82.16.99:443?sni=epmd.ambercc.filegear-sg.me&peer=epmd.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - OLINK-CLOUD ┇ 172.82.16.99
-trojan://braix1cn-7imc-7qug-szta-e6o4oo0nzhq8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://z7qdkby0-7oac-8258-xj1t-08cxmyv2wklh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

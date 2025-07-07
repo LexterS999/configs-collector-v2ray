@@ -1,6 +1,6 @@
-trojan://4b0lqz5y-id5u-n0je-d3lv-96sf5w89kbal@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://vyptzpa5-nzdj-onb8-vev3-f00m0v0mjut5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kz5y0nqs-q7eo-9xjq-ymat-h3n04ygwtxq4@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://oco07lco-idl6-nqf0-y1a5-b59qn2wjfqbn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://cre7hqt4-h4yy-l7b4-2t5v-d6fulxfh9wkw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://16piuwfy-v5g2-asxp-ie6h-tliypkyfthgb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://vb6wtyrq-ni0n-ao6w-bhun-baa7w8mx0etg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://qml13v6v-abel-mxyz-swow-xbfbontqhi81@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.87.11.56:8000?type=ws&security=tls&path=/?ed=2560&sni=vless.ifx.us.kg&fp=chrome#CZ 🇨🇿 ┇ VLESS-WS-TLS - Root Localhost LLC ┇ 194.87.11.56
-trojan://y4k14tq0-pgko-kce3-gvhn-ezx479c48sd7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://cb3khicm-lrm1-xwmh-29oz-lsvmnhfu3u1d@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

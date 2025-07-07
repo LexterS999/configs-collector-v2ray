@@ -1,9 +1,6 @@
-trojan://907mpqzk-tx33-331a-b7rs-e09g71wltwvs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://lg7gp4bj-2uzs-1e9z-mb7g-np7t32c64o01@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wp7hnktf-aqt4-87b0-dimq-k3lkndgw82uq@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://gvuf9sg2-wln6-li42-0wi5-qgwnhiidnaew@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@46.29.218.170:8118#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - Bitpro ┇ 46.29.218.170
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@46.29.218.6:2375#NO 🇳🇴 ┇ SHADOWSOCKS-TCP-NTLS - Bitpro ┇ 46.29.218.6
+trojan://m1ljojpn-91ap-8puu-ysyh-cpa22jgfry4u@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://rjh1gdsf-vfqo-rac0-ij2r-trj6ehp5g3d5@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://99eu0fuu-mp8a-bksw-h114-zgwntgqmgzlv@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jcggs2bu-tywy-83is-2mfr-1kbakc5nqgqq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCaXRwcm8gXHUyNTA3IDQ2LjI5LjIxOC44NCIsImFkZCI6IjQ2LjI5LjIxOC44NCIsInBvcnQiOjQ0MywiaWQiOiJmN2E0NTZkYS05ODg2LTRkZDctYjE5My00YzU5YTcyNjIxOWMiLCJhaWQiOjY0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
-vmess://eyJ2IjoiMiIsInBzIjoiTk8gXHVkODNjXHVkZGYzXHVkODNjXHVkZGY0IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQml0cHJvIFx1MjUwNyA0Ni4yOS4yMTguODUiLCJhZGQiOiI0Ni4yOS4yMTguODUiLCJwb3J0Ijo0NDMsImlkIjoiZjdhNDU2ZGEtOTg4Ni00ZGQ3LWIxOTMtNGM1OWE3MjYyMTljIiwiYWlkIjo2NCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL3BhdGgvMjQzNTM1MzIyOTA2In0
-trojan://ptmms4lb-tgv4-scv0-4qmx-s3bv4ycfkjy0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://argmi2og-knff-3uew-2se5-q8m1zcw0ndqi@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

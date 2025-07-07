@@ -1,8 +1,7 @@
-trojan://ek3vmndc-focc-baaw-n4t2-0ief2uz2wjcs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://84d6frdq-lnk7-xtrc-do2v-cxos6rfeorfb@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://7qw2hlka-pecv-5u97-gdbz-n8wlzb0pu596@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jc2l456b-gnfy-ph7j-6rr9-zdixs92n6slc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://t7ihccve-enpm-evek-p3qp-fx3h46larsv8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://86pa0l4f-wbjf-bk98-wws8-p2vm1qmf2nt2@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://p5bk3nfw-cnw0-e6w5-w3ce-rtxltc1mddz2@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://jdfb30ac-hsrh-jkvc-yqqw-ekzvsw7png53@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@162.158.12.48:2096?type=ws&security=tls&path=/&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&fp=chrome#KW 🇰🇼 ┇ VLESS-WS-TLS - CLOUDFLARENET ┇ 162.158.12.48
 vmess://eyJ2IjoiMiIsInBzIjoiS1cgXHVkODNjXHVkZGYwXHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBLdXdhaXQgVGVsZWNvbW11bmljYXRpb25zIENvbXBhbnkgSy5TLkMuQy4gXHUyNTA3IDk0LjEyOC4xMi4yMzgiLCJhZGQiOiI5NC4xMjguMTIuMjM4IiwicG9ydCI6NDQzLCJpZCI6ImVjYmE1YjMzLWY3NjgtNGQ4YS1iMDA0LWIyOWU4ZTVjNjc2ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL0Bmb3J3YXJkdjJyYXkiLCJ0bHMiOiJ0bHMifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:12317#KW 🇰🇼 ┇ SHADOWSOCKS-TCP-NTLS - ML-1432-54994 ┇ 163.171.181.49
-trojan://xekukwtk-4wzz-m0h5-kba8-4ojxdei8jw7i@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://1ypa0low-fixc-46l4-h9v3-1xaapnqaumda@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

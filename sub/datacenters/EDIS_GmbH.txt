@@ -1,12 +1,8 @@
-trojan://efi5eivg-lpe9-jt6b-q2m9-bi2by11rz3a8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://b8n7m4yj-7w07-e4is-nbjz-0jq1jcifq42c@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0kz2zfcz-ldcx-fp9o-xte9-vmd11p4uggpe@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://7hqy9bzc-r3ke-vz6y-nrrl-htq7x24bxof0@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@151.236.30.184:989#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 151.236.30.184
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphdmo5aTQxMnBBb2tCR0F2M0pkU2dE@158.255.212.94:30109#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 158.255.212.94
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.56.69:989#AT 🇦🇹 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 37.235.56.69
+trojan://ojnoxge6-78wo-5rbf-cb3s-33oc07jrx0a9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://b0dl7jt7-ttjr-nban-0r7x-7n0bjjlekq4l@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://j8otrhja-sg2h-71a8-sfjx-3l33fygl3lbl@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://anz31cn9-zw1i-yp5w-zsyl-o1ze9ovup7ai@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#CY 🇨🇾 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 134.255.210.49
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.36.61.59:990#LT 🇱🇹 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 192.36.61.59
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.46.238.35:989#LV 🇱🇻 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 89.46.238.35
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.68.225.104:989#SE 🇸🇪 ┇ SHADOWSOCKS-TCP-NTLS - EDIS GmbH ┇ 194.68.225.104
-trojan://6h26samt-iuyu-hrqw-cn4g-2ml4ea5wavdn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://mkmljqaa-asrd-ntor-zbhj-nznptlj9l96d@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

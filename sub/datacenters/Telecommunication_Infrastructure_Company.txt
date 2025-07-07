@@ -1,16 +1,15 @@
-trojan://xhcap2a3-amxj-pm05-l9yi-2cutv774thg9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://6rnpxsv1-o0hu-i0wf-r7dt-65wc8d37kge6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://xqebs0ur-6is9-ok8l-mts0-aaduef2jfv8l@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g8owcs4n-glqk-ns6o-n3t5-p08jc2zrhsyp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://bb4c6b72-4f69-4dd1-a819-574330bdbbdd@2.189.118.210:500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.210
-vless://a64eb7ab-c1f0-4dd5-b253-a4dcfc333a73@2.189.118.198:6784?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.198
-vless://358f5e90-e13d-4d3f-a6bd-bc7a15e72204@2.189.118.209:500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.209
-vless://358f5e90-e13d-4d3f-a6bd-bc7a15e72204@2.189.118.212:500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.212
-vless://130e7f81-c2af-45f6-85f6-c9602e9fc179@2.189.118.211:500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.211
+trojan://rrxh3x9j-ebo2-p7z4-8lbe-bgz7ode72ug1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://12w2lx5r-2yi2-ux6a-p466-irfgjnex6ite@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://k4jdq805-tzt9-9h9x-vh11-j1af3k4t3scu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://868xvja6-ahzo-rx75-9gfo-m2ytadggdy7v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://d57b2927-22af-450b-a34e-620321d7d27f@2.188.227.134:2070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.188.227.134
-vless://e7c1b4d1-8c99-432b-9967-ed7946ebc844@dns1.arashiphone.com:2087?type=ws&security=tls&sni=WWW.adabefarsi.eu.&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Telecommunication Infrastructure Company ┇ 2.189.118.125
 vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@2.189.104.10:52418?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.104.10
 vless://2e5573c9-d9d3-4693-9def-9ee7215da222@2.189.110.88:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.110.88
+vless://bb4c6b72-4f69-4dd1-a819-574330bdbbdd@2.189.118.210:500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.210
 vless://511f6a68-62e4-4d18-a3d0-37867f69628e@2.189.118.28:2083?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.28
+vless://3d18bdb6-9e63-46e7-a2c9-025f7fa10309@lightning6.tm.12speedtest.store:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.209
+vless://60630c28-378d-45f3-9917-ee181f12faaf@dns1.arashiphone.com:2087?type=ws&security=tls&sni=WWW.adabefarsi.eu.&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Telecommunication Infrastructure Company ┇ 2.189.118.125
 vless://5960b57a-4105-4753-8a20-1e91f6b55094@sony1.digipassive.ir:8055?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.188.227.173
-trojan://db3x1quf-4j8b-al8c-46lw-ea9ydty0bv69@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://a64eb7ab-c1f0-4dd5-b253-a4dcfc333a73@2.189.118.198:304?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.198
+vless://dd278bce-4973-40a0-8070-cd73e988e16a@2.189.118.77:13131?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Telecommunication Infrastructure Company ┇ 2.189.118.77
+trojan://qnm3tvz4-jool-gau9-sv17-0tcuzn6e0l0p@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

@@ -1,6 +1,6 @@
-trojan://vxkucqk2-oyo5-mzya-j2j4-csugkq3xzwza@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://7c7ynohi-p8in-qfz2-pkdd-ktrm2pc9xntp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://j64rc4jd-frvf-wn64-tomb-d6powrugzfed@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vqbufr2w-yq81-7fuj-74al-6u1je0xrwwtp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://09sy7esf-unuh-eve0-7hi9-r0psnv44vff3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://xuqgx6bv-1euq-02gk-c3fp-qbpqxtk4k6u0@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://z5i2ynkq-oibk-m2uk-fmat-5sqktlic2zhu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://7tmdxf95-bp8m-sbit-3sxp-jcpskucllraq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://juzi@194.87.148.148:8443?sni=juzi8186-sr1.pages.dev&peer=juzi8186-sr1.pages.dev&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - MIRhosting B.V. ┇ 194.87.148.148
-trojan://5n75nhi3-h39e-z0k2-an2s-9wl3xwgsitev@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://cai46q22-dhzu-2utu-xmgn-xbc2m1xjuw55@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

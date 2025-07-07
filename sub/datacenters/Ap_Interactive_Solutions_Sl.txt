@@ -1,7 +1,7 @@
-trojan://ppfstucz-5rsj-9rst-k4xk-swegodz92m6j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://pi8iyh8o-m9s7-aujh-if3w-1it3f16pq8eh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://j3ae41t9-58kv-5wya-uze0-dns5kj9j8iah@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1808v2yq-5w8g-7o9g-bmqn-swzcoxfs04bm@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://y2ofx2yr-dq5q-tskh-7190-0hfe2npsmhfi@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://0l2tfhv0-3xfe-urtc-wkt1-t3kazq273rzl@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://hrtyxr4k-iei3-kr4b-xira-rt3xgjefmzal@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://hvdhrfng-gkip-astc-3duq-cjfe32h035uw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b9e3fc70-0770-4530-acd8-3468d9a9d093@manageit.ir.systemgamingirani.ir:700?type=tcp&security=none&path=/#ES 🇪🇸 ┇ VLESS-TCP-NTLS - Ap Interactive Solutions Sl ┇ 171.22.18.7
 vless://b9e3fc70-0770-4530-acd8-3468d9a9d093@netherlands.speedtest.org.systemgamingirani.ir:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=yt8Wndh3hJecGfShmocar1IDAuC5Ly3H0oyq9puPP24&sid=e54b5ad736ae4c37#NL 🇳🇱 ┇ VLESS-TCP-RLT - Ap Interactive Solutions Sl ┇ 154.202.74.106
-trojan://2ni9wtjs-sder-bdwg-bwg8-0mzw3514ux2h@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://n0ie8gmh-un4l-5dnt-ylq7-sr3wfrktywsq@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

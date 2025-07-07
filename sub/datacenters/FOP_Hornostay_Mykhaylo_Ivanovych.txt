@@ -1,6 +1,6 @@
-trojan://1fl6ypg9-fw7n-9gvh-nxnn-0py59m684mxm@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://1qdpxpa6-ynd7-ynzv-4ips-2iofwde9debq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://wugi3i4b-p509-s0mo-vlom-7a4qv6tunkit@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://yskwatr5-1bgs-5kl5-aiwy-zl99lq9u49ik@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@94.103.183.229:2053?type=ws&security=tls&path=/TG@ShadowProxy66?ed=2560&sni=jj.wxgqlfx.cn&fp=random#RU 🇷🇺 ┇ VLESS-WS-TLS - FOP Hornostay Mykhaylo Ivanovych ┇ 94.103.183.229
-trojan://u5am5g98-vnib-u7pc-llz1-qpnnuokljnbc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://1kyomyms-j77w-qzco-m9tl-syvj90bcj74p@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://m08woibv-1jtt-tvjd-9sdq-18cng1mm2cns@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xy51720e-u04y-nea6-b4eb-h7gcc38qsvgk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://q4sd3f2q-vhhm-rn6c-f72h-va30zaz8wo2v@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://cd9bc0d8-0b5f-4762-b4bf-edd5330998cc@94.103.183.229:2053?type=ws&security=tls&sni=jj.wxgqlfx.cn&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - FOP Hornostay Mykhaylo Ivanovych ┇ 94.103.183.229
+trojan://kqjvz9be-s2wt-r0l0-tyw9-hvr76qnj56m4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

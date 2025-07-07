@@ -1,8 +1,6 @@
-trojan://nwrwrd9h-en82-0sfb-1yxt-zjb16tuuhzfs@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://xb1j4mjc-bgxd-h3e1-91b5-97bx7pybbrsi@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://e0tid3n6-36r9-et8q-wytw-gytqggyrd5ud@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://a4o67nki-mdq6-xyd8-3y63-9lsgcyq4k22g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBUllBS0EtQVJJTiBcdTI1MDcgMTY3LjE3OS4zMi41MyIsImFkZCI6IjE2Ny4xNzkuMzIuNTMiLCJwb3J0Ijo0NDMsImlkIjoiOTE2NDZmOWEtYjRlOS00YWNhLWJmZTMtODg5MmIzZTU4ZmU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoibGczMC5jZmNkbjMueHl6IiwicGF0aCI6Ii9yYXkiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJsZzMwLmNmY2RuMy54eXoifQ
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQVJZQUtBLUFSSU4gXHUyNTA3IDE1OS4xMDAuMjA2Ljg4IiwiYWRkIjoiMTU5LjEwMC4yMDYuODgiLCJwb3J0Ijo0NDMsImlkIjoiOTE2NDZmOWEtYjRlOS00YWNhLWJmZTMtODg5MmIzZTU4ZmU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvcmF5In0
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.158.242.133:80?type=ws&security=none&path=Telegram#IL 🇮🇱 ┇ VLESS-WS-NTLS - ARYAKA-ARIN ┇ 192.158.242.133
-trojan://elpjksmk-0ar4-y3y7-51td-8xzrr6hkunip@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://w7osl0sm-pcvt-xjvu-pwiz-461b01wx7ezj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://il9xj906-gz6w-nqbu-yceg-86mveri6y1vp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://3sa6aynd-jzhr-rhtx-5pa0-sn45z31535gk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://8c2zos97-qqxn-32zl-w1nt-na45eavqg08p@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+vless://504fa227-6493-4c4b-983c-4661c96a0e11@192.158.242.133:80?type=ws&security=none&path=Telegram🇨🇳#IL 🇮🇱 ┇ VLESS-WS-NTLS - ARYAKA-ARIN ┇ 192.158.242.133
+trojan://psue9xoo-e7ux-88f2-na6w-7r0pkemylzem@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

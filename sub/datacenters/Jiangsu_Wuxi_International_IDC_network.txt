@@ -1,13 +1,6 @@
-trojan://ha2lwxpp-ns9y-k93t-xt9k-aqg1s7p4rph1@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://fhyr37wk-0qec-am7n-ccao-upzd4joki85z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://d81wfo9u-7wea-jfkj-3q7j-n9gty23u0hz5@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ap06xil4-nhd3-t5t6-1z5k-3g9kyl79j8h9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://3ypzbicx-qh4e-c8kd-jpa0-iia8fc6a70yq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://rs3tex1g-gmrh-uph1-0f5u-qy6uem7nsnie@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://88e2xqy8-ne9n-ag0b-b7un-tiqotxkrbt3z@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://pm0pt6kr-ggpq-uruu-cv50-26fuc2smjrfq@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6UnNEazNwZUNTdW83NkI2OA@180.101.193.226:10068#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 180.101.193.226
-ss://cmM0LW1kNTpEMG9FR0Y@jp48.ctg.wtf:28192#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.136
-ss://cmM0LW1kNTpEMG9FR0Y@hk14.ctg.wtf:28192#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.62
-ss://cmM0LW1kNTpEMG9FR0Y@tw01.ctg.wtf:28192#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.138
-ss://cmM0LW1kNTpEMG9FR0Y@hk19.ctg.wtf:28192#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.131
-ss://cmM0LW1kNTo1Y3pjcjg0czBhYg@118.184.136.48:7780#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.48
-ss://cmM0LW1kNTo1Y3pjcjg0czBhYg@pccw03.graniterapids.com:7780#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.53
-ss://cmM0LW1kNToyNmQ4dlo@twgame02.graniterapids.com:5185#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - Jiangsu Wuxi International IDC network ┇ 118.184.136.142
-trojan://dhtaa9r0-8pyz-etmi-o95u-iw6g8fns6us0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ips9rwnx-2byj-4qzu-zdty-4oxlh9y2oj0m@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

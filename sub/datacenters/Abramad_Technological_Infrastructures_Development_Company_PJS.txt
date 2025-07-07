@@ -1,7 +1,6 @@
-trojan://hvw6f99y-5sgk-qja8-x260-ldlgdtam54vq@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://m5fehqvj-1mcf-eygl-qi6m-adenb2fzrv8w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0015etzk-serc-5c9z-8rod-dnw7frredfnn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://g9mg7m43-s1pi-9zqb-st68-zwm6a6zlkyk8@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFicmFtYWQgVGVjaG5vbG9naWNhbCBJbmZyYXN0cnVjdHVyZXMgRGV2ZWxvcG1lbnQgQ29tcGFueSBQSlMgXHUyNTA3IDE4NS4xMTkuMjQwLjY5IiwiYWRkIjoiMTg1LjExOS4yNDAuNjkiLCJwb3J0IjoxMDczMSwiaWQiOiIyOWI1MjEzZi1kOGMyLTQ1ZDMtOTE0MS01MzJmY2I5ZWVmNWMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+trojan://vfskef12-m5i6-xblq-t10l-qiqwgl5m0nps@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://2ak6zmgi-zrrf-c556-0k2k-nsfts6xe94oh@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pbi8jjo6-420q-yfmg-z3ex-p8d02ygi190s@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://yelc5i9l-vic0-snzm-am45-1tyfxub9krne@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://32fa4579-ca6c-4e2c-b0de-d91a0cb37f45@78.31.235.130:53116?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Abramad Technological Infrastructures Development Company PJS ┇ 78.31.235.130
-trojan://mw08xkz8-jbyi-b2by-q1sg-rl87agb15yno@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://efkayc5a-x1qd-uvbw-dzwe-lphdl569cuiw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

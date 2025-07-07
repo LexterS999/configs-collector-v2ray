@@ -1,52 +1,35 @@
-trojan://8t4guj0h-9dy4-xght-a7ag-ttv93z3ew0q3@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://7lss9sgt-ge1c-wmzk-srzu-oh5we5tozkw7@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://6gvujzwr-2yd1-l9zt-fy2z-ce142ghe50ed@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://mlz51hvm-cncj-bwxk-50tm-go1zrgo1034x@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@49.212.221.47:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 49.212.221.47
+trojan://ecddoagg-sjrt-1x71-34cf-f2lxhl5xsgar@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://6cvteqs2-ytfx-cyv2-s23u-wxbxjpziuwpg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://izg53342-fs7m-ha8k-b6xg-8edkb859c9ij@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://rmq9szi8-o4km-8rpa-8lht-m6t1f1a5ziq9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@t5.qifei.app:54860?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.77.214
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.65.99:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.65.99
 trojan://40c89b10235c40321e7a3cef82b53a03@trs16.bolab.net:22?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.215.49
 trojan://40c89b10235c40321e7a3cef82b53a03@trs17.bolab.net:22?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.203.108
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@133.167.100.203:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.167.100.203
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp01a.roc-taiwan.net.ua:65011?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.146.108
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.145.107
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp02a.roc-taiwan.net.ua:65012?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.205.220
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp05a.roc-taiwan.org.ua:65015?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.125.42.51
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp04a.roc-taiwan.net.ua:65014?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.8.129
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp08a.roc-taiwan.org.ua:65018?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.47.114
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp07a.roc-taiwan.org.ua:65017?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.210.166
-trojan://40c89b10235c40321e7a3cef82b53a03@trs12.bolab.net:22?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.125.148.41
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp06a.roc-taiwan.org.ua:65016?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.120.4.221
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 219.94.250.108
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp03a.roc-taiwan.net.ua:65013?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.134.182
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.74.146
+trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.125.148.41
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.138.58:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.138.58
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.150.202:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.150.202
 trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.82.176:64804?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.82.176
 trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.196.20:57841?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.196.20
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.135.40:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.135.40
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.144.90:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.144.90
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.65.99:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.65.99
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.150.202:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.150.202
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.138.58:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.138.58
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.74.162:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.74.162
 trojan://18844%40zxcvbn@49.212.204.123:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 49.212.204.123
 trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.55.38
-trojan://7a73f1dc97a70905870c0c0484b12145@trs19.bolab.net:443?sni=trs19.bolab.net&peer=trs19.bolab.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.125.145.150
-trojan://7a73f1dc97a70905870c0c0484b12145@trs21.bolab.net:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.22.177
-trojan://18844%40zxcvbn@49.212.209.180:443?sni=os14.cats22.net&peer=os14.cats22.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 49.212.209.180
-trojan://18844%40zxcvbn@133.167.81.160:443?sni=os1.cats22.net&peer=os1.cats22.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.167.81.160
-trojan://18844%40zxcvbn@49.212.153.70:443?sni=os2a.cats22.net&peer=os2a.cats22.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 49.212.153.70
-trojan://18844%40zxcvbn@160.16.153.188:443?sni=tk3.cats22.net&peer=tk3.cats22.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.153.188
-trojan://18844%40zxcvbn@49.212.178.155:443?sni=os13.cats22.net&peer=os13.cats22.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 49.212.178.155
-trojan://18844%40zxcvbn@160.16.207.174:443?sni=tk5.cats22.net&peer=tk5.cats22.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.207.174
-trojan://18844%40zxcvbn@133.167.124.195:443?sni=os4.cats22.net&peer=os4.cats22.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.167.124.195
-trojan://18844%40zxcvbn@133.167.118.246:443?sni=os6.cats22.net&peer=os6.cats22.net&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.167.118.246
-trojan://!str18844@zxcvbn@os-tr-2.cats22.net:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 49.212.203.7
-trojan://!str18844@zxcvbn@os-tr-1.cats22.net:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 49.212.182.164
-trojan://!str18844@zxcvbn@teradacyou.mike22.net:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.167.85.62
-trojan://!str18844@zxcvbn@os-tr-3.cats22.net:443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 49.212.193.129
-trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.77.214:54860?sni=t5.qifei.app&peer=t5.qifei.app&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.77.214
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtRkFMU0UgLSBTQUtVUkEgSW50ZXJuZXQgSW5jLiBcdTI1MDcgMTYwLjE2LjY5LjEwMiIsImFkZCI6IjE2MC4xNi42OS4xMDIiLCJwb3J0IjoxMDExMSwiaWQiOiJhYjQyZWExZi04ZTJmLTNmZmYtOGExMS1kMTI0ZDYyYjg0OWUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoidm1lc3MiLCJ0bHMiOiJmYWxzZSJ9
-vless://ef23ddd0-14c5-39c2-9880-af55ce892363@219.94.255.221:443?type=tcp&security=tls&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - SAKURA Internet Inc. ┇ 219.94.255.221
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.16.76.226:443?type=ws&security=tls&path=/Telegram🇨🇳 @pgkj666 /?ed=2560&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-TLS - SAKURA Internet Inc. ┇ 160.16.76.226
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@133.167.100.203:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.167.100.203
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.121.74.146
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 160.16.145.107
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@219.94.250.108:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 219.94.250.108
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@49.212.221.47:2053?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 49.212.221.47
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp01a.roc-taiwan.net.ua:65011?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.146.108
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp02a.roc-taiwan.net.ua:65012?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.205.220
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp03a.roc-taiwan.net.ua:65013?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.134.182
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp04a.roc-taiwan.net.ua:65014?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.8.129
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp05a.roc-taiwan.org.ua:65015?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.125.42.51
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp06a.roc-taiwan.org.ua:65016?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.120.4.221
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp07a.roc-taiwan.org.ua:65017?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 133.242.210.166
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp08a.roc-taiwan.org.ua:65018?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - SAKURA Internet Inc. ┇ 153.127.47.114
 vless://c4b13ceb-11d0-4611-8e50-f5bb453defa2@153.121.32.78:7000?type=ws&security=tls&sni=mot.luyuju.dpdns.org#JP 🇯🇵 ┇ VLESS-WS-TLS - SAKURA Internet Inc. ┇ 153.121.32.78
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@160.16.76.226:443?type=ws&security=none&path=/Telegram🇨🇳&sni=steep.skyfigure.top#JP 🇯🇵 ┇ VLESS-WS-NTLS - SAKURA Internet Inc. ┇ 160.16.76.226
+vless://ef23ddd0-14c5-39c2-9880-af55ce892363@219.94.255.221:443?type=tcp&security=tls&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision-udp443#JP 🇯🇵 ┇ VLESS-TCP-TLS - SAKURA Internet Inc. ┇ 219.94.255.221
 vless://5d711a41-6fe4-4ced-9eb2-e86474c17906@160.16.148.100:31738?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=aMur4VIL6x4K12L7FRxqcrqjLbhmu9viYfssGXS8gEI&sid=ee#JP 🇯🇵 ┇ VLESS-TCP-RLT - SAKURA Internet Inc. ┇ 160.16.148.100
 vless://ef23ddd0-14c5-39c2-9880-af55ce892363@160.16.75.222:443?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=chrome&flow=xtls-rprx-vision&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a#JP 🇯🇵 ┇ VLESS-TCP-RLT - SAKURA Internet Inc. ┇ 160.16.75.222
-trojan://qhv9uoa0-zk6j-f02b-0a9z-ezgr8br5hgnu@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://0938c2fb-4e28-4f62-939a-a32ff4b7688f@160.16.88.100:25666?type=raw&security=reality&sni=www.samsung.com&fp=edge&flow=xtls-rprx-vision&pbk=5LQN6qrXtjIX6L2LIGLJo7PP2qTVntRNhfnCfVwMY3k&sid=33a4b37fe5#JP 🇯🇵 ┇ VLESS-RAW-RLT - SAKURA Internet Inc. ┇ 160.16.88.100
+trojan://x13hn9j7-o5f8-irdv-fd3t-r2s0qvdqnw4j@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

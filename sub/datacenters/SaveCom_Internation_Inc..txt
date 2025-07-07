@@ -1,6 +1,6 @@
-trojan://iittim42-2yqb-1unl-vw16-so7raoug9rzl@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://2laoa0oe-nxxa-dgqp-6246-4w1xu5zk4iss@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://v4j1an5u-yczh-16py-77ht-zgi6iklz923b@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://awvkl5xf-6v7j-5vxh-y74d-szkh686rym6a@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://jd75u6in-2v1f-tjw9-ldm1-zujxdv4ob9i6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://utubnkow-0pe5-czrl-uru8-r3eoafjt6t1t@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ezdv2aub-lwyi-av2j-7iyo-1kjkmodz76y6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://9psf3bgu-0vt9-3rmw-xiut-g0l54yng9ia6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://948f6596-66f9-4707-aa92-3107a214ce53@61.63.235.53:25957?type=ws&security=tls&path=Telegram🇨🇳@WangCai2/?ed=2560&sni=oops.shalamshorba.dpdns.org#TW 🇹🇼 ┇ VLESS-WS-TLS - SaveCom Internation Inc. ┇ 61.63.235.53
-trojan://o4pw3eot-vpwf-558l-ofic-nwgwfqb7q5o4@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://oz442idy-yaj8-o8dn-w3bi-yc6g4t7oleoo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

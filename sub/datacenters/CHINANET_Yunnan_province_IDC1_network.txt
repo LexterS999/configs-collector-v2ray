@@ -1,6 +1,6 @@
-trojan://cosn9m8i-a8jb-nol5-38vl-7uvq3x3cxwyp@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://rhgl2hib-iovg-yayq-njxf-8ty81lzhsqwj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5aknl061-takr-79z0-e07f-bows9ycffj1l@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://h1jithkl-6ohc-v7cs-g40a-tim4aslob0pi@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTEyOC1nY206NDdhMWI4NmEtNzMxZi00NDY3LWFhNDAtZmI3OThiYzYzOTAy@d1.cloudtaste.xyz:22737#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - CHINANET Yunnan province IDC1 network ┇ 160.30.231.82
-trojan://ui2x1azh-2nra-gl2d-ikpb-0mlwky88o0h0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://bcbx1o65-8ays-y1bm-cuab-ijsidwgtv004@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://kxol8ihu-yf1h-swoj-e9rp-1crrb712zufr@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fgkg40gv-uut9-ezkb-xs4l-v7g93xgeh9e7@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://stk8c66g-lhyw-5kj6-mpdd-ed7g90bmgt33@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://YWVzLTEyOC1nY206YWI3Mjk2MWQtMzJiZi00MWVkLTg3ZjctYTIzMzZlOGRlMzc4@d1.cloudtaste.xyz:27619#CN 🇨🇳 ┇ SHADOWSOCKS-TCP-NTLS - CHINANET Yunnan province IDC1 network ┇ 160.30.231.82
+trojan://9xw0pzrx-eh3i-z15x-d801-o3d6m3kw09li@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

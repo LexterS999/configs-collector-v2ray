@@ -1,8 +1,6 @@
-trojan://uoi3qcfh-1udq-2yfb-qrnm-9opux8otoz41@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://d9et744t-akh6-5e9b-ad6p-hvyu3m02jbsv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://kt8ydran-p45n-tqs2-y6xy-cyr4mreufld0@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://fmvp1mzt-6813-3g1s-9ctb-362xej8t64ri@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://dkllkqbl-1yp1-8ltw-kw4y-uydxo3wy9rc8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://cxmdu302-1vxh-7ju5-wdcc-j43e2ykyv3or@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://fn9twapm-md68-xcyk-uaw4-hi5myqp5fyv6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://mzncv9ka-oarh-u9bv-83r3-o6fcoxk5d1wz@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://7x42LetRa0@106.180.225.69:1443?security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KDDI CORPORATION ┇ 106.180.225.69
-trojan://9e0822c2-75ea-4d30-8895-9fe59da9935c@kddi.iggfastweb.com:23153?sni=kddi.iggfastweb.com&peer=kddi.iggfastweb.com&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - KDDI CORPORATION ┇ 106.180.225.76
-vmess://eyJ2IjoiMiIsInBzIjoiSlAgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEtEREkgQ09SUE9SQVRJT04gXHUyNTA3IDYxLjEyMC45LjE4IiwiYWRkIjoiNjEuMTIwLjkuMTgiLCJwb3J0Ijo0MzcyMCwiaWQiOiJmMjQ4ZDBlOS0xOWY3LWVhN2YtNjY1OS0xN2E2MTBkZmU4ZDYiLCJhaWQiOjAsInNjeSI6Im5vbmUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-trojan://9hgfn1kx-b703-3mhd-ckzx-deqj0h54a37z@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://0sjze87v-rdot-hzp1-jyo1-o94yprl40tdx@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

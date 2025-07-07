@@ -1,6 +1,6 @@
-trojan://byeg5zes-m2z7-j0w5-5ukp-sdxe9xfk4c36@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://fwk4lnip-6vk5-kabu-kj9o-znft3yls270e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://i896gpd8-lyut-0n8c-n2xe-7hanzc5jvqac@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://lzpnf4qr-og1i-u93v-0rhf-xy9yjvgf9blx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://42tr61gc-haob-yru7-xy8b-g6xbqaaaypto@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://2x3q82og-rcsw-o4vr-f37b-xowmvkiw1t6q@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://bkx9ga4m-5k52-2ltf-uju3-lmz29s3u3api@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://ifbdsq5i-k4nl-qj0n-jvks-5y5ikpq1vq2g@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@199.231.45.35:443?sni=agepn.ambercc.filegear-sg.me&peer=agepn.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - PITNEYBOWES-AS-1 ┇ 199.231.45.35
-trojan://0tyu93jq-76f1-wwgo-ryxr-ph9vbkvjpzt7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://t7kxq7yu-4zm3-t5n4-uyjd-txwhkfohycoc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

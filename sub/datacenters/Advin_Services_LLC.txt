@@ -1,10 +1,8 @@
-trojan://j7y18zp2-mezd-yjhc-kpos-ukv3nxfspgji@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://tsq6y15w-ryjf-4xfj-mzk4-s5xfioggi7ug@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://4xy7nv9r-pe9a-qnu1-k5w5-6kg8gxp3m5hz@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ss2hb6iy-y7pm-yubb-chf0-xbstsfm98ofx@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODUzMzIxNi02NWE4LTRkMzAtOWQ0MC03ZTk1MjZjZGQxZjE@shadow-de01.gproxy.gratis:8388#DE 🇩🇪 ┇ SHADOWSOCKS-TCP-NTLS - Advin Services LLC ┇ 204.10.194.114
+trojan://rujquav6-ekfu-ugwb-eb7s-0vu0e1ypvhh6@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://a5qu17ns-3a84-ksgm-0wdm-hr06rgf9r3em@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://e1diqlv1-6h3v-hnib-gei5-mvm1h6kkfa17@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://wsqc59os-yb0j-0mku-m3xd-5owm58wsl7vf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@146.19.215.165:443?sni=4-193-105-141.nhost.00cdn.com&peer=4-193-105-141.nhost.00cdn.com&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Advin Services LLC ┇ 146.19.215.165
-trojan://769c2da7-add3-42e8-a03c-07be9fcf483c@146.19.215.81:443?sni=zaelot.cc&peer=zaelot.cc&security=tls#DE 🇩🇪 ┇ TROJAN-TCP-TLS - Advin Services LLC ┇ 146.19.215.81
 vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?type=tcp&security=tls&sni=yfnl1.xn--4gq62f52gppi29k.com&fp=safari&flow=xtls-rprx-vision-udp443-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78
 vless://99cd771c-0bc5-4f41-879e-925b973a3186@usreal.tsmoe.com:9003?type=tcp&security=reality&sni=cd2.tsmoe.com&fp=edge&flow=xtls-rprx-vision&pbk=SwtFfm3eCWmppdc8fXIrX26XT8OMp9qrAQoHfgLJLS8&sid=09ba19fa#US 🇺🇸 ┇ VLESS-TCP-RLT - Advin Services LLC ┇ 45.8.22.65
-trojan://6gaj611v-fjvm-f493-il1p-fu9eaaxn87lz@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://q5jtvmac-h68o-6uck-lrt6-migtvqkqb1mh@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

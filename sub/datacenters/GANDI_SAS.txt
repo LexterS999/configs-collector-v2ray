@@ -1,10 +1,7 @@
-trojan://bxc1w1hh-899i-v39s-cmrx-06t836v4ci9v@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://obmbstvx-fbdk-1out-wa7c-0bqvmf025aq6@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://2khxirfg-ydk3-fgry-h2rp-x2jb23dpeq22@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://m0y37dl6-5xu1-18ld-wpdi-ovth1jg1vnz4@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLcTNpUXF0Vmx5UEpCUGNENlFwbkdF@92.243.27.51:9802#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - GANDI SAS ┇ 92.243.27.51
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRHYxUjdEWUFqYjQ@92.243.21.138:855#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - GANDI SAS ┇ 92.243.21.138
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2Z2VpZlpJdjc5bUU@217.70.188.60:855#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - GANDI SAS ┇ 217.70.188.60
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbFNscEtRV1ZMTTFNNWMzUQ@217.70.189.155:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - GANDI SAS ┇ 217.70.189.155
-ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwMVQyRk9Ra0kzWkd4TFdFZw@155.133.130.93:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - GANDI SAS ┇ 155.133.130.93
-trojan://k6c8jjgs-7nl5-vvv0-ub79-qy4b7ivyyd8y@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://rv4b7jm8-ytv8-xf9o-7fxd-03xt984trmkt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://gfilurvt-woa7-onfk-cavb-d0yxdeudhb5w@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://i3s7u494-nol3-zd5t-v6rf-2zt93w0jd22w@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xsim0hvn-8fsb-kqok-ttws-t2ql2r5pmx0d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTkx5RGFvYmlxSHpXQTJ6WnJiQTB2@92.243.27.51:9802#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - GANDI SAS ┇ 92.243.27.51
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1T2FOQkI3ZGxLWEg@155.133.130.93:443#FR 🇫🇷 ┇ SHADOWSOCKS-TCP-NTLS - GANDI SAS ┇ 155.133.130.93
+trojan://dmtsu14o-bbp3-jhpp-362y-jcxm05uyaimw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

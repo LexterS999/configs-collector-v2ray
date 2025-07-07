@@ -1,8 +1,7 @@
-trojan://2hq8fr6r-lypk-haqo-50yb-n8inq4owgi3q@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://55ayuqah-vait-otzs-uub5-gpgfnxfjs0up@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://5pp2lvnw-j4iv-m0dv-yrbs-zywxyxnnx5zp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://864e077y-5uew-mw9n-y3wx-64id13yedkze@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://93fse3qs-o6nw-yk63-wn23-bookrfgkpf7d@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://6rqlw4fd-tc19-12f1-hldp-01ijx2ue0egw@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nzqf8ze2-3o1s-ct4x-hvqd-gidlfzr6dslt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://vzfxb75q-75y3-8q6h-c8aj-yewhkksbxgf5@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443?security=tls#VN 🇻🇳 ┇ TROJAN-TCP-TLS - INTERDIGI JOINT STOCK COMPANY ┇ 103.195.236.24
-vmess://eyJ2IjoiMiIsInBzIjoiVk4gXHVkODNjXHVkZGZiXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gSU5URVJESUdJIEpPSU5UIFNUT0NLIENPTVBBTlkgXHUyNTA3IDEwMy4xNC40OC4xNTkiLCJhZGQiOiIxMDMuMTQuNDguMTU5IiwicG9ydCI6ODAsImlkIjoiMGY4ZGQ3OTUtNzU1Mi00MWU4LWU3YjctZmFmNmI1NGJjMjlhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vless://9c1db283-1b21-4d04-abeb-91bf18dec777@157.10.53.146:14626?type=tcp&security=reality&sni=www.icloud.com&fp=chrome&flow=xtls-rprx-vision&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM#VN 🇻🇳 ┇ VLESS-TCP-RLT - INTERDIGI JOINT STOCK COMPANY ┇ 157.10.53.146
-trojan://s6pmmopv-1iyp-1g65-6uj3-e2011m76p2j0@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://9c1db283-1b21-4d04-abeb-91bf18dec777@157.10.53.146:14626?type=tcp&security=reality#VN 🇻🇳 ┇ VLESS-TCP-RLT - INTERDIGI JOINT STOCK COMPANY ┇ 157.10.53.146
+trojan://ocggg1sg-ax3t-pfuc-oib5-3ofgad1al3it@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

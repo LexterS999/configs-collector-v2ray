@@ -1,9 +1,9 @@
-trojan://agj9f80h-wm8b-glhz-6zuk-j8jz7qx9hx2n@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://ur79aay4-ydhj-4tku-djv1-hkoqvan4cvw3@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0t2cg7ul-9fmw-9ndl-p26b-ge0ytac47m38@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://6nkfe50p-ebtc-iag6-3wfn-phz2nvmqsyif@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://8yx2rrra-ww7p-ueva-pcxj-h2p4ka02dsar@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://80ks9kwc-o7m4-y1c5-l7o2-ghrisbokld5e@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://nwr4ayj3-tkxv-kcdd-cecn-yziw18fpe1ws@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lajdttlp-rqjh-2suf-q7fs-t80v4rasuqe1@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.154:800#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 196.247.59.154
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.156:806#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 196.247.59.156
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.134:989#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 23.92.127.134
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@196.247.59.156:801#CA 🇨🇦 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 196.247.59.156
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.133:989#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 23.92.127.133
-trojan://bd270aww-pjda-0s71-c9nb-cs4v3ssoypv5@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.134:989#IE 🇮🇪 ┇ SHADOWSOCKS-TCP-NTLS - Orion Network Limited ┇ 23.92.127.134
+trojan://k9b9500v-m5f0-95gq-bt0f-6nlsneho3etr@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

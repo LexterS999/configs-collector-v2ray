@@ -1,14 +1,7 @@
-trojan://rmtsguq5-0ywe-79m2-uvx9-q68aetod9fj2@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://b3d2kis3-67ma-dsp8-t64s-sk6lr67s8x40@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1myiivy7-oxob-4u7p-lo7h-koesckbotvpt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://xc1njik4-r9r2-phzf-7abb-g54y88bojrt6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gc2VydmluZ2EgR21iSCBcdTI1MDcgMTg1LjIxOS4yMjAuMjUiLCJhZGQiOiIxODUuMjE5LjIyMC4yNSIsInBvcnQiOjU0NzQ5LCJpZCI6IjJmODliZTVkLWI0ODMtNDcyNy1kYmI0LTI1NzhjMTkxNDVlNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gc2VydmluZ2EgR21iSCBcdTI1MDcgMTg1LjIxOS4yMjEuMTI4IiwiYWRkIjoiMTg1LjIxOS4yMjEuMTI4IiwicG9ydCI6NTk1OTQsImlkIjoiMDRjMDg1YzEtN2MyZi00MzQ1LTgyNzMtYzQxNTBhOTlhMWJhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gc2VydmluZ2EgR21iSCBcdTI1MDcgNzkuMTMyLjEzMC44NyIsImFkZCI6Ijc5LjEzMi4xMzAuODciLCJwb3J0Ijo0NTk5MywiaWQiOiJlNzQxOWY3Yy1jN2RiLTRmN2YtZmRhNy1iYTVlY2IwOTQ5Y2QiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
+trojan://rdevoxxx-xi4z-vi2p-wsc4-tvh9izc9305y@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://4roytgrh-c128-z77d-be6j-osgxoxf5p1uu@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://u8jc4kry-zah4-xyfd-dgr5-7mtp192a4xsb@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://xg95zg4s-fxsf-hgyx-utbf-mtk4g7gp4uir@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@78.138.9.229:443?type=ws&security=tls&path=/?ed=2560&sni=v033.ylkszy.eu.org#ES 🇪🇸 ┇ VLESS-WS-TLS - servinga GmbH ┇ 78.138.9.229
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGZDJ6dmQ3ME1ZeFhRSVpiWkJOYkwz@45.155.249.178:29746#NL 🇳🇱 ┇ SHADOWSOCKS-TCP-NTLS - servinga GmbH ┇ 45.155.249.178
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gc2VydmluZ2EgR21iSCBcdTI1MDcgNzkuMTMyLjEzMy4zOCIsImFkZCI6Ijc5LjEzMi4xMzMuMzgiLCJwb3J0Ijo1NDQ1OCwiaWQiOiIzMWIwMjJmMi01NDQxLTRlOWEtZmZlNy00M2ZlZTdhYjA2ODgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIHNlcnZpbmdhIEdtYkggXHUyNTA3IDQ1LjE1NS4yNDkuMTAxIiwiYWRkIjoiNDUuMTU1LjI0OS4xMDEiLCJwb3J0IjozODE4OCwiaWQiOiI1NzQ2MTBmNS05OTFjLTQxYjYtODU3Yi0wNzMxODlmMDNmYzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gc2VydmluZ2EgR21iSCBcdTI1MDcgNzkuMTMyLjEyOC42MCIsImFkZCI6Ijc5LjEzMi4xMjguNjAiLCJwb3J0IjoyMTUyNCwiaWQiOiI4MzkxMDJhZC04NDJmLTQzZTUtZTU4OS1hYzEwYTNjNzg1NzEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gc2VydmluZ2EgR21iSCBcdTI1MDcgNDUuMTU1LjI0OS4xNTEiLCJhZGQiOiI0NS4xNTUuMjQ5LjE1MSIsInBvcnQiOjgwLCJpZCI6IjlkNWU2OWQyLTQ2Y2YtNDg2NS05NWZlLWEyZWU4YzUyYTAxMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
-trojan://jemwxvi7-8vt7-sojj-8hzb-a0m50rm6lkjt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://sbfl11ag-3n10-hieb-vmuh-llwacsm7exme@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

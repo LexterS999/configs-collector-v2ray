@@ -1,24 +1,23 @@
-trojan://pqqud4f6-kg5c-m4ny-ray0-rafw3dhx7k8t@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://wylx1amn-mhap-bxs6-cawm-nohlc5coo283@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://0jelzwwf-ep5u-0h7j-akr6-lcpnnwfk16wp@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://zluetzoi-d72l-bj8z-apqp-e04ux4kt2kwk@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-trojan://fsoOufuTGmSKzRDaAwAbww@89.34.230.155:443?security=none#NL 🇳🇱 ┇ TROJAN-TCP-NTLS - Fomo Crew Fzco ┇ 89.34.230.155
+trojan://lqmta7ja-kcgv-cr0y-w0hv-1gpes6yzewsr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://zci6obqf-4ylo-7pni-dpqi-dvivld4k7csf@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://h07bz90k-fpd1-2t8f-weoe-5o2qvded559a@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://lkyv5kvo-hiid-ot00-57yv-3frvprpqhvyc@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://TELEGRAM-NUFiLTER@151.242.2.35:44690?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Fomo Crew Fzco ┇ 151.242.2.35
-vless://TELEGRAM-NUFiLTER@89.34.230.177:47728?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Fomo Crew Fzco ┇ 89.34.230.177
 vless://TELEGRAM-NUFiLTER-JOIN@151.242.2.5:37681?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Fomo Crew Fzco ┇ 151.242.2.5
-vless://5f566fbf-13bc-4312-ae37-ea173c4ef4bb@89.34.230.246:14116?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Fomo Crew Fzco ┇ 89.34.230.246
+vless://TELEGRAM-NUFiLTER@89.34.230.177:47728?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Fomo Crew Fzco ┇ 89.34.230.177
 vless://TELEGRAM-NUFiLTER@89.34.230.225:58967?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Fomo Crew Fzco ┇ 89.34.230.225
-vless://e71099b1-f54b-4cd3-80b0-20c2ba854a5e@89.34.230.186:3567?type=grpc&security=reality&sni=maps.google.com&fp=chrome&pbk=OUFykWUCiUsuGV3oGsKRAAPmyev5dpnP3TvoJO9sECQ&sid=0cc6d3a98d5c#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Fomo Crew Fzco ┇ 89.34.230.186
-vless://e4ce415b-e027-4fe5-fe01-395122cfca13@hidenip.motorphrotan.ir:443?type=grpc&security=reality&sni=maps.google.com&fp=firefox&pbk=WW5gbx_PS5aqRsmlfV7Gh7k1uHK2NMsVvp0KGrd3t0g#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Fomo Crew Fzco ┇ 89.34.230.165
-vless://b00f395d-417b-4af0-f2e0-3141c72f8ac4@ipjd.motorphrotan.ir:443?type=grpc&security=reality&sni=maps.google.com&fp=chrome&pbk=hUz6-2DRR2JQr6lHq7Jx5BSmV3Z3LQGwTIXpWA63xVs#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Fomo Crew Fzco ┇ 89.34.230.121
-vless://7f2cc6db-ad01-41a7-b88b-630f757a719b@89.34.230.141:10474?type=grpc&security=reality&sni=maps.google.com&fp=chrome&pbk=GJUW-OXZxB3qTgoks8myZvwjyzZ0ExnSzlIW2xEWajU#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Fomo Crew Fzco ┇ 89.34.230.141
-vless://4880b0ff-963e-49bf-9174-e657720c5dc0@89.34.230.130:443?type=grpc&security=reality&sni=maps.google.com&fp=chrome&pbk=kc9EHs9UXsCn42r88iPSkIC7gQomKoPC9D9mabtkcks#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Fomo Crew Fzco ┇ 89.34.230.130
+vless://5f566fbf-13bc-4312-ae37-ea173c4ef4bb@89.34.230.246:14116?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Fomo Crew Fzco ┇ 89.34.230.246
 vless://45881ac8-8d22-481a-ab33-dd6bbd30a7af@151.242.2.43:443?type=grpc&security=reality&sni=maps.google.com&fp=chrome&pbk=O3U-ziNr-52tghoy9ICaYnplHnx2_TioICEHc9l3TFk#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Fomo Crew Fzco ┇ 151.242.2.43
-vless://26f09a9b-fbb4-4bd6-f1b6-f2a1a6bc3ffb@iq.motorphrotan.ir:443?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=-Ox6yMpUevQDoD5KShgQLhfBPQg8gdFoEXWx46IRcB0#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Fomo Crew Fzco ┇ 89.34.230.249
-vless://TELEGRAM-NUFiLTER@89.34.230.69:443?type=grpc&security=reality&sni=maps.google.com&fp=firefox&pbk=WW5gbx_PS5aqRsmlfV7Gh7k1uHK2NMsVvp0KGrd3t0g#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Fomo Crew Fzco ┇ 89.34.230.69
 vless://f8ddc442-5986-4810-ec8a-0e48df7f49bf@151.242.2.61:59334?type=grpc&security=reality&sni=maps.google.com&fp=chrome&pbk=aWP97q6Lnu9GNkXidNj812frbslhMT8wE2MJ-lIIAUo#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Fomo Crew Fzco ┇ 151.242.2.61
-vless://61300682-16de-449c-da72-1ad1605232ac@89.34.230.76:33121?type=tcp&security=reality&sni=google-analytics.com&fp=chrome&flow=xtls-rprx-vision&pbk=iEwrPWwykbpoqcedVT6eE2n30MiG4MTpsQWdCWoylEY&sid=b4d2#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fomo Crew Fzco ┇ 89.34.230.76
-vless://e1852f9c-f303-40e7-81e0-fff0b880524f@89.34.230.92:443?type=xhttp&security=reality&path=/@hormozvpn&sni=refersion.com&fp=chrome&pbk=r5kJ1i1v0ULQ3mb7TuHNr5mQByMkBO0l7w3ttYAWbho&sid=ebc89c#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - Fomo Crew Fzco ┇ 89.34.230.92
+vless://4880b0ff-963e-49bf-9174-e657720c5dc0@89.34.230.130:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fomo Crew Fzco ┇ 89.34.230.130
+vless://7f2cc6db-ad01-41a7-b88b-630f757a719b@89.34.230.141:10474?type=grpc&security=reality&sni=maps.google.com&fp=chrome&pbk=GJUW-OXZxB3qTgoks8myZvwjyzZ0ExnSzlIW2xEWajU#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Fomo Crew Fzco ┇ 89.34.230.141
+vless://397f9bb8-9d73-419d-f216-141262ea07de@89.34.230.165:27433?type=tcp&security=reality&sni=rEfErSion.Com&fp=chrome&pbk=rMS-Z-21leNq4TB94xXNrieTjzyoahRB1KHMKMYwUis#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fomo Crew Fzco ┇ 89.34.230.165
+vless://TELEGRAM-NUFiLTER@89.34.230.186:3567?type=grpc&security=reality&sni=maps.google.com&fp=chrome&pbk=OUFykWUCiUsuGV3oGsKRAAPmyev5dpnP3TvoJO9sECQ&sid=0cc6d3a98d5c#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Fomo Crew Fzco ┇ 89.34.230.186
 vless://4ef8cb84-48cf-4a08-baef-5af43c9c3c59@89.34.230.240:59557?type=tcp&security=reality&sni=google-analytics.com&fp=firefox&flow=xtls-rprx-vision&pbk=PRNmOBcE4_FVD4-Po74sKRnLWSOFupxqZ6GXsnl5A2c&sid=a5a7df#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fomo Crew Fzco ┇ 89.34.230.240
+vless://TELEGRAM-NUFiLTER@89.34.230.69:443?type=grpc&security=reality&sni=maps.google.com&fp=firefox&pbk=WW5gbx_PS5aqRsmlfV7Gh7k1uHK2NMsVvp0KGrd3t0g#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Fomo Crew Fzco ┇ 89.34.230.69
+vless://61300682-16de-449c-da72-1ad1605232ac@89.34.230.76:33121?type=tcp&security=reality&sni=google-analytics.com&fp=chrome&flow=xtls-rprx-vision&pbk=iEwrPWwykbpoqcedVT6eE2n30MiG4MTpsQWdCWoylEY&sid=b4d2#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fomo Crew Fzco ┇ 89.34.230.76
 vless://4ef8cb84-48cf-4a08-baef-5af43c9c3c59@89.34.230.80:59557?type=tcp&security=reality&sni=google-analytics.com&fp=chrome&flow=xtls-rprx-vision&pbk=PRNmOBcE4_FVD4-Po74sKRnLWSOFupxqZ6GXsnl5A2c&sid=a5a7df#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fomo Crew Fzco ┇ 89.34.230.80
-trojan://a7f2pwkc-vut3-wked-azo4-p50ndgi2etky@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://e1852f9c-f303-40e7-81e0-fff0b880524f@89.34.230.92:443?type=xhttp&security=reality&path=/@hormozvpn&sni=refersion.com&fp=chrome&pbk=r5kJ1i1v0ULQ3mb7TuHNr5mQByMkBO0l7w3ttYAWbho&sid=ebc89c#NL 🇳🇱 ┇ VLESS-XHTTP-RLT - Fomo Crew Fzco ┇ 89.34.230.92
+vless://26f09a9b-fbb4-4bd6-f1b6-f2a1a6bc3ffb@iq.motorphrotan.ir:443?type=grpc&security=reality&sni=ftp.debian.org&fp=chrome&pbk=-Ox6yMpUevQDoD5KShgQLhfBPQg8gdFoEXWx46IRcB0#NL 🇳🇱 ┇ VLESS-GRPC-RLT - Fomo Crew Fzco ┇ 89.34.230.249
+vless://TELEGRAM-NUFiLTER@ipjd.motorphrotan.ir:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-RLT - Fomo Crew Fzco ┇ 89.34.230.121
+trojan://lzj7y46k-yjvz-eddw-gf2v-pa8w2icrit6r@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

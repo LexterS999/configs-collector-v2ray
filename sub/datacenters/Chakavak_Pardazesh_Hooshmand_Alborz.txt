@@ -1,9 +1,8 @@
-trojan://9x1owtiz-bzz0-bte5-8o81-maukfdqf3oh9@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://x5kfktyj-b0em-8as1-t4wl-nbzcnb8v55vg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ksy3bs7a-2qk5-lalb-f92x-uwln54sfjyii@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://nul4ukzk-6e64-qgu4-2ohl-8d03d430twp9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vless://d3c44d08-7657-4bb2-b661-0f57fd2572dd@shida.ntbz.xyz:15040?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.136
-vless://dae7d6e9-b2f9-5ee5-9433-b77865ef607c@193.107.48.99:80?type=ws&security=none&path=/vless#IR 🇮🇷 ┇ VLESS-WS-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.99
-vless://9deec183-c239-448b-ac49-a1df69bcf314@193.107.48.63:2222?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.63
+trojan://48wnim1l-109r-7far-6rb4-nqjno7jxdtk4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://zo05wbua-xy7e-u1qf-8b22-o20fjh3aj74z@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://gqad8pns-ohqk-75f0-ppi7-m56yg90nn8yg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://icf19rxl-4khs-zbdc-osr2-9b52wzepz91o@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://348cd64e-a551-422b-93f2-55e34fdb1601@193.107.48.54:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.54
-trojan://ylzxodt1-z4d0-1mrx-meeo-st3h94ac5nwp@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://dae7d6e9-b2f9-5ee5-9433-b77865ef607c@193.107.48.99:80?type=ws&security=none&path=/vless#IR 🇮🇷 ┇ VLESS-WS-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.99
+vless://d3c44d08-7657-4bb2-b661-0f57fd2572dd@shida.ntbz.xyz:15040?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Chakavak Pardazesh Hooshmand Alborz ┇ 193.107.48.136
+trojan://86pv3kn2-wvtz-lfuk-tyjg-b102qq69tjxw@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

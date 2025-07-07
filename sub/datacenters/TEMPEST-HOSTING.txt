@@ -1,7 +1,6 @@
-trojan://6fj3wywg-s72q-phk6-ta9k-917t9ujulqqj@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://0jl50vn7-ufuk-syc7-doqo-o4yli62m5wgj@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ti9den7x-g85z-6ehc-td4t-nogie3k6wjbx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://piy6u2xg-y0qi-i7d2-e3y1-ld5131wu0d6k@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://bo32l6l2-7s45-1xov-m8ap-eu509ono1z9s@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://kbhj6p23-eh1b-yqjo-rfwe-numrlpto4yyq@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ctedodki-ds6q-pv03-mc7s-cdj160qcgozm@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://dgk6y5cy-x5os-rru5-5y6m-x3mb76spwvzf@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@141.193.68.81:443?sni=glc-us3.windowsupdatea.com&peer=glc-us3.windowsupdatea.com&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - TEMPEST-HOSTING ┇ 141.193.68.81
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1HUlBDLVRMUyAtIFRFTVBFU1QtSE9TVElORyBcdTI1MDcgMTQxLjE5My42OC41MiIsImFkZCI6IjE0MS4xOTMuNjguNTIiLCJwb3J0Ijo0NDMsImlkIjoiNDY5YmRkMjAtYWY5MS0xMWVkLWIzMzctMjA1YzZkNWY1ZDc4IiwiYWlkIjowLCJzY3kiOiJub25lIiwibmV0IjoiZ3JwYyIsInR5cGUiOiJndW4iLCJob3N0IjoibS55YW5kZXguY29tIiwicGF0aCI6InZtZ3JwYyIsInRscyI6InRscyIsInNuaSI6Im0ueWFuZGV4LmNvbSJ9
-trojan://isp7cgta-kg8t-c8xl-stlo-kfvhommv1q8m@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ulq6uruj-6iju-f69v-jrkx-0thtpm3sa5eo@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

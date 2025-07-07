@@ -1,14 +1,9 @@
-trojan://ygco7ky6-lw3i-4lpx-18p4-zmd7i194e1l4@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://vid5g6n1-jyem-hjay-dn46-qof0kh89uupv@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://1pl6ivp3-zd26-ysqc-iafd-4jz33v0dh9xa@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://ayhzrf66-1pwx-mymw-dl4o-qex4onhgckzp@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://YWVzLTI1Ni1nY206RzU4WDlRQlJVSzNXRTM3Sw@185.126.238.37:20004#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - BrainStorm Network, Inc ┇ 185.126.238.37
+trojan://ycxrb0l7-oo8h-39lh-jpce-bxr6u84tl89b@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://a9n7unvm-ockd-uhmj-kb7c-wjugpv6yv1n1@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://c8oom8dy-0jel-6wco-aux8-9jnz2u3omppt@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://iujgqyyg-ngbz-0n1g-t4vz-jq4h8o9fsjy6@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE@185.39.207.60:443#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 185.39.207.60
-ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRr@194.150.167.52:47121#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - HostRoyale Technologies Pvt Ltd ┇ 194.150.167.52
 vless://e79c9267-846d-46e2-ad6d-b99a5f899e01@46.20.109.108:14961?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=wbQjriu3XACnc8brsd6FoVP1Jva3B4dn0GWXU9Cyqg4&sid=1b2462f9#GR 🇬🇷 ┇ VLESS-TCP-RLT - Nearoute Limited. ┇ 46.20.109.108
-vmess://eyJ2IjoiMiIsInBzIjoiR1IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgMTg1LjI0Mi44NC40OSIsImFkZCI6IjE4NS4yNDIuODQuNDkiLCJwb3J0Ijo4MCwiaWQiOiI5ZGIzNDk0NC1iYzg3LTQzY2ItOGI1Ny00NWNmODdiMmIwMDYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii92bWVzcyJ9
 vless://25af5a1a-d708-4e95-b2fd-ad43b0650335@94.131.8.32:80?type=ws&security=none&path=/vless#GR 🇬🇷 ┇ VLESS-WS-NTLS - Pq Hosting Plus S.r.l. ┇ 94.131.8.32
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 192.71.166.102
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.100:989#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 192.71.166.100
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@151.236.29.225:990#GR 🇬🇷 ┇ SHADOWSOCKS-TCP-NTLS - SYNAPSECOM S.A. Provider of Telecommunications and Internet Services ┇ 151.236.29.225
-trojan://n8dmhco5-2vqi-gxt3-6z1b-2d4z8df004rb@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ie2gqym3-2o36-2aob-8b7j-oa9cjkumqjbv@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

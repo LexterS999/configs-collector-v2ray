@@ -1,8 +1,7 @@
-trojan://0y5ni25l-ix2r-5nom-ibff-x9bjau6dvi2i@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://skzfbpyh-074g-gihv-hfin-ay7mbbl2p0jg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://8esq2wsh-77dg-njji-6m75-4l60v0sovnqu@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://erricxuz-kodd-9rrs-guc5-in2d0vkwmlq9@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://m7ove5b3-mjj1-52vk-p8my-nsn3eghi7obo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://7jmkdoee-ym54-zlq2-ks7k-22nvogj1tpth@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://5x73is3l-ctd8-4let-zllj-iwr2gqn4v75e@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://i70afhe9-7lga-echs-w0n4-w2o1maqyzv3r@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.150:989#SI 🇸🇮 ┇ SHADOWSOCKS-TCP-NTLS - Optimus IT d.o.o. ┇ 192.71.244.150
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@91.132.94.200:989#SI 🇸🇮 ┇ SHADOWSOCKS-TCP-NTLS - Optimus IT d.o.o. ┇ 91.132.94.200
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.49:989#SI 🇸🇮 ┇ SHADOWSOCKS-TCP-NTLS - Optimus IT d.o.o. ┇ 192.71.244.49
-trojan://mpotbzkl-my27-bipm-lz3t-ea7sh38a87l3@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://a1fnlp4r-xn6s-x5ng-v5rh-o3tchngqspgc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

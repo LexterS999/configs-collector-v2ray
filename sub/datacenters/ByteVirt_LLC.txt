@@ -1,7 +1,6 @@
-trojan://phjvrlfr-xzzd-yrif-sy9o-bjgpg63pmyaz@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://27lz6zbi-m3uk-iuk8-k62y-1wvxh0cwohol@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://masdvgu5-dzs2-wx9e-6ay2-8107yjnthypx@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://jv1r4mg8-8ov0-lqlv-h01p-z2v438yec9yw@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://igf4gslh-3cns-2evp-8wvt-jhhjmkq3o4k8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://ndoqjf73-syro-fbfz-ycx4-g6xigogibs1f@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://xs2i4mdk-rcm5-53yp-6k9b-wz3kw6krtavy@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://2qrohqdi-5b6b-e0xz-ho3e-cpvpqoqcw0ue@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@147.79.20.239:443?sni=epccd.ambercc.filegear-sg.me&peer=epccd.ambercc.filegear-sg.me&security=tls#JP 🇯🇵 ┇ TROJAN-TCP-TLS - ByteVirt LLC ┇ 147.79.20.239
-trojan://4f9d1abb-cca4-4f44-a2a5-e126e622ea35@sg1.3224536.xyz:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - ByteVirt LLC ┇ 109.176.19.79
-trojan://gef3ijbn-rf1n-vlzs-4x9o-zft2odikypgy@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://im63nvs6-ssgp-iuwh-31c6-d5sr59vd5gx1@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

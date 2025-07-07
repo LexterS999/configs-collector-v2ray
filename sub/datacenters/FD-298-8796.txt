@@ -1,27 +1,14 @@
-trojan://0h1h9czw-n4om-5cvw-pz9o-sf293cj11kpt@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://yyicx3gj-ioi0-lz70-rkwi-1jm4uy24nl7a@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://85g4z763-vz3r-li62-jlub-0a0lw586rrhg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://5vdifw3c-kq4y-uqbf-okl9-l6gedyerllkn@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZELTI5OC04Nzk2IFx1MjUwNyAxNTQuMjE5LjEyMC41NyIsImFkZCI6IjE1NC4yMTkuMTIwLjU3IiwicG9ydCI6NDIzODMsImlkIjoiYzEwOTBjODQtNzkxMC00M2UwLWY2YzgtMGIzODkxODgxMDg5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZELTI5OC04Nzk2IFx1MjUwNyA0NS4yMDcuMjAxLjE1IiwiYWRkIjoiNDUuMjA3LjIwMS4xNSIsInBvcnQiOjM0NjI1LCJpZCI6IjM1NTEwZGY0LTk4OTktNDQyNy1lODI2LWQwMDVmMGFhYmM2YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vmess://eyJ2IjoiMiIsInBzIjoiTVUgXHVkODNjXHVkZGYyXHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBGRC0yOTgtODc5NiBcdTI1MDcgNDUuMjA3LjIwNy4yMDIiLCJhZGQiOiI0NS4yMDcuMjA3LjIwMiIsInBvcnQiOjIxNDc1LCJpZCI6Ijk0Yjk5MmUwLTg1YzEtNDI2MC05ODU2LWZjNmVhNjRiNDA5NCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ1czAyLm1sc2IubG9sIiwidGxzIjoidGxzIiwic25pIjoidXMwMi5tbHNiLmxvbCJ9
-trojan://Aimer@154.23.172.19:11000?sni=epccj.ambercc.filegear-sg.me&peer=epccj.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 154.23.172.19
-trojan://Aimer@154.19.241.230:10000?sni=ngepo.ambercc.filegear-sg.me&peer=ngepo.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 154.19.241.230
-trojan://Aimer@23.159.248.195:8443?sni=epcch.ambercc.filegear-sg.me&peer=epcch.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 23.159.248.195
+trojan://9z9smbhf-uhcd-f3x8-fwt7-sf6tq268c1lr@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://wmo1ow7y-6wl7-8229-noli-yybbxil6z9ql@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://oqflk5yv-0g2o-c86a-mcwv-7u6pf951s5wn@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://4xep2o7y-5o4r-wnai-1bjo-45n8319e6ec7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://Aimer@38.60.109.124:52782?sni=epccc.ambercc.filegear-sg.me&peer=epccc.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 38.60.109.124
-trojan://Aimer@45.140.88.118:8443?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 45.140.88.118
-trojan://Aimer@23.169.184.28:13800?sni=ngepy.ambercc.filegear-sg.me&peer=ngepy.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 23.169.184.28
-trojan://Aimer@23.169.184.125:25526?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 23.169.184.125
-trojan://270685c6-f4fb-4b15-bca6-dd6c622e8f44@cm.802039.xyz:34443?sni=hk-2.802039.xyz&peer=hk-2.802039.xyz&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 154.23.247.169
 trojan://Aimer@206.119.79.247:443?sni=agepq.ambercc.filegear-sg.me&peer=agepq.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 206.119.79.247
-trojan://Aimer@23.165.40.54:443?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 23.165.40.54
-trojan://Aimer@45.140.88.214:4443?sni=ngepz.ambercc.filegear-sg.me&peer=ngepz.ambercc.filegear-sg.me&security=tls#US 🇺🇸 ┇ TROJAN-TCP-TLS - FD-298-8796 ┇ 45.140.88.214
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRkQtMjk4LTg3OTYgXHUyNTA3IDE1NC4yMy4xOTAuMTYyIiwiYWRkIjoiMTU0LjIzLjE5MC4xNjIiLCJwb3J0Ijo0NDMsImlkIjoiYjk5ODQ2NzQtZjc3MS00ZTY3LWExOTgtYzdlNjA3MjBiYTJjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZELTI5OC04Nzk2IFx1MjUwNyA0NS45MS44Mi43OCIsImFkZCI6IjQ1LjkxLjgyLjc4IiwicG9ydCI6NDkxMTgsImlkIjoiNzNiN2U4YzgtYTlhMC00NjQ5LWI1MGYtY2VlNTMzMGFmNWFlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZELTI5OC04Nzk2IFx1MjUwNyA0NS4xMzUuMTE2Ljg1IiwiYWRkIjoiNDUuMTM1LjExNi44NSIsInBvcnQiOjQ0MzY2LCJpZCI6IjJjYTE2ZTJiLTU4YmMtNDk2Yi1jNmZlLTA5ZDk2ZTM5MzE3ZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9wYXRoLzEyMDIwODMwMTQyMiJ9
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@38.60.91.115:9458?type=ws&security=none&sni=edccd.ambercc.filegear-sg.me#US 🇺🇸 ┇ VLESS-WS-NTLS - FD-298-8796 ┇ 38.60.91.115
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gRkQtMjk4LTg3OTYgXHUyNTA3IDE1NC4yMy4xOTAuMTYyIiwiYWRkIjoiMTU0LjIzLjE5MC4xNjIiLCJwb3J0Ijo0NDMsImlkIjoiYjk5ODQ2NzQtZjc3MS00ZTY3LWExOTgtYzdlNjA3MjBiYTJjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
+vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@23.165.40.54:443?type=ws&security=tls&path=/?ed&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - FD-298-8796 ┇ 23.165.40.54
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@38.60.91.115:9458?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - FD-298-8796 ┇ 38.60.91.115
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@38.60.91.60:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - FD-298-8796 ┇ 38.60.91.60
 vless://f25ebe08-6e49-40cf-954a-eb29ec82759a@154.23.163.160:30214?type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=LJ5_nw7g-U1MMIEwyYZVi2JrqTmk7Bqrq5b7NCSPhg4#US 🇺🇸 ┇ VLESS-TCP-RLT - FD-298-8796 ┇ 154.23.163.160
-vless://c52e1fc2-5201-4cd1-900e-b97bda12639d@45.205.25.42:54327?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=QnstTnhlVpg2jE7yQva2zDyvZpo6QNbc_W459OTB914#US 🇺🇸 ┇ VLESS-TCP-RLT - FD-298-8796 ┇ 45.205.25.42
 vless://63769deb-4153-4b98-aba3-31bc07e53a2d@154.23.207.104:2080?type=tcp&security=reality&sni=tesla.com&fp=safari&flow=xtls-rprx-vision&pbk=SQJkrxtSjiexXXRE6nl8GTRVFwCIMQ_XdttFPxF2Wjw&sid=bd4c6564#US 🇺🇸 ┇ VLESS-TCP-RLT - FD-298-8796 ┇ 154.23.207.104
-trojan://qz48hjah-b3ys-bk81-0iq6-ymk0ybdd87x7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+vless://c52e1fc2-5201-4cd1-900e-b97bda12639d@45.205.25.42:54327?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=QnstTnhlVpg2jE7yQva2zDyvZpo6QNbc_W459OTB914#US 🇺🇸 ┇ VLESS-TCP-RLT - FD-298-8796 ┇ 45.205.25.42
+trojan://q833j9rc-lb33-lba2-w8xa-iwugigx4bk5i@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

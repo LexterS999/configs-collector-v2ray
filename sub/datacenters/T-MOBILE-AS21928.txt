@@ -1,6 +1,6 @@
-trojan://ofc8c1c9-ib1z-yf1m-9wom-ntg31y8ni3d8@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://70ntjrez-i01n-4s60-spov-mivorefhlifp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://lvs2skrf-30tr-osau-usji-nbt8688dvjjk@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://1s99y0df-r18h-p0xa-ljg5-wf5ny1k4bxsl@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://b4abh9qb-9o7m-k7t5-68aq-6gcqyfydg7av@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://uk97amhr-n32u-kjyp-kwvp-g0864hp91t1o@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://ih2sonp6-6swq-c2w4-12mn-kzmevxr4sdzg@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://j8tq1b7s-dem0-mvhx-heyf-wb23na3iy2n7@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://b6c7d8e9-f0a1-6789-2345-56789abcdef0@162.161.155.5:8443?type=ws&security=tls&path=/Telegram@V2rayNG&sni=vpn.aslivpn.ir&fp=chrome#US 🇺🇸 ┇ VLESS-WS-TLS - T-MOBILE-AS21928 ┇ 162.161.155.5
-trojan://13gxqqg8-npfn-jvu2-98d9-inogxj2hvve8@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://al1vq07i-kmqw-it1o-5nqn-i1agy3o1tpwt@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

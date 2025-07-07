@@ -1,7 +1,7 @@
-trojan://wb4dmr7v-zrdy-tv26-gno9-ura6l71umsbd@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://e6hajmeo-qw54-eirq-s2y3-az88gn45f296@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://di8htjfe-cykh-gaa7-k1cn-0emehf6akcp6@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://v3uet5re-z8w8-8o7s-t93z-o18uoe2b7ela@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://qrqllc9w-nyo2-nafg-507i-apj6pvo6isni@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://0fyqa7ng-agnr-1lxq-h9u8-8buuaqabq1ju@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://1il4az45-g54l-ssuo-ctls-cjsstheeog61@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://6tggz4p6-3xfl-n1du-yjze-oowpg5sgbiw3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 ss://YWVzLTI1Ni1nY206Mk1OQlZZWVlCMjNaRjAzWg@92.113.116.11:15002#HK 🇭🇰 ┇ SHADOWSOCKS-TCP-NTLS - BACK WAVES LIMITED ┇ 92.113.116.11
 vless://49dc19c3-e447-4422-9a54-35af28207a6e@160.191.40.97:7000?type=ws&security=tls&path=/?ed=2560&sni=mihu.sorry.ip-ddns.com&fp=random#JP 🇯🇵 ┇ VLESS-WS-TLS - BACK WAVES LIMITED ┇ 160.191.40.97
-trojan://5h2mw7ku-wjxp-68af-1owd-1f1ydv53negc@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://01q6s8yv-v3ev-iikc-iwyq-jl112m9s8b06@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

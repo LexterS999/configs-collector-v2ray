@@ -1,10 +1,8 @@
-trojan://edtdna45-n7yw-ubyt-52y4-km2a0ra0jdyo@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://6o14u514-8ww3-kwle-82ps-a9ma8pfdcblp@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://ps4dvl16-9zxi-3tyz-ousl-g6009h05ehmr@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://qjfodd5i-rc1b-co7m-v1od-zcwy73yroi8d@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdUJDOGVJNFBsS3F1RnJ6anRsS3Vn@31.171.246.150:1080#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Cloudsigma Ag ┇ 31.171.246.150
-trojan://EJQgX6JS3s@94.156.203.224:443?security=none#CH 🇨🇭 ┇ TROJAN-TCP-NTLS - Cloudsigma Ag ┇ 94.156.203.224
-vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENsb3Vkc2lnbWEgQWcgXHUyNTA3IDk0LjE1Ni4yMDIuMTU0IiwiYWRkIjoiOTQuMTU2LjIwMi4xNTQiLCJwb3J0IjoyMDg2LCJpZCI6IjE5NDBmZDY1LTc1YzAtMTk1Ni1jZDllLWU0NzJiOGQ3YTViMCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIn0
+trojan://8svd3cr2-m4mq-1fx9-0kzw-5lhmqryspz3j@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://zgv9pwfu-x1ld-hzof-w7hc-opiexhjcnw5p@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pg1cgkis-wpye-t1sd-niiw-lyfbnrdm1mqs@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://51lciic9-t2mw-wxfl-4dpv-1gmalyc31jn3@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 vless://ecee63a4-a4a9-4c77-a589-5142c4cddeae@94.156.203.153:29880?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Cloudsigma Ag ┇ 94.156.203.153
+vless://96b8efd8-8a0d-4194-a311-10168edf2071@94.156.203.224:24501?type=ws&security=none&path=/Free#CH 🇨🇭 ┇ VLESS-WS-NTLS - Cloudsigma Ag ┇ 94.156.203.224
 vless://1eece044-ce02-484d-b3f2-609e78403690@45.88.24.94:55269?type=tcp&security=reality&sni=Soft98.ir&fp=chrome&flow=xtls-rprx-vision&pbk=j6u7Lnap55eCAwN4m2is0Sn7udaxr_l7Dp3rfV6mkXE&sid=1de4d26b#US 🇺🇸 ┇ VLESS-TCP-RLT - Cloudsigma Ag ┇ 45.88.24.94
-trojan://xm3uk2kq-ydxn-xgst-la90-4gc8jvcws9ko@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://af9eascm-tq2n-etj2-k9x9-o7lbsxx70tq7@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0

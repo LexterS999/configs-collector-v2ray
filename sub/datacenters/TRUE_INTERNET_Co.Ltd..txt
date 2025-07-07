@@ -1,7 +1,7 @@
-trojan://w2xsik26-ebto-sdoj-m8j4-8w9j42v2sxrw@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 03:19 ]
-trojan://xhm1w93l-l05l-pzi9-0nqk-nzs8ghcje0dg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
-trojan://om67s1z7-jwbz-y3ao-oaui-fp4ywh48yke8@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
-trojan://vsih3wed-3wyz-4im3-dkee-4ursxjoh1dqb@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
+trojan://maz42092-a24e-ihv6-crpw-mbi2m7x4v5yh@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-07-07 | 05:14 ]
+trojan://vynkjqvs-vcms-h6mr-byp0-zr9odah7qfvg@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://onns31rk-117x-589l-ofkk-98z8nv65p81g@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+trojan://q4avscfo-lt8r-he3e-1lzt-i6tqo99rkb57@127.0.0.1:4080?security=tls&type=tcp#「 PlanAsli ☕ 」
 trojan://ttfang@171.103.232.58:20475?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#TH 🇹🇭 ┇ TROJAN-TCP-TLS - TRUE INTERNET Co.,Ltd. ┇ 171.103.232.58
 vless://948f6596-66f9-4707-aa92-3107a214ce53@171.103.13.77:30157?type=ws&security=tls&path=Telegram🇨🇳 @WangCai2 /?ed=2560&sni=oops.shalamshorba.dpdns.org#TH 🇹🇭 ┇ VLESS-WS-TLS - TRUE INTERNET Co.,Ltd. ┇ 171.103.13.77
-trojan://zmfr1t2j-7iyd-hvv7-jm11-519ioake3oav@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
+trojan://ope75swg-ua6o-yz4m-0wud-6e0wyzip08hm@127.0.0.1:8080?security=tls&type=tcp#</> Collector v5.1.0
