@@ -1,0 +1,1 @@
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@bnnm.azurewebsites.net:443?type=ws&security=tls&path=/&sni=bnnm.azurewebsites.net&fp=chrome#KR 🇰🇷 ┇ VLESS-WS-TLS - MICROSOFT-CORP-MSN-AS-BLOCK ┇ 52.231.38.95

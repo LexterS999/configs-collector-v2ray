@@ -1,0 +1,2 @@
+vless://4bd6549f-3a16-407c-8151-89d7e6f64e14@217.61.61.118:42538?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.61.118
+vless://c1f85ebc-b908-458f-a4e0-4aabb6bd351d@217.61.61.190:42538?type=tcp&security=none#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.61.190

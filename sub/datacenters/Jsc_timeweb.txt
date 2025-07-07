@@ -1,0 +1,2 @@
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@194.87.190.57:8443?type=tcp&security=none&path=Telegram🇮🇷#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 194.87.190.57
+vless://588f094b-431b-422c-b80b-007945037072@ru01.abvpn.ru:443?type=tcp&security=none&path=/websocket#RU 🇷🇺 ┇ VLESS-TCP-NTLS - Jsc timeweb ┇ 89.23.118.93

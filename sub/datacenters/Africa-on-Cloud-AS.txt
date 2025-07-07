@@ -1,0 +1,2 @@
+vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@154.194.0.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.251
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.0.213:8880?type=ws&security=none#SC 🇸🇨 ┇ VLESS-WS-NTLS - Africa-on-Cloud-AS ┇ 154.194.0.213

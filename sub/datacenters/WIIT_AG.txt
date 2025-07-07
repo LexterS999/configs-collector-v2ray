@@ -1,0 +1,1 @@
+vless://b5818506-2de2-44e3-8c23-bd8406816ff8@a.mgtoken.net:9000?type=ws&security=tls&path=/&sni=a.mgtoken.net&fp=random#DE 🇩🇪 ┇ VLESS-WS-TLS - WIIT AG ┇ 78.31.64.157

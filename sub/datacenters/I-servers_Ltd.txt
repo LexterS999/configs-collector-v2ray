@@ -1,0 +1,1 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.188.181.214:80?type=ws&security=none&path=Telegram�...#FI 🇫🇮 ┇ VLESS-WS-NTLS - I-servers Ltd ┇ 185.188.181.214

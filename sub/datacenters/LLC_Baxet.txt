@@ -1,0 +1,3 @@
+vless://ac7e5f1e-1a04-4685-b075-cc9d8cff63b1@ru2.asc-sam.ir:8443?type=xhttp&security=tls&path=/rgtsreuiRYcfq=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - LLC Baxet ┇ 176.32.39.29
+vless://ab3bee31-6d56-4a50-8a84-70e114352783@knowledgemap.ubntddns.com:443?type=ws&security=tls&path=/getupdates#RU 🇷🇺 ┇ VLESS-WS-TLS - LLC Baxet ┇ 195.133.11.229
+vless://dec1d9ec-bca0-4fee-8829-0960c72b3cec@ru2.asc-sam.ir:443?type=http&security=tls&path=/@NoForcedHeavan@NoForcedHeavan@NoForcedHeavan@NoForcedHeavan@NoForcedHeavan&sni=ru2.asc-sam.ir&fp=chrome#RU 🇷🇺 ┇ VLESS-XHTTP-TLS - LLC Baxet ┇ 176.32.39.29

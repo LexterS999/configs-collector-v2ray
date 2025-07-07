@@ -1,0 +1,5 @@
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEZEQ1NFUlZFUlMgXHUyNTA3IDIxNi4yMjcuMTY4LjE1NyIsImFkZCI6IjIxNi4yMjcuMTY4LjE1NyIsInBvcnQiOjQ1NDE3LCJpZCI6IjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInBhdGgiOiIvIn0
+vless://d4e5f6a7-b8c9-0123-def0-456789abcdef@216.227.168.157:45235?type=ws&security=none&path=/Telegram@V2rayNG#US 🇺🇸 ┇ VLESS-WS-NTLS - FDCSERVERS ┇ 216.227.168.157
+vless://827545b9-5e1d-4e29-a97f-46b388891f57@::ffff:50.7.85.220:80?type=ws&security=none&path=/?ed=443#US 🇺🇸 ┇ VLESS-WS-NTLS - FDCSERVERS ┇ ::ffff:50.7.85.220
+vless://827545b9-5e1d-4e29-a97f-46b388891f57@::ffff:3207:55dc:80?type=ws&security=none&path=/?ed=443#US 🇺🇸 ┇ VLESS-WS-NTLS - FDCSERVERS ┇ ::ffff:3207:55dc
+vless://e5f6a7b8-c9d0-1234-ef01-56789abcdef0@216.227.168.157:45258?type=tcp&security=none#US 🇺🇸 ┇ VLESS-TCP-NTLS - FDCSERVERS ┇ 216.227.168.157

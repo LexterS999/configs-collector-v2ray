@@ -1,0 +1,1 @@
+vless://cbc043ca-bef6-431b-a182-5ca6446253bb@mech.sharghidustrial.ir:443?type=ws&security=tls&path=/9GUmETb6BT7sPyZ4Bfz0qA&sni=mech.sharghidustrial.ir&fp=chrome#NL 🇳🇱 ┇ VLESS-WS-TLS - Serverius Holding B.V. ┇ 88.218.17.244

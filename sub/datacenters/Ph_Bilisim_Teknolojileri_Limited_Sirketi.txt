@@ -1,0 +1,1 @@
+vless://e3cbe49a-6155-4da5-df7e-fce5d5ee9f5f@213.238.180.187:26448?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Ph Bilisim Teknolojileri Limited Sirketi ┇ 213.238.180.187

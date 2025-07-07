@@ -1,0 +1,1 @@
+vless://b02135e4-68d5-4f03-944e-06874e4d0598@lon5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - Clouvider Limited ┇ 85.239.60.43

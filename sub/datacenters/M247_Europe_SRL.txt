@@ -1,0 +1,3 @@
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@38.180.78.255:80?type=ws&security=none&path=Telegram🇨🇳#BR 🇧🇷 ┇ VLESS-WS-NTLS - M247 Europe SRL ┇ 38.180.78.255
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@38.180.79.9:80?type=ws&security=none&path=Telegram🇨🇳#BR 🇧🇷 ┇ VLESS-WS-NTLS - M247 Europe SRL ┇ 38.180.79.9
+vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - M247 Europe SRL ┇ 151.236.15.72

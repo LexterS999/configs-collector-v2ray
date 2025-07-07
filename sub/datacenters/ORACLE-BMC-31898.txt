@@ -1,0 +1,4 @@
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@64.110.104.30:443?type=ws&security=none#JP 🇯🇵 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 64.110.104.30
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?type=tcp&security=tls&sni=ako.pagate.top&fp=chrome&flow=xtls-rprx-vision-udp443#KR 🇰🇷 ┇ VLESS-TCP-TLS - ORACLE-BMC-31898 ┇ 130.162.147.187
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@193.122.115.67:4434?type=ws&security=none#KR 🇰🇷 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 193.122.115.67
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.9.139.160:443?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - ORACLE-BMC-31898 ┇ 192.9.139.160

@@ -1,0 +1,3 @@
+vless://5de591e3-e584-4b96-b78b-239da21286ec@a.ru.maviks.ru:443?type=tcp&security=reality&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC VK ┇ 83.166.238.80
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@91.225.219.114:443?type=ws&security=tls&path=/&sni=vkvd127.mycdn.me&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - LLC VK ┇ 91.225.219.114
+vless://588f094b-431b-422c-b80b-007945037072@usa01.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=usa01.abvpn.ru&fp=chrome#RU 🇷🇺 ┇ VLESS-WS-TLS - LLC VK ┇ 217.16.20.85

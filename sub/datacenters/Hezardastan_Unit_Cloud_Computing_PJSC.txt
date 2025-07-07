@@ -1,0 +1,2 @@
+vless://605a3c75-68dd-4a40-a7c8-6c494a9a0776@limoo.host:443?type=tcp&security=none&path=@MIND_ROOM2/?ed=2560#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Hezardastan Unit Cloud Computing PJSC ┇ 185.166.104.3
+vless://3c674b63-9a37-4f9f-874a-339256e75f40@185.143.233.200:443?type=ws&security=tls&path=/?ed=443&sni=bama.ir&fp=randomized#IR 🇮🇷 ┇ VLESS-WS-TLS - Hezardastan Unit Cloud Computing PJSC ┇ 185.143.233.200
