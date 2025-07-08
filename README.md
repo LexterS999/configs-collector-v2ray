@@ -1,3 +1,9 @@
+Конечно. Это простое и понятное изменение. Все ссылки и упоминания были обновлены.
+
+Вот итоговая версия документа.
+
+---
+
 # 🚀 V2Ray Config Collector
 
 ### Автоматизированный сбор, проверка и классификация конфигураций V2Ray
@@ -54,16 +60,16 @@
 
 ## 🗂️ Структура подписок
 
-Все подписки находятся в директории [`/sub`](https://github.com/PlanAsli/configs-collector-v2ray/tree/main/sub).
+Все подписки находятся в директории [`/sub`](https://github.com/LexterS999/configs-collector-v2ray/tree/main/sub).
 
-###  แยก По протоколу
+### По протоколу
 
 Эти файлы содержат конфигурации, сгруппированные по типу протокола.
 
 | Протокол | Описание | Ссылка на подписку |
 | :--- | :--- | :--- |
-| **Vmess** | Стандартный протокол V2Ray | [`📡 Ссылка`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/sub/protocols/vmess.txt) |
-| **Vless** | Облегченный протокол V2Ray | [`📡 Ссылка`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/sub/protocols/vless.txt) |
+| **Vmess** | Стандартный протокол V2Ray | [`📡 Ссылка`](https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/main/sub/protocols/vmess.txt) |
+| **Vless** | Облегченный протокол V2Ray | [`📡 Ссылка`](https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/main/sub/protocols/vless.txt) |
 
 #### ⭐ Избранные конфигурации (Custom)
 
@@ -71,8 +77,15 @@
 
 | Протокол | Описание | Ссылка на подписку |
 | :--- | :--- | :--- |
-| **Vmess (Custom)** | Vmess от избранных провайдеров | [`📡 Ссылка`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/sub/protocols/vmess_custom.txt) |
-| **Vless (Custom)** | Vless от избранных провайдеров | [`📡 Ссылка`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/sub/protocols/vless_custom.txt) |
+| **Vmess (Custom)** | Vmess от избранных провайдеров | [`📡 Ссылка`](https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/main/sub/protocols/vmess_custom.txt) |
+| **Vless (Custom)** | Vless от избранных провайдеров | [`📡 Ссылка`](https://raw.githubusercontent.com/LexterS999/configs-collector-v2ray/main/sub/protocols/vless_custom.txt) |
+
+### 🏢 По провайдеру (ASN)
+
+Для более точного выбора сервера конфигурации также сгруппированы по провайдерам.
+
+*   **[⭐ Избранные провайдеры (Custom Datacenters)](https://github.com/LexterS999/configs-collector-v2ray/tree/main/sub/custom_datacenters)** — папка с подписками от избранных провайдеров.
+*   **[🌐 Остальные провайдеры (Datacenters)](https://github.com/LexterS999/configs-collector-v2ray/tree/main/sub/datacenters)** — папка с подписками от всех остальных провайдеров.
 
 ---
 
@@ -109,11 +122,11 @@
 
 ## 📜 Лицензия
 
-Этот проект распространяется под лицензией MIT. Подробности смотрите в файле [LICENSE](https://github.com/PlanAsli/configs-collector-v2ray/blob/main/LICENSE).
+Этот проект распространяется под лицензией MIT. Подробности смотрите в файле [LICENSE](https://github.com/LexterS999/configs-collector-v2ray/blob/main/LICENSE).
 
 ---
 
 <div align="center">
   <strong>Создано с ❤️ для глобального сообщества</strong><br>
-  <a href="https://github.com/PlanAsli/configs-collector-v2ray">🌟 Поставьте звезду на GitHub</a>
+  <a href="https://github.com/LexterS999/configs-collector-v2ray">🌟 Поставьте звезду на GitHub</a>
 </div>
