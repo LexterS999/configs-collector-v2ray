@@ -74,27 +74,6 @@
 | **Vmess (Custom)** | Vmess от избранных провайдеров | [`📡 Ссылка`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/sub/protocols/vmess_custom.txt) |
 | **Vless (Custom)** | Vless от избранных провайдеров | [`📡 Ссылка`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/main/sub/protocols/vless_custom.txt) |
 
-### 🏢 По провайдеру (ASN)
-
-Для более точного выбора сервера конфигурации также сгруппированы по провайдерам.
-
-*   **[⭐ Избранные провайдеры (Custom Datacenters)](https://github.com/PlanAsli/configs-collector-v2ray/tree/main/sub/custom_datacenters)** — папка с подписками от избранных провайдеров.
-*   **[🌐 Остальные провайдеры (Datacenters)](https://github.com/PlanAsli/configs-collector-v2ray/tree/main/sub/datacenters)** — папка с подписками от всех остальных провайдеров.
-
-### 🌍 По странам
-
-<details>
-<summary><strong>Показать/скрыть список стран</strong></summary>
-
-| Страна | Код | Ссылка на подписку | Страна | Код | Ссылка на подписку |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 🇦🇫 Афганистан | AF | [`📡 Ссылка`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/AF.txt) | 🇦🇺 Австралия | AU | [`📡 Ссылка`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/AU.txt) |
-| ... | ... | ... | ... | ... | ... |
-<!-- Остальная часть таблицы стран остается без изменений -->
-| 🇿🇦 ЮАР | ZA | [`📡 Ссылка`](https://raw.githubusercontent.com/PlanAsli/configs-collector-v2ray/refs/heads/main/sub/countries/ZA.txt) | | | |
-
-</details>
-
 ---
 
 ## 🚀 Быстрый старт
