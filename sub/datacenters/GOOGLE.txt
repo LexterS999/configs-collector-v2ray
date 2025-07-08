@@ -1,4 +1,4 @@
+vless://90767dd0-5315-4ff0-a6ab-b6e8766feffd@151.101.6.200:443?type=ws&security=tls&path=/@aklisvpn@aklisvpn@aklisvpn@aklisvpn@aklisvpn@aklisvpn&sni=gmail.google.com&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 151.101.6.200
+vless://04c76e86-2702-e786-a826-ce73de558e03@167.82.231.255:443?type=ws&security=tls&path=/home?id=10&sni=google.com&fp=safari#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 167.82.231.255
 vless://80ebecda-dc08-4a75-b2b0-b31868ebc6bb@gcdn.freenet-rd.xyz:443?type=ws&security=tls&path=/ms138/&sni=gcdn.freenet-rd.xyz#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 216.239.32.21
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gR09PR0xFIFx1MjUwNyA4LjguOC44IiwiYWRkIjoiOC44LjguOCIsInBvcnQiOjQ0MywiaWQiOiJjYTAzOWU5OC00MzRkLTMxYTUtOTYyNy0wNTE5MjEwNzljYTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vless://04c76e86-2702-e786-a826-ce73de558e03@167.82.231.255:443?type=ws&security=tls&path=/home?id=10&sni=google.com&fp=safari#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 167.82.231.255
-vless://90767dd0-5315-4ff0-a6ab-b6e8766feffd@151.101.6.200:443?type=ws&security=tls&path=/@aklisvpn@aklisvpn@aklisvpn@aklisvpn@aklisvpn@aklisvpn&sni=gmail.google.com&fp=firefox#US 🇺🇸 ┇ VLESS-WS-TLS - GOOGLE ┇ 151.101.6.200

@@ -1,2 +1,3 @@
 vless://c4405794-1958-44c8-9dbe-660dad113053@87.248.154.160:52675?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 87.248.154.160
+vless://a80274e2-ff42-48b7-9817-41a5b56e0c72@networknim.cam:34927?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 213.176.6.50
 vless://272a9b53-172b-4f7f-87aa-d70237de1648@rocket.mrpro77.top:25054?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Ettelaat Fanavarn-E Tookan Co Ltd ┇ 87.248.154.225

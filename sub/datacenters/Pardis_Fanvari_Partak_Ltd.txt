@@ -1,0 +1,1 @@
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.200:443?type=ws&security=tls&path=/?ed=443&sni=cafeamiran.com&fp=randomized#IR 🇮🇷 ┇ VLESS-WS-TLS - Pardis Fanvari Partak Ltd ┇ 185.143.234.200

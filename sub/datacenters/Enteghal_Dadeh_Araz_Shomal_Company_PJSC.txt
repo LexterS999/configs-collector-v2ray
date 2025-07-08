@@ -1,5 +1,5 @@
-vless://fb78f8f9-ffb4-4a28-a30c-03ed58a3989e@193.111.235.151:8018?type=tcp&security=none&path=/momasvpn#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.151
-vless://8e27edfb-48c5-4f1d-a4ad-eada6b3377e0@193.134.101.202:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.134.101.202
 vless://607719a0-a074-488a-85bb-eacbcd410e3c@193.111.235.113:8443?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.113
-vless://cf2a626f-2fbc-4d55-8c49-750ed496df86@193.111.235.169:2070?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.169
 vless://fb78f8f9-ffb4-4a28-a30c-03ed58a3989e@193.111.235.125:1123?type=tcp&security=none&path=/momasvpn#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.125
+vless://8e27edfb-48c5-4f1d-a4ad-eada6b3377e0@193.134.101.202:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.134.101.202
+vless://cf2a626f-2fbc-4d55-8c49-750ed496df86@193.111.235.169:2070?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.169
+vless://fb78f8f9-ffb4-4a28-a30c-03ed58a3989e@193.111.235.151:8018?type=tcp&security=none&path=/momasvpn#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Araz Shomal Company PJSC ┇ 193.111.235.151

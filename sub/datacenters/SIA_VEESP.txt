@@ -1,2 +1,1 @@
 vless://Streisand_7899008@lat17.streisand.ru:443?type=tcp&security=reality#LV 🇱🇻 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 5.34.215.58
-vless://77aa0a1d-d027-4cee-b563-916f9f84a7f4@82.115.6.120:13397?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - SIA VEESP ┇ 82.115.6.120
