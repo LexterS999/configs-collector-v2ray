@@ -6,8 +6,8 @@
 
 ![Статус](https://img.shields.io/badge/Статус-Активен-brightgreen?style=for-the-badge&logo=github)
 ![Протоколы](https://img.shields.io/badge/Протоколы-Vmess%20%26%20Vless-blueviolet?style=for-the-badge&logo=v2ray)
-![Проверка](https://img.shields.io/badge/Проверка%20порта-Включена-blue?style=for-the-badge&logo=dependabot)
-![Обновление](https://img.shields.io/badge/Автообновление-Каждые%2030%20минут-teal?style=for-the-badge&logo=clock)
+![Проверка](https://img.shields.io/badge/Проверка%20порта-Выключена-blue?style=for-the-badge&logo=dependabot)
+![Обновление](https://img.shields.io/badge/Автообновление-Каждые%2012%20часов-teal?style=for-the-badge&logo=clock)
 ![Лицензия](https://img.shields.io/badge/Лицензия-MIT-lightgrey?style=for-the-badge&logo=mit)
 
 </div>
