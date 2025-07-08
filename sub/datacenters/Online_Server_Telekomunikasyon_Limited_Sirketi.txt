@@ -1,0 +1,1 @@
+vless://ce5d7c8a-bbab-4d8f-aa0a-6bd5d89fbbfc@93.127.180.218:59830?type=tcp&security=reality&fp=chrome&pbk=YkVQTHmL35lvxgLSEmrQllBOtXr6_BNPI7Cn0I0jQig#AE 🇦🇪 ┇ VLESS-TCP-RLT - Online Server Telekomunikasyon Limited Sirketi ┇ 93.127.180.218

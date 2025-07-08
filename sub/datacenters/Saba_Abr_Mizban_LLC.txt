@@ -1,6 +1,5 @@
-vless://53a58a9f-204a-4351-b093-16b9ada44071@num.2d2d.ir:2053?type=ws&security=tls&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 77.72.80.105
-vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.232.201:2053?type=ws&security=tls&path=/&sni=num.2d2d.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 185.143.232.201
-vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?type=ws&security=tls&path=/&sni=nv73.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 194.5.16.165
 vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.234.120:2053?type=ws&security=tls&path=/&sni=num.2d2d.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 185.143.234.120
+vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?type=ws&security=tls&path=/&sni=nv73.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 194.5.16.165
+vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.232.201:2053?type=ws&security=tls&path=/&sni=num.2d2d.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 185.143.232.201
+vless://53a58a9f-204a-4351-b093-16b9ada44071@num.2d2d.ir:2053?type=ws&security=tls&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 77.72.80.105
 vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.233.120:2053?type=ws&security=tls&path=/&sni=num.2d2d.ir&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 185.143.233.120
-vless://4d63aaf9-6345-4893-8e00-71c541d6f4ed@185.143.232.201:443?type=ws&security=tls&path=/&sni=nv155.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 185.143.232.201

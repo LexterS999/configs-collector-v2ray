@@ -1,2 +1,2 @@
-vless://f8e2ad01-4558-4207-87db-5991d64ca794@tiny-srv1.privacypath.org.tr:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Layer7 Networks GmbH ┇ 193.24.210.155
 vless://f8e2ad01-4558-4207-87db-5991d64ca794@tiny-srv1.privacypath.org.tr:830?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Layer7 Networks GmbH ┇ 193.24.210.155
+vless://f8e2ad01-4558-4207-87db-5991d64ca794@tiny-srv1.privacypath.org.tr:443?type=tcp&security=tls#DE 🇩🇪 ┇ VLESS-TCP-TLS - Layer7 Networks GmbH ┇ 193.24.210.155

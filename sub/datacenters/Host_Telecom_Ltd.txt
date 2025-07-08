@@ -1,1 +1,1 @@
-vless://aaf7709c-4f6a-45d4-8c79-e9917dfca010@irancloud.okamii.ir:2095?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - Host Telecom Ltd ┇ 87.121.47.4
+vmess://eyJ2IjoiMiIsInBzIjoiQkcgXHVkODNjXHVkZGU3XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEhvc3QgVGVsZWNvbSBMdGQgXHUyNTA3IDg3LjEyMS40Ny4xOSIsImFkZCI6Im5ldy1zdi1nci5zaG9wb25ldG9wLmNvbSIsInBvcnQiOjgwODEsImlkIjoiYzBjODE0OTEtM2Q5ZS00OWUxLTg0NjAtYzNkZTFjNDJlYjAyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
