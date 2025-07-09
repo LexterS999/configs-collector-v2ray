@@ -1,3 +1,3 @@
+vless://9808b32b-92b0-453d-96ae-2852f9dd2553@89.144.145.194:33806?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Andishe Sabz Khazar Co. P.j.s. ┇ 89.144.145.194
 vless://83a7505b-e777-4663-8d5f-793b8288fb04@dl3.vortecsclients.life:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Andishe Sabz Khazar Co. P.j.s. ┇ 89.144.145.202
-vless://eff43056-c514-4cf3-ba74-5f2402638098@89.144.145.194:1944?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Andishe Sabz Khazar Co. P.j.s. ┇ 89.144.145.194
-vless://eff43056-c514-4cf3-ba74-5f2402638098@89.144.145.194:33806?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Andishe Sabz Khazar Co. P.j.s. ┇ 89.144.145.194
+vless://9808b32b-92b0-453d-96ae-2852f9dd2553@89.144.145.194:1944?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Andishe Sabz Khazar Co. P.j.s. ┇ 89.144.145.194

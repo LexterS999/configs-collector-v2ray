@@ -1,10 +1,11 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.0.63.213:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.213
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@192.0.54.7:80?type=ws&security=none&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.54.7
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@192.0.63.13:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.13
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@192.0.54.254:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.54.254
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.0.63.20:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.20
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.0.54.213:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.54.213
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@192.0.54.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.54.251
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@192.0.63.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.251
 vless://f943ace2-4628-4022-9bdf-1db25e437e8d@192.0.63.81:443?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.81
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@192.0.63.254:8880?type=ws&security=none&path=/Telegram🇨🇳#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.254
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.0.54.213:8880?type=ws&security=none#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.54.213
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@192.0.54.251:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.54.251
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.0.63.213:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.213
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@192.0.54.7:80?type=ws&security=none&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.54.7
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@192.0.54.254:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.54.254
 vless://55520747-311e-4015-83ce-be46e2060ce3@192.0.54.0:443?type=ws&security=none&path=/?ed=2560security=tls#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.54.0
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@192.0.63.13:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US 🇺🇸 ┇ VLESS-WS-NTLS - Q2HOLDINGS ┇ 192.0.63.13

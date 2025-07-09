@@ -1,0 +1,1 @@
+vless://677a8b21-aea4-49af-9017-f3c505218547@147.45.225.188:443?type=tcp&security=reality#RU 🇷🇺 ┇ VLESS-TCP-RLT - Timeweb, LLP ┇ 147.45.225.188

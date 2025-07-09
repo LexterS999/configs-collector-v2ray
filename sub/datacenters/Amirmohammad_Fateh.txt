@@ -1,1 +1,0 @@
-vless://eb8a5ef9-cdbc-40aa-92b1-c850d0f0d7e7@104.17.148.22:2096?type=grpc&security=tls&sni=sooeidq.chmarz.com&fp=chrome#SE 🇸🇪 ┇ VLESS-GRPC-TLS - Amirmohammad Fateh ┇ 104.17.148.22

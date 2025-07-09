@@ -1,1 +1,2 @@
 vless://98635c25-7ce5-416e-9a45-3fcadc878f93@62739db65dd1d340.jjavaher.ir:11001?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Servers Tech Fzco ┇ 146.103.97.79
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?type=grpc&security=none#NL 🇳🇱 ┇ VLESS-GRPC-NTLS - Servers Tech Fzco ┇ 146.103.97.134

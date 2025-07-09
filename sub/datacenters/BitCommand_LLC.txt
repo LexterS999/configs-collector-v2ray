@@ -1,2 +1,2 @@
-vless://6484f053-9cca-4f0c-9995-1aaf257f6294@722309294.web-manage.com.tr:1523?type=tcp&security=none&sni=testspeed-foreign.tci.ir#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 91.99.237.138
+vless://6484f053-9cca-4f0c-9995-1aaf257f6294@722309294.web-manage.com.tr:1523?type=tcp&security=none&sni=testspeed-foreign.tci.ir#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 91.99.239.228
 vless://815724d3-0d61-4761-be07-471441d42be5@185.208.173.3:80?type=ws&security=none&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#GB 🇬🇧 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 185.208.173.3
