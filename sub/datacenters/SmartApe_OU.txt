@@ -1,1 +1,1 @@
-vless://c6dc0800-0732-4946-b0cc-4cecb1ee3b98@free-il.vpnkey.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#IL 🇮🇱 ┇ VLESS-TCP-TLS - SmartApe OU ┇ 185.239.48.109
+vless://d7734bc0-ec41-4bfb-b677-b1da7311d9ef@tel5.vpntype.dev:443?type=tcp&security=tls&sni=tel5.vpntype.dev&fp=chrome&flow=xtls-rprx-vision#IL 🇮🇱 ┇ VLESS-TCP-TLS - SmartApe OU ┇ 185.239.48.109

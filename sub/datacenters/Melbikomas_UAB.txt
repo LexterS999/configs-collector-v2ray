@@ -1,3 +1,3 @@
 vless://f2d1b51c-6624-4f31-8496-d9bc67cf49fe@103.97.88.93:2052?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Melbikomas UAB ┇ 103.97.88.93
 vless://97c136a7-da4b-40b7-af73-1321f9e75fe8@109.122.201.224:2095?type=tcp&security=none#SE 🇸🇪 ┇ VLESS-TCP-NTLS - Melbikomas UAB ┇ 109.122.201.224
-vless://a040115b-aaef-4851-9ba0-d558bba55359@185.140.211.50:2052?type=grpc&security=none#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Melbikomas UAB ┇ 185.140.211.50
+vless://a040115b-aaef-4851-9ba0-d558bba55359@185.140.211.50:2052?type=grpc&security=none&fp=chrome#US 🇺🇸 ┇ VLESS-GRPC-NTLS - Melbikomas UAB ┇ 185.140.211.50

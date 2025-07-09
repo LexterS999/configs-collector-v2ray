@@ -1,1 +1,1 @@
-vless://8c83ff8b-b857-4d31-aeeb-1ccfffd4215a@free-hk.vpnkey.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#HK 🇭🇰 ┇ VLESS-TCP-TLS - Tele Asia Limited ┇ 103.253.43.210
+vless://08a0dbe1-444a-4623-8cc9-b0658378a885@free-hk.vpnkey.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#HK 🇭🇰 ┇ VLESS-TCP-TLS - Tele Asia Limited ┇ 103.253.43.210

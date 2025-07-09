@@ -1,3 +1,3 @@
-vless://98f6bad3-37ea-4b8e-8892-e759c0c0c67b@84.234.31.140:66?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.31.140
 vless://5f64020c-87d6-4784-bc48-63a55499d173@84.234.31.224:55?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.31.224
+vless://98f6bad3-37ea-4b8e-8892-e759c0c0c67b@84.234.31.140:66?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.31.140
 vless://981ae220-1c73-4334-942e-24c9b476f44f@84.234.31.243:20244?type=tcp&security=none#CH 🇨🇭 ┇ VLESS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.31.243

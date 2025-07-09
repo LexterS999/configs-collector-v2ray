@@ -1,28 +1,28 @@
 vless://f2bcfdd0-71f7-46ba-96fb-a859cd356d34@85.133.218.156:2053?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 85.133.218.156
-vless://b9ddfd3b-07a2-4f1f-bef7-84f821d2c460@213.176.126.201:8658?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.201
-vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.239:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.239
-vless://47fe403a-12a1-4e59-9652-9df228b6527f@185.239.1.3:1181?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.239.1.3
-vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.231:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.231
+vless://bbad4026-54a7-4681-a28e-f60efd857ab5@tn.pingtools.net:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.238
 vless://9084b11c-da3f-4c3f-af79-226a119c880d@62.60.138.25:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.25
 vless://cfaaa473-21d5-433c-a82a-3814d2c024fe@85.133.219.236:28643?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 85.133.219.236
-vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.233:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.233
-vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.230:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.230
-vless://47fe403a-12a1-4e59-9652-9df228b6527f@185.239.1.23:1788?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.239.1.23
 vless://8cd215f0-de05-4425-98c7-efabb09c375b@62.60.138.155:8089?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 62.60.138.155
+vless://a75bdccd-fc01-49ae-9a5b-2962b8da40e2@vngir.venusconnection.online:8443?type=ws&security=none&path=/netherlands#IR 🇮🇷 ┇ VLESS-WS-NTLS - GeniusMind S.A. ┇ 213.176.126.131
 vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.229:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.229
-vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.235:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.235
 vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.226:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.226
 vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.237:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.237
-vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.232:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.232
-vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.227:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.227
-vless://a75bdccd-fc01-49ae-9a5b-2962b8da40e2@vngir.venusconnection.online:8443?type=ws&security=none&path=/netherlands#IR 🇮🇷 ┇ VLESS-WS-NTLS - GeniusMind S.A. ┇ 213.176.126.131
-vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.236:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.236
-vless://ef3f6f19-f286-4615-ba0b-63c7f9692a30@85.133.219.236:53403?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 85.133.219.236
-vless://3b149a41-3288-4eb2-a384-7d413d172480@s3.nimhub.ir:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.214
-vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.238:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.238
-vless://ecfa04fa-d217-4556-81ff-53a76b19cc4c@213.176.126.201:5077?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.201
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdlbml1c01pbmQgUy5BLiBcdTI1MDcgMTg1LjIzOS4xLjE1NiIsImFkZCI6ImRuMjkubXVsdGktcGFuZWwuaW5mbyIsInBvcnQiOjMyNjQsImlkIjoiYTEzZTY3MDgtZmMyZi00ZWZkLTg0YjEtN2I1MGIxMzc1NjE3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vless://8dd2918e-f50a-4f0b-82b4-31c0431c2d76@meti.filtergozarnet.online:29819?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.0.169
-vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.234:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.234
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdlbml1c01pbmQgUy5BLiBcdTI1MDcgMTg1LjIzOS4xLjkwIiwiYWRkIjoib3A1Lm11bHRpLXBhbmVsLmluZm8iLCJwb3J0IjoyMDQ1LCJpZCI6IjEwNmFmYzcwLTA4ZGQtNGNiMi1iNmY5LTk2NDY5NDI4N2JhNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.235:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.235
+vless://b9ddfd3b-07a2-4f1f-bef7-84f821d2c460@213.176.126.201:8658?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.201
 vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.228:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.228
+vless://47fe403a-12a1-4e59-9652-9df228b6527f@185.239.1.23:1788?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.239.1.23
+vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.227:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.227
+vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.231:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.231
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdlbml1c01pbmQgUy5BLiBcdTI1MDcgMTg1LjIzOS4xLjE1NiIsImFkZCI6ImRuMjkubXVsdGktcGFuZWwuaW5mbyIsInBvcnQiOjMyNjQsImlkIjoiYTEzZTY3MDgtZmMyZi00ZWZkLTg0YjEtN2I1MGIxMzc1NjE3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
+vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.236:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.236
+vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.234:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.234
+vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.232:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.232
+vless://8dd2918e-f50a-4f0b-82b4-31c0431c2d76@meti.filtergozarnet.online:29819?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.0.169
+vless://47fe403a-12a1-4e59-9652-9df228b6527f@185.239.1.3:1181?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 185.239.1.3
+vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.239:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.239
+vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.233:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.233
+vless://3b149a41-3288-4eb2-a384-7d413d172480@s3.nimhub.ir:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.214
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEdlbml1c01pbmQgUy5BLiBcdTI1MDcgMTg1LjIzOS4xLjkwIiwiYWRkIjoib3A1Lm11bHRpLXBhbmVsLmluZm8iLCJwb3J0IjoyMDQ1LCJpZCI6IjEwNmFmYzcwLTA4ZGQtNGNiMi1iNmY5LTk2NDY5NDI4N2JhNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vless://ecfa04fa-d217-4556-81ff-53a76b19cc4c@213.176.126.201:5077?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 213.176.126.201
+vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.230:2087?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 109.95.67.230
+vless://ef3f6f19-f286-4615-ba0b-63c7f9692a30@85.133.219.236:53403?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - GeniusMind S.A. ┇ 85.133.219.236

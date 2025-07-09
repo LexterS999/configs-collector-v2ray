@@ -1,8 +1,9 @@
-vless://0adfd6b8-baac-4a91-88dc-7f2bdb4274c8@45.84.88.243:53758?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 45.84.88.243
+vless://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.130.207.161
+vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgOTUuMTgyLjk4LjMzIiwiYWRkIjoiOTUuMTgyLjk4LjMzIiwicG9ydCI6NDQzLCJpZCI6IjYxMjIyYzU3LWEyNzctNGU3MS05YWNiLThlODdmNzBiZDczNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgNDUuODQuODguOTQiLCJhZGQiOiI0NS44NC44OC45NCIsInBvcnQiOjQ0MywiaWQiOiI0Y2NiZmZhNC05Mzk0LTRmOTAtZGQ3Yi00ZmFkMjU5Y2I2MzEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vless://b32ce549-af1a-4033-9403-1e340c09b8fc@188.130.207.192:8443?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.130.207.192
-vmess://eyJ2IjoiMiIsInBzIjoiRlIgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgOTUuMTgyLjk4LjMzIiwiYWRkIjoiOTUuMTgyLjk4LjMzIiwicG9ydCI6NDQzLCJpZCI6IjYxMjIyYzU3LWEyNzctNGU3MS05YWNiLThlODdmNzBiZDczNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?type=tcp&security=none#FR 🇫🇷 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 188.130.207.161
 vmess://eyJ2IjoiMiIsInBzIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENnaSBHbG9iYWwgTGltaXRlZCBcdTI1MDcgNDYuOC4yMjYuMjA3IiwiYWRkIjoiNDYuOC4yMjYuMjA3IiwicG9ydCI6NDQzLCJpZCI6ImNiNDA2OTExLTJjZmMtNDM5MC1kYzViLTE3NzMwZTFlOTk1YSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
 vless://bfe995f7-72dd-4e50-8211-e66d466a9c75@194.120.116.106:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.120.116.106
+vless://226a5194-ad7a-4aca-9852-e84aeca24381@vizzpn.freenet.vizzfrag.ir:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.116.215.36
+vless://f20b0dd8-3fcb-4b85-bfed-3912bc107bf8@moonl.querenciavib.xyz:41567?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 46.8.231.131
 vless://8126d880-e260-4b01-b0d5-da6cc1231d47@194.116.216.105:80?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Cgi Global Limited ┇ 194.116.216.105
