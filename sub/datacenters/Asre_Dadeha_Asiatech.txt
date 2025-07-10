@@ -1,32 +1,32 @@
-vless://4f83c530-ae0f-4ecf-92ea-34cd6fa2bb41@tnl2.lalash.ir:58519?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.133.247
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgRGFkZWhhIEFzaWF0ZWNoIFx1MjUwNyAxOTMuMTUxLjE0Mi4zNiIsImFkZCI6IjE5My4xNTEuMTQyLjM2IiwicG9ydCI6OTAwNywiaWQiOiJlMWE2MDM3NC1kOTJmLTQxYzYtYjhjZC1jMDE0NWJjZTBiNTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgRGFkZWhhIEFzaWF0ZWNoIFx1MjUwNyAxOTMuMTUxLjE0My4xMDkiLCJhZGQiOiIxOTMuMTUxLjE0My4xMDkiLCJwb3J0Ijo5MDA3LCJpZCI6ImUxYTYwMzc0LWQ5MmYtNDFjNi1iOGNkLWMwMTQ1YmNlMGI1MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://6cc03cd6-918d-4604-9b6c-581cc4663a27@us10.newmew.site:2086?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.131.158
-vless://5c6bf13d-a5c7-4838-9efd-46866b022df2@85.198.10.237:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.10.237
-vless://8b9f16d3-d652-4ad7-a25a-1bed92fba54e@wolf550.api-tel.xyz:52675?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.19
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgRGFkZWhhIEFzaWF0ZWNoIFx1MjUwNyAxOTMuMTUxLjE0My4yMDQiLCJhZGQiOiIxOTMuMTUxLjE0My4yMDQiLCJwb3J0Ijo5MDA3LCJpZCI6ImUxYTYwMzc0LWQ5MmYtNDFjNi1iOGNkLWMwMTQ1YmNlMGI1MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vless://122aef10-4b10-4f31-9f01-bc3a1dcec480@sub.v2rezchannel.ir:17841?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.10.163
+vless://5c6bf13d-a5c7-4838-9efd-46866b022df2@85.198.10.237:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.10.237
+vless://d294704b-a728-4395-ac07-505902aa04b8@193.151.130.152:8070?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.130.152
+vless://2375819c-b701-4cee-9a68-9db1b79c7d84@193.151.130.152:8080?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.130.152
+vless://dbc9b263-f858-44c1-af4f-4e4ee1723490@cb11.connectbaash.info:4411?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.21.152
+vless://e48eda24-bd30-4e93-84f3-a164ee69808b@jdio.mestershop.top:57453?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.136.19
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgRGFkZWhhIEFzaWF0ZWNoIFx1MjUwNyAxOTMuMTUxLjE0Mi4zNiIsImFkZCI6IjE5My4xNTEuMTQyLjM2IiwicG9ydCI6OTAwNywiaWQiOiJlMWE2MDM3NC1kOTJmLTQxYzYtYjhjZC1jMDE0NWJjZTBiNTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
+vless://f5f03852-438f-4b46-e0d5-ab95b062bec7@193.151.140.34:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.140.34
+vless://37616cb2-7853-4cbf-acc0-24818df2c89b@193.151.133.67:2070?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.133.67
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@meli1.dashvili.ir:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 85.198.16.221
+vless://18c3b40f-0132-4ffd-a942-cd2dd754048f@85.198.22.93:38223?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.93
+vless://c443e676-d800-4150-ad48-39ceb095331f@6f.startrich.site:8441?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.139.157
+vless://7b9a615e-9597-44bc-a79f-be7119555023@193.151.133.249:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.133.249
 vless://a985dc37-e4f5-4d57-ac81-2087bf2fafae@193.151.146.202:503?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Asre Dadeha Asiatech ┇ 193.151.146.202
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgRGFkZWhhIEFzaWF0ZWNoIFx1MjUwNyAxOTMuMTUxLjE0Mi45MiIsImFkZCI6IjE5My4xNTEuMTQyLjkyIiwicG9ydCI6OTAwNywiaWQiOiJlMWE2MDM3NC1kOTJmLTQxYzYtYjhjZC1jMDE0NWJjZTBiNTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0
-vless://0898a07d-41df-40ce-ee2b-2fa2acb86abd@193.151.140.34:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.140.34
-vless://3afde9ea-a4c1-49e4-bbee-b401087215d0@193.151.133.67:2080?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.133.67
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXNyZSBEYWRlaGEgQXNpYXRlY2ggXHUyNTA3IDE5My4xNTEuMTQ5Ljc2IiwiYWRkIjoiMTkzLjE1MS4xNDkuNzYiLCJwb3J0IjozMDI4NiwiaWQiOiJiMWExMzVjZi0xMTgxLTRhYjktYTdiYy01OTk0Y2RjNmY0N2IiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vless://18c3b40f-0132-4ffd-a942-cd2dd754048f@85.198.22.93:38223?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.93
-vless://7b9a615e-9597-44bc-a79f-be7119555023@193.151.133.249:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.133.249
-vless://ede47a23-ef5e-4dd3-adc6-27fc3bbfcb7e@85.198.22.57:45646?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.57
-vless://c443e676-d800-4150-ad48-39ceb095331f@6f.startrich.site:8441?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.139.157
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@meli1.dashvili.ir:80?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 85.198.16.221
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgRGFkZWhhIEFzaWF0ZWNoIFx1MjUwNyAxOTMuMTUxLjEzNC4yNDIiLCJhZGQiOiJkZS5zcGVlZGh1bnRlci50b3AiLCJwb3J0IjoyMTI1NywiaWQiOiI2OTJjZjk0OS1iY2YyLTRjYWQtODA2Ny0yNzYyYjhlMjQ4NzQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://c443e676-d800-4150-ad48-39ceb095331f@2f.startrich.site:8441?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.130.27
-vless://7f4fa26b-5165-402a-8252-14763e755bb0@maskunlimit51.royalmt.life:11906?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.202
-vless://d294704b-a728-4395-ac07-505902aa04b8@193.151.130.152:8070?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.130.152
-vless://e7cbde12-2b8a-48a4-9ad8-544a46fa2af0@asia1.zalo-oil.ir:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.13.16
-vless://dbc9b263-f858-44c1-af4f-4e4ee1723490@cb11.connectbaash.info:4411?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.21.152
 vless://80346ffe-9019-4352-b9f1-2437d54b5477@eng.mestershop.top:51255?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.136.52
-vless://2375819c-b701-4cee-9a68-9db1b79c7d84@193.151.130.152:8080?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.130.152
-vless://858b879c-fa23-492e-8327-023f47acbe6c@85.198.22.202:12214?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.202
-vless://82d061e2-2cc3-4d57-99d5-554ce71a0df7@x9.litlit.top:47059?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.197
-vless://b4f31041-f53a-4a86-8058-7771084888bf@85.198.22.93:38221?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.93
-vless://149eee11-9ae2-4231-aded-67618d9668d3@85.198.15.85:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.15.85
-vless://e48eda24-bd30-4e93-84f3-a164ee69808b@jdio.mestershop.top:57453?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.136.19
 vless://d069ad2c-82c0-4295-837d-479c81a314d4@tell.nitruconfing.com:2087?type=tcp&security=tls&sni=tell.nitruconfing.com&fp=chrome#IR 🇮🇷 ┇ VLESS-TCP-TLS - Asre Dadeha Asiatech ┇ 193.151.129.179
+vless://db70c41b-bbed-4f5c-b51c-e0c37eb69389@tor.torprospeed.ir:213?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.21.210
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgRGFkZWhhIEFzaWF0ZWNoIFx1MjUwNyAxOTMuMTUxLjE0My4yMDQiLCJhZGQiOiIxOTMuMTUxLjE0My4yMDQiLCJwb3J0Ijo5MDA3LCJpZCI6ImUxYTYwMzc0LWQ5MmYtNDFjNi1iOGNkLWMwMTQ1YmNlMGI1MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vless://3afde9ea-a4c1-49e4-bbee-b401087215d0@193.151.133.67:2080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.133.67
+vless://82d061e2-2cc3-4d57-99d5-554ce71a0df7@x9.litlit.top:47059?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.197
+vless://6cc03cd6-918d-4604-9b6c-581cc4663a27@us10.newmew.site:2086?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.131.158
+vless://ede47a23-ef5e-4dd3-adc6-27fc3bbfcb7e@85.198.22.57:45646?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.57
+vless://858b879c-fa23-492e-8327-023f47acbe6c@85.198.22.202:12214?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.202
+vless://e7cbde12-2b8a-48a4-9ad8-544a46fa2af0@asia1.zalo-oil.ir:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.13.16
+vless://c443e676-d800-4150-ad48-39ceb095331f@2f.startrich.site:8441?type=ws&security=none#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 193.151.130.27
+vless://149eee11-9ae2-4231-aded-67618d9668d3@85.198.15.85:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.15.85
+vless://8b9f16d3-d652-4ad7-a25a-1bed92fba54e@wolf550.api-tel.xyz:52675?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.19
+vless://b4f31041-f53a-4a86-8058-7771084888bf@85.198.22.93:38221?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.93
+vless://7f4fa26b-5165-402a-8252-14763e755bb0@maskunlimit51.royalmt.life:11906?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asre Dadeha Asiatech ┇ 85.198.22.202
+vless://4f83c530-ae0f-4ecf-92ea-34cd6fa2bb41@tnl2.lalash.ir:58519?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asre Dadeha Asiatech ┇ 193.151.133.247
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFzcmUgRGFkZWhhIEFzaWF0ZWNoIFx1MjUwNyAxOTMuMTUxLjE0My4xMDkiLCJhZGQiOiIxOTMuMTUxLjE0My4xMDkiLCJwb3J0Ijo5MDA3LCJpZCI6ImUxYTYwMzc0LWQ5MmYtNDFjNi1iOGNkLWMwMTQ1YmNlMGI1MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ

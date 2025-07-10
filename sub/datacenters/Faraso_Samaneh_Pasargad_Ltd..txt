@@ -1,1 +1,1 @@
-vless://c6d3fbea-72d5-46c9-a6a1-1225ed8ff6f7@as6.irantls.com:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Faraso Samaneh Pasargad Ltd. ┇ 185.2.15.232
+vless://d1182cea-8c20-4ce2-98ca-92547ac9646e@as6.irantls.com:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Faraso Samaneh Pasargad Ltd. ┇ 185.2.15.232

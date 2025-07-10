@@ -1,2 +1,0 @@
-vless://b25fb1a1-b04c-4b6f-89cb-5300d072030c@46.3.104.7:60565?type=ws&security=tls#HK 🇭🇰 ┇ VLESS-WS-TLS - Sakura Link Limited ┇ 46.3.104.7
-vless://b25fb1a1-b04c-4b6f-89cb-5300d072030c@46.3.109.215:5320?type=ws&security=tls#HK 🇭🇰 ┇ VLESS-WS-TLS - Sakura Link Limited ┇ 46.3.109.215

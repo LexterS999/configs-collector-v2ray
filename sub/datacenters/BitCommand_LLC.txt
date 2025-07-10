@@ -1,3 +1,6 @@
-vless://6484f053-9cca-4f0c-9995-1aaf257f6294@722309294.web-manage.com.tr:1523?type=tcp&security=none&sni=testspeed-foreign.tci.ir#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 91.99.204.171
-vless://fd94110c-e1cd-4f97-85e7-663807dcf761@parspack.com:80?type=ws&security=none&path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2048#GB 🇬🇧 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 185.208.173.3
+vless://6484f053-9cca-4f0c-9995-1aaf257f6294@722309294.web-manage.com.tr:1523?type=tcp&security=none&sni=testspeed-foreign.tci.ir#DE 🇩🇪 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 91.99.237.138
+vless://815724d3-0d61-4761-be07-471441d42be5@185.208.173.3:80?type=ws&security=none&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#GB 🇬🇧 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 185.208.173.3
 vless://69e67252-c0c2-4c16-a811-40864cb5c87a@ir01.oghabvps.com:2096?type=ws&security=none&path=/#TR 🇹🇷 ┇ VLESS-WS-NTLS - BitCommand LLC ┇ 89.251.8.53
+vless://9f4b9d0e-a0c7-4f38-a8e8-471c74e4eadb@ir01.oghabvps.com:2022?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 89.251.8.53
+vless://cbea754d-4ae1-4260-f86d-124a107255e7@vizzpn.freenet.vizzfrag.ir:80?type=xhttp&security=none&path=/#TR 🇹🇷 ┇ VLESS-XHTTP-NTLS - BitCommand LLC ┇ 89.251.8.53
+vless://226a5194-ad7a-4aca-9852-e84aeca24381@vizzpn.freenet.vizzfrag.ir:443?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - BitCommand LLC ┇ 89.251.8.53

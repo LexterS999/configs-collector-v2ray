@@ -1,1 +1,1 @@
-vless://6ce93d15-9488-4208-914b-6ee32af0df0e@italy.france-learns.ir:42538?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.61.118
+vless://4bd6549f-3a16-407c-8151-89d7e6f64e14@217.61.61.118:42538?type=tcp&security=none&path=/#IT 🇮🇹 ┇ VLESS-TCP-NTLS - Aruba S.p.A. ┇ 217.61.61.118

@@ -1,2 +1,1 @@
-vless://34e5ee5f-5a7d-4573-e99c-cd746bb44625@193.111.76.208:44709?type=tcp&security=reality&fp=chrome&pbk=G4j0yriPGHR5GFIb2Ad-5KbEmMBWAgTkNFnwAhpA5Dc#TR 🇹🇷 ┇ VLESS-TCP-RLT - Online Server Telekomunikasyon Limited Sirketi ┇ 193.111.76.208
-vless://21d8d212-9f3f-4f30-88a8-5411fde2962b@tun.mellivmess.com:50381?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 45.136.5.75
+vless://21d8d212-9f3f-4f30-88a8-5411fde2962b@tun.mellivmess.com:50381?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 45.136.5.229

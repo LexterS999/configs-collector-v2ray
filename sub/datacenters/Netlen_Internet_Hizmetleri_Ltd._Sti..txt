@@ -1,1 +1,2 @@
-vless://ee87b3e9-f209-474b-b3a6-0da0c80ab2e6@srv4.amazon-osishop.ir:8880?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 93.180.134.176
+vless://4d2f4a48-c525-419e-97ac-317ff398aa7b@93.180.134.171:8880?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 93.180.134.171
+vless://2bc31b80-7870-47e2-b6d7-4358108c0646@0us.amazon-osishop.ir:8880?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netlen Internet Hizmetleri Ltd. Sti. ┇ 93.180.134.170

@@ -1,23 +1,22 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFmcmFuZXQgXHUyNTA3IDc5LjE3NS4xMzEuNSIsImFkZCI6IklQLk1pZGFzTmV0LndvcmsiLCJwb3J0Ijo1MDA2LCJpZCI6IjZkYmMzY2FkZWZlYzQ5OGJiZmM4YjRkYThkOGRjMTZjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://2b671c98-b5b2-46ed-a3fa-76cdeb6b8ab8@79.175.188.158:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.188.158
-vless://60ef9d45-8270-7f32-3e55-a5b1ef51ae11@v5xray.officialvpn.shop:5054?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.129.191
-vless://b2a42e8d-66d6-42b4-b57b-e974d107ae18@79.175.167.98:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.98
-vless://1708216e-a8f3-4147-b2ac-9683a122773a@78.109.194.189:10000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.194.189
-vless://3e77d8c7-5909-4a3d-aeb2-7ae8fc743fc8@raz6.kavehe.sbs:14980?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.193.221
-vless://c0fabb39-9866-4659-8641-a1bf1f69179d@79.175.133.192:2092?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.133.192
-vless://3705b32a-3b29-42b9-827e-6d2ead3472fe@netorg.nightwolf.shop:35457?type=grpc&security=none#IR 🇮🇷 ┇ VLESS-GRPC-NTLS - Afranet ┇ 79.175.129.101
-vless://2b671c98-b5b2-46ed-a3fa-76cdeb6b8ab8@79.175.188.157:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.188.157
-vless://55246d84-4473-4277-bc9b-86033a63dfcd@79.175.162.225:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.162.225
-vless://05740a6f-828f-4246-a29b-91650da0bafe@ir1076.aten3.fun:15153?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 81.90.147.19
-vless://3782c3f0-16d4-4440-9fbb-8960173cbdbc@farshad2_2.vaynevpn.com:53050?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.193.29
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFmcmFuZXQgXHUyNTA3IDgxLjkwLjE1MS4zNSIsImFkZCI6InBubC5zaG9kLWpqY29kLmNvbSIsInBvcnQiOjQ0MywiaWQiOiJlYWRkMThlOC04ZDUzLTQzZDMtOTY2Yi05YmNlYmQwZTExNmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://c0fabb39-9866-4659-8641-a1bf1f69179d@79.175.167.55:2092?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.55
-vless://66342ffa-31c9-4ab4-9cf4-7126b28402ba@86.104.32.40:1111?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 86.104.32.40
-vless://c0fabb39-9866-4659-8641-a1bf1f69179d@93.113.238.147:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 93.113.238.147
-vless://011037be-bead-472b-8201-4cdbdab8f2fa@93.113.238.32:225?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 93.113.238.32
-vless://74e0f9b9-e7d4-400c-bcc3-cc0fbdf7bc58@netorg.nightwolf.shop:53769?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.129.101
-vless://c39a97ac-7e05-4b0c-8ef8-2d456309317a@31.14.123.143:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.123.143
-vless://0d2a1ab9-1311-48b5-b8e8-ebf042c4d393@78.109.194.197:58914?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.194.197
 vless://27690ef1-24e1-49d4-8454-0dc126e28fed@root5.madakto.space:5544?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.47.45.200
+vless://55246d84-4473-4277-bc9b-86033a63dfcd@79.175.162.225:8080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.162.225
+vless://7d8a01b2-a14e-4984-ba66-1212e2f88687@netorg.nightwolf.shop:53769?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.129.101
+vless://60ef9d45-8270-7f32-3e55-a5b1ef51ae11@v5xray.officialvpn.shop:5054?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.129.191
+vless://0d2a1ab9-1311-48b5-b8e8-ebf042c4d393@78.109.194.197:58914?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.194.197
+vless://05740a6f-828f-4246-a29b-91650da0bafe@ir1076.aten3.fun:15153?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 81.90.147.19
+vless://c0fabb39-9866-4659-8641-a1bf1f69179d@79.175.167.55:2092?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.55
+vless://011037be-bead-472b-8201-4cdbdab8f2fa@93.113.238.32:225?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 93.113.238.32
+vless://66342ffa-31c9-4ab4-9cf4-7126b28402ba@86.104.32.40:1111?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 86.104.32.40
 vless://baa8515f-1f4b-4e9d-8ff7-f32efaae5e8b@ir98.zdf2024.fun:3001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 81.90.147.222
+vless://1708216e-a8f3-4147-b2ac-9683a122773a@78.109.194.189:10000?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.194.189
+vless://3782c3f0-16d4-4440-9fbb-8960173cbdbc@farshad2_2.vaynevpn.com:53050?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.193.29
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFmcmFuZXQgXHUyNTA3IDc5LjE3NS4xMzEuNSIsImFkZCI6IklQLk1pZGFzTmV0LndvcmsiLCJwb3J0Ijo1MDA2LCJpZCI6IjZkYmMzY2FkZWZlYzQ5OGJiZmM4YjRkYThkOGRjMTZjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
+vless://2b671c98-b5b2-46ed-a3fa-76cdeb6b8ab8@79.175.188.157:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.188.157
+vless://3e77d8c7-5909-4a3d-aeb2-7ae8fc743fc8@raz6.kavehe.sbs:14980?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 78.109.193.221
+vless://c0fabb39-9866-4659-8641-a1bf1f69179d@93.113.238.147:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 93.113.238.147
+vless://c39a97ac-7e05-4b0c-8ef8-2d456309317a@31.14.123.143:80?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 31.14.123.143
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFmcmFuZXQgXHUyNTA3IDgxLjkwLjE1MS4zNSIsImFkZCI6InBubC5zaG9kLWpqY29kLmNvbSIsInBvcnQiOjQ0MywiaWQiOiJlYWRkMThlOC04ZDUzLTQzZDMtOTY2Yi05YmNlYmQwZTExNmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://b2a42e8d-66d6-42b4-b57b-e974d107ae18@79.175.167.98:8081?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.167.98
+vless://c0fabb39-9866-4659-8641-a1bf1f69179d@79.175.133.192:2092?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.133.192
 vless://c0fabb39-9866-4659-8641-a1bf1f69179d@79.175.177.159:2092?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Afranet ┇ 79.175.177.159

@@ -1,5 +1,5 @@
-vless://666919bf-5bed-442c-bf03-c7e62a6ea4b8@fast.v2sub.online:80?type=xhttp&security=none&path=/#LT 🇱🇹 ┇ VLESS-XHTTP-NTLS - Hostinger International Limited ┇ 84.32.84.33
+vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@solid.footballlovernews.com:443?type=ws&security=tls&path=/solid&sni=solid.footballlovernews.com#LT 🇱🇹 ┇ VLESS-WS-TLS - Hostinger International Limited ┇ 84.32.84.33
+vless://b7155dd2-eaac-4570-85b7-7138e7b45e49@fast.v2sub.online:80?type=xhttp&security=none&path=/#LT 🇱🇹 ┇ VLESS-XHTTP-NTLS - Hostinger International Limited ┇ 84.32.84.33
 vless://696c96fa-5467-4d2e-bfe5-b529222064bd@188.114.96.2:2096?type=grpc&security=tls&sni=v2rayfree1.v2rayfree1.space#LT 🇱🇹 ┇ VLESS-GRPC-TLS - Hostinger International Limited ┇ 188.114.96.2
-vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@steel.footballlovernews.com:443?type=ws&security=tls&path=/steel&sni=steel.footballlovernews.com#LT 🇱🇹 ┇ VLESS-WS-TLS - Hostinger International Limited ┇ 84.32.84.33
 vmess://eyJ2IjoiMiIsInBzIjoiTFQgXHVkODNjXHVkZGYxXHVkODNjXHVkZGY5IFx1MjUwNyBWTUVTUy1YSFRUUC1OVExTIC0gSG9zdGluZ2VyIEludGVybmF0aW9uYWwgTGltaXRlZCBcdTI1MDcgODQuMzIuODQuMzMiLCJhZGQiOiJmYXN0LnYyc3ViLm9ubGluZSIsInBvcnQiOjgwLCJpZCI6ImRiMzA0ZGNlLTQ5OWItNDZhNC1hNzgyLWE3ZDAzMTk5NTUxYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InhodHRwIiwidHlwZSI6ImF1dG8iLCJwYXRoIjoiLyJ9
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?type=tcp&security=none&fp=chrome#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Hostinger International Limited ┇ 179.61.219.170

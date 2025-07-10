@@ -1,1 +1,2 @@
+vless://730592a8-d174-4b07-9e71-4d1394d2e2cc@company1.paydartec.top:8443?type=tcp&security=none#CA 🇨🇦 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 185.231.113.239
 vless://56cf4977-f0e9-48a3-84a9-d976ec947b78@194.180.224.17:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Patron Technology Persia Ltd ┇ 194.180.224.17
