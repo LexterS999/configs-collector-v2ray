@@ -1,1 +1,0 @@
-vless://5034bee2-e486-4dc4-946f-0f6dbb4bc3fc@uae-01.cloxynode.com:35515?type=tcp&security=none&fp=chrome#AE 🇦🇪 ┇ VLESS-TCP-NTLS - FIBER-LOGIC ┇ 162.213.25.150

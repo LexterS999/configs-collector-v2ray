@@ -1,0 +1,1 @@
+vless://d038293f-e9ca-4d2c-83a1-5a172407aa02@tservice.teampluss.ir:2155?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Serverbike LTD ┇ 194.87.129.183

@@ -1,3 +1,2 @@
 vless://ea145545-2d51-4eca-814a-e125976c9938@93.126.18.79:8085?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.79
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQXNtYW5mYXJheiBTZXBhaGFuIENvbXBhbnkgKFAuSi5TKSBcdTI1MDcgOTMuMTI2LjE4Ljc1IiwiYWRkIjoiOTMuMTI2LjE4Ljc1IiwicG9ydCI6ODAsImlkIjoiMWEyMmRkYTMtYWZmZS00NGQ4LWFkZGEtMWM5NmQwNzc5ZmQxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
 vless://57516354-6eaf-43ec-d725-de5b530c17ff@93.126.18.29:43388?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Asmanfaraz Sepahan Company (P.J.S) ┇ 93.126.18.29

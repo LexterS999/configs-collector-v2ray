@@ -1,5 +1,8 @@
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@119.203.202.120:12226?type=ws&security=none#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 119.203.202.120
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@14.47.11.69:12349?type=ws&security=none#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 14.47.11.69
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@211.34.164.17:50005?type=ws&security=none#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 211.34.164.17
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@59.21.141.95:50000?type=ws&security=none#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 59.21.141.95
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@121.145.126.10:12235?type=ws&security=none#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 121.145.126.10
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@14.47.11.69:12349?type=ws&security=none#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 14.47.11.69
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@118.45.152.231:50001?type=tcp&security=none&path=telegram🇨🇳#KR 🇰🇷 ┇ VLESS-TCP-NTLS - Korea Telecom ┇ 118.45.152.231
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@183.98.182.70:12556?type=tcp&security=none&path=telegram🇨🇳#KR 🇰🇷 ┇ VLESS-TCP-NTLS - Korea Telecom ┇ 183.98.182.70
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@121.149.121.84:12217?type=tcp&security=none&path=telegram🇨🇳#KR 🇰🇷 ┇ VLESS-TCP-NTLS - Korea Telecom ┇ 121.149.121.84
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@119.203.202.120:12226?type=ws&security=none#KR 🇰🇷 ┇ VLESS-WS-NTLS - Korea Telecom ┇ 119.203.202.120
