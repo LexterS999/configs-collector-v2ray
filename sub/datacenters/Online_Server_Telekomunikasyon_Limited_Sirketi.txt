@@ -1,1 +1,1 @@
-vless://21d8d212-9f3f-4f30-88a8-5411fde2962b@tun.mellivmess.com:50381?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 45.136.5.75
+vless://ca53433d-f743-40a4-e9c7-4a16a791ad77@taiger.raheaiande.ir:38505?type=tcp&security=reality&fp=chrome&pbk=yp0Rd8oO1S6p1AZqPebAO-Z1uBElliZPu7LUqlhge3k#AE 🇦🇪 ┇ VLESS-TCP-RLT - Online Server Telekomunikasyon Limited Sirketi ┇ 87.248.129.207

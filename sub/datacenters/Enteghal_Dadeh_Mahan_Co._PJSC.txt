@@ -1,2 +1,2 @@
 vless://9e8e8df5-89cd-496d-bfa2-356be56560f1@mcc.kangavar20.info:26842?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.49
-vless://d5be095e-4ec4-491a-aeb1-0f25d3cfab03@5.202.75.56:27956?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 5.202.75.56
+vless://04c39dad-b4d5-43c2-a480-bb417fdd0854@start.myspeedhost.xyz:10190?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Enteghal Dadeh Mahan Co. PJSC ┇ 213.176.127.12

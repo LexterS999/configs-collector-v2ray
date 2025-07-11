@@ -1,8 +1,9 @@
-vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@lovefishingfishes.kuckenpq.ir:8880?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 46.249.110.26
 vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFyc2hpYSBBc2FkaSBcdTI1MDcgNDYuMjQ5LjExMC42IiwiYWRkIjoibmV0aGVybGFuZHMuYXBhcmF0LW1vdmllcy1kb3dubG9hZC5pciIsInBvcnQiOjQyNTYyLCJpZCI6Ijc5MDVjMjhkLTM0ZDctNDM1YS1iNjdlLWQxZDJkMzQyZjAxMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://bd12cf37-bd2b-4f3b-be23-e91146bf1914@45.159.148.172:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.172
-vless://e20c0278-5cf2-4657-8ea2-f4f0033f82ef@45.159.148.54:10597?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.54
-vless://947e9767-c1c6-62ad-6bee-b4b55265eed3@45.159.148.79:6001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.79
-vless://fa220dbd-8223-4ab5-a574-239885fead2b@45.159.148.66:5050?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.66
+vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@46.249.110.26:8880?type=tcp&security=none#AU 🇦🇺 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 46.249.110.26
+vless://763baf30-0066-4217-9c56-02baa8241390@xpanel-ir.panelfreedom.com:2092?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.172
 vless://c83c3b86-6520-4813-b16e-a0d3a8a9ee2c@45.159.148.76:55956?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.76
 vless://fb0a3726-2bc4-475d-a157-87f2b349214e@45.159.148.49:4243?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.49
+vless://e20c0278-5cf2-4657-8ea2-f4f0033f82ef@45.159.148.54:10597?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.54
+vless://68bb20ad-d1e3-9b9e-09d6-a323da7a2128@45.159.148.79:6005?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.79
+vless://947e9767-c1c6-62ad-6bee-b4b55265eed3@45.159.148.79:6001?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.79
+vless://fa220dbd-8223-4ab5-a574-239885fead2b@45.159.148.66:5050?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Arshia Asadi ┇ 45.159.148.66

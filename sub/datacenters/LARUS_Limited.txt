@@ -1,3 +1,2 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.219.5.20:8880?type=ws&security=none&path=/?ed=2560#PE 🇵🇪 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.219.5.20
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@154.85.99.254:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.85.99.254
 vless://0132a95b-c439-4396-82ae-13e27e865f0d@154.85.99.106:8080?type=httpupgrade&security=none&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#US 🇺🇸 ┇ VLESS-HTTPUPGRADE-NTLS - LARUS Limited ┇ 154.85.99.106
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@154.85.99.254:8880?type=ws&security=none&path=/#US 🇺🇸 ┇ VLESS-WS-NTLS - LARUS Limited ┇ 154.85.99.254

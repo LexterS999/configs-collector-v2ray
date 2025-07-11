@@ -1,0 +1,1 @@
+vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?type=tcp&security=tls&fp=safari&flow=xtls-rprx-vision-udp443-udp443#DE 🇩🇪 ┇ VLESS-TCP-TLS - Advin Services LLC ┇ 204.10.194.78

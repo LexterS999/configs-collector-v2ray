@@ -1,2 +1,1 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@106.255.89.151:50000?type=tcp&security=none&path=telegram🇨🇳#KR 🇰🇷 ┇ VLESS-TCP-NTLS - LG DACOM Corporation ┇ 106.255.89.151
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@106.241.78.205:11001?type=tcp&security=none&path=telegram🇨🇳#KR 🇰🇷 ┇ VLESS-TCP-NTLS - LG DACOM Corporation ┇ 106.241.78.205
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@106.241.78.205:11001?type=tcp&security=none&path=telegram#KR 🇰🇷 ┇ VLESS-TCP-NTLS - LG DACOM Corporation ┇ 106.241.78.205

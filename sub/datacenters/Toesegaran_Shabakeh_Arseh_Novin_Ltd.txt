@@ -1,5 +1,5 @@
 vless://e608a458-6fc3-ab40-2cfb-15922a308292@185.228.59.103:443?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.228.59.103
+vless://a268d2a5-9f99-4591-a65d-a0db3037c225@185.126.201.156:36247?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.126.201.156
 vless://f7508eb9-b5e8-4df2-849c-fe6d37abb68b@185.126.200.116:2096?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.126.200.116
-vless://dee5c3da-c392-458e-9278-5574cd341609@185.235.198.20:42191?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.235.198.20
-vless://a268d2a5-9f99-4591-a65d-a0db3037c225@mrev1.digitalcity1.com:36247?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.126.201.156
+vless://dee5c3da-c392-458e-9278-5574cd341609@shoptxx.set7.site:42191?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.235.198.20
 vless://f3242907-f8e4-4166-8156-c773430bd8a4@hf.tin9.ir:2052?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Toesegaran Shabakeh Arseh Novin Ltd ┇ 185.235.198.212

@@ -1,1 +1,1 @@
-vless://e0915b37-0f47-4ec5-b4e7-63d0a9b91c01@45.95.2.192:28755?type=tcp&security=none#BG 🇧🇬 ┇ VLESS-TCP-NTLS - International Hosting Company Limited ┇ 45.95.2.192
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@5.104.75.130:8443?type=ws&security=tls#DE 🇩🇪 ┇ VLESS-WS-TLS - International Hosting Company Limited ┇ 5.104.75.130

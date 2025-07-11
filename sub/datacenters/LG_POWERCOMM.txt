@@ -1,1 +1,1 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@182.213.245.185:50001?type=tcp&security=none&path=telegram🇨🇳#KR 🇰🇷 ┇ VLESS-TCP-NTLS - LG POWERCOMM ┇ 182.213.245.185
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@182.213.245.185:50001?type=tcp&security=none&path=telegram#KR 🇰🇷 ┇ VLESS-TCP-NTLS - LG POWERCOMM ┇ 182.213.245.185

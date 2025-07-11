@@ -1,1 +1,1 @@
-vless://f7d956c2-38a5-4c25-9c45-8220573de6ec@free-sg.vpnkey.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - BlueVPS OU ┇ 91.242.241.45
+vless://7eebd970-be6b-4a1d-8cda-03f8438fe3c2@free-sg.vpnkey.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#SG 🇸🇬 ┇ VLESS-TCP-TLS - BlueVPS OU ┇ 91.242.241.45
