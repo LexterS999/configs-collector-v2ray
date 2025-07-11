@@ -1,0 +1,1 @@
+vless://83757454-25ec-44a6-bde6-4fed7baaa161@185.10.75.66:2080?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Roshangar Rayaneh Tehran Co. Ltd. ┇ 185.10.75.66

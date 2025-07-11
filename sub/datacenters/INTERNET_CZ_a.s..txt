@@ -1,2 +1,1 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@80.211.194.250:80?type=tcp&security=none&path=/?ed=2560#CZ 🇨🇿 ┇ VLESS-TCP-NTLS - INTERNET CZ, a.s. ┇ 80.211.194.250
-vmess://eyJ2IjoiMiIsInBzIjoiQ1ogXHVkODNjXHVkZGU4XHVkODNjXHVkZGZmIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIElOVEVSTkVUIENaLCBhLnMuIFx1MjUwNyAxOTQuMTgyLjg0LjEzNiIsImFkZCI6InR1cmJvby1zZXJ2ZXIuYWZ0YWJ6LmNvbSIsInBvcnQiOjIwOTUsImlkIjoidHVyYm9vLXNlcnZlciIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@80.211.194.250:80?type=ws&security=none&path=Telegram🇨🇳@ShadowProxy66/?ed=2560#CZ 🇨🇿 ┇ VLESS-WS-NTLS - INTERNET CZ, a.s. ┇ 80.211.194.250

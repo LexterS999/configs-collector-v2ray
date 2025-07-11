@@ -1,6 +1,6 @@
-vless://2aa40fcd-ba16-4dfc-9401-77eedeb0674d@a.de.maviks.ru:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Clouvider Limited ┇ 91.238.82.240
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@91.238.82.240:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Clouvider Limited ┇ 91.238.82.240
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.86:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Clouvider Limited ┇ 45.150.174.86
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.83:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Clouvider Limited ┇ 45.150.174.83
-vless://b60dc699-7421-4082-8f20-b9c7ab208a19@free-gb.vpnkey.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - Clouvider Limited ┇ 85.239.60.43
+vless://196d7017-b91c-43dc-87ca-d88de911145b@a.de.maviks.ru:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Clouvider Limited ┇ 45.150.174.81
+vless://b02135e4-68d5-4f03-944e-06874e4d0598@lon5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#GB 🇬🇧 ┇ VLESS-TCP-TLS - Clouvider Limited ┇ 85.239.60.43
 vmess://eyJ2IjoiMiIsInBzIjoiR0IgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gQ2xvdXZpZGVyIExpbWl0ZWQgXHUyNTA3IDE4NS40Mi4yMjAuMTgzIiwiYWRkIjoiMTg1LjQyLjIyMC4xODMiLCJwb3J0Ijo4MCwiaWQiOiJmOGM1MWI1Mi0yYmJiLTExZWItYThiZi1mMjNjOTFjZmJiYzkiLCJhaWQiOjEsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiJmYWxzZSJ9
-vless://2aa40fcd-ba16-4dfc-9401-77eedeb0674d@a.nl.maviks.ru:443?type=tcp&security=reality#NL 🇳🇱 ┇ VLESS-TCP-RLT - Clouvider Limited ┇ 194.127.173.201

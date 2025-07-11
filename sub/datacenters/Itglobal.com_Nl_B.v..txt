@@ -1,2 +1,2 @@
-vless://8a0ba3e3-7408-47b6-a0f4-c6aa532eb5a0@109.207.173.187:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 109.207.173.187
+vless://5427f902-81ae-4d95-8ed5-df9ef8a1e433@188.227.84.170:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 188.227.84.170
 vless://12c67119-d240-4c0b-9704-33db37020455@188.227.84.128:8443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Itglobal.com Nl B.v. ┇ 188.227.84.128

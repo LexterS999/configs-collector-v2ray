@@ -1,1 +1,2 @@
+vless://d83b9487-d0ff-42fe-adad-79cf9f778935@speed.roshdadcollection.sbs:57968?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsian High Tech Company PJSC ┇ 185.88.155.141
 vless://ebc7f9df-d645-4be9-b979-c8012a5b5950@xuy.xuy.ir:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#IR 🇮🇷 ┇ VLESS-TCP-TLS - Parsian High Tech Company PJSC ┇ 185.88.152.152

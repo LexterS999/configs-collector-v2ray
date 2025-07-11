@@ -1,3 +1,2 @@
 vless://414df689-dc19-418b-849c-f0f15967d71e@uae.kitten-tube.com:443?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-RLT - HZ Hosting Ltd ┇ 185.253.116.178
-vless://cfe5d1fc-521e-46db-bc43-db8d62869070@essi.kimjo.ir:2025?type=tcp&security=none#EE 🇪🇪 ┇ VLESS-TCP-NTLS - HZ Hosting Ltd ┇ 89.150.40.53
 vless://9dbea40a-211e-4d52-922b-96ab9aadd385@ams5.vpntype.dev:443?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#NL 🇳🇱 ┇ VLESS-TCP-TLS - HZ Hosting Ltd ┇ 85.158.110.62

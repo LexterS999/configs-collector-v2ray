@@ -1,1 +1,1 @@
-vless://bea34b73-3244-475b-b914-7bb80e1cda91@212.80.9.87:2080?type=tcp&security=reality#IR 🇮🇷 ┇ VLESS-TCP-RLT - Giti Secure Cloud LLC ┇ 212.80.9.87
+vless://937ea1c4-adc5-41de-91c4-8544ee35ca4b@bia2.bestcoffeshop.top:8080?type=tcp&security=none#AE 🇦🇪 ┇ VLESS-TCP-NTLS - Giti Secure Cloud LLC ┇ 217.60.243.213

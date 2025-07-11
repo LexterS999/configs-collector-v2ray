@@ -1,1 +1,0 @@
-vless://f045b76a-2b66-4ed1-8fd4-8390744ed51e@19.sahanwickramasinghe.shop:443?type=tcp&security=tls&sni=t.me#GB 🇬🇧 ┇ VLESS-TCP-TLS - Telegram Messenger Inc ┇ 139.59.244.118
