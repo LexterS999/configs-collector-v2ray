@@ -1,0 +1,4 @@
+vless://e2cb3eae-1e67-4a72-81ac-84b9fa409541@panel1.zapserver.top:20622?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsan Lin Co. PJS ┇ 31.214.248.92
+vless://3f6e5bc6-8ae1-4158-9b35-6c0c49c4c786@netvip.31111111.ir:53201?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsan Lin Co. PJS ┇ 31.214.248.92
+vless://7c598d05-6b60-4ba4-b326-52cca83adc95@pre-de.hmray.pro:3092?type=ws&security=none&path=/#IR 🇮🇷 ┇ VLESS-WS-NTLS - Parsan Lin Co. PJS ┇ 31.214.255.233
+vless://22e1372b-30ea-423c-b2ae-d26f0f4344b0@panel1.zapserver.top:53217?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Parsan Lin Co. PJS ┇ 31.214.248.92

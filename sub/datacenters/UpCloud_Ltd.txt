@@ -1,1 +1,2 @@
 vless://199ff20d-9bb4-423a-b759-e538392a27b6@fv.samiion73.ir:8080?type=tcp&security=none#ES 🇪🇸 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 194.62.97.227
+vless://199ff20d-9bb4-423a-b759-e538392a27b6@fxs.samiion73.ir:8080?type=tcp&security=none#FI 🇫🇮 ┇ VLESS-TCP-NTLS - UpCloud Ltd ┇ 5.22.221.81

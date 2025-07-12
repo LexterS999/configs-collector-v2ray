@@ -1,0 +1,2 @@
+vless://7c6a9976-adbe-4d56-8c4f-f6d7d1f98e7a@t4.vipfastconnect.site:2299?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.132.246
+vless://1f625d8c-c8e2-4241-b288-92178cbc3001@213.142.149.141:500?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Teknosos Bilisim Hizmetleri Ve Tic. Ltd. Sti. ┇ 213.142.149.141

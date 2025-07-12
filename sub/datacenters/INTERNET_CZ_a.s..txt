@@ -1,1 +1,1 @@
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@80.211.194.250:80?type=ws&security=none&path=Telegram🇨🇳@ShadowProxy66/?ed=2560#CZ 🇨🇿 ┇ VLESS-WS-NTLS - INTERNET CZ, a.s. ┇ 80.211.194.250
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@80.211.194.250:80?type=ws&security=none&path=/?ed=2560#CZ 🇨🇿 ┇ VLESS-WS-NTLS - INTERNET CZ, a.s. ┇ 80.211.194.250

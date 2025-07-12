@@ -1,2 +1,2 @@
-vless://22436824-b1ea-45ec-bd2c-1936e3785d00@185.75.135.70:10029?type=tcp&security=none#MX 🇲🇽 ┇ VLESS-TCP-NTLS - SIA GOOD ┇ 185.75.135.70
+vless://8c8fb960-b037-4be0-a2f8-02577a9a9b24@185.75.135.77:12095?type=tcp&security=none#MX 🇲🇽 ┇ VLESS-TCP-NTLS - SIA GOOD ┇ 185.75.135.77
 vless://4aa0c39f-7678-4911-bfc5-5077f0531cb4@frh.carcarpetq.com:8889?type=tcp&security=none#PL 🇵🇱 ┇ VLESS-TCP-NTLS - SIA GOOD ┇ 77.83.245.25

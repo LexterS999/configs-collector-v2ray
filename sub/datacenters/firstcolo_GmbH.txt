@@ -1,1 +1,2 @@
+vless://bfd74a45-19a2-44e3-8196-0f53a87264cf@v2xay.sanaei.milxbywkaiwnx.xyz:14985?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - firstcolo GmbH ┇ 84.200.77.126
 vless://fa1ab865-cd2d-4c59-bfbf-a9958df88e1f@84.201.20.221:80?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - firstcolo GmbH ┇ 84.201.20.221

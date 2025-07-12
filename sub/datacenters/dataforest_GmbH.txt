@@ -1,2 +1,1 @@
-vless://058ee2d7-e79e-4acc-9996-d62cd275d7b7@freeconfig.fergalvpnmod.com:48388?type=tcp&security=reality#AE 🇦🇪 ┇ VLESS-TCP-RLT - dataforest GmbH ┇ 31.58.144.156
 vless://telegram-ArV2ray@193.46.81.82:80?type=ws&security=none&path=/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry?ed=2048&fp=chrome#DE 🇩🇪 ┇ VLESS-WS-NTLS - dataforest GmbH ┇ 193.46.81.82

@@ -1,3 +1,5 @@
-vless://4d63aaf9-6345-4893-8e00-71c541d6f4ed@185.143.232.201:443?type=ws&security=tls&path=/&sni=nv155.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 185.143.232.201
 vless://6fcf8763-d06e-4699-a0ee-b32aac49fe49@dearth302.placestores.top:12972?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 77.72.80.122
+vless://978ad040-8067-49cf-9598-26ef098f9c3d@77.72.80.145:2053?type=tcp&security=none&path=/#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 77.72.80.145
 vless://959eb33c-43f8-4f45-9de6-3ffd13319a79@nv73.momdping.com:443?type=ws&security=tls&path=/&sni=nv73.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 194.5.16.165
+vless://4d63aaf9-6345-4893-8e00-71c541d6f4ed@185.143.232.201:443?type=ws&security=tls&path=/&sni=nv155.momdping.com#IR 🇮🇷 ┇ VLESS-WS-TLS - Saba Abr Mizban LLC ┇ 185.143.232.201
+vless://5bb972ce-dacf-4313-9c54-e321a84f83fc@rathole.jolf.ir:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Saba Abr Mizban LLC ┇ 77.72.80.61

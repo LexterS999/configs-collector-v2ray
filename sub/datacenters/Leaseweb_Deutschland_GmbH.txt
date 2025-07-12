@@ -1,5 +1,4 @@
+vless://4520a2f6-6661-4591-a9e4-039ff705bfae@www.sanjesh.org.germany.systemgamingirani.ir:700?type=tcp&security=none&path=/#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Leaseweb Deutschland GmbH ┇ 38.244.163.224
 vmess://eyJ2IjoiMiIsInBzIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIExlYXNld2ViIERldXRzY2hsYW5kIEdtYkggXHUyNTA3IDc4LjE1OS4xMTEuMjYiLCJhZGQiOiJhbG1hbmlhbi5oYW1pbWVsZWN0cm9uaWMuaXIiLCJwb3J0Ijo4MDkwLCJpZCI6IjU0OTA0NzEzLWI2MTEtNGU4ZS1iZTc3LWEwMWQ4MjBiOWMxYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://4520a2f6-6661-4591-a9e4-039ff705bfae@www.sanjesh.org.germany.systemgamingirani.ir:443?type=tcp&security=reality#DE 🇩🇪 ┇ VLESS-TCP-RLT - Leaseweb Deutschland GmbH ┇ 38.244.163.224
-vless://bd41a471-ee04-4f88-85d0-83fa3de57253@dev.loadbalance.iranstars-shop.ir:2689?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Leaseweb Deutschland GmbH ┇ 178.162.244.20
-vless://4520a2f6-6661-4591-a9e4-039ff705bfae@www.sanjesh.org.germany.systemgamingirani.ir:700?type=tcp&security=none#DE 🇩🇪 ┇ VLESS-TCP-NTLS - Leaseweb Deutschland GmbH ┇ 38.244.163.224
+vless://504fa227-6493-4c4b-983c-4661c96a0e11@5.61.35.27:80?type=ws&security=none&path=Telegram🇨🇳 @WangCai2 /?ed=2560#DE 🇩🇪 ┇ VLESS-WS-NTLS - Leaseweb Deutschland GmbH ┇ 5.61.35.27
 vless://5058b0b3-36d1-55a3-bc71-0f781042865d@dl-moon.milkywaystore.ir:64812?type=tcp&security=tls&sni=dl1-moon.milkywaystore.ir&fp=chrome&flow=xtls-rprx-vision#DE 🇩🇪 ┇ VLESS-TCP-TLS - Leaseweb Deutschland GmbH ┇ 78.157.60.167
