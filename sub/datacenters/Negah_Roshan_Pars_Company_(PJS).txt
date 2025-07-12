@@ -1,5 +1,5 @@
-vless://bcb71050-ca19-4b71-aa21-e80ec0ee0bda@azadnett1.set7.site:45326?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.175
-vless://572bed5a-891e-4da8-82c6-b61ad9e7b5dd@azadnett1.set7.site:35420?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.175
+vless://bcb71050-ca19-4b71-aa21-e80ec0ee0bda@5.61.29.175:45326?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.175
 vless://bb86bee3-a627-4312-b038-9261c2972315@185.73.114.139:17048?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 185.73.114.139
+vless://1a9755e3-84a3-46b0-9d7b-e864d68214e6@azadnett1.set7.site:35420?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.175
 vless://f9781036-3695-4f6e-a247-5dbf0538c42c@5.61.29.226:2053?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.29.226
 vless://cf1d29a2-926d-40eb-972e-6e11f7f28d57@my.aparatco.co.uk:2525?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Negah Roshan Pars Company (PJS) ┇ 5.61.24.49

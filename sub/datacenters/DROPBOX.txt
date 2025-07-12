@@ -1,1 +1,1 @@
-vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@02020.sbs:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - DROPBOX ┇ 46.228.205.146
+vless://5c80fb98-d9ad-4a89-9189-237881d2ef89@02020.sbs:8443?type=tcp&security=reality&sni=dropbox.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#US 🇺🇸 ┇ VLESS-TCP-RLT - DROPBOX ┇ 85.114.138.122

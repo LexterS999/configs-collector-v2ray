@@ -1,1 +1,2 @@
 vless://55a1c52a-5e5f-11f0-b664-52540015866d@yofree.top:443?type=tcp&security=reality&sni=yofree.top&fp=chrome&flow=xtls-rprx-vision&pbk=AWyicEDYi7KB3qzo8OEvEd1HK0gZhCHAENBd_buyhQk&sid=fa2f#NL 🇳🇱 ┇ VLESS-TCP-RLT - 1337 Services GmbH ┇ 194.26.192.25
+vless://fecbc1dd-e932-40e4-b8ab-32babeea4aef@2.58.56.28:1701?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - 1337 Services GmbH ┇ 2.58.56.28

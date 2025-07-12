@@ -1,7 +1,7 @@
-vless://211d48ad-952e-470b-a874-c70ca9207178@185.133.35.118:80?type=tcp&security=non...#BR 🇧🇷 ┇ VLESS-TCP-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.118
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.242:443?type=ws&security=none#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.242
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.133.35.213:8880?type=ws&security=none#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.213
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.26:443?type=ws&security=none#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.26
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.133.35.254:8880?type=ws&security=none&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.254
+vless://211d48ad-952e-470b-a874-c70ca9207178@185.133.35.118:80?type=tcp&security=non...#BR 🇧🇷 ┇ VLESS-TCP-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.118
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.26:443?type=ws&security=none#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.26
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.133.35.213:8880?type=ws&security=none#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.213
 vless://038416de-dc40-4dc0-8c8e-10de534c7cc0@185.133.35.92:2052?type=ws&security=none&path=/@XS_VPNROBOT#BR 🇧🇷 ┇ VLESS-WS-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.92
 vless://8072e624-46d6-4fa9-ea8c-4b2ce6581340@185.133.35.242:80?type=httpupgrade&security=none&path=/@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG-------@Hqv2RayNG?ed#BR 🇧🇷 ┇ VLESS-HTTPUPGRADE-NTLS - LINKED STORE BRASIL CRIACAO E DESENVOL DE SOFTWARE ┇ 185.133.35.242

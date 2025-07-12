@@ -1,2 +1,2 @@
+vless://038416de-dc40-4dc0-8c8e-10de534c7cc0@8.47.69.4:2052?type=ws&security=none#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.4
 vless://038416de-dc40-4dc0-8c8e-10de534c7cc0@8.47.69.5:2052?type=ws&security=none&path=/@XS_VPNROBOT#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.5
-vless://038416de-dc40-4dc0-8c8e-10de534c7cc0@8.47.69.4:2052?type=ws&security=none&path=/@XS_VPNROBOT#SK 🇸🇰 ┇ VLESS-WS-NTLS - LEVEL3 ┇ 8.47.69.4

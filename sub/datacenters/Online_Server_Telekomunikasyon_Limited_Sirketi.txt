@@ -1,2 +1,2 @@
-vless://0a38192c-599f-46ac-a2c0-77dc75bd88a7@193.111.76.78:2082?type=ws&security=none&path=/?ed=2052#TR 🇹🇷 ┇ VLESS-WS-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 193.111.76.78
-vless://9bdd4695-55a1-4e3d-ac89-a178587f00d3@193.111.76.78:700?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 193.111.76.78
+vless://05e56ba7-e920-43e8-97ad-dc6c18913ef7@193.111.76.78:700?type=tcp&security=none&path=/#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 193.111.76.78
+vless://81563dbf-95f1-4f97-bb19-8e604610a964@193.111.76.78:2082?type=ws&security=none&path=/?ed=2052#TR 🇹🇷 ┇ VLESS-WS-NTLS - Online Server Telekomunikasyon Limited Sirketi ┇ 193.111.76.78

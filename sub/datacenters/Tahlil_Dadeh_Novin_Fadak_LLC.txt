@@ -1,2 +1,2 @@
-vless://9e53942c-aa73-4b57-ba37-0ddc6fa53038@tn.komak-ar-online.online:3801?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.233.116
 vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFRhaGxpbCBEYWRlaCBOb3ZpbiBGYWRhayBMTEMgXHUyNTA3IDk0LjE4My4yMzMuMTE2IiwiYWRkIjoiOTQuMTgzLjIzMy4xMTYiLCJwb3J0IjozOTExLCJpZCI6IjRlNTFmYjU4LWVmNjktNDJiZC04NTM2LWFjZmQ1MmQyOGFmZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
+vless://34dc5416-0787-4f5d-9774-47a55018806f@94.183.233.116:3801?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Tahlil Dadeh Novin Fadak LLC ┇ 94.183.233.116

@@ -1,0 +1,1 @@
+vless://bb890f4d-c655-47ec-8dea-2537df4946a7@185.95.84.110:18?type=tcp&security=none#TR 🇹🇷 ┇ VLESS-TCP-NTLS - Netinternet Bilisim Teknolojileri AS ┇ 185.95.84.110

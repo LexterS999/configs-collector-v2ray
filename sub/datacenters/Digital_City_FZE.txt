@@ -1,3 +1,3 @@
-vless://1e44007b-6a53-4496-a24f-d1cebd3bd3e4@194.135.46.24:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Digital City FZE ┇ 194.135.46.24
+vless://49eb1e7a-2b76-4915-ba85-977c0e0d2ab8@194.135.46.24:443?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Digital City FZE ┇ 194.135.46.24
 vless://8c8fb960-b037-4be0-a2f8-02577a9a9b24@185.169.107.120:12095?type=tcp&security=none#NL 🇳🇱 ┇ VLESS-TCP-NTLS - Digital City FZE ┇ 185.169.107.120
 vmess://eyJ2IjoiMiIsInBzIjoiTkwgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERpZ2l0YWwgQ2l0eSBGWkUgXHUyNTA3IDE4NS4xNjkuMTA3LjEyMCIsImFkZCI6IjE4NS4xNjkuMTA3LjEyMCIsInBvcnQiOjExNTc3LCJpZCI6IjZiNzg4NjY4LWMzY2YtNDc1NC1hZmRiLWExNzIyNDhlMGFjOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ

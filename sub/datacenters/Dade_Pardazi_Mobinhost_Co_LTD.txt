@@ -1,6 +1,6 @@
-vless://49203d20-5f1b-4628-d526-9a6825c3f5f3@87.107.144.71:54465?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 87.107.144.71
-vless://38928290-00af-4255-9006-57df913e1f95@gama.ir:80?type=ws&security=none&path=/@custom_config?ed=2056#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 185.53.142.133
+vless://6f284683-f117-49a9-8091-a1099b4ccdf2@45.129.36.85:3500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 45.129.36.85
+vless://10b1f4a3-63a7-46b4-f05a-023542f0dc11@87.107.144.71:54465?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 87.107.144.71
+vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhZGUgUGFyZGF6aSBNb2Jpbmhvc3QgQ28gTFREIFx1MjUwNyA4Ny4xMDcuMTQ0LjcxIiwiYWRkIjoiODcuMTA3LjE0NC43MSIsInBvcnQiOjQ2MDQxLCJpZCI6ImE5ZjFiMWRiLTQ3YWEtNDRjMi1kMzM4LTA4MTY2OTk2NjA1ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://38928290-00af-4255-9006-57df913e1f95@gama.ir:80?type=ws&security=none&path=/@custom_config?ed=2056#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 185.53.142.134
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?type=ws&security=none&path=/&fp=chrome#IR 🇮🇷 ┇ VLESS-WS-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 81.12.30.51
 vless://874f64b9-cc71-4e84-9c33-fd61e1876c7a@antifilter_iranians.sozokiplus.ir:2071?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 87.107.109.186
-vless://6f284683-f117-49a9-8091-a1099b4ccdf2@45.129.36.85:3500?type=tcp&security=none#IR 🇮🇷 ┇ VLESS-TCP-NTLS - Dade Pardazi Mobinhost Co LTD ┇ 45.129.36.85
-vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIERhZGUgUGFyZGF6aSBNb2Jpbmhvc3QgQ28gTFREIFx1MjUwNyA4Ny4xMDcuMTQ0LjcxIiwiYWRkIjoiODcuMTA3LjE0NC43MSIsInBvcnQiOjQ2MDQxLCJpZCI6ImE5ZjFiMWRiLTQ3YWEtNDRjMi1kMzM4LTA4MTY2OTk2NjA1ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
